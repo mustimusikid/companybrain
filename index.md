@@ -1,0 +1,616 @@
+# Musti Musik Brain — Index
+
+## marketing/ads/
+- [1-25-may-2026-shopee-ads.md](marketing/ads/1-25-may-2026-shopee-ads.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [1-28-may-2026-shopee-ads.md](marketing/ads/1-28-may-2026-shopee-ads.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [26-may-shopee-ads.md](marketing/ads/26-may-shopee-ads.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [27-may-shopee-ads.md](marketing/ads/27-may-shopee-ads.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-jazz-mei-general-asc-1.md](marketing/ads/ads-cbo-buku-jazz-mei-general-asc-1.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-jazz-mei-general-asc-2-1.md](marketing/ads/ads-cbo-buku-jazz-mei-general-asc-2-1.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-jazz-mei-general-asc-2-2.md](marketing/ads/ads-cbo-buku-jazz-mei-general-asc-2-2.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-jazz-mei-general-asc-2-3.md](marketing/ads/ads-cbo-buku-jazz-mei-general-asc-2-3.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-jazz-mei-general-asc-2.md](marketing/ads/ads-cbo-buku-jazz-mei-general-asc-2.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-jazz-mei-general-asc.md](marketing/ads/ads-cbo-buku-jazz-mei-general-asc.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-worship-mei-general-purchase-asc-1.md](marketing/ads/ads-cbo-buku-worship-mei-general-purchase-asc-1.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-worship-mei-general-purchase-asc-2-1.md](marketing/ads/ads-cbo-buku-worship-mei-general-purchase-asc-2-1.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-worship-mei-general-purchase-asc-2-2.md](marketing/ads/ads-cbo-buku-worship-mei-general-purchase-asc-2-2.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-worship-mei-general-purchase-asc-2-3.md](marketing/ads/ads-cbo-buku-worship-mei-general-purchase-asc-2-3.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-worship-mei-general-purchase-asc-2.md](marketing/ads/ads-cbo-buku-worship-mei-general-purchase-asc-2.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-buku-worship-mei-general-purchase-asc.md](marketing/ads/ads-cbo-buku-worship-mei-general-purchase-asc.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-masterclass-may-general-purchase-asc-formulir.md](marketing/ads/ads-cbo-masterclass-may-general-purchase-asc-formulir.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-masterclass-may-general-purchase-asc-web.md](marketing/ads/ads-cbo-masterclass-may-general-purchase-asc-web.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-masterclass-may-retargeting-purchase-formulir.md](marketing/ads/ads-cbo-masterclass-may-retargeting-purchase-formulir.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-masterclass-mei-general-asc-2.md](marketing/ads/ads-cbo-masterclass-mei-general-asc-2.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-masterclass-mei-general-asc-3.md](marketing/ads/ads-cbo-masterclass-mei-general-asc-3.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-cbo-masterclass-mei-general-asc-image.md](marketing/ads/ads-cbo-masterclass-mei-general-asc-image.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-creative.md](marketing/ads/ads-creative.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ads-report.md](marketing/ads/ads-report.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [analisis-ads-2024.md](marketing/ads/analisis-ads-2024.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [average-views.md](marketing/ads/average-views.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [campaign-1-25-may-meta-ads.md](marketing/ads/campaign-1-25-may-meta-ads.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [campaign-1-28-may-2026-meta-ads.md](marketing/ads/campaign-1-28-may-2026-meta-ads.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [campaign-26-may-2026.md](marketing/ads/campaign-26-may-2026.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [campaign-27-may-2026.md](marketing/ads/campaign-27-may-2026.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [cara-setting-google-tag-mamanger-di-google-ads.md](marketing/ads/cara-setting-google-tag-mamanger-di-google-ads.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [content-reference-musti-musik.md](marketing/ads/content-reference-musti-musik.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [email-marketing-template.md](marketing/ads/email-marketing-template.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [hook,-meat,-cta-ads-2025.md](marketing/ads/hook,-meat,-cta-ads-2025.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [ken-tjandra-creatopia-links.md](marketing/ads/ken-tjandra-creatopia-links.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [kesalahan-menggunakan-google-ads-saat-membangun-sekolah-musik.md](marketing/ads/kesalahan-menggunakan-google-ads-saat-membangun-sekolah-musik.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [link-testi.md](marketing/ads/link-testi.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [long-form-mastery.md](marketing/ads/long-form-mastery.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [may-19-2026-may-25-2026-2220424642121973.md](marketing/ads/may-19-2026-may-25-2026-2220424642121973.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [may-19-2026-may-25-2026-2463330750754319-1.md](marketing/ads/may-19-2026-may-25-2026-2463330750754319-1.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [meeting-digimaya.md](marketing/ads/meeting-digimaya.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [penamaan.md](marketing/ads/penamaan.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [performance-marketing.md](marketing/ads/performance-marketing.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [potential-agency.md](marketing/ads/potential-agency.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [profile-dave.md](marketing/ads/profile-dave.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [promotion.md](marketing/ads/promotion.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [reward-reels-pb-ikigai.md](marketing/ads/reward-reels-pb-ikigai.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [script-endorsement-pro-avl-2025-dave-henokh.md](marketing/ads/script-endorsement-pro-avl-2025-dave-henokh.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [sop.md](marketing/ads/sop.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [summary-ads-meta.md](marketing/ads/summary-ads-meta.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [threads-report.md](marketing/ads/threads-report.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [youtube-resume.md](marketing/ads/youtube-resume.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+
+## marketing/organic/
+- [carousel-scripting.md](marketing/organic/carousel-scripting.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [contract-video-editor-intern-4-empat-bulan-musti-musik.md](marketing/organic/contract-video-editor-intern-4-empat-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [foreplay-ads-scripting.md](marketing/organic/foreplay-ads-scripting.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [script-endorsement-pro-avl-2025-dave-henokh.md](marketing/organic/script-endorsement-pro-avl-2025-dave-henokh.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [script-yt.md](marketing/organic/script-yt.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [script-yt.md](marketing/organic/script-yt.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [scripting-edukasi-mm.md](marketing/organic/scripting-edukasi-mm.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [scripting-edukasi-mm.md](marketing/organic/scripting-edukasi-mm.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [sop-organic-marketing-content-scripting-and-video-musti-musik.md](marketing/organic/sop-organic-marketing-content-scripting-and-video-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-organic.md](marketing/organic/sop-organic.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [sop-organic.md](marketing/organic/sop-organic.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [sop-video-editor.md](marketing/organic/sop-video-editor.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [sop-video-editor.md](marketing/organic/sop-video-editor.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [tor-organic-marketing-content-musti-musik.md](marketing/organic/tor-organic-marketing-content-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [tor-organic.md](marketing/organic/tor-organic.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [tor-organic.md](marketing/organic/tor-organic.md) — Marketing strategy, ad script, or content SOP for Musti Musik.
+- [tugas-video-editor.md](marketing/organic/tugas-video-editor.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [video-editor.md](marketing/organic/video-editor.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+
+## marketing/sales/
+- [blast-message-private-18-8-25.md](marketing/sales/blast-message-private-18-8-25.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [broadcast-analisis.md](marketing/sales/broadcast-analisis.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [broadcast-warm-leads-analisis.md](marketing/sales/broadcast-warm-leads-analisis.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [data-4.md](marketing/sales/data-4.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [data-9.md](marketing/sales/data-9.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [data-affiliate-book-launch.md](marketing/sales/data-affiliate-book-launch.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [data-freeclass-28-april-2026-1.md](marketing/sales/data-freeclass-28-april-2026-1.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [day-to-day-mc.md](marketing/sales/day-to-day-mc.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [downsell.md](marketing/sales/downsell.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [haloai-knowledge-base.md](marketing/sales/haloai-knowledge-base.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [important-chats-halo-ai.md](marketing/sales/important-chats-halo-ai.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [konsep-crm-halo-ai.md](marketing/sales/konsep-crm-halo-ai.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [member-confirmation.md](marketing/sales/member-confirmation.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [outreach-bc-14-10-25.md](marketing/sales/outreach-bc-14-10-25.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [outreach-fc-8-8-2025.md](marketing/sales/outreach-fc-8-8-2025.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [outreach-mc-30-9-25.md](marketing/sales/outreach-mc-30-9-25.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [outreach-pc.md](marketing/sales/outreach-pc.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [report-data-leads-customer-service.md](marketing/sales/report-data-leads-customer-service.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [sales-data.md](marketing/sales/sales-data.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [sales-outreach.md](marketing/sales/sales-outreach.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [untitled-spreadsheet.md](marketing/sales/untitled-spreadsheet.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [whatsapp-contacts-11.md](marketing/sales/whatsapp-contacts-11.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [whatsapp-contacts-12.md](marketing/sales/whatsapp-contacts-12.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [whatsapp-contacts-8.md](marketing/sales/whatsapp-contacts-8.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+- [whatsapp-contacts-9.md](marketing/sales/whatsapp-contacts-9.md) — Sales playbook, outreach script, or customer service flow for Musti Musik.
+
+## operations/finance/
+- [copy-of-mm-financial-statement-cash-basis-2026.md](operations/finance/copy-of-mm-financial-statement-cash-basis-2026.md) — Finance SOP or accounting guide for Musti Musik operations.
+- [donasi-masterclass.md](operations/finance/donasi-masterclass.md) — Finance SOP or accounting guide for Musti Musik operations.
+- [finance.md](operations/finance/finance.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-finance,-accounting,-tax.md](operations/finance/sop-finance,-accounting,-tax.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-finance.md](operations/finance/sop-finance.md) — Finance SOP or accounting guide for Musti Musik operations.
+- [spt-pajak.md](operations/finance/spt-pajak.md) — Finance SOP or accounting guide for Musti Musik operations.
+- [untitled-document.md](operations/finance/untitled-document.md) — Finance SOP or accounting guide for Musti Musik operations.
+
+## operations/hr/
+- [ai-engineer-intern.md](operations/hr/ai-engineer-intern.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [akademi-dashboard.md](operations/hr/akademi-dashboard.md) — General operations or company policy document for Musti Musik.
+- [campaign-proposal-musti-musik-ade-sutarga.md](operations/hr/campaign-proposal-musti-musik-ade-sutarga.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [candra-dwi-syaputra-contract-musti-musik.md](operations/hr/candra-dwi-syaputra-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [cara-bikin-sop-1.md](operations/hr/cara-bikin-sop-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [cara-bikin-sop.md](operations/hr/cara-bikin-sop.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [cayleen-gunawan-tech.md](operations/hr/cayleen-gunawan-tech.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [company-asset-database.md](operations/hr/company-asset-database.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [content-strategist.md](operations/hr/content-strategist.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-academy-intern-4-empat-bulan-musti-musik.md](operations/hr/contract-academy-intern-4-empat-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-appreciation-&-offering-musti-musik.docx.md](operations/hr/contract-appreciation-&-offering-musti-musik.docx.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-appreciation-&-offering-musti-musik.md](operations/hr/contract-appreciation-&-offering-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-costumer-service-intern-4-empat-bulan-musti-musik.md](operations/hr/contract-costumer-service-intern-4-empat-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-design-intern-2-dua-bulan-musti-musik.md](operations/hr/contract-design-intern-2-dua-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-design-intern-4-empat-bulan-musti-musik.md](operations/hr/contract-design-intern-4-empat-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-finance-apprenticeship-2-dua-bulan-musti-musik.md](operations/hr/contract-finance-apprenticeship-2-dua-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-human-resource-intern-musti-musik.md](operations/hr/contract-human-resource-intern-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-music-production-intern-1-satu-bulan-musti-musik.md](operations/hr/contract-music-production-intern-1-satu-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-organik-intern-4-empat-bulan-musti-musik.md](operations/hr/contract-organik-intern-4-empat-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-personal-assistant-intern-4-empat-bulan-musti-musik.md](operations/hr/contract-personal-assistant-intern-4-empat-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [contract-tech-intern-4-empat-bulan-musti-musik.md](operations/hr/contract-tech-intern-4-empat-bulan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-contract-musti-musik.md](operations/hr/copy-of-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-deep-learning-1.md](operations/hr/copy-of-deep-learning-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-deep-learning.md](operations/hr/copy-of-deep-learning.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-employee-management-1.md](operations/hr/copy-of-employee-management-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-employee-management.md](operations/hr/copy-of-employee-management.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-google-form-1.md](operations/hr/copy-of-google-form-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-google-form.md](operations/hr/copy-of-google-form.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-mm-hr-27-august,-2309.md](operations/hr/copy-of-mm-hr-27-august,-2309.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-mm-hr-29-july,-2316.md](operations/hr/copy-of-mm-hr-29-july,-2316.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-musti-musik-human-resources.md](operations/hr/copy-of-musti-musik-human-resources.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-peraturan-perusahaan-musti-musik.md](operations/hr/copy-of-peraturan-perusahaan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-project-management-1.md](operations/hr/copy-of-project-management-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-project-management.md](operations/hr/copy-of-project-management.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-youtube-1.md](operations/hr/copy-of-youtube-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [copy-of-youtube.md](operations/hr/copy-of-youtube.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [cv-yassinta-alifia-f-2025.md](operations/hr/cv-yassinta-alifia-f-2025.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [daiyana-gilang-setyawan-daiyana-gilang.md](operations/hr/daiyana-gilang-setyawan-daiyana-gilang.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [data-docs-temporary.md](operations/hr/data-docs-temporary.md) — General operations or company policy document for Musti Musik.
+- [database-akun-mm.md](operations/hr/database-akun-mm.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [design-1.md](operations/hr/design-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [design-2.md](operations/hr/design-2.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [design.md](operations/hr/design.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [deskripsi-kerja-alfa.md](operations/hr/deskripsi-kerja-alfa.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [employee-experience-mm-career.md](operations/hr/employee-experience-mm-career.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [employee-handbook-musti-musik.md](operations/hr/employee-handbook-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [employee-satisfaction-survey-analysis.md](operations/hr/employee-satisfaction-survey-analysis.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [employee-success.md](operations/hr/employee-success.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [felicia-caroline-contract-musti-musik.md](operations/hr/felicia-caroline-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [form-deskripsi-kerja-musti-musik-1.md](operations/hr/form-deskripsi-kerja-musti-musik-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [form-deskripsi-kerja-musti-musik-chrystian-academic.md](operations/hr/form-deskripsi-kerja-musti-musik-chrystian-academic.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [form-deskripsi-kerja-musti-musik-laras-design.md](operations/hr/form-deskripsi-kerja-musti-musik-laras-design.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [form-deskripsi-kerja-musti-musik-riza-nursyah.md](operations/hr/form-deskripsi-kerja-musti-musik-riza-nursyah.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [form-deskripsi-kerja-musti-musik-sabrina-va.md](operations/hr/form-deskripsi-kerja-musti-musik-sabrina-va.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [form-deskripsi-kerja-musti-musik.md](operations/hr/form-deskripsi-kerja-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [freeclass-data-report.md](operations/hr/freeclass-data-report.md) — General operations or company policy document for Musti Musik.
+- [google-ads-report.md](operations/hr/google-ads-report.md) — General operations or company policy document for Musti Musik.
+- [group-interview-ceo-office.md](operations/hr/group-interview-ceo-office.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [handbook-questions.md](operations/hr/handbook-questions.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [how-to-connect-zoom-to-youtube-livestream.md](operations/hr/how-to-connect-zoom-to-youtube-livestream.md) — General operations or company policy document for Musti Musik.
+- [hr-sop.md](operations/hr/hr-sop.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [hr.md](operations/hr/hr.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [ig-magang.md](operations/hr/ig-magang.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [jun25-temp.md](operations/hr/jun25-temp.md) — General operations or company policy document for Musti Musik.
+- [kaka-adirajasa-design-intern.md](operations/hr/kaka-adirajasa-design-intern.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-agi-juni-probation.md](operations/hr/kontrak-agi-juni-probation.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-agi-juni.md](operations/hr/kontrak-agi-juni.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-alfa-oktober.md](operations/hr/kontrak-alfa-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-andi-videoeditor-april2026.md](operations/hr/kontrak-andi-videoeditor-april2026.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-anglila-juli.md](operations/hr/kontrak-anglila-juli.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-anglila-juni.md](operations/hr/kontrak-anglila-juni.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-anis-september.md](operations/hr/kontrak-anis-september.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-celo-oktober.md](operations/hr/kontrak-celo-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-celo.md](operations/hr/kontrak-celo.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-chrystian-agustus.md](operations/hr/kontrak-chrystian-agustus.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-chrystian-januari.md](operations/hr/kontrak-chrystian-januari.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-chrystian-oktober.md](operations/hr/kontrak-chrystian-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-daffa-oktober.md](operations/hr/kontrak-daffa-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-eduardo-april.md](operations/hr/kontrak-eduardo-april.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-eduardo-januari.md](operations/hr/kontrak-eduardo-januari.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-fahrul-november.md](operations/hr/kontrak-fahrul-november.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-farhan-desember.md](operations/hr/kontrak-farhan-desember.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-farhaz-november.md](operations/hr/kontrak-farhaz-november.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-fathan-april.md](operations/hr/kontrak-fathan-april.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-fathan-maret.md](operations/hr/kontrak-fathan-maret.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-fred-oktober.md](operations/hr/kontrak-fred-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-hanif-desember.md](operations/hr/kontrak-hanif-desember.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-hasbi-juli.md](operations/hr/kontrak-hasbi-juli.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-hasbi-juni.md](operations/hr/kontrak-hasbi-juni.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-ian-agustus.md](operations/hr/kontrak-ian-agustus.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-ian-juli.md](operations/hr/kontrak-ian-juli.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-julius-april.md](operations/hr/kontrak-julius-april.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-julius-juni.md](operations/hr/kontrak-julius-juni.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-julius-mei.md](operations/hr/kontrak-julius-mei.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-julius-september.md](operations/hr/kontrak-julius-september.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-kezia-maret-1.md](operations/hr/kontrak-kezia-maret-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-kezia-maret.md](operations/hr/kontrak-kezia-maret.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-klein-januari.md](operations/hr/kontrak-klein-januari.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-klein-oktober.md](operations/hr/kontrak-klein-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-lintang-oktober.md](operations/hr/kontrak-lintang-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-lutfi-februari.md](operations/hr/kontrak-lutfi-februari.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-maharani-juni.md](operations/hr/kontrak-maharani-juni.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-maharani-maret.md](operations/hr/kontrak-maharani-maret.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-oswaldus-september.md](operations/hr/kontrak-oswaldus-september.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-randy-februari.md](operations/hr/kontrak-randy-februari.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-rayhan-oktober.md](operations/hr/kontrak-rayhan-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-reza-mei.md](operations/hr/kontrak-reza-mei.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-riza-oktober.md](operations/hr/kontrak-riza-oktober.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-sabrina-november.md](operations/hr/kontrak-sabrina-november.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [kontrak-zulfani-februari.md](operations/hr/kontrak-zulfani-februari.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [linkedin-applicant-videographer.md](operations/hr/linkedin-applicant-videographer.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [lintang-angkoso-contract-musti-musik.md](operations/hr/lintang-angkoso-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [machine-learning.md](operations/hr/machine-learning.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [memo-lintang.md](operations/hr/memo-lintang.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [mm-hr-2025-2026.md](operations/hr/mm-hr-2025-2026.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [mm-strategy.md](operations/hr/mm-strategy.md) — General operations or company policy document for Musti Musik.
+- [muhammad-alfadino-videoeditor.md](operations/hr/muhammad-alfadino-videoeditor.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musi2086-a2.md](operations/hr/musi2086-a2.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-all-sop-1.md](operations/hr/musti-musik-all-sop-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-all-sop.md](operations/hr/musti-musik-all-sop.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-design-intern-recruitment-responses-1.md](operations/hr/musti-musik-design-intern-recruitment-responses-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-design-intern-recruitment-responses-2.md](operations/hr/musti-musik-design-intern-recruitment-responses-2.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-human-resources.md](operations/hr/musti-musik-human-resources.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-performance-ads-recruitment-jawaban.md](operations/hr/musti-musik-performance-ads-recruitment-jawaban.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-tech-intern-hiring-responses-1.md](operations/hr/musti-musik-tech-intern-hiring-responses-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-tech-intern-hiring-responses-2.md](operations/hr/musti-musik-tech-intern-hiring-responses-2.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [nanda-dwi-contract-musti-musik.md](operations/hr/nanda-dwi-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [nathan-valliant-contract-musti-musik.md](operations/hr/nathan-valliant-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [networking.md](operations/hr/networking.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [old-rule.md](operations/hr/old-rule.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [patricia-vanessa.md](operations/hr/patricia-vanessa.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [peraturan-perusahaan-musti-musik.md](operations/hr/peraturan-perusahaan-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [performance-marketing.md](operations/hr/performance-marketing.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [personal-assistant.md](operations/hr/personal-assistant.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [presurvey-postsurvey-event-big-data.md](operations/hr/presurvey-postsurvey-event-big-data.md) — General operations or company policy document for Musti Musik.
+- [product-dashboard.md](operations/hr/product-dashboard.md) — General operations or company policy document for Musti Musik.
+- [rayhan-contract-musti-musik.md](operations/hr/rayhan-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [recruitment-&-offboarding-1.md](operations/hr/recruitment-&-offboarding-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [recruitment-&-offboarding.md](operations/hr/recruitment-&-offboarding.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [reference.md](operations/hr/reference.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [regfan-utama-fathan-performance-marketing-intern.md](operations/hr/regfan-utama-fathan-performance-marketing-intern.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [resume-hartati-viriya-surjadi-hartati-viriya-s.md](operations/hr/resume-hartati-viriya-surjadi-hartati-viriya-s.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [ricardo-lucky-fernando-contract-appreciation-&-offering-musti-musik.docx.md](operations/hr/ricardo-lucky-fernando-contract-appreciation-&-offering-musti-musik.docx.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [riza-nursyah-contract-musti-musik.md](operations/hr/riza-nursyah-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [riza-nursyah-kontrak.md](operations/hr/riza-nursyah-kontrak.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sabrina-andria-fatiha-contract-musti-musik.md](operations/hr/sabrina-andria-fatiha-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sales.md](operations/hr/sales.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-employee-success-1.md](operations/hr/sop-employee-success-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-employee-success.md](operations/hr/sop-employee-success.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-memo.md](operations/hr/sop-memo.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [startup-training-1.md](operations/hr/startup-training-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [startup-training.md](operations/hr/startup-training.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [strengths-interview-template.md](operations/hr/strengths-interview-template.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [submission-tugas-design-intern-recruitment-responses-1.md](operations/hr/submission-tugas-design-intern-recruitment-responses-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [submission-tugas-design-intern-recruitment-responses-2.md](operations/hr/submission-tugas-design-intern-recruitment-responses-2.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [surat-memo-riza.md](operations/hr/surat-memo-riza.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [surat-pemecatan-mustimusik.md](operations/hr/surat-pemecatan-mustimusik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [technical-writer.md](operations/hr/technical-writer.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [videographer.md](operations/hr/videographer.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [virtual-assistant-1.md](operations/hr/virtual-assistant-1.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [virtual-assistant.md](operations/hr/virtual-assistant.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [web-development.md](operations/hr/web-development.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [weekly-meta-ads-report.md](operations/hr/weekly-meta-ads-report.md) — General operations or company policy document for Musti Musik.
+- [wydelia-shallom-contract-musti-musik.md](operations/hr/wydelia-shallom-contract-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+
+## operations/tech/
+- [data-member-full-terbaru.md](operations/tech/data-member-full-terbaru.md) — Technical documentation or automation workflow for Musti Musik systems.
+- [dokumentasi-workflow-n8n-automate-resi.md](operations/tech/dokumentasi-workflow-n8n-automate-resi.md) — Technical documentation or automation workflow for Musti Musik systems.
+- [marketing-dashboard-2.md](operations/tech/marketing-dashboard-2.md) — Technical documentation or automation workflow for Musti Musik systems.
+- [tech-documentation.md](operations/tech/tech-documentation.md) — Technical documentation or automation workflow for Musti Musik systems.
+- [tech-sop.md](operations/tech/tech-sop.md) — Technical documentation or automation workflow for Musti Musik systems.
+- [tech-sop.md](operations/tech/tech-sop.md) — Technical documentation or automation workflow for Musti Musik systems.
+- [tech-tugas.md](operations/tech/tech-tugas.md) — Technical documentation or automation workflow for Musti Musik systems.
+
+## product/academy/
+- [8fpb-day-2.md](product/academy/8fpb-day-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [8fpb-day-3.md](product/academy/8fpb-day-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [[batch-2]-feedback-pr-sesi-2.md](product/academy/[batch-2]-feedback-pr-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [[batch-2]-pr-sesi-2.md](product/academy/[batch-2]-pr-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [[batch-2]-pr-sesi-3.md](product/academy/[batch-2]-pr-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [academy-tech-document.md](product/academy/academy-tech-document.md) — Online academy product SOP or operational document for Musti Musik.
+- [amazing-grace.md](product/academy/amazing-grace.md) — Online academy product SOP or operational document for Musti Musik.
+- [batch-11-boothcamp-certificate-reponse.md](product/academy/batch-11-boothcamp-certificate-reponse.md) — Online academy product SOP or operational document for Musti Musik.
+- [batch-13-certificate-bootcamp.md](product/academy/batch-13-certificate-bootcamp.md) — Online academy product SOP or operational document for Musti Musik.
+- [batch-14-certificate-bootcamp.md](product/academy/batch-14-certificate-bootcamp.md) — Online academy product SOP or operational document for Musti Musik.
+- [bonus-batch-1-sesi-1-1.md](product/academy/bonus-batch-1-sesi-1-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [bonus-batch-1-sesi-1.md](product/academy/bonus-batch-1-sesi-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [bonus-batch-1-sesi-2.md](product/academy/bonus-batch-1-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [bonus-batch-1-sesi-3.md](product/academy/bonus-batch-1-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [bonus-batch-2-sesi-2.md](product/academy/bonus-batch-2-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [bonus-batch-2-sesi-3.md](product/academy/bonus-batch-2-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [bonus-batch-2-sesi-4.md](product/academy/bonus-batch-2-sesi-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [bootcamp-batch-7.md](product/academy/bootcamp-batch-7.md) — Online academy product SOP or operational document for Musti Musik.
+- [catatan-materi-akademi-big-document.md](product/academy/catatan-materi-akademi-big-document.md) — Online academy product SOP or operational document for Musti Musik.
+- [community-reminder.md](product/academy/community-reminder.md) — Online academy product SOP or operational document for Musti Musik.
+- [competitor-analysis.md](product/academy/competitor-analysis.md) — Online academy product SOP or operational document for Musti Musik.
+- [copy-of-testimonial-and-feedback-musti-musik.md](product/academy/copy-of-testimonial-and-feedback-musti-musik.md) — Online academy product SOP or operational document for Musti Musik.
+- [customer-success-1.md](product/academy/customer-success-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [customer-success.md](product/academy/customer-success.md) — Online academy product SOP or operational document for Musti Musik.
+- [disney-lifetime.md](product/academy/disney-lifetime.md) — Online academy product SOP or operational document for Musti Musik.
+- [express-yourself-jazz-and-gospel-improvisation.md](product/academy/express-yourself-jazz-and-gospel-improvisation.md) — Online academy product SOP or operational document for Musti Musik.
+- [fast-track-jazz-certificate.md](product/academy/fast-track-jazz-certificate.md) — Online academy product SOP or operational document for Musti Musik.
+- [fast-track-worship.md](product/academy/fast-track-worship.md) — Online academy product SOP or operational document for Musti Musik.
+- [fgd-11-12-2024.md](product/academy/fgd-11-12-2024.md) — Online academy product SOP or operational document for Musti Musik.
+- [fgd-22-1-2025.md](product/academy/fgd-22-1-2025.md) — Online academy product SOP or operational document for Musti Musik.
+- [fgd-30-10-2024.md](product/academy/fgd-30-10-2024.md) — Online academy product SOP or operational document for Musti Musik.
+- [fgd-big-document.md](product/academy/fgd-big-document.md) — Online academy product SOP or operational document for Musti Musik.
+- [forum-group-discus-27-8.md](product/academy/forum-group-discus-27-8.md) — Online academy product SOP or operational document for Musti Musik.
+- [guide-if-i-ain't-got-you.md](product/academy/guide-if-i-ain't-got-you.md) — Online academy product SOP or operational document for Musti Musik.
+- [guide-winter-wonderland.md](product/academy/guide-winter-wonderland.md) — Online academy product SOP or operational document for Musti Musik.
+- [improvement.md](product/academy/improvement.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-optimal-pr-modul-fast-track-jazz.md](product/academy/jawaban-optimal-pr-modul-fast-track-jazz.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-optimal-pr-modul-intermediate-progression.md](product/academy/jawaban-optimal-pr-modul-intermediate-progression.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-optimal-pr-modul-intermediate-voicing.md](product/academy/jawaban-optimal-pr-modul-intermediate-voicing.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-optimal-pr-modul-jazz-beginner.md](product/academy/jawaban-optimal-pr-modul-jazz-beginner.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-optimal-pr-modul-licks.md](product/academy/jawaban-optimal-pr-modul-licks.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-optimal-pr-modul-reharmonization.md](product/academy/jawaban-optimal-pr-modul-reharmonization.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-optimal-pr-modul-worship-harmony-101.md](product/academy/jawaban-optimal-pr-modul-worship-harmony-101.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-pr-bootcamp-strategi-bikin-worship-pianomu-semanis-pianis-gereja-dalam-2-minggu.md](product/academy/jawaban-pr-bootcamp-strategi-bikin-worship-pianomu-semanis-pianis-gereja-dalam-2-minggu.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-pr-bootcamp-strategi-bisa-ngiring-worship-dalam-2-minggu-1.md](product/academy/jawaban-pr-bootcamp-strategi-bisa-ngiring-worship-dalam-2-minggu-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [jawaban-pr-bootcamp-strategi-bisa-ngiring-worship-dalam-2-minggu.md](product/academy/jawaban-pr-bootcamp-strategi-bisa-ngiring-worship-dalam-2-minggu.md) — Online academy product SOP or operational document for Musti Musik.
+- [jazz-for-beginners.md](product/academy/jazz-for-beginners.md) — Online academy product SOP or operational document for Musti Musik.
+- [kuliah-piano-17-notes.md](product/academy/kuliah-piano-17-notes.md) — Online academy product SOP or operational document for Musti Musik.
+- [kuliah-piano-3-sept-2024.md](product/academy/kuliah-piano-3-sept-2024.md) — Online academy product SOP or operational document for Musti Musik.
+- [kurikulum-music-school.md](product/academy/kurikulum-music-school.md) — Online academy product SOP or operational document for Musti Musik.
+- [kurikulum.md](product/academy/kurikulum.md) — Online academy product SOP or operational document for Musti Musik.
+- [licks.md](product/academy/licks.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-recording-video-1.md](product/academy/link-recording-video-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-recording-video-2.md](product/academy/link-recording-video-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-recording-video.md](product/academy/link-recording-video.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-video-1.md](product/academy/link-video-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-video-2.md](product/academy/link-video-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-video-3.md](product/academy/link-video-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-video-semua-sesi.md](product/academy/link-video-semua-sesi.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-video.md](product/academy/link-video.md) — Online academy product SOP or operational document for Musti Musik.
+- [link-yt-bonus.md](product/academy/link-yt-bonus.md) — Online academy product SOP or operational document for Musti Musik.
+- [locked-hands-blocked-chords.md](product/academy/locked-hands-blocked-chords.md) — Online academy product SOP or operational document for Musti Musik.
+- [materi-3-5-hari.md](product/academy/materi-3-5-hari.md) — Online academy product SOP or operational document for Musti Musik.
+- [materi-modul-latihan.md](product/academy/materi-modul-latihan.md) — Online academy product SOP or operational document for Musti Musik.
+- [mentor-musti-musik.md](product/academy/mentor-musti-musik.md) — Online academy product SOP or operational document for Musti Musik.
+- [modul-expectation.md](product/academy/modul-expectation.md) — Online academy product SOP or operational document for Musti Musik.
+- [modul-improvisasi-jazz.md](product/academy/modul-improvisasi-jazz.md) — Online academy product SOP or operational document for Musti Musik.
+- [modul-intermediate-voicing.md](product/academy/modul-intermediate-voicing.md) — Online academy product SOP or operational document for Musti Musik.
+- [modul-ngiring-di-band.md](product/academy/modul-ngiring-di-band.md) — Online academy product SOP or operational document for Musti Musik.
+- [modulasi-trik-jitu.md](product/academy/modulasi-trik-jitu.md) — Online academy product SOP or operational document for Musti Musik.
+- [music-academy.md](product/academy/music-academy.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-music-academy-recruitment-jawaban.md](product/academy/musti-musik-music-academy-recruitment-jawaban.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [musti-musik-suno-ai-prompt.md](product/academy/musti-musik-suno-ai-prompt.md) — Online academy product SOP or operational document for Musti Musik.
+- [nathan-academy.md](product/academy/nathan-academy.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [pianote.md](product/academy/pianote.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-bootcamp-batch-14-sesi-1.md](product/academy/pr-bootcamp-batch-14-sesi-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-bootcamp-batch-14-sesi-2.md](product/academy/pr-bootcamp-batch-14-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-bootcamp-batch-14-sesi-4.md](product/academy/pr-bootcamp-batch-14-sesi-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-bootcamp-jago-piano-jazz-dalam-2-minggu.md](product/academy/pr-bootcamp-jago-piano-jazz-dalam-2-minggu.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-bootcamp-strategi-bisa-ngiring-worship-dalam-2-minggu.md](product/academy/pr-bootcamp-strategi-bisa-ngiring-worship-dalam-2-minggu.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-bootcamp-strategi-ngiring-worship-manis-semanis-pianis-gereja-dalam-2-minggu.md](product/academy/pr-bootcamp-strategi-ngiring-worship-manis-semanis-pianis-gereja-dalam-2-minggu.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-modul-fast-track-jazz.md](product/academy/pr-modul-fast-track-jazz.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-modul-intermediate-progression.md](product/academy/pr-modul-intermediate-progression.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-modul-intermediate-voicing.md](product/academy/pr-modul-intermediate-voicing.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-modul-jazz-beginner.md](product/academy/pr-modul-jazz-beginner.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-modul-licks.md](product/academy/pr-modul-licks.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-modul-reharmonization.md](product/academy/pr-modul-reharmonization.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-modul-worship-harmony-101.md](product/academy/pr-modul-worship-harmony-101.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-sesi-1.md](product/academy/pr-sesi-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-sesi-2.md](product/academy/pr-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-sesi-3.md](product/academy/pr-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [pr-sesi-ketiga.md](product/academy/pr-sesi-ketiga.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-batch-1-sesi-1-1.md](product/academy/qna-batch-1-sesi-1-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-batch-1-sesi-1.md](product/academy/qna-batch-1-sesi-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-batch-1-sesi-2.md](product/academy/qna-batch-1-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-batch-1-sesi-3.md](product/academy/qna-batch-1-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-batch-2-sesi-2.md](product/academy/qna-batch-2-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-batch-2-sesi-3.md](product/academy/qna-batch-2-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-batch-2-sesi-4.md](product/academy/qna-batch-2-sesi-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [qna-bath-1-sesi-4.md](product/academy/qna-bath-1-sesi-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [rangkuman-bedah-piano-25-agustus.md](product/academy/rangkuman-bedah-piano-25-agustus.md) — Online academy product SOP or operational document for Musti Musik.
+- [rangkuman-bedah-piano-26-agustus.md](product/academy/rangkuman-bedah-piano-26-agustus.md) — Online academy product SOP or operational document for Musti Musik.
+- [rangkuman-bedah-piano-4-5-sep.md](product/academy/rangkuman-bedah-piano-4-5-sep.md) — Online academy product SOP or operational document for Musti Musik.
+- [rangkuman-intensive-masterclass.md](product/academy/rangkuman-intensive-masterclass.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-1.md](product/academy/recording-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-10.md](product/academy/recording-10.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-16-12-2025.md](product/academy/recording-16-12-2025.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-2.md](product/academy/recording-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-3.md](product/academy/recording-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-4.md](product/academy/recording-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-5.md](product/academy/recording-5.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-6.md](product/academy/recording-6.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-7.md](product/academy/recording-7.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-8.md](product/academy/recording-8.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-9.md](product/academy/recording-9.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-1-sesi-2.md](product/academy/recording-batch-1-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-1-sesi-3.md](product/academy/recording-batch-1-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-1-sesi-4.md](product/academy/recording-batch-1-sesi-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-10.md](product/academy/recording-batch-10.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-2-sesi-1.md](product/academy/recording-batch-2-sesi-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-2-sesi-2.md](product/academy/recording-batch-2-sesi-2.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-2-sesi-3.md](product/academy/recording-batch-2-sesi-3.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-batch-2-sesi-4.md](product/academy/recording-batch-2-sesi-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-bootcamp-batch-11.md](product/academy/recording-bootcamp-batch-11.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-bootcamp-batch-13.md](product/academy/recording-bootcamp-batch-13.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-bootcamp-batch-7.md](product/academy/recording-bootcamp-batch-7.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-bootcamp-batch-8.md](product/academy/recording-bootcamp-batch-8.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-bootcamp-batch-9.md](product/academy/recording-bootcamp-batch-9.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-bootcamp.md](product/academy/recording-bootcamp.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-group-class-batch-1-sesi-1.md](product/academy/recording-group-class-batch-1-sesi-1.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-masterclass-29-4.md](product/academy/recording-masterclass-29-4.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-masterclass-30-9-2025.md](product/academy/recording-masterclass-30-9-2025.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording-masterclass.md](product/academy/recording-masterclass.md) — Online academy product SOP or operational document for Musti Musik.
+- [recording.md](product/academy/recording.md) — Online academy product SOP or operational document for Musti Musik.
+- [retention-breakdown.md](product/academy/retention-breakdown.md) — Online academy product SOP or operational document for Musti Musik.
+- [road-map.md](product/academy/road-map.md) — Online academy product SOP or operational document for Musti Musik.
+- [song-dashboard.md](product/academy/song-dashboard.md) — Online academy product SOP or operational document for Musti Musik.
+- [sop-academy-video-modul-musti-musik.md](product/academy/sop-academy-video-modul-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-academy.md](product/academy/sop-academy.md) — Online academy product SOP or operational document for Musti Musik.
+- [sop-academy.md](product/academy/sop-academy.md) — Online academy product SOP or operational document for Musti Musik.
+- [sop-community-musti-musik.md](product/academy/sop-community-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-customer-success.md](product/academy/sop-customer-success.md) — Online academy product SOP or operational document for Musti Musik.
+- [sop-improvement-musti-musik.md](product/academy/sop-improvement-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [sop-musti-musik.md](product/academy/sop-musti-musik.md) — Online academy product SOP or operational document for Musti Musik.
+- [sop-vip-community.md](product/academy/sop-vip-community.md) — Online academy product SOP or operational document for Musti Musik.
+- [sop-vip-community.md](product/academy/sop-vip-community.md) — Online academy product SOP or operational document for Musti Musik.
+- [topik-bedah-&-kuliah-piano.md](product/academy/topik-bedah-&-kuliah-piano.md) — Online academy product SOP or operational document for Musti Musik.
+- [tor-academy-modul-video-musti-musik.md](product/academy/tor-academy-modul-video-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [tor-academy.md](product/academy/tor-academy.md) — Online academy product SOP or operational document for Musti Musik.
+- [tor-community-musti-musik.md](product/academy/tor-community-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [tor-customer-success.md](product/academy/tor-customer-success.md) — Online academy product SOP or operational document for Musti Musik.
+- [tor-improvement-musti-musik.md](product/academy/tor-improvement-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [uji-presurvey.md](product/academy/uji-presurvey.md) — Online academy product SOP or operational document for Musti Musik.
+- [webinar-framework.md](product/academy/webinar-framework.md) — Online academy product SOP or operational document for Musti Musik.
+
+## product/books/
+- [adzka-mm-data-pembeli-buku.md](product/books/adzka-mm-data-pembeli-buku.md) — Buku Jazz/Worship product SOP or book launch document.
+- [all-order-12-bulan-terakhir-s.d-23-apr.md](product/books/all-order-12-bulan-terakhir-s.d-23-apr.md) — Buku Jazz/Worship product SOP or book launch document.
+- [apr-finance-settled.md](product/books/apr-finance-settled.md) — Buku Jazz/Worship product SOP or book launch document.
+- [big-data-export-tiktokshop-tokped.md](product/books/big-data-export-tiktokshop-tokped.md) — Buku Jazz/Worship product SOP or book launch document.
+- [buku-jazz.md](product/books/buku-jazz.md) — Buku Jazz/Worship product SOP or book launch document.
+- [buku-worship.md](product/books/buku-worship.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-1-affiliate-explainer-vsl-script.md](product/books/copy-of-1-affiliate-explainer-vsl-script.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-[new]-$100m-money-models-book-launch-run-of-show-blackbook.md](product/books/copy-of-[new]-$100m-money-models-book-launch-run-of-show-blackbook.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-copy-of-copy-of-copy-of-scripts-200-book-recap-vsl.md](product/books/copy-of-copy-of-copy-of-copy-of-scripts-200-book-recap-vsl.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-master-scripts.md](product/books/copy-of-master-scripts.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-$100m-200-book-bundle-thank-you-vsl-script.md](product/books/copy-of-scripts-$100m-200-book-bundle-thank-you-vsl-script.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-$100m-scale-advisory-script.md](product/books/copy-of-scripts-$100m-scale-advisory-script.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-800-book-offer-vsl.md](product/books/copy-of-scripts-800-book-offer-vsl.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-pre-event-registration-vsl.md](product/books/copy-of-scripts-pre-event-registration-vsl.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-recap-vsl.md](product/books/copy-of-scripts-recap-vsl.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-vip-no-thank-you.md](product/books/copy-of-scripts-vip-no-thank-you.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-vip-thank-you.md](product/books/copy-of-scripts-vip-thank-you.md) — Buku Jazz/Worship product SOP or book launch document.
+- [copy-of-scripts-vip-vsl.md](product/books/copy-of-scripts-vip-vsl.md) — Buku Jazz/Worship product SOP or book launch document.
+- [dec-finance-settled.md](product/books/dec-finance-settled.md) — Buku Jazz/Worship product SOP or book launch document.
+- [e-book-ai.md](product/books/e-book-ai.md) — Buku Jazz/Worship product SOP or book launch document.
+- [elia-natanael-sukma.md](product/books/elia-natanael-sukma.md) — Buku Jazz/Worship product SOP or book launch document.
+- [feb-finance-settled.md](product/books/feb-finance-settled.md) — Buku Jazz/Worship product SOP or book launch document.
+- [jan-finance-settled.md](product/books/jan-finance-settled.md) — Buku Jazz/Worship product SOP or book launch document.
+- [kunci-jawaban-buku-worship.md](product/books/kunci-jawaban-buku-worship.md) — Buku Jazz/Worship product SOP or book launch document.
+- [mar-finance-settled.md](product/books/mar-finance-settled.md) — Buku Jazz/Worship product SOP or book launch document.
+- [pengiriman-international.md](product/books/pengiriman-international.md) — Buku Jazz/Worship product SOP or book launch document.
+- [settle-1-des-28-feb.md](product/books/settle-1-des-28-feb.md) — Buku Jazz/Worship product SOP or book launch document.
+- [settle-1-mar-23-apr.md](product/books/settle-1-mar-23-apr.md) — Buku Jazz/Worship product SOP or book launch document.
+- [sop-online-shop.md](product/books/sop-online-shop.md) — Buku Jazz/Worship product SOP or book launch document.
+
+## product/events/
+- [$100m-launch.md](product/events/$100m-launch.md) — Free class operation SOP or product document for Musti Musik.
+- [1-refer.md](product/events/1-refer.md) — Free class operation SOP or product document for Musti Musik.
+- [2-affiliate-sign-up.md](product/events/2-affiliate-sign-up.md) — Free class operation SOP or product document for Musti Musik.
+- [22-lessons-webinar-courses.md](product/events/22-lessons-webinar-courses.md) — Free class operation SOP or product document for Musti Musik.
+- [certificate-student-concert-love-festival.md](product/events/certificate-student-concert-love-festival.md) — Event rundown, concert checklist, or student concert SOP for Musti Musik.
+- [checklist-concert.md](product/events/checklist-concert.md) — Event rundown, concert checklist, or student concert SOP for Musti Musik.
+- [copy-of-recording-free-class.md](product/events/copy-of-recording-free-class.md) — Free class operation SOP or product document for Musti Musik.
+- [daftar-hadir-event-24-agustus-musti-musik.md](product/events/daftar-hadir-event-24-agustus-musti-musik.md) — Event rundown, concert checklist, or student concert SOP for Musti Musik.
+- [data-freeclass.md](product/events/data-freeclass.md) — Free class operation SOP or product document for Musti Musik.
+- [freeclass-26-10-2024.md](product/events/freeclass-26-10-2024.md) — Free class operation SOP or product document for Musti Musik.
+- [freeclass-28-4-2026.md](product/events/freeclass-28-4-2026.md) — Free class operation SOP or product document for Musti Musik.
+- [gantt-chart.md](product/events/gantt-chart.md) — Free class operation SOP or product document for Musti Musik.
+- [masterclass-agustus.md](product/events/masterclass-agustus.md) — Masterclass operation SOP or product document for Musti Musik.
+- [masterclass-desember.md](product/events/masterclass-desember.md) — Masterclass operation SOP or product document for Musti Musik.
+- [masterclass-februari-2026.md](product/events/masterclass-februari-2026.md) — Masterclass operation SOP or product document for Musti Musik.
+- [masterclass-januari.md](product/events/masterclass-januari.md) — Masterclass operation SOP or product document for Musti Musik.
+- [masterclass-juli.md](product/events/masterclass-juli.md) — Masterclass operation SOP or product document for Musti Musik.
+- [masterclass-maret-2026.md](product/events/masterclass-maret-2026.md) — Masterclass operation SOP or product document for Musti Musik.
+- [masterclass-november.md](product/events/masterclass-november.md) — Masterclass operation SOP or product document for Musti Musik.
+- [masterclass-september.md](product/events/masterclass-september.md) — Masterclass operation SOP or product document for Musti Musik.
+- [mm-reimbursement-form.md](product/events/mm-reimbursement-form.md) — Free class operation SOP or product document for Musti Musik.
+- [modul-video-eksklusif.md](product/events/modul-video-eksklusif.md) — Free class operation SOP or product document for Musti Musik.
+- [musti-musik-book-launch-plan.md](product/events/musti-musik-book-launch-plan.md) — Free class operation SOP or product document for Musti Musik.
+- [rangkum-fc-29-3-2025.md](product/events/rangkum-fc-29-3-2025.md) — Free class operation SOP or product document for Musti Musik.
+- [rangkum-fc-8-8-2025.md](product/events/rangkum-fc-8-8-2025.md) — Free class operation SOP or product document for Musti Musik.
+- [rangkuman-freeclass-12-7-2025.md](product/events/rangkuman-freeclass-12-7-2025.md) — Free class operation SOP or product document for Musti Musik.
+- [rangkuman-freeclass-25-01-2024.md](product/events/rangkuman-freeclass-25-01-2024.md) — Free class operation SOP or product document for Musti Musik.
+- [rangkuman-freeclass-26-4-2024.md](product/events/rangkuman-freeclass-26-4-2024.md) — Free class operation SOP or product document for Musti Musik.
+- [rangkuman-freeclass-30-11-2024.md](product/events/rangkuman-freeclass-30-11-2024.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class-&-after-class-po-buku.md](product/events/recording-free-class-&-after-class-po-buku.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class-04-07-24.md](product/events/recording-free-class-04-07-24.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class-11-07-24.md](product/events/recording-free-class-11-07-24.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class-18-07-24.md](product/events/recording-free-class-18-07-24.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class-20-06-24.md](product/events/recording-free-class-20-06-24.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class-25-07-24.md](product/events/recording-free-class-25-07-24.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class-27-06-24.md](product/events/recording-free-class-27-06-24.md) — Free class operation SOP or product document for Musti Musik.
+- [recording-free-class.md](product/events/recording-free-class.md) — Free class operation SOP or product document for Musti Musik.
+- [rundown-student-concert-love-festival.md](product/events/rundown-student-concert-love-festival.md) — Event rundown, concert checklist, or student concert SOP for Musti Musik.
+- [sop-free-class-musti-musik.md](product/events/sop-free-class-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [streamline.md](product/events/streamline.md) — Event rundown, concert checklist, or student concert SOP for Musti Musik.
+- [student-concert-17-8.md](product/events/student-concert-17-8.md) — Event rundown, concert checklist, or student concert SOP for Musti Musik.
+- [tor-free-class-musti-musik.md](product/events/tor-free-class-musti-musik.md) — Human resources document for Musti Musik covering employment, contracts, or performance.
+- [untitled-spreadsheet.md](product/events/untitled-spreadsheet.md) — Event rundown, concert checklist, or student concert SOP for Musti Musik.
+- [webinar-courses.md](product/events/webinar-courses.md) — Free class operation SOP or product document for Musti Musik.
+- [webinar-framework.md](product/events/webinar-framework.md) — Free class operation SOP or product document for Musti Musik.
+
+## product/music-school/
+- [2.-business-backbones.md](product/music-school/2.-business-backbones.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [about-musti-musik.md](product/music-school/about-musti-musik.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [chaz's-cv-2025-4-28-chaz-tyler-cho.md](product/music-school/chaz's-cv-2025-4-28-chaz-tyler-cho.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [cv-elgin-m-leunufna-elgin-leunufna.md](product/music-school/cv-elgin-m-leunufna-elgin-leunufna.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [djazz-class-room-2025.md](product/music-school/djazz-class-room-2025.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [form-kehadiran.md](product/music-school/form-kehadiran.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [inbound2855756538592971380-amos-amsal.md](product/music-school/inbound2855756538592971380-amos-amsal.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [kompetitor-benchmark.md](product/music-school/kompetitor-benchmark.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [music-school-christine.md](product/music-school/music-school-christine.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [music-school-erick-imanuel.md](product/music-school/music-school-erick-imanuel.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [musti-musik-piano-teacher-recruitment-responses.md](product/music-school/musti-musik-piano-teacher-recruitment-responses.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [musti-musik-teacher-contract.md](product/music-school/musti-musik-teacher-contract.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [nama-sekolah-musik.md](product/music-school/nama-sekolah-musik.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [no-telp-sekolah-musik.md](product/music-school/no-telp-sekolah-musik.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [nomor-nps.md](product/music-school/nomor-nps.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [private-1on1-waiting-list-responses.md](product/music-school/private-1on1-waiting-list-responses.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [syarat-dan-ketentuan-1on1-musti-musik.md](product/music-school/syarat-dan-ketentuan-1on1-musti-musik.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [teacher-handbook-musti-musik.md](product/music-school/teacher-handbook-musti-musik.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [tnc-murid-private-musti-musik.md](product/music-school/tnc-murid-private-musti-musik.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [tnc-students.md](product/music-school/tnc-students.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+- [tnc-teachers.md](product/music-school/tnc-teachers.md) — Physical music school SOP, teacher contract, or handbook for Musti Musik.
+
+## product/music-school/archive/
+- [2-week-heart-to-heart.md](product/music-school/archive/2-week-heart-to-heart.md) — Reference material from the Build A Music School course archive.
+- [accountant-email-template-1.md](product/music-school/archive/accountant-email-template-1.md) — Reference material from the Build A Music School course archive.
+- [accountant-email-template.md](product/music-school/archive/accountant-email-template.md) — Reference material from the Build A Music School course archive.
+- [admin-team-manual.md](product/music-school/archive/admin-team-manual.md) — Reference material from the Build A Music School course archive.
+- [annual-performance-review-teachers-09.20.22.md](product/music-school/archive/annual-performance-review-teachers-09.20.22.md) — Reference material from the Build A Music School course archive.
+- [autoresponder-for-absences.md](product/music-school/archive/autoresponder-for-absences.md) — Reference material from the Build A Music School course archive.
+- [bam-copy-nathan-jones.md](product/music-school/archive/bam-copy-nathan-jones.md) — Reference material from the Build A Music School course archive.
+- [buddy-week-lesson-plan-feb24.md](product/music-school/archive/buddy-week-lesson-plan-feb24.md) — Reference material from the Build A Music School course archive.
+- [buddy-week-lesson-plan.md](product/music-school/archive/buddy-week-lesson-plan.md) — Reference material from the Build A Music School course archive.
+- [child-protection-policy-jan-2019.md](product/music-school/archive/child-protection-policy-jan-2019.md) — Reference material from the Build A Music School course archive.
+- [child-protection-quiz-for-your-team-members-2.md](product/music-school/archive/child-protection-quiz-for-your-team-members-2.md) — Reference material from the Build A Music School course archive.
+- [confidentiality-agreement-dylan-kay.md](product/music-school/archive/confidentiality-agreement-dylan-kay.md) — Reference material from the Build A Music School course archive.
+- [copy-of-360-review-self-assessment-file-make-a-copy.md](product/music-school/archive/copy-of-360-review-self-assessment-file-make-a-copy.md) — Reference material from the Build A Music School course archive.
+- [copy-of-job-offer-scripts.md](product/music-school/archive/copy-of-job-offer-scripts.md) — Reference material from the Build A Music School course archive.
+- [copy-of-reference-check.md](product/music-school/archive/copy-of-reference-check.md) — Reference material from the Build A Music School course archive.
+- [copy-of-spark-offer-letter.md](product/music-school/archive/copy-of-spark-offer-letter.md) — Reference material from the Build A Music School course archive.
+- [copy-of-spark-teacher-contract.odt.md](product/music-school/archive/copy-of-spark-teacher-contract.odt.md) — Reference material from the Build A Music School course archive.
+- [date-observee-teacher-observed-by-teacher-observer-template-1-jerry-trzeciak-1.md](product/music-school/archive/date-observee-teacher-observed-by-teacher-observer-template-1-jerry-trzeciak-1.md) — Reference material from the Build A Music School course archive.
+- [date-observee-teacher-observed-by-teacher-observer-template-1-jerry-trzeciak.md](product/music-school/archive/date-observee-teacher-observed-by-teacher-observer-template-1-jerry-trzeciak.md) — Reference material from the Build A Music School course archive.
+- [director-of-communications-and-marketing.md](product/music-school/archive/director-of-communications-and-marketing.md) — Reference material from the Build A Music School course archive.
+- [employment-agreement-dylan-kay.md](product/music-school/archive/employment-agreement-dylan-kay.md) — Reference material from the Build A Music School course archive.
+- [epic-personal-details.md](product/music-school/archive/epic-personal-details.md) — Reference material from the Build A Music School course archive.
+- [example-1-student-onboarding-checklist-making-light-productions-juliet-yaques-1.md](product/music-school/archive/example-1-student-onboarding-checklist-making-light-productions-juliet-yaques-1.md) — Reference material from the Build A Music School course archive.
+- [funding-calendar-template.md](product/music-school/archive/funding-calendar-template.md) — Reference material from the Build A Music School course archive.
+- [gtma-child-protection-policy.md](product/music-school/archive/gtma-child-protection-policy.md) — Reference material from the Build A Music School course archive.
+- [hazard-report-form-template.md](product/music-school/archive/hazard-report-form-template.md) — Reference material from the Build A Music School course archive.
+- [health-and-safety-manual.md](product/music-school/archive/health-and-safety-manual.md) — Reference material from the Build A Music School course archive.
+- [health-safety-what-you-need-to-know.md](product/music-school/archive/health-safety-what-you-need-to-know.md) — Reference material from the Build A Music School course archive.
+- [hgl-postingfinal-oct-23-2024-sue.md](product/music-school/archive/hgl-postingfinal-oct-23-2024-sue.md) — Reference material from the Build A Music School course archive.
+- [ignite-music-lessons-admin-and-sales-coordinator-job-description-oct-19-2024-100-sue.md](product/music-school/archive/ignite-music-lessons-admin-and-sales-coordinator-job-description-oct-19-2024-100-sue.md) — Reference material from the Build A Music School course archive.
+- [incident-investigation-report-template.md](product/music-school/archive/incident-investigation-report-template.md) — Reference material from the Build A Music School course archive.
+- [incident-report-form-template.md](product/music-school/archive/incident-report-form-template.md) — Reference material from the Build A Music School course archive.
+- [job-application-form.md](product/music-school/archive/job-application-form.md) — Reference material from the Build A Music School course archive.
+- [juliet-yaques-independent-contractor-checklist.md](product/music-school/archive/juliet-yaques-independent-contractor-checklist.md) — Reference material from the Build A Music School course archive.
+- [lesson-completion-report-stormer-music-1.md](product/music-school/archive/lesson-completion-report-stormer-music-1.md) — Reference material from the Build A Music School course archive.
+- [mlp-organizational-structure-and-roles-juliet-yaques.md](product/music-school/archive/mlp-organizational-structure-and-roles-juliet-yaques.md) — Reference material from the Build A Music School course archive.
+- [music-teacher-job-description-template.md](product/music-school/archive/music-teacher-job-description-template.md) — Reference material from the Build A Music School course archive.
+- [nominate-a-friend-1.md](product/music-school/archive/nominate-a-friend-1.md) — Reference material from the Build A Music School course archive.
+- [performance-review-template.md](product/music-school/archive/performance-review-template.md) — Reference material from the Build A Music School course archive.
+- [phone-script-for-school-concerts-example.md](product/music-school/archive/phone-script-for-school-concerts-example.md) — Reference material from the Build A Music School course archive.
+- [retention-calculator-1.md](product/music-school/archive/retention-calculator-1.md) — Reference material from the Build A Music School course archive.
+- [retention-calculator.md](product/music-school/archive/retention-calculator.md) — Reference material from the Build A Music School course archive.
+- [safeguarding-policy-2023-david-mooney.md](product/music-school/archive/safeguarding-policy-2023-david-mooney.md) — Reference material from the Build A Music School course archive.
+- [school-show-call-back-script-example.md](product/music-school/archive/school-show-call-back-script-example.md) — Reference material from the Build A Music School course archive.
+- [school-show-email-example.md](product/music-school/archive/school-show-email-example.md) — Reference material from the Build A Music School course archive.
+- [spark-teacher-reflection-form.md](product/music-school/archive/spark-teacher-reflection-form.md) — Reference material from the Build A Music School course archive.
+- [substitute-teacher-job-description.md](product/music-school/archive/substitute-teacher-job-description.md) — Reference material from the Build A Music School course archive.
+- [taster-delivered-automation.md](product/music-school/archive/taster-delivered-automation.md) — Reference material from the Build A Music School course archive.
+- [teacher-review-report-nathan-jones.md](product/music-school/archive/teacher-review-report-nathan-jones.md) — Reference material from the Build A Music School course archive.
+- [template-contract.md](product/music-school/archive/template-contract.md) — Reference material from the Build A Music School course archive.
+
+## product/paid-class/
+- [[batch-2]-feedback-pr-sesi-3.md](product/paid-class/[batch-2]-feedback-pr-sesi-3.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [[sesi-2]-feedback-pr-sesi-4.md](product/paid-class/[sesi-2]-feedback-pr-sesi-4.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [bootcamp-gantt-chart.md](product/paid-class/bootcamp-gantt-chart.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [carousel-mm-x-aditi.md](product/paid-class/carousel-mm-x-aditi.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [copy-of-project-plan.md](product/paid-class/copy-of-project-plan.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [data-kerjasama-musti-musik-aditi.md](product/paid-class/data-kerjasama-musti-musik-aditi.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [gantt-chart-bootcamp.md](product/paid-class/gantt-chart-bootcamp.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [kontrak-partnership-tracker.md](product/paid-class/kontrak-partnership-tracker.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [masterclass.md](product/paid-class/masterclass.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [modul-video-chord-manis-bundle-buku-jazz-april.md](product/paid-class/modul-video-chord-manis-bundle-buku-jazz-april.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [music-school.md](product/paid-class/music-school.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [musti-musik-x-magi.md](product/paid-class/musti-musik-x-magi.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [perjanjian-kerjasama-aditi-musti-musik.md](product/paid-class/perjanjian-kerjasama-aditi-musti-musik.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [perjanjian-kerjasama.md](product/paid-class/perjanjian-kerjasama.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [rate-card-mandarin.md](product/paid-class/rate-card-mandarin.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [special-class-maret-2026.md](product/paid-class/special-class-maret-2026.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [survey-pricing-bootcamp.md](product/paid-class/survey-pricing-bootcamp.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [worklist-musti-musik.md](product/paid-class/worklist-musti-musik.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+- [youtube-music-note-icon.md](product/paid-class/youtube-music-note-icon.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
