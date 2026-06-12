@@ -11,10 +11,14 @@
             "id": "c36660bce5e4006a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "schema.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "schema"
             }
           }
         ]
@@ -171,12 +175,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +194,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c36660bce5e4006a",
+  "active": "70939b5985bb2ad3",
   "lastOpenFiles": [
+    "RESOLVER.md",
     "Untitled.md",
     "schema.md",
     "index.md",
