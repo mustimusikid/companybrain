@@ -61,3 +61,9 @@ frontmatter → > summary → compiled truth sections → ---
 - to_tsvector config: use 'simple' (not 'indonesian' — no built-in PostgreSQL config)
 - HNSW index on knowledge_chunks.embedding
 - Upsert key for knowledge_documents: repo_path (computed from actual file path)
+- `captured_notes` (granular WhatsApp captures, DB-only — never the repo) is a staging
+  buffer on the listener's Postgres, deduped on raw_message_id. It stores NO embeddings;
+  a scheduled sync feeds each new capture into gBrain via `gbrain capture` (which embeds
+  with the brain's own model + wires the graph). Agents then see captures through gBrain
+  under the same domain_tag scope as curated docs. The buffer never writes the repo; the
+  only chat→repo path is human-gated promotion (see RESOLVER rule for WhatsApp captures).

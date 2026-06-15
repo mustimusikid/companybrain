@@ -19,7 +19,8 @@ Walk this decision tree before filing any document. Read this file first.
 15. Is it about B2B partnerships or reseller process? → **operations/partnership/**
 16. Is it about external agency vendors or quotation process templates? → **operations/agency/**. Individual meeting notes → DB agency_meeting_minutes.
 17. Is it a company-wide strategy doc (OKRs, annual plan, direction)? → **operations/**, doc_type: strategy
-18. Nothing fits? → **inbox/**. Flag for re-filing.
+18. Is it a WhatsApp listener capture (a fact/decision/number pulled from a team chat message)? → **DB `captured_notes`**, classified by domain via this tree. Never the repo. Reaches a document only via human-gated promotion.
+19. Nothing fits? → **inbox/**. Flag for re-filing.
 
 ## Disambiguation
 - Sales script + product-specific → marketing/sales/ (sales is primary)
