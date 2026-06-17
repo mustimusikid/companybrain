@@ -23,3 +23,10 @@ Append-only. Never rewrite existing entries.
 - marketing/organic/sop-midi-editing.md — MIDI/backing-track sync SOP for private-student video content
 - product/academy/flow-customer-success-academy-online.md — academy member CS flow + 8 WA templates (per-domain filing, RESOLVER rule 5 over 11)
 - product/music-school/flow-customer-success-sekolah-musti-musik.md — music-school student CS flow + templates + pricing
+
+## 2026-06-17 (data purge)
+- Audited all 620 files; found ~156 mislabeled as doc_type:sop that are actually data records (slipped through the 2026-06-12 DB filter). Removed from repo — canonical home is DB/Drive/CRM/accounting. Recoverable via git history.
+- Categories removed: recording/video-link logs (~47), student homework/Q&A/answer keys (~45), member/registrant/lead/attendance rosters (~14), finance/order/settlement ledgers (~11), certificate merge tables (~9), dashboards/metric reports (~7), CVs + recruitment responses (~11 → DB hr_recruitment), trackers/survey data (~8), single-fact snippets (~3)
+- Kept (process docs in table form): all *-gantt-chart, worklist, rundown, project-plan; archive/** templates
+- File count: 620 → 464 markdown files
+- NOT deleted, flagged for human review: operations/finance/finance.md (actually an HR job description — recategorize to operations/hr/), operations/finance/untitled-document.md (images only), product/events/untitled-spreadsheet.md, borderline-keeps (donasi-masterclass, spt-pajak, competitor-analysis, road-map)
