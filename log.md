@@ -2,6 +2,17 @@
 
 Append-only. Never rewrite existing entries.
 
+## 2026-06-18
+- Marketing/tech SOP intake (7 source files → 7 new docs)
+- marketing/ads/meta-ads-sop.md — Meta/FB ads SOP (campaign structure, audiences, pixel, Orthodox Matrix, scaling, bidding, ad scripting)
+- marketing/ads/marketplace-ads-tiktok-shopee.md — TikTok Ads + Shopee Ads/CPAS
+- marketing/ads/youtube-analytics-sop.md — YouTube analytics & reporting SOP (thumbnails, retention, baseline)
+- marketing/ads/newsletter-sop.md — newsletter & email marketing SOP (Mailketing tutorial, metrics)
+- marketing/organic/ai-content-creation-module.md — AI content training (LLM basics, prompting, image/video/voice tooling, OpenClaw, 7-day roadmap)
+- operations/tech/n8n-setup-guide.md — n8n setup/workflow guide (filed to tech per RESOLVER #14, not marketing)
+- marketing/sales/sales-halo-ai-agent-spec.md — HALO AI CS/sales agent spec + full KB (Sekolah Musik, Akademi, Masterclass, PO Buku, Free Class) with live pricing
+- Borderline calls: AI Module → organic (content creation) over tech; Newsletter/YouTube → ads (Performance Marketing team SOPs) alongside existing performance-marketing.md / email-marketing-template.md
+
 ## 2026-06-12
 - Initial import from Google Drive (618 Excel + docx files audited)
 - Converted all docx → md, Excel SOPs → md, data files filtered to DB
