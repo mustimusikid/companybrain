@@ -614,3 +614,9 @@
 - [survey-pricing-bootcamp.md](product/paid-class/survey-pricing-bootcamp.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
 - [worklist-musti-musik.md](product/paid-class/worklist-musti-musik.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
 - [youtube-music-note-icon.md](product/paid-class/youtube-music-note-icon.md) — Paid class (bootcamp or other) SOP or product document for Musti Musik.
+
+## strategy/
+- [2026-06.md](strategy/2026-06.md) — Juni 2026 Strategy: Fondasi Data (current).
+- [2026-05.md](strategy/2026-05.md) — Mei 2026 Strategy: Scale Up Murid Privat.
+- [2026-04.md](strategy/2026-04.md) — April 2026 Strategy: Fill the Bench.
+- [2026-q1.md](strategy/2026-q1.md) — Q1 2026 Strategy: Attention to Retention.
