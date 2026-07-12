@@ -30,4 +30,5 @@ Walk this decision tree before filing any document. Read this file first.
 ## ETL Skip Rules
 - inbox/** → skip embedding, source_tier = inbox
 - **/archive/** → skip embedding, source_tier = archive
+- `status: Archive` (frontmatter) → skip embedding, source_tier = archive — same effect as living in `archive/`, so a doc can be retired without moving the file. See `schema.md` for full status/metadata rules.
 - Files missing frontmatter → skip, log error

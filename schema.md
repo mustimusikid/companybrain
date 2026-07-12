@@ -6,21 +6,84 @@
 title: Document Title
 domain_tag: [primary_domain, subdomain]
 doc_type: sop
+owner: Person Name
+status: Unknown
+confidentiality: Internal
+source: manual
+effective_date: YYYY-MM-DD       # optional — see rule below
+review_frequency: 90d            # optional
+superseded_by: other-file.md     # optional — only set on archived/outdated docs
 ---
 
 > One-line summary of what this document covers.
 
 ## Allowed doc_type values
-- `sop` — standard operating procedure, process guide, handbook
-- `strategy` — company strategy, OKRs, direction documents
-- `transcript` — meeting transcripts, interview notes
-- `rundown` — event rundowns, concert schedules, cue cards
+- `sop` — standard operating procedure, repeatable process, handbook chapter
+- `strategy` — direction-setting: goals, OKRs, vision/mission, why we're prioritizing X
+- `transcript` — raw/lightly-cleaned record of a meeting or interview, dialogue-like
+- `rundown` — timed sequence for ONE specific occurrence of an event
+- `reference` — knowledge sourced from OUTSIDE Musti Musik (course, book, benchmark), not our own process/decision
+
+### Decision tree (check in order, first match wins)
+1. Is this a record of what people actually said, in order, not deliberately structured? → **transcript**
+2. Does it have specific dates/times tied to ONE occurrence — not a template reused with new dates each time? → **rundown**
+   (Test: if you strip the dates, does it still read as "the way we always do X"? If yes, it's `sop`, not `rundown` — most of our recurring event gantt charts are `sop` for this reason, since teams copy the same file and just change dates each month.)
+3. Is this about deciding what to do / why (direction, priorities, positioning), not the steps to execute it? → **strategy**
+4. Did the content originate from an external source (training, book, competitor research) rather than our own process or decision? → **reference**
+5. Otherwise → **sop**
+
+### One document, multiple doc_types
+Don't force a mixed document into one label. Split it into separate files along its natural content boundaries (usually the existing `##` chapters), and give each file its own doc_type + metadata. Example — `Employee Handbook`:
+- Vision/Mission/History chapters → `strategy` (also a candidate for `confidentiality: External` — safe to share with candidates/public)
+- Culture Code chapter → `strategy`
+- HR Policy (attendance, leave, termination) → `sop`, `confidentiality: Internal`
+- Compensation Philosophy + pay grade tables → `sop`, `confidentiality: Internal` (most sensitive section — this is exactly why splitting matters, since one file can't hold two different confidentiality levels)
+
+If a chunk still resists clean classification after splitting as far as reasonably possible, just pick whichever type covers >50% of the content. Don't over-optimize for purity.
+
+## Owner vs Access — two different concerns, don't conflate
+- **`owner`** (frontmatter field, manual): the person accountable for keeping this document accurate. Used to know who to ping when a doc goes stale.
+- **Access** (NOT a frontmatter field): who is *allowed* to see this document. Computed at query time from `domain_tag` cross-referenced against a role→scope permission table living in Postgres (e.g. `hr_roles`: `ads_intern → [marketing, ads]`, `marketing_head → [marketing]`), tied to actual HR role data. Never written per-file — one small permission table governs all 464+ docs, so a role change or reorg doesn't require re-tagging every file. (Not yet built — this is a Foundation Phase design decision for implementation in the next phase.)
+
+## Status values
+- `Approve` — reviewed and confirmed accurate
+- `Draft` — work in progress, not yet vetted
+- `Archive` — superseded/no longer valid (see `superseded_by` below); has the same ETL effect as physically living in an `archive/` folder — skipped from embedding
+- `Unknown` — default for legacy bulk-imported docs that haven't been individually reviewed yet (this is the honest default for most of the June 12 migration — don't guess a status, label it `Unknown`)
+
+## Effective Date
+- **Required** when the document covers pricing, HR policy, or a dated campaign — content that can go stale in a way that actively misleads (e.g. an agent quoting an old price).
+- **Optional/blank** for evergreen process SOPs where "effective since" doesn't carry real meaning.
+
+## Confidentiality
+- `Internal` — default; not for external eyes
+- `External` — safe to share outside the company (recruiting material, public-facing "about us" content, etc.)
+
+## Source (closed enum — don't use free text)
+- `gdrive` — migrated from the original Google Drive during the June 12 bulk import
+- `manual` — written directly into the vault (Obsidian/GitHub) as an original document
+- `ai` — synthesized by an AI assistant from other raw material (spreadsheet, meeting notes, PDF)
+- `whatsapp` — promoted from the WhatsApp listener's `captured_notes` buffer
+- `external` — sourced from an external course, book, or training (pairs naturally with `doc_type: reference`)
+
+## Review Frequency (optional)
+- e.g. `30d`, `90d`, `365d` — how often this document type needs re-verification. Pairs with `last_reviewed` (below) to compute staleness: `now - last_reviewed > review_frequency` → flag for review.
+
+## Supersedes / Superseded_by
+- Set `superseded_by: <filename>` on the **old** document when a newer version replaces it (e.g. pricing changes: old file gets `status: Archive` + `superseded_by: harga-akademi-2027.md`). This gives anyone (human or agent) who lands on stale content — because it's still semantically similar and could surface in search — a clear pointer to current truth. Only set when applicable; most documents never need this field.
 
 ## Fields NOT in frontmatter (ETL-computed)
 - `repo_path` — computed from actual file path
-- `source_tier` — derived: inbox/ → inbox | archive/ → archive | else → db_tracked
-- `owner` — derived as domain_tag[0]
+- `source_tier` — derived: inbox/ → inbox | archive/ → archive | `status: Archive` → archive | else → db_tracked
 - `sha` — written by ETL from git
+- `last_reviewed` — the git commit date this file was last modified. This is an automatic proxy, not a guarantee of human verification — a doc can go untouched for years and still be correct, or get a typo fix that bumps the date without anyone actually re-checking the substance. Start with this free auto-computed value; only add a manual override field later if it proves insufficient in practice.
+
+## Migration Defaults (for existing 464 files, backfill pass)
+- `owner`: leave blank until assigned per-doc, or backfill from HR data later
+- `status`: `Unknown`
+- `confidentiality`: `Internal` (safe default until reviewed)
+- `source`: `gdrive` for anything from the June 12 import; `ai` for docs added afterward in AI-assisted batches
+- `last_reviewed`: no manual work needed — computed automatically from git
 
 ## Page Format
 

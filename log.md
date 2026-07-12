@@ -2,6 +2,16 @@
 
 Append-only. Never rewrite existing entries.
 
+## 2026-07-19
+- Expanded `schema.md` metadata design (decided w/ Dave + AI engineer Faris before Foundation Phase kickoff):
+  - Added `doc_type: reference` (external knowledge, not internal SOP) + explicit decision tree for sop/strategy/transcript/rundown/reference classification
+  - Added guidance: split mixed-doc_type files (e.g. Employee Handbook) into separate files by content boundary rather than force one label
+  - Split `owner` (manual, accountability) from `Access` (not a frontmatter field — computed at query time from domain_tag + a Postgres role→scope table, not yet built)
+  - Added `status` (Approve/Draft/Archive/Unknown), `confidentiality` (Internal/External), `source` (gdrive/manual/ai/whatsapp/external), `effective_date` (conditional), `review_frequency` (optional), `superseded_by` (optional)
+  - `last_reviewed` added as ETL-computed (git commit date), not manual frontmatter
+  - `status: Archive` now has the same ETL skip effect as the `archive/` folder — see RESOLVER.md
+  - No backfill executed yet on the 464 existing files — migration defaults documented in schema.md, actual backfill is Foundation Phase / Faris's work
+
 ## 2026-06-18
 - Marketing/tech SOP intake (7 source files → 7 new docs)
 - marketing/ads/meta-ads-sop.md — Meta/FB ads SOP (campaign structure, audiences, pixel, Orthodox Matrix, scaling, bidding, ad scripting)
