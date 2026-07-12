@@ -11,7 +11,7 @@ status: Unknown
 confidentiality: Internal
 source: manual
 effective_date: YYYY-MM-DD       # optional — see rule below
-review_frequency: 90d            # optional
+review_frequency: monthly
 superseded_by: other-file.md     # optional — only set on archived/outdated docs
 ---
 
@@ -29,8 +29,9 @@ superseded_by: other-file.md     # optional — only set on archived/outdated do
 2. Does it have specific dates/times tied to ONE occurrence — not a template reused with new dates each time? → **rundown**
    (Test: if you strip the dates, does it still read as "the way we always do X"? If yes, it's `sop`, not `rundown` — most of our recurring event gantt charts are `sop` for this reason, since teams copy the same file and just change dates each month.)
 3. Is this about deciding what to do / why (direction, priorities, positioning), not the steps to execute it? → **strategy**
-4. Did the content originate from an external source (training, book, competitor research) rather than our own process or decision? → **reference**
-5. Otherwise → **sop**
+4. Is this the repeatable process the team actually follows — regardless of where the knowledge originally came from? → **sop**
+   (Where it came from is a separate question, captured by the `source` field, not `doc_type`. Example: Meta Ads SOP originated from external training (`source: external`) but is now literally how the team runs ads — that makes it `doc_type: sop`, not `reference`.)
+5. Otherwise (external material we keep as background knowledge, not yet adopted as our own operating process) → **reference**
 
 ### One document, multiple doc_types
 Don't force a mixed document into one label. Split it into separate files along its natural content boundaries (usually the existing `##` chapters), and give each file its own doc_type + metadata. Example — `Employee Handbook`:
@@ -66,8 +67,17 @@ If a chunk still resists clean classification after splitting as far as reasonab
 - `whatsapp` — promoted from the WhatsApp listener's `captured_notes` buffer
 - `external` — sourced from an external course, book, or training (pairs naturally with `doc_type: reference`)
 
-## Review Frequency (optional)
-- e.g. `30d`, `90d`, `365d` — how often this document type needs re-verification. Pairs with `last_reviewed` (below) to compute staleness: `now - last_reviewed > review_frequency` → flag for review.
+## Review Frequency (required)
+Fixed enum — how often this document needs re-verification:
+`daily`, `weekly`, `monthly`, `quarterly`, `biannually`, `annually`, `evergreen`
+
+Pairs with `last_reviewed` (below) to compute staleness (`now - last_reviewed > review_frequency` → flag for review). `evergreen` means content that essentially never goes stale (e.g. Vision/Mission, external `reference` material) and is exempt from the staleness check.
+
+Suggested defaults by content type:
+- Pricing, active campaigns, discount codes → `weekly` or `monthly`
+- HR policy, compensation → `quarterly` or `biannually`
+- Process SOPs (event playbooks, production flows) → `annually`
+- Vision/Mission/Culture, `reference` docs → `evergreen`
 
 ## Supersedes / Superseded_by
 - Set `superseded_by: <filename>` on the **old** document when a newer version replaces it (e.g. pricing changes: old file gets `status: Archive` + `superseded_by: harga-akademi-2027.md`). This gives anyone (human or agent) who lands on stale content — because it's still semantically similar and could surface in search — a clear pointer to current truth. Only set when applicable; most documents never need this field.
@@ -83,6 +93,7 @@ If a chunk still resists clean classification after splitting as far as reasonab
 - `status`: `Unknown`
 - `confidentiality`: `Internal` (safe default until reviewed)
 - `source`: `gdrive` for anything from the June 12 import; `ai` for docs added afterward in AI-assisted batches
+- `review_frequency`: default `quarterly` if the doc_type-based suggestion above doesn't obviously apply; adjust per-doc during backfill where it matters (pricing/campaign docs especially)
 - `last_reviewed`: no manual work needed — computed automatically from git
 
 ## Page Format
