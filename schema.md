@@ -128,8 +128,15 @@ frontmatter → > summary → compiled truth sections → ---
 → ## Changelog (append-only, reverse chronological)
 
 ## Chunking Convention
-- `##` heading = chunk boundary for ETL ingest into knowledge_chunks
-- `###` sub-headings stay within their parent `##` chunk
+
+### Heading levels — this determines what the AI can actually retrieve
+- **H1 (`#`)** — not used in the body, or used exactly once at the very top matching the frontmatter `title`. Never use multiple H1s to divide a document into different topics — they are NOT chunk boundaries and won't split correctly.
+- **H2 (`##`)** — **the chunk boundary.** Every distinct topic/process gets its own `##`. This is the actual unit an agent retrieves and hands to the user, so each `##` section should make sense read on its own, without needing the rest of the document for context.
+- **H3 (`###`)** — sub-points inside one `##` topic; stays attached to its parent chunk, doesn't create a new one. Fine for breaking up a long section into readable sub-parts.
+- **H4+** — avoid. Needing this much depth is usually a sign the `##` section above it is too broad and should be split into separate `##` sections instead.
+- **Common mistake to check for:** a document that divides its topics with `# Chapter N: ...` (H1) instead of `##`, with no H2 subheadings inside each chapter. Per the rule above, this means the file has no real chunk boundaries at all — it either fails to chunk or becomes one oversized blob. If you find one of these, it's a strong signal the file should be split into separate files (see "One document, multiple doc_types" above), each using `##` internally for its own sub-topics.
+
+### Chunk size
 - Minimum chunk: ~50 words (merge short sections with next)
 - Maximum chunk: ~500 words (split long sections at paragraph boundary)
 - Keep `##` sections focused: one process or concept per section
