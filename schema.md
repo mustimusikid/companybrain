@@ -6,11 +6,11 @@
 title: Document Title
 domain_tag: [primary_domain, subdomain]
 doc_type: sop
-owner: Person Name
+owner: marketing_head            # role, not a person's name — see Owner section
 status: Unknown
 confidentiality: Internal
 source: manual
-effective_date: YYYY-MM-DD       # optional — see rule below
+effective_date: YYYY-MM-DD       # ISO 8601 date format, required for this field whenever it's set
 review_frequency: monthly
 superseded_by: other-file.md     # optional — only set on archived/outdated docs
 ---
@@ -43,8 +43,9 @@ Don't force a mixed document into one label. Split it into separate files along 
 If a chunk still resists clean classification after splitting as far as reasonably possible, just pick whichever type covers >50% of the content. Don't over-optimize for purity.
 
 ## Owner vs Access — two different concerns, don't conflate
-- **`owner`** (frontmatter field, manual): the person accountable for keeping this document accurate. Used to know who to ping when a doc goes stale.
-- **Access** (NOT a frontmatter field): who is *allowed* to see this document. Computed at query time from `domain_tag` cross-referenced against a role→scope permission table living in Postgres (e.g. `hr_roles`: `ads_intern → [marketing, ads]`, `marketing_head → [marketing]`), tied to actual HR role data. Never written per-file — one small permission table governs all 464+ docs, so a role change or reorg doesn't require re-tagging every file. (Not yet built — this is a Foundation Phase design decision for implementation in the next phase.)
+- **`owner`** (frontmatter field): **a role, not a person's name** — e.g. `marketing_head`, `academy_head`, `finance_head`. Sales SOPs are owned by `marketing_head` (there's no separate Sales Head), etc. Using a role instead of a name means owner stays correct through staff turnover — nobody needs to bulk-edit files just because someone changed jobs or left. Owner values should be drawn from the **same canonical role list** used for Access below — one source of truth for roles, not two lists that can drift apart.
+  - Since owner is now role-based, it's largely **auto-suggestible**: the role that heads a document's `domain_tag` (via the same role→scope table used for Access) is usually the right owner — the system can pre-fill it, and a human only needs to override for edge cases (e.g. a sub-domain with its own lead distinct from the parent division head).
+- **Access** (NOT a frontmatter field): who is *allowed* to see this document. Computed at query time from `domain_tag` cross-referenced against the same role→scope permission table living in Postgres (e.g. `hr_roles`: `ads_intern → [marketing, ads]`, `marketing_head → [marketing]`), tied to actual HR role data. Never written per-file — one small permission table governs all 464+ docs, so a role change or reorg doesn't require re-tagging every file. (Not yet built — this is a Foundation Phase design decision for implementation in the next phase.)
 
 ## Status values
 - `Approve` — reviewed and confirmed accurate
@@ -89,12 +90,33 @@ Suggested defaults by content type:
 - `last_reviewed` — the git commit date this file was last modified. This is an automatic proxy, not a guarantee of human verification — a doc can go untouched for years and still be correct, or get a typo fix that bumps the date without anyone actually re-checking the substance. Start with this free auto-computed value; only add a manual override field later if it proves insufficient in practice.
 
 ## Migration Defaults (for existing 464 files, backfill pass)
-- `owner`: leave blank until assigned per-doc, or backfill from HR data later
+- `owner`: auto-suggest from the role that heads the doc's `domain_tag` (via the role→scope table); human confirms or overrides for sub-domain edge cases
 - `status`: `Unknown`
 - `confidentiality`: `Internal` (safe default until reviewed)
 - `source`: `gdrive` for anything from the June 12 import; `ai` for docs added afterward in AI-assisted batches
 - `review_frequency`: default `quarterly` if the doc_type-based suggestion above doesn't obviously apply; adjust per-doc during backfill where it matters (pricing/campaign docs especially)
 - `last_reviewed`: no manual work needed — computed automatically from git
+
+## Who Edits What: Manual vs AI-Assisted vs Fully Automated
+Three tiers, not two — most fields aren't "type it from scratch" for a human, they're "confirm what the system already suggested":
+
+**Strictly human (AI can't do this, don't try):**
+- The actual document content/process knowledge itself
+- Final `status: Approve` stamp — someone has to vouch it's correct
+- HR role assignments (a separate system action, not a per-doc edit)
+
+**AI-assisted, human confirms (the system suggests, human clicks agree/override):**
+- `title`, `domain_tag`, `doc_type` — suggested via the decision tree above
+- `owner` — suggested from domain_tag → role table lookup
+- `effective_date` — extracted from the text when a date is explicitly mentioned
+- `superseded_by` — suggested via similarity search against existing docs
+- `confidentiality` — suggested from content patterns, but `External` specifically always needs an explicit human confirm given the leak risk
+- `review_frequency` — suggested from the doc_type defaults above
+
+**Fully automated, no review needed:**
+- `repo_path`, `source_tier`, `sha`, `last_reviewed` — ETL-computed
+- `source` — inferable from which ingestion pipeline the content came through (e.g. `whatsapp` if promoted from a WA capture, `ai` if AI-drafted)
+- Access — computed at query time, never touches individual files
 
 ## Page Format
 
