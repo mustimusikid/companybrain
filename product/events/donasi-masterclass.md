@@ -1,10 +1,17 @@
 ---
 title: Donasi Masterclass
-domain_tag: [operations, finance]
-doc_type: sop
+domain_tag: [product, marketing]
+doc_type: strategy
+owner: finance_head
+status: Archive
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: monthly
+superseded_by:
 ---
 
-> Finance SOP or accounting guide for Musti Musik operations.
+> Analisis & simulasi model pricing PWYW (Pay What You Want) + donasi untuk campaign Christmas Piano Masterclass. Sudah archived, tidak lagi jadi referensi aktif.
 
 PWYW
 PAY WHAT YOU WANT PRICING MODEL

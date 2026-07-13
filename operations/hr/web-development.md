@@ -2,20 +2,25 @@
 title: Web Development
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template deskripsi pekerjaan role Web Development Intern — tanggung jawab dan kualifikasi yang dicari.
 
-Job description
 We're Hiring! Web Development Intern Wanted at Musti Musik
 
-Tentang Kami
 Musti Musik adalah start-up edutech edukasi piano jazz dan worship dengan 300+ premium membership dari seluruh Indonesia.
 
-Role:** Web Development Intern**
+Role: **Web Development Intern**
 Location: Remote
 
-**Key Responsibilities:**
+## Key Responsibilities
 1. Website Landing Page Musti Musik (Wordpress)
 - Mengelola tampilan landing page
 - Mengatur page webinar

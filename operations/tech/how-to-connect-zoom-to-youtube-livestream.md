@@ -1,10 +1,17 @@
 ---
 title: How To Connect Zoom To Youtube Livestream
-domain_tag: [operations, hr]
+domain_tag: [operations, tech]
 doc_type: sop
+owner: tech_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: annually
+superseded_by:
 ---
 
-> General operations or company policy document for Musti Musik.
+> Tutorial teknis menyambungkan Zoom ke YouTube Livestream — syarat akun, aktivasi fitur, cara live & stop, troubleshooting, dan ganti channel YouTube.
 
 **HOW TO CONNECT ZOOM TO YOUTUBE LIVESTREAM**
 

@@ -2,9 +2,16 @@
 title: Deskripsi Kerja Alfa
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template contoh pengisian form deskripsi kerja (job desc) — uraian tugas, jenis tugas, dan frekuensi tugas.
 
 ## Contoh Pengisian
 
@@ -22,16 +29,3 @@ doc_type: sop
 |  | Membuat rekapitulasi laporan pegawai baru dan monitoring pengisian posisi kosong |  | Tugas Bulanan | Insidental |
 |  | Memonitor penilaian pegawai masa percobaan, memastikan telah dilakukan mentoring, dan tindak lanjut hasil percobaan untuk diangkat atau tidak dan dicarikan kandidat pengganti |  | Tugas Tahunan | Insidental |
 |  |  |  | Tugas Harian | Rutin |
-
-## Form
-
-|  | Nama | Muhammad Alfadino |  |  |
-| --- | --- | --- | --- | --- |
-|  | Departemen | Video Editor |  |  |
-|  | Lingkup Tangggung Jawab Pekerjaan | Mengedit short dan long form |  |  |
-| NO | URAIAN & TAHAPAN TUGAS |  | JENIS TUGAS | FREKUENSI TUGAS |
-|  |  |  | Harian / Mingguan /  Bulanan / Tahunan | Rutin / Insidental |
-| 1 | Bertanggung Jawa untuk Editing Free Class |  | Mingguan (Jumat) | Rutin |
-| 2 | Bertanggung Jawa untuk Editing Reels (Jika diperlukan untuk chord, minta bantuan dari Chrystian) dan memastikan sudah diupload untuk diberikan saran |  | Harian (Senin-Jumat) | Rutin |
-| 1900-01-03 00:00:00 | Bertanggung Jawa untuk Editing Performance (Ads) |  | Hanya jika diberikan | Insidental |
-| 4 | Bertanggung Jawa untuk Editing Webinar dan Member Area |  | Hanya jika diberikan | Insidental |

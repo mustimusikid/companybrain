@@ -2,14 +2,22 @@
 title: Machine Learning
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template deskripsi pekerjaan role Machine Learning Intern — tanggung jawab dan kualifikasi yang dicari.
 
 Role: **MACHINE LEARNING INTERN**
-Profile perusahaan:
+
 Musti Musik adalah edtech startup yang bergerak di bidang edukasi musik. Misi kami adalah untuk memberikan edukasi berkualitas di jazz dan gospel piano.
-Tanggung Jawab:
+
+## Tanggung Jawab
 Data Analysis:
 Mengatur pipeline untuk memastikan data dapat diakses secara konsisten dan akurat
 Melakukan data cleaning dan preprocessing untuk memastikan kualitas data
@@ -23,7 +31,8 @@ Mengembangkan model audio classification
 Mengimplementasikan pipeline untuk mendeteksi chord per segmen dan menyusunnya kembali ke level lagu penuh
 Mengevaluasi performa model menggunakan metrik seperti accuracy, F1-score, precision, dan recall
 Mengintegrasikan model ke dalam aplikasi berbasis audio untuk memberikan hasil prediksi chord secara batch processing
-Persyaratan:
+
+## Persyaratan
 Saat ini terdaftar sebagai mahasiswa S1/fresh graduate jurusan Teknik Informatika, Ilmu Komputer
 Keinginan yang kuat untuk belajar dan berkembang
 Mahir dalam Bahasa Pemrograman Python
@@ -33,7 +42,8 @@ Memiliki pemahaman dasar tentang piano (optional)
 Memiliki minat dan ketertarikan pada musik
 Mahir dalam aplikasi Google Office (Docs, Sheets, Slides)
 Mampu berkolaborasi dalam tim
-Manfaat:
+
+## Manfaat
 Gaji yang kompetitif
 Pengalaman praktis di industri machine learning
 Kerja remote dan fleksibel, berorientasi pada hasil

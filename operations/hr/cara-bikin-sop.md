@@ -2,9 +2,16 @@
 title: Cara Bikin Sop
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: annually
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Panduan internal cara membuat SOP — 4 bentuk SOP (video/tutorial, steps, checklist, frekuensi) dan kapan pakai yang mana.
 
 CARA BIKIN SOP
 ![image6.jpg](CARA BIKIN SOP_images/image6.jpg)
@@ -12,7 +19,7 @@ CARA BIKIN SOP
 
 ***Semua divisi wajib membuat playbook atau SOP dalam mengerjakan tugasnya. ***
 
-# APA ITU SOP DAN KENAPA PENTING?
+## APA ITU SOP DAN KENAPA PENTING?
 SOP konotasinya kek peraturan panjang berhalaman - halaman yang ga penting, tapi sebenarnya enggak loh
 
 ## SOP ada 4 bentuk :
@@ -28,6 +35,7 @@ SOP juga berguna untuk **TURUNIN SKILL** kalian ke orang baru! Banyak bgt disini
 Tanpa SOP mereka, kalian pasti bakal lama bgt nge catch up
 Jadi everything yang sifatnya untuk bikin KONSISTEN itu SOP namanya, mau sedikit apa checklistnya ataupun sedetail apapun
 Kek contohnya, konten formatnya hook - body - cta, itu juga merupakan SOP, biar setiap konten dipikirin formatnya
+
 ## Cara membuat SOP ada 4 cara berbeda, masing-masing tergantung dengan sifat dari tugasnya
 
 Tutorial:

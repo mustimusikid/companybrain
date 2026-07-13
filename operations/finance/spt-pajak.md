@@ -2,14 +2,20 @@
 title: Spt Pajak
 domain_tag: [operations, finance]
 doc_type: sop
+owner: finance_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: annually
+superseded_by:
 ---
 
-> Finance SOP or accounting guide for Musti Musik operations.
+> Tutorial mengisi SPT Tahunan Pajak Orang Pribadi (formulir DJP/Coretax) — konsep, formulir, harta vs hutang, hitung, dan lapor.
 
-SPT Orang Pribadi
 **SPT PPH ORANG PRIBADI**
 
-PENDAHULUAN
+## Pendahuluan
 Kenapa harus lapor SPT Tahunan Orang Pribadi?
 Untuk melaporkan penghasilan2 ‘tambahan’ (biasanya buat org yg penghasilannya > 1 atau penghasilan yg blm tercapture DJP)
 
@@ -25,7 +31,7 @@ Melaporkan perhitungan
 Melaporkan penghasilan
 Melaporkan harta dan hutang
 
-FORMULIR SPT ORANG PRIBADI
+## Formulir SPT Orang Pribadi
 ![image17.png](SPT PAJAK_images/image17.png)
 
 L1 = Lampiran 1
@@ -67,19 +73,20 @@ Isi induk dulu
 
 ![image31.png](SPT PAJAK_images/image31.png)
 
-STATUS WAJIB PAJAK
+## Status Wajib Pajak
 KK (kepala keluarga)
 HB (hidup berpisah)
 PH (pisah harta)
 MT (memilih terpisah)
 
-KONSEP SPT ORANG PRIBADI
+## Konsep SPT Orang Pribadi
 Daftar
 Hitung
 Bayar
 Lapor
 
-DEFINISI PENGHASILAN - tambahan kemampuan ekonomis dari dalam maupun luar
+## Definisi Penghasilan
+Tambahan kemampuan ekonomis dari dalam maupun luar.
 ![image34.png](SPT PAJAK_images/image34.png)
 
 ![image33.png](SPT PAJAK_images/image33.png)
@@ -99,7 +106,7 @@ Kunci -> klasifikasikan penghasilan dengan benar
 
 ![image20.png](SPT PAJAK_images/image20.png)
 
-HARTA VS HUTANG
+## Harta vs Hutang
 ![image23.png](SPT PAJAK_images/image23.png)
 
 Saldo bank yg diisi hrsnya adalah saldo bank di 31 des tahun yg dilaporkan
@@ -121,7 +128,7 @@ Cara laporin saham → pake historical cost (harga beli)
 
 ![image3.png](SPT PAJAK_images/image3.png)
 
-HITUNG SPT TAHUNAN ORANG PRIBADI
+## Hitung SPT Tahunan Orang Pribadi
 ![image2.png](SPT PAJAK_images/image2.png)
 
 Identifikasi penghasilan kita itu dari siapa aja? Invest/gaji/apa?
@@ -130,7 +137,7 @@ Rekap bukti potong yg dipotong PIHAK LAIN
 
 Bingung di masa yg hrs dimasukin
 
-PENGHASILAN NETO
+## Penghasilan Neto
 ![image5.png](SPT PAJAK_images/image5.png)
 ![image4.png](SPT PAJAK_images/image4.png)
 
@@ -142,7 +149,7 @@ Nppn?
 
 ![image13.png](SPT PAJAK_images/image13.png)
 
-LAPOR SPT TAHUNAN ORANG PRIBADI
+## Lapor SPT Tahunan Orang Pribadi
 
 ![image15.png](SPT PAJAK_images/image15.png)
 ![image41.png](SPT PAJAK_images/image41.png)

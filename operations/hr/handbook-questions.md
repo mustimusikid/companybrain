@@ -2,10 +2,18 @@
 title: Handbook Questions
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Kuis pilihan ganda untuk final examination onboarding new hires, berdasarkan isi Employee Handbook (visi, produk, core values, culture code).
 
+## Handbook Quiz
 Apa tujuan dari handbook Musti Musik?
 A) Untuk mencantumkan aturan dan regulasi
 B) Untuk memberikan gambaran umum tentang bisnis dan menginspirasi pertanyaan

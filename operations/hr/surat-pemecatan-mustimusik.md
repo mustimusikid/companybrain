@@ -2,11 +2,18 @@
 title: Surat Pemecatan Mustimusik
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: annually
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template surat pemutusan hubungan kerja (PHK) — placeholder nama, alasan, tanggal, dan kompensasi.
 
-![image6.emf](Surat Pemecatan_MUSTIMUSIK_images/image6.emf)
+## Surat Pemutusan Hubungan Kerja
 
 **Musti**** ****Musik**
 **Jl**** Surya ****Widuri**** IV, ****Kedoya**** Selatan, ****Kebon**** ****Jeruk**

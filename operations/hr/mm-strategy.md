@@ -2,9 +2,16 @@
 title: Mm Strategy
 domain_tag: [operations, hr]
 doc_type: strategy
+owner: hr_head
+status: Draft
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: monthly
+superseded_by:
 ---
 
-> General operations or company policy document for Musti Musik.
+> Product mapping/pricing, kutipan "Scaling Up", dan tracking business development (networking targets, venue, gereja, sekolah, affiliate music store) dengan kontak dan draft outreach.
 
 ## Product Mapping
 

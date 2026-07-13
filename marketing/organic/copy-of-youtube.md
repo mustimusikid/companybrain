@@ -1,16 +1,19 @@
 ---
-title: Copy Of Youtube 1
-domain_tag: [operations, hr]
-doc_type: sop
+title: Copy Of Youtube
+domain_tag: [marketing, organic]
+doc_type: reference
+owner: marketing_head
+status: Draft
+confidentiality: Internal
+source: external
+effective_date:
+review_frequency: evergreen
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Catatan referensi strategi YouTube — title, thumbnail, scriptwriting, description & tags, search, frequency, playlist, community posts, analytics (CTR, AVD, APV, AVPV, retention), launching & promotion konten.
 
-YouTube
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**YouTube**
-
-Timeless YouTube Advice:
+## Timeless YouTube Advice
 Traffic source is the key to understanding your viewer and their behavior.
 Always prioritize your strategy for recommendation, since it accounts for 75% of all YouTube traffic.
 Optimize for mobile first. Mobile traffic accounts for 70% of daily Watch time. Switch to your mobile device and go back to experience your video the way your viewer experiences it. When you look at YouTube from your viewer's perspective, you'll be super sensitive to how they behave and what works for them. You'll likely notice things you can change to optimize their viewing experience when you watch how they watch.
@@ -41,10 +44,7 @@ YouTube Analytics
 Launching Content
 Promotion Video
 
-TITLE
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**TITLE**
-
+## Title
 Once we grab the viewer's attention with the thumbnail, we have 1.8 seconds to make an impression with our titles
 I try to imagine how the viewer will talk about the video after watching it, even creating imaginary conversations in my mind…. “Did you see that MrBeast video where he ate the world's largest slice of pizza?” If the title is easy to remember, simple to explain, and easy for the viewer to share, you've given your video a better chance of success. This is powerful.
 **Use active voice.** Active voice titles are effective on YouTube because they are clear, to the point, and can be easily understood.
@@ -86,10 +86,7 @@ VidIQ Boost is designed to help you find topics and keywords for your videos
 Kickass Headline Generator is one of my favorite tools to brainstorm.
 Portent Content Idea Generator isn't as robust as Kickass Headline Generator, but you can put in a subject or topic and it will come up with clickable title ideas
 
-THUMBNAIL
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**THUMBNAIL**
-
+## Thumbnail
 An impression happens when a viewer is able to see a title and thumbnail for at least one second.
 The more impressions you get, the lower your CTR. So don't freak out that your CTR percentage is dropping when your impressions and views go up. That's a good thing because YouTube is showing it to more viewers outside your “normal audience.”
 Experimen hook itu bisa pake FB Ads pake A/B testing, trus dipake buat YouTube
@@ -103,7 +100,7 @@ The best thumbnails include an object and a person.
 ![image19.png](Copy of YouTube_images/image19.png)
 — Split Testing
 To run a split test, click on a video in your library and add a secondary thumbnail with a subtle variation, like changing a background color. It doesn't work as well if you use a completely different thumbnail variation. After the test has run its course, look at which thumbnail performed better, and more specifically, where the traffic was coming from. Be careful not to take a quick glance and make a rash decision; the numbers can be deceiving if you don't look at them right.
-# Research Thumbnail
+**Research Thumbnail (contoh creator):**
 Adam Neely:
 ![image51.png](Copy of YouTube_images/image51.png)
 Charles Cornell:
@@ -128,17 +125,14 @@ Davie504
 ![image3.png](Copy of YouTube_images/image3.png)
 Eka Gustiwana
 ![image4.png](Copy of YouTube_images/image4.png)
-# Visual Guideline:
+**Visual Guideline:**
 ekspresinya over ekspresif
 pake teks yg dibold
 comparison something to another one
 ⁠nampilin figure/character terkenal
 visual pendukung fokus kaya buletan atau panah merah
 
-SCRIPTWRITING
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**SCRIPTWRITING**
-
+## Scriptwriting
 Humans respond to storytelling. Your video should have a story arc. It should begin with you delivering on the promise of your title and thumbnail. After that, you need to reengage the viewer and pull them into your content. This is a great time to share the personal touches: your backstory, your beliefs, and other engaging elements. Doing things like sharing your beliefs puts your viewers in a position to decide whether they agree with you. At the end of the video, you again deliver on the promise of the title and thumbnail, proving that they got what they came for, and you tease a follow‐up video to keep them watching longer. Finally, you interact with your viewers and respond to comments.
 ![image7.png](Copy of YouTube_images/image7.png)
 The third element of the story arc is called the setup. It's the part of the video where you set up the coming climax, and it's another point of reengagement with the viewer
@@ -151,18 +145,12 @@ start commenting about how big and fluffy the bun is. Setup: Ten seconds into th
 Wrap‐up: In the closing seconds, the announcer says, “You want something better. You're Wendy's kind of people.” The company wants to help you and the cute little old ladies, all while making you chuckle. Doesn't that make you feel good?
 Pattern Interrupts Pay attention to natural breaks when you watch videos on YouTube. Notice when you start to get bored or distracted. Do this on your own videos, too. That point where you start to disconnect is when you want to implement a pattern interrupt. A pattern interrupt resets your mind to behaviors or situations in the video. You can do this with new information that teases what's coming later in the video. You can interrupt by saying or doing something funny. You can add juxtapositions like a clip of something else, add a sound effect, or even simply clap your hands or change your voice. The most powerful technique is changing the camera's position with different angles or zoom. Look at your video's peaks and valleys in your metrics and add a pattern interrupt in the valleys to reengage.
 
-DESCRIPTION & TAGS
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**DESCRIPTION & TAGS**
-
+## Description & Tags
 The description, besides giving good keywords for Search and a summary of the video, also tie in links to other videos and playlists.
 The right keywords in your description will help you get more views and visibility in search. “Above the fold” is the most important part of the description because it's what people see first and what the algorithm sees first.
 Below the fold is a great place for links to other videos, links to your socials, relevant tags, and timestamps. A word of warning here, do not reuse the exact same description over and over; the algorithm doesn't like it.
 Write relevant tags. Tags are less important than your title, thumbnail, and description, but they still help, especially if some of those words are often misspelled by people. For tags, use your primary and secondary keywords and other relevant words. Stay under 300 characters in your tags. TubeBuddy is a great tool to show you relevant tags based on your current video's content.
-SEARCH
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**SEARCH**
-
+## Search
 Make a list of all the frequently asked questions that people ask in their niche or business
 I had him think about every possible question he had ever been asked and had him add them all to his list.
 Next, I want you to make a list of questions that people should ask you. These are your SAQs, or should ask questions.
@@ -170,56 +158,35 @@ In this video, you also should bring in an SAQ that relates to the FAQ at hand. 
 MatPat,” is a YouTube creator who has successful channels in a variety of genres. He uses Search well as a funnel. For example, if you search “Do video games cause violence?” MatPat's video “Do Video Games Cause Violence? It's Complicated” tops results including serious science and news channels. But what's important is what you see after you click on his video—several of his other videos suggested to watch next. He now has a new viewer consuming his content.
 This works for businesses, too. Gillette, the razor company, made a video to answer the question, “How to shave.” They made a whole series of videos to provide solutions for any kind of shaving issue a person might have
 
-FREQUENCY
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**FREQUENCY**
-
+## Frequency
 Some creators think releasing as much content as possible gives them the best opportunity to be seen. While this can be true in certain situations, like for kids' content and gaming content, it can be detrimental to your own content. Multiple uploads too close together means the algorithm has to pick one to push. And when it picks one, what happens to the other? Traffic jam. One gets through, but the rest come to a complete stop.
 Rather than trudging through an endless daily grind, figure out how to tie your content together. Do a series of videos so people have to watch all to get a complete story. Or you can have a recurring theme. This will help you build a bigger video library, which increases your opportunity for growth on the golden Suggested feed. Then you won't be relying solely on your Browse traffic to carry the weight of your entire channel.
 
-PLAYLIST
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**PLAYLIST**
-
+## Playlist
 Every new video uploaded to YouTube gets a digital ID. The ID is like a digital fingerprint. In addition, when you create a playlist, that playlist also gets an ID, as does adding a video to an existing playlist. When you add videos together in a playlist, this tactic to get viewers to binge watch works really well because viewers watch them in a specific order.
 Also, YouTube notices the IDs that are grouped together. So if someone is watching a video that was tied in from a playlist, then there is a higher probability that the algorithm will plug in that related video to the recommendation feed.
 By creating a playlist meant to be watched sequentially and tailored to your viewer, you are creating an environment that will get you your best Watch time. Which means the AI will usually start recommending those videos to be watched in that order as the next up.
 
-COMMUNITY POSTS
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**COMMUNITY POSTS**
-
+## Community Posts
 The YouTube Community tab is a feature designed to help creators engage with their audience outside of the videos that they upload to their channel. Types of Community posts include polls, text‐based posts, and images. It's a great place to promote older videos or merchandise or other products that you sell. It's also a great place to ask your audience about ideas for different videos.
 YouTube pushes your Community posts and Stories to both subscribers and nonsubscribers.
 
-YOUTUBE BUCKETS
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**YOUTUBE BUCKETS**
-
+## YouTube Buckets
 Once you understand which niche you fall under, you can break down your own channel with video buckets. Breaking down your content into categories helps your audience know exactly what they're going to get with a particular type of video, and they get their payoff when you deliver.
 How to Create Buckets How do you put a video “in the bucket?” Once you've labeled your content buckets by topic or theme, make sure the videos that are grouped together have similar metadata. They should have similar titles, keywords, descriptions, and tags. The videos should be similarly structured as well. The framework, pacing, and editing should follow specific patterns.
 Real Lawyer Reacts to _____ Real Life, Real Law Reviews Real Lawyer Responds to ____ Laws Broken ____ Law 101! Real Lawyer Versus Experimental
 Legal Eagle buckets
-ENDSCREEN
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**ENDSCREEN**
-
+## Endscreen
 Another great way to create a data relationship among your videos is to put your top performing videos as endscreens and cards on related videos.
 In your cards and endscreens, choose a video from your library that the viewer is more likely to be interested in. I call this the target video. Think about your target video in preproduction along with your title and thumbnail, because connecting your data and your buckets is your ultimate goal. I also use a feature on endscreens called “best for viewer” that lets the algorithm choose a video from my library that it thinks that particular viewer is likely to watch. Use this to supplement, not replace, your target video suggestion. In addition, take the last 8 to 10 seconds to use a verbal call to action asking them to watch the target video
 
-UPLOAD
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**UPLOAD**
-
+## Upload
 Add tags. Include tags with keywords from your video's title and description, for starters. Then you can choose your language and closed captioning (CC) preferences
 TubeBuddy is an extension that gives so many helpful tools to optimize your videos and save you a ton of time
 Power tip #1: Use closed‐captioning (CC). But not YouTube's auto CC, because it can hurt your ranking and CPMs; it's just not very good
 Power tip #2: Use default profiles on TubeBuddy. This has saved me hours and hours of time over the years. It allows you to save your most used tags and descriptions, which you can go in and tweak depending on the current video, but you won't have to start from square one.
 
-TWEAKING CONTENT
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**TWEAKING CONTENT**
-
+## Tweaking Content
 You need to analyze and adjust in two ways: in real time, and in strategizing for future content. In order to do this, you have to know how your content is performing in relation to how it performs on average.
 Your small tweaks can significantly change the trajectory of your video. But you have to know your baselines in order to know what to tweak.
 How to Determine Your Baselines
@@ -235,18 +202,12 @@ The Suggested feed requires slow and steady consistency and small tweaks. In you
 — Small Tweaks
 Changing something usually means swapping out a thumbnail image first to see if that does the trick. If you watch your baselines after the swap and it doesn't fix it, then you can tweak your title and watch your baselines again. If this still isn't working, you can go back and swap out yet another thumbnail
 
-SCHEDULE
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**SCHEDULE**
-
+## Schedule
 Creators need to follow a consistent schedule with uploading at the right time on the right days.
 Each creator has to test upload timing with their specific content to see what works best with their own audience.
 Punya @davehenokhmusic:
 ![image6.png](Copy of YouTube_images/image6.png)
-WATCH TIME
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**WATCH TIME**
-
+## Watch Time
 Your goal is to find patterns and improve future content. Check your AVD in the video's first hour after upload, the first day, first week, first 30 days, and longer. Ask yourself what happened in the most engaging parts of your video. Did you use a call to action? Did you say or do something funny? Did you add an endscreen, suggest another video, or use an interesting filming or editing technique? Did you say a trigger phrase? Trigger phrases can reengage or disengage your audience, so make sure you do the former. Say things like, “Don't miss the bonus tip at the end of the video,” not, “That's it for now.”
 For monitoring how long viewers stay on your video, there is a metric called average view duration, or AVD. If you have a 10‐minute video and YouTube says your AVD is 2:30, that means on average your viewers watch 2 minutes and 30 seconds of your video. In case you're wondering, this is not a good AVD. The second metric to look at for retention is called average view percentage, or AVP. This is the average percentage of the video that people watch before leaving. So if your AVP says 63%, this means that on average your viewers watch 63% of the total video before leaving. AVD and AVP do not match up perfectly because of the way people consume your video. For instance, I watch all videos at 2× speed. So on a 10:00 video, my AVD would be 5:00, but my AVP would be 100%. For long‐term channel growth, these two metrics are key. The title and thumbnail will get you views, but AVD and AVP will get you Watch time and the right kind of audience.
 The “hockey stick” effect shown in Figure 16.1 happens when viewers come on and quickly leave. It's what happens when there is a disconnect between your title and thumbnail and what the viewer expected to see in the first 15 seconds of the video. The “slow burn” effect shown in Figure 16.2 occurs when viewers come on and slowly leave over the length of the video. You want the line to be as flat as possible, so you're getting closer to the most optimal graph.
@@ -254,32 +215,20 @@ The “hockey stick” effect shown in Figure 16.1 happens when viewers come on 
 ![image13.png](Copy of YouTube_images/image13.png)
 ![image15.png](Copy of YouTube_images/image15.png)
 The points of “rise” are where your content is performing well with your audience. Analyze what's going on in that point of the video so you can do more of it. Then look at the “fall” points, and analyze what was going on in your content to make people leave.
-AVPV
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**AVPV**
-
+## AVPV
 To know how well you connect with your viewers, you need to study your average views per viewer, or AVPV. The AVPV is the average number of times a viewer watched any video on your channel (in channel analytics) or this particular video (in video analytics). This metric gives you an in‐depth understanding of whether your content really connects with your audience. When you focus on the viewer and create entertaining content that connects, you can increase the amount of videos a viewer will watch over a period of time.
-50%/30% RULE
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**50%/30% RULE**
-
+## 50%/30% Rule
 The 50% Rule On your retention graph, look for where 50% of the viewers leave the video, and go watch that part of your content to try to understand why people left at that point. You literally just lost half of your viewers. That's not a good thing. You want to retain as many people to the end of your video as possible. So if you can figure out where you lost half, you can figure out what you should change or avoid in your next video
 Look at your endings and outros, too. Keep them short with the goal of getting the viewers to watch another video, preferably yours, fast. Have a verbal call to action and a link to another video that is relevant. You can put it as a description, a pinned comment, or as an endscreen element—it just depends on the content.
 The 30% Rule After you look at the 50% dropoff, go back and do it again at the spot where you lost the first 30% of your viewers. It's usually in the first 30 to 60 seconds of the video. Figure out what triggered this drop so you can see how to adjust based on the data. Again, implement tactics like the ones I listed in the 50% Rule above to reengage the audience. If you include a timestamp of the key points of your content, you'll see a more engaging graph where viewers went to those specific elements.
-CASE STUDY
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**CASE STUDY**
-
+## Case Study
 One of my students has a channel that is really taking off. It's called Matt's Off Road Recovery. Matt documents his towing rescues of people who get stranded in his geographical area. Matt came to me and my team to get help with his channel, so we looked at his metrics and helped him determine his baselines by traffic source. The first thing we did was focus on his thumbnails. We found the baselines for all the thumbnails that had the highest CTR, and we noticed a pattern. The thumbnails that had Matt's face with an expression on the thumbnail performed three times higher. We did a few tests and determined that our hypothesis about his face with expressions was true. Next, we needed to fix his AVD/APV. Look at Figures 20.1, 20.2, and 20.3 for Matt's channel. In Figure 20.1, the video's AVD had a big drop off. We took all of Matt's videos that underperformed and looked for patterns and hypothesized why viewers were disengaged. Then we looked closely at the group of videos that were his best performers. We noticed a few patterns in his videos that had a higher AVD and APV. We were able to test these hypotheses in a few upcoming videos, implementing strategies we thought would work. Then we looked at where viewers engaged the most.
 After we looked at Matt's baselines, we were able to make small tweaks to the content over time. Look at Figure 20.2. Our tweaks brought Matt's AVD/APV back up to the average line. Notice that his APV went from 52.5% to 71.8%.
 ![image48.png](Copy of YouTube_images/image48.png)
 ![image47.png](Copy of YouTube_images/image47.png)
 ![image50.png](Copy of YouTube_images/image50.png)
 Remember that it's all about the viewer—from seeing your thumbnail and title and wanting to click (impressions, CTR), to wanting to finish your video (AVD/APV, Watch time) and watch more (Watch time, AVPV). It's about always trying to learn and improve by analyzing and adjusting.
-YOUTUBE ANALYTICS
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**YOUTUBE ANALYTICS**
-
+## YouTube Analytics
 Metrik yang penting
 ![image49.png](Copy of YouTube_images/image49.png)
 ![image54.png](Copy of YouTube_images/image54.png)
@@ -302,17 +251,11 @@ Cari durasi full yang cocok untuk audience kita, tapi butuh waktu yang lama
 Retention Time ga cuma ngomong doang di kamera
 ![image33.png](Copy of YouTube_images/image33.png)
 ![image38.png](Copy of YouTube_images/image38.png)
-LAUNCHING CONTENT
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**LAUNCHING CONTENT**
-
+## Launching Content
 MrBeast's main channel is doing amazing, but he was ready to start a gaming channel. He wanted to create his new content around Minecraft and gaming, because that's where he got started and spent the most time. We started to do our recon and research with comparative analysis on similar gaming channels. We were extremely sensitive to the YouTube Formula and finding the right viewer. He was very careful not to push the audience from his main channel to his new gaming channel, because they were different avatars. If you get the wrong viewer watching your content, it messes with the algorithm. We started creating and testing content months out from channel launch, and our ideal avatar ended up being different from what we had thought it would be.
 A month before launch, we had developed who the ideal avatar would be, and we created relevant content with calculated title/thumbnail combinations. Our main focus was to get the right click. Our A/B split testing helped us identify what could work. We needed to promote the content, but we waited until the third video to start promoting. All we did was ask some big gaming creators to share our videos in their Community tab. These were creators we wanted to collaborate with. When we did this, our views went from 200,000 daily views to 1.1 million views in one day.
 
-PROMOTION VIDEO
-![image17.jpg](Copy of YouTube_images/image17.jpg)
-**PROMOTION VIDEO**
-
+## Promotion Video
 If you want to expand your reach, do a product launch, or sell merchandise, running ads can be really effective.
 Promote Organically First
 Paid Strategies to Grow an Audience If the client's goal is to attract more viewers, I go find a similar creator who can collaborate with my client and organically push the right viewers to our new content. In YouTube analytics, you now can see your crossover viewership listed in “Other videos your audience watched.” This makes it easy to see who you can reach out to to develop a collaboration relationship with.

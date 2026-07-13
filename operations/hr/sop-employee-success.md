@@ -1,10 +1,17 @@
 ---
 title: Sop Employee Success
 domain_tag: [operations, hr]
-doc_type: sop
+doc_type: reference
+owner: hr_head
+status: Archive
+confidentiality: Internal
+source: external
+effective_date:
+review_frequency: evergreen
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Catatan training manajerial dari buku "High Output Management" (Andy Grove/Intel) — management is a team game, decision making, planning, performance appraisal, interviewing & quitting. Diarsipkan: materi eksternal, bukan proses asli Musti Musik.
 
 EMPLOYEE SUCCESS
 ![image14.jpg](SOP Employee Success_images/image14.jpg)

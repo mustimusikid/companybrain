@@ -1,30 +1,36 @@
 ---
-title: Finance
-domain_tag: [operations, finance]
+title: Finance Accounting Intern
+domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template deskripsi pekerjaan role Finance Accounting Intern — tanggung jawab dan kualifikasi yang dicari.
 
 Role: **Finance Accounting Intern**
 
-**Profile perusahaan:**
 Musti Musik adalah edtech startup yang bergerak di bidang edukasi musik. Misi kami adalah untuk memberikan edukasi berkualitas di jazz dan gospel piano.
 
-**Tanggung Jawab:**
+## Tanggung Jawab
 Membantu dalam menyiapkan dan menganalisis laporan keuangan serta laporan arus kas harian.
 Mendukung eksekutif tingkat C dalam tugas penganggaran.
 Melakukan penelitian untuk pelaporan keuangan.
 Berpartisipasi dalam proses penutupan akhir bulan.
 
-**Persyaratan:**
+## Persyaratan
 Saat ini terdaftar sebagai mahasiswa S1 di bidang Keuangan, Akuntansi, atau bidang terkait.
 Pemahaman dasar tentang laporan keuangan diutamakan.
 Keinginan yang kuat untuk belajar dan berkembang.
 Mahir dalam aplikasi Google Office (Docs, Sheets, Slides).
 Keterampilan komunikasi yang baik dan kemampuan berkolaborasi dalam tim.
 
-**Manfaat:**
+## Manfaat
 Anda akan belajar langsung dari kepala keuangan kami.
 Gaji yang kompetitif.
 Pengalaman praktis di industri keuangan.

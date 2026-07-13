@@ -1,23 +1,29 @@
 ---
 title: Employee Handbook Musti Musik
 domain_tag: [operations, hr]
-doc_type: sop
+doc_type: strategy
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: biannually
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Employee Handbook Musti Musik — vision, history, products, culture code, employee qualities, org structure, HR policy, dan compensation philosophy. Mayoritas konten vision/culture (strategy); HR policy & compensation philosophy (Chapter 8-9) tetap Internal karena paling sensitif.
 
 **HOW TO BE YOUR BEST SELF **
 **IN MUSTI MUSIK**
 **– HANDBOOK FOR EMPLOYEES –**
-
-# Chapter 1: Hello
 
 Hi, I’m Dave Henokh, CEO of Musti Musik. If you read this handbook, then congrats, cause you’re gonna have one of the best experiences of your life here, because you’ll learn a ton and what you will do here matters if you believe in our vision.
 
 This is not a rulebook. The purpose of this is not to give you a bunch of rules to follow. We are a growing edtech startup. What we do changes all the time, so this handbook will definitely change overtime. I need you to know that this handbook gives you an overview of the business (so that you’ll catch up to all things in Musti Musik) and I hope this book inspires you with questions and to come to us to learn more.
 
 I write this myself for authenticity, **so what I said here is what I really meant.**
-# Chapter 2: Musti Musik Vision
+
+## Vision
 
 Small companies tend to ignore making their vision or they ChatGPT their way through it. I FULLY disagree because VISION sets the direction that the company is heading. It sets what decisions are right and wrong, and it gives purpose to the mundane tasks that we do every day. With that said, vision consists of 3 parts (took this from the book Beyond Entrepreneurship):
 ![image16.png](Employee Handbook Musti Musik_images/image16.png)
@@ -32,20 +38,20 @@ Mission: Become the biggest music education source for Indonesians by 2040.
 
 Let me explain each one carefully.
 
-**1: Core Values & Beliefs**
+### 1: Core Values & Beliefs
 
 Core Values are a system of principles about what is important in both business and life, how business should be conducted, its view of humanity, its role in society, the way the world works.
 
 This comes from me, the values I truly believe and what I truly do.
 
-**2: Statement Of Purpose**
+### 2: Statement Of Purpose
 
 What is purpose? Purpose is the fundamental reason for the organization's existence. Statement of purpose is 1-2 sentences that clearly convey why the company exists, how it fills basic human needs and impacts the world.
 
 Statement of purpose is made by asking 5 Why’s on the service that you provide.
 _No structured data — see original file_
 
-**3: Mission**
+### 3: Mission
 
 Mission is a clear and compelling overall goal that serves as a focal point of effort. Unlike purpose, which is never achieved, a mission should be achievable and have a specific timeframe (10-25 years). Mission must be compelling, have a chance of failure, and embody a willingness to go for it.
 
@@ -63,7 +69,7 @@ Why aim to become the biggest? Well why aim to make anything without being the n
 
 Just to be very clear. We have no offline branches yet. But as of now we have 450+ students (300 students from academy, 150 students from bootcamps). Our monthly free class is the most popular piano free class in Indonesia. We have taught 3000+ students through our free classes. Hundreds of people have told me directly that their lives have changed because of our free classes.
 
-# Chapter 3: History of Musti Musik
+## History of Musti Musik
 
 Feels weird writing out the history of your company (especially since we’re still so young) but I really believe by being open and vulnerable, you as an employee can trust me that I won’t fuck you over (this becomes our cultural code below btw). So here is our history:
 
@@ -81,13 +87,14 @@ Feels weird writing out the history of your company (especially since we’re st
 **Dec 2024: **Made Lifetime access available to our academy, double the price of the academy. This is our most profitable product line yet.
 
 And this leads to…
-# Chapter 4: Musti Musik Products
+
+## Musti Musik Products
 
 You have to know this cause in the beginning of my hiring journey, people don’t even know what impact they have and why they’re doing the stuff that they do (which is bad cause who wants to work in a company where you don’t even know how they do business).
 
 So I present to you 3 product lines that we have:
 
-**1: Academy**
+### 1: Academy
 
 Musti Musik Academy is our most premium product. It is an online academy with an annual subscription model for Rp 1.597.000 per year or Rp 2.697.000 for a lifetime. Think of it like Netflix, with a focus on piano education. Our academy is designed for pianists of basic to intermediate level, to teach them the truth in playing jazz and worship piano, the right way.
 
@@ -117,19 +124,20 @@ Members get access to special events like workshops and private offline events. 
 
 ![image1.png](Employee Handbook Musti Musik_images/image1.png)
 
-**2: Bootcamp**
+### 2: Bootcamp
 
 This monthly program is an alternative for pianists looking to enhance their jazz or gospel piano playing skills in a short period of time. We provide 3 intensive sessions in a period of 2 weeks. It includes 2 Kuliah Piano session and 1 Bedah Piano session. This is designated for people who are not ready to be committed for our 1 year program. It is priced around Rp 200-300 thousand for each bootcamp.
 
 ![image4.png](Employee Handbook Musti Musik_images/image4.png)
 
-**3: Free Class**
+### 3: Free Class
 
 Free class is designated for the masses. It’s a chance for potential customers to know more about the feel and  quality of piano education that Musti Musik provides. We do monthly free classes. **Our free class is the most popular piano free class in Indonesia, with 3K+ total attendees.**
 ![image3.png](Employee Handbook Musti Musik_images/image3.png)
 
 One last disclaimer. Products change. Business models change. But we stay true to our vision. That’s what keeps us going, not the products.
-# Chapter 5: Live and Breathe Our Culture
+
+## Live and Breathe Our Culture
 
 I take culture seriously because I want to make Musti Musik a good place to work. I want to make Musti Musik a good place to work because of 3 things:
 Being a good company doesn’t matter when things go well, but it can be the difference between life and death when things go wrong.
@@ -153,11 +161,11 @@ That’s why I’ve made these highly unique cultural codes that reflect what we
 
 Now I’ll explain each one here:
 
-**1: Musti Musik Mission**
+### 1: Musti Musik Mission
 
-Go back to chapter 2. What’s your goal here? Your goal here is to realize that vision. Everything we want will come if we strive for that. Sounds obvious but after 6 months a lot of people tend to forget what we are actually trying to achieve here.
+Go back to the Vision section above. What’s your goal here? Your goal here is to realize that vision. Everything we want will come if we strive for that. Sounds obvious but after 6 months a lot of people tend to forget what we are actually trying to achieve here.
 
-**2: Customer Obsession**
+### 2: Customer Obsession
 
 Customer is at the heart of everything I do. I don't just serve customers; I ask their needs, exceed their expectations, and constantly innovate to improve their experience.
 
@@ -167,7 +175,7 @@ Customer obsession also means actively seeking and valuing customer feedback. I 
 
 Our customers are aspiring jazz and gospel musicians, passionate learners, and individuals who've placed their trust in us to guide their musical journey. You and I have a responsibility to honor that trust by consistently delivering value and exceeding expectations.
 
-**3: Be Yourself**
+### 3: Be Yourself
 
 I believe that to have a fulfilling life is to live true to yourself. Live in authenticity and passion. I have reached this point in my life because I stayed true to myself. I believe that in order to be great, you need to be yourself. Thus, I also want you to be yourself, with all your quirks, strengths, and even weaknesses. Why? Because it's only when you're truly yourself that you can tap into your full potential.
 
@@ -187,7 +195,7 @@ Avoiding challenges or difficult projects.
 
 This isn't about burning out or sacrificing your personal life. It's about finding that sweet spot where your work doesn't feel like work because you're so passionate about it. I believe that when you love what you do, it shows in the quality of your work and the impact you make.
 
-**3: You Are An Owner, Not A Renter**
+### 4: You Are An Owner, Not A Renter
 
 I see a LOT of people don’t care about their work. That’s simply a sad way of living. You spend around 90,000 hours of your life at work. That’s ⅓ of your life dedicated to work. How could someone not care about doing something they spend ⅓ of their life?
 
@@ -202,13 +210,13 @@ Going the extra mile when needed, not because you have to, but because you want 
 
 When you care, you don't just clock in and out. You invest yourself. You bring your whole self to work. You think critically about how to make things better. You take ownership of your projects and see them through to success.
 
-**5: Tell It Like It Is**
+### 5: Tell It Like It Is
 
 Telling the truth, even when it's difficult, is key to our trust-based culture. I believe in radical candor - caring personally while challenging directly. This means I give honest feedback continuously, I admit my mistakes, and I'm not afraid to disagree respectfully. I know that constructive conflict leads to better outcomes.
 
 I also believe in disagreeing to agree. I believe that fully formed ideas are made through stark disagreements and opinions rather than simply agreeing to your boss’ demands.
 
-**6: Trust Each Other**
+### 6: Trust Each Other
 
 Trust is everything. You trust that your partner doesn't cheat. You trust that your friends don’t stab you in the back. You trust that your God is protecting you. You trust that your parents love you. You trust that your company is loyal to you. Trust is everything.
 
@@ -218,7 +226,7 @@ When I say "we don't fuck each other up," I mean we have each other's backs. I d
 
 We also depend on each other. When I commit to something, I follow through. I meet deadlines, I deliver on promises, and I communicate proactively if I encounter obstacles. This reliability builds trust and allows us to work efficiently as a cohesive unit.
 
-**7: Best Idea Wins**
+### 7: Best Idea Wins
 
 There’s no bureaucracy in Musti Musik. I value people for their merit, for their value, and for their impact.
 
@@ -226,7 +234,7 @@ This doesn't mean being disrespectful. It means having the courage to speak up, 
 
 This means that if you're the newest intern and you have a groundbreaking idea, I want to hear it. If you see a flaw in a senior member's proposal, I expect you to point it out constructively. This approach ensures that we're always operating at our best, driven by merit rather than hierarchy.
 
-**8: Let Builders Build**
+### 8: Let Builders Build
 
 I believe in empowering our team members to turn their visions into reality. When I say "Let Builders Build," I mean providing the resources, support, and autonomy needed for creative minds to flourish.
 
@@ -234,7 +242,7 @@ If you have an idea that aligns with our mission, I want to give you the space t
 
 My role is to create an environment where builders can thrive. I trust in your expertise and creativity, and I'm here to support you in bringing your ideas to life.
 
-**9: Work In Days, Not Months**
+### 9: Work In Days, Not Months
 
 What separates startups from big corporations is how fast we make decisions, and in the rapidly evolving world of music education, speed is key. I want swift action over endless deliberation.
 
@@ -242,7 +250,7 @@ And it’s okay to be wrong! Though I'm not advocating for recklessness, it mean
 
 That’s the mindset you need to have. I'd rather see ten bold attempts with seven failures and three successes than ten safe moves that lead to mediocre results.
 
-**10: Bad News Is Good News**
+### 10: Bad News Is Good News
 
 In any company, problems arise daily. What sets us apart at Musti Musik is how we handle problems. When I say "Bad News Is Good News," I'm promoting a culture of transparency.
 
@@ -259,7 +267,8 @@ Third Time: It's a serious issue. This shows a lack of learning.
 Repeated mistakes happen either as a systemic problem that we need to address at an organizational level, or an individual performance issue. Neither of these is acceptable in the long term.
 
 By this principle, I am creating a tough organization that delves in bad news all the time and solves it all the time. We become tough.
-# Chapter 6: What Do I Want In You?
+
+## What Do I Want In You?
 
 You may be wondering what's the difference between cultural code and employee quality. Cultural code is the values that we believe in as a company. But qualities are something you need to have in order for you to realize our cultural values. **Because if you don’t, then none of our cultural code really matters.**
 
@@ -273,12 +282,13 @@ Musti Musik’s company-wide qualities sought in employees:
 **Collaboration**: You depend on each other, you communicate with colleagues, you express ideas clearly.
 **Ethics**: You are honest and you are transparent.
 
-**Shocking Rules**
+### Shocking Rules
 
 A shocking rule is a rule that makes you ask “Why is this rule here?”. It’s for you to remember our culture code, so each rule is highly unique to our company and therefore treated as important as our HR policy (chap 8). Thus there will be consequences for not doing it.
 **Deadline Bargaining**: You must refuse a deadline set by your head if you cannot commit to it. Then the bargaining starts until you both agree on a deadline that you must deliver. If you do not commit to the deadline, it’s YOUR fault and you will be penalized in our monthly assessment.
 **Late? Rp1,000/minute**: Every minute you are late to meetings, pay Rp1,000/person/minute. So if there’s 3 people in the meeting and you’re late for 5 minutes, then pay Rp15,000.
-# Chapter 7: How Musti Musik Runs
+
+## How Musti Musik Runs
 
 Here’s our organizational chart and here’s how we’re all connected. This part is made by my personal assistant, Dian:
 ![image11.png](Employee Handbook Musti Musik_images/image11.png)
@@ -322,29 +332,37 @@ Eduardo: Our academy guy. He works with Chrystian to create educational content 
 In a nutshell, our organization thrives on teamwork and clear communication. Everyone has their role, but we all come together to hit our goals, making us a pretty effective and efficient crew.
 
 We have countless stories of how people here came through to others who are depending on them. We also have a few cases who didn’t come through to others, and I can proudly say that they are not working here anymore. (And if you are like this, I will know, and you will know what happens next)
-# Chapter 8: Human Resources Policy
+
+## Human Resources Policy
 
 The purpose of Human Resources is to help you thrive here. HR have a bad rep in big corporations for executing layoffs and dirty practices etc but people forget that their core purpose is to help you enjoy your work. HR helps Musti Musik become a good company to work for.
 
 Thus there’s a few policies that HR set for you to enjoy your work. Made by my HR guy.
+
 ### 1: Attendance
 Employees are expected to work Monday to Friday, flexible in time. **Attendance is recorded through the Worklist**—failure to check in will be considered an absence. **Unexcused lateness or absence** results in prorated salary deductions. If an employee is absent for more than **five consecutive days without notice**, they will be considered to have resigned.
-**2: ****Leave**
+
+### 2: Leave
 Each employee is entitled to **one day of leave per month** for personal reasons. Leave requests must be submitted to HR **at least one day in advance**, except for emergencies. For sick leave exceeding one day, a **doctor’s note** is required. **Bereavement leave** is granted as follows: up to **5 days** for immediate family, and **1-2 days** for other relatives. Non-urgent leave must be compensated with **overtime or weekend work**, as agreed with the Head. Failure to follow these procedures may result in a warning.
+
 ### 3: Resignation
 Employees wishing to resign must submit a resignation letter to HR **at least two weeks** before the intended date, stating a clear reason for their departure. They are responsible for completing a **job handover** and may be asked to assist in finding a replacement. The handover process, including task transfer and access handover, should be completed at least **one week before** the last working day to ensure a smooth transition.
+
 ### 4: Worklist and Night Report
 Employees must review their **Worklist** daily to check tasks that need to be done. **Tasks completed** should be checked off in the Worklist, and any unfinished tasks must be explained in the Night Report. Night Reports must be submitted **by the end of the day max**. **Late submissions** require a valid explanation; failure to provide one may result in disciplinary action. If an employee fails to complete these actions three times, they may receive a warning.
-**5: ****Termination (PHK)**
+
+### 5: Termination (PHK)
 Termination requires **three prior warnings** unless for serious violations. The company will provide **written notice at least two weeks in advance** of the effective termination date. Employees must **complete all pending tasks** and **handover job-related access** by the termination date. Grounds for termination include: **extended illness** (more than two weeks), **serious misconduct** (e.g., criminal acts), **poor performance**, and **ethical violations** (e.g., conflict of interest).
-**6: Disciplinary Action (Surat Peringatan)**
+
+### 6: Disciplinary Action (Surat Peringatan)
 Employees may receive warnings for violations such as **dishonesty, negligence, poor performance**, or **behavior** that negatively impacts the company. HR and the Head will **identify and document violations**, and HR will issue warnings via email, confirmed through WhatsApp. The employee has **one week** to correct their behavior; otherwise, further warnings may be issued. **Warnings are valid for six months**, after which they expire if no further violations occur.
-**7: Shocking Rules**
-**Refer to Chapter 6 (it’s that important)**
 
-# Chapter 9: Advance Your Career in Musti Musik
+### 7: Shocking Rules
+Refer to the Shocking Rules section above (it's that important).
 
-**Career Progression**
+## Advance Your Career in Musti Musik
+
+### Career Progression
 
 Since we’re still small (10 employees as of now), our career progression is very straightforward.
 ![image13.png](Employee Handbook Musti Musik_images/image13.png)
@@ -358,7 +376,7 @@ The good thing about small-sized teams is that you get to talk to me, heads, and
 
 Our small size means every person counts. You count and you matter. We all depend on you. Every initiative you make, you can see a customer/employee gets happy because of your idea. So if you want to do work that matters and people depend on you, you’re in the best place to do it.
 
-**Compensation Philosophy**
+### Compensation Philosophy
 
 “In large part, culture is a product of compensation.” – Alec Haverstick. This quote changed my life on how I approach compensation. I had wondered why the culture code I made was not materializing the way I wanted it to be, but now I know, I had no formal compensation philosophy! I paid people what I thought was fair and increased salaries based on my own judgement. There had been no written process!
 
@@ -417,7 +435,7 @@ SUMMARY OF EACH DEPARTMENT CASH COMPENSATION
 
 _No structured data — see original file_
 
-# Chapter 10: What About You?
+## Closing: What About You?
 
 If you’ve made it this far you are at least interested in this being your career for the next 3-6 months. Because if you're ambitious and want to dedicate your life to work, you picked the best company in Indonesia to do it at.
 

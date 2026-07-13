@@ -2,12 +2,20 @@
 title: Peraturan Perusahaan Musti Musik
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: biannually
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Peraturan perusahaan Musti Musik — surat peringatan, PHK, pengunduran diri, worklist/reports, kehadiran, dan cuti.
 
 **PERATURAN PERUSAHAAN**
-**I. SURAT PERINGATAN**
+
+## I. Surat Peringatan
 **Jenis Pelanggaran**
 Karyawan yang melakukan pelanggaran, kecurangan, ketidakjujuran, kecerobohan, dan ketidakdetilan yang merugikan perusahaan, Head, dan karyawan lainnya.
 Mengabaikan pekerjaan serta tanggung jawabnya, dengan penurunan kinerja kerja.
@@ -29,7 +37,8 @@ Karyawan diberikan waktu satu minggu untuk memperbaiki perilaku atau kinerja ker
 Jika pelanggaran terulang kembali, Surat Peringatan kedua akan dikeluarkan hingga keputusan akhir (PHK) jika diperlukan.
 Jika tidak ada pelanggaran lebih lanjut dalam periode tersebut, Surat Peringatan akan dianggap kadaluarsa.
 Surat Peringatan berlaku selama 6 bulan.
-**II. PEMUTUSAN HUBUNGAN KERJA (PHK)**
+
+## II. Pemutusan Hubungan Kerja (PHK)
 **Kondisi PHK**
 PHK harus didahului dengan pemberian Surat Peringatan sebanyak 3 kali.
 Karyawan yang terkena PHK akan diberi pemberitahuan tertulis minimal 2 minggu sebelum tanggal efektif PHK.
@@ -40,7 +49,8 @@ Karyawan diwajibkan menyerahkan tugas (jobscope) serta akses yang dimiliki sesua
 **Pelanggaran Disiplin**: Karyawan melakukan pelanggaran serius, seperti tindakan kriminal, pencurian, penipuan, dan tindak pidana lainnya.
 **Kinerja Buruk**: Karyawan tidak memenuhi standar kinerja yang diharapkan meskipun telah diberikan peringatan dan kesempatan untuk memperbaiki kinerjanya.
 **Pelanggaran Etika**: Karyawan terlibat dalam tindakan yang melanggar etika perusahaan, seperti konflik kepentingan atau pelanggaran kode etik.
-**III. PENGUNDURAN DIRI**
+
+## III. Pengunduran Diri
 **Surat Pengunduran Diri**
 Karyawan yang memutuskan untuk mengundurkan diri wajib mengirimkan surat pengunduran diri dengan menyertakan alasan yang jelas kepada HR.
 Surat Pengunduran Diri harus diserahkan paling lama 2 minggu sebelum tanggal efektif resign.
@@ -49,7 +59,8 @@ Karyawan yang akan mengundurkan diri harus mencari pengganti dirinya sendiri jik
 **Job Handover**
 Karyawan diwajibkan menyerahkan tugas (jobscope) serta akses yang dimiliki.
 Karyawan bertanggung jawab melakukan job handover/training pada karyawan pengganti selama 1 minggu sebelum tanggal efektif resign.
-**IV. WORKLIST, REPORTS, DAN DAILY REPORTS, NIGHT REPORTS**
+
+## IV. Worklist, Reports, Daily Reports, Night Reports
 **Jadwal Kerja**
 Jam kerja dimulai dari pukul 13.00 WIB hingga pukul 21.00 WIB.
 **Worklist dan Daily Tracker**
@@ -64,7 +75,8 @@ Jika tidak ada alasan yang jelas dan terlambat mengirimkan Night Reports, akan d
 Tim Customer Service dan Tech wajib mengirimkan Daily Reports setiap harinya pada grup WhatsApp yang ada.
 Tim Finance wajib memasukkan bukti transfer ke dalam rekening setiap hari.
 Jika Tim Customer Service, Tech, dan Finance tidak mengirimkan Daily Reports sebanyak 3 kali tanpa alasan yang sah dan jelas, akan dikenakan sanksi berupa Surat Peringatan.
-**V. KEHADIRAN**
+
+## V. Kehadiran
 **Jadwal Kehadiran**
 Setiap karyawan diwajibkan hadir sesuai dengan jadwal kerja yang telah ditentukan, yaitu pada hari Senin-Jumat pukul 13.00-21.00 WIB.
 **Weekly Meeting dan Daily Briefing**
@@ -75,7 +87,8 @@ Keterlambatan atau ketidakhadiran tanpa alasan yang jelas dianggap absen pada ha
 **Kehadiran Tanpa Pemberitahuan**
 Karyawan yang tidak hadir tanpa pemberitahuan lebih dari 5 hari berturut-turut dianggap mengundurkan diri.
 Karyawan yang tidak mengikuti prosedur ini tanpa alasan yang sah dan jelas dapat dikenakan sanksi berupa Surat Peringatan.
-**VI. CUTI**
+
+## VI. Cuti
 **Jenis Cuti**
 Cuti dibagi menjadi dua: cuti satu hari dan cuti setengah hari.
 Setiap karyawan berhak mendapatkan cuti bulanan sebanyak 1 kali (1 hari kerja) untuk kepentingan di luar sakit dan situasi berduka.

@@ -1,10 +1,17 @@
 ---
 title: Musti Musik Human Resources
 domain_tag: [operations, hr]
-doc_type: sop
+doc_type: reference
+owner: hr_head
+status: Draft
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> ⚠️ Data sensitif: rekening bank, gaji, data pribadi (alamat/KTP/kontak darurat) karyawan, dan reimbursement. Disimpan atas keputusan eksplisit — bukan template/SOP.
 
 ## Rekening
 

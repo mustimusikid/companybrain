@@ -1,22 +1,30 @@
 ---
 title: Daiyana Gilang Setyawan Daiyana Gilang
 domain_tag: [operations, hr]
-doc_type: sop
+doc_type: reference
+owner: hr_head
+status: Draft
+confidentiality: Internal
+source: external
+effective_date:
+review_frequency: evergreen
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Contoh jawaban tugas asesmen (take-home test) kandidat untuk posisi marketing — proposal campaign konten untuk lagu "Teman Dari 0", referensi format tugas interview.
 
 Jawaban Daiyana :
-Analisis dan Justifikasi
+
+## Analisis dan Justifikasi
 Alasan Pemilihan Skenario ini dipilih karena menurut data dari dataportal.com, pengguna aktif sosial media di Indonesia sebanyak143 juta jiwa, ini setara dengan 50,2 % dari total populasi di Indonesia. Dalam pengalaman saya sebagai konsultan politik, sosial media campaign memiliki beberapa keuntungan, yaitu Gimick, mudah membangun presepsi massa (pada brand, perusahaan, atau ketokohan), mudah untuk menjadi memori kolektif secara massal.
 Lagu "Teman Dari 0" memiliki nilai emosional yang kuat dan relatable, khususnya bagi pasangan muda yang menghargai perjalanan hubungan dari awal. Platform yang dipilih (Instagram Reels, TikTok, YouTube Shorts) sangat relevan karena audiens berusia 18-30 tahun sangat aktif mengonsumsi video pendek yang memiliki daya jangkau tinggi dan potensi viralitas besar. Format pendek ini efektif dalam menyampaikan pesan secara emosional, cepat, dan mudah di-share.
 
-Analisis Target Audiens:
+## Analisis Target Audiens
 Demografi: Pasangan muda (usia 18-30 tahun), anak muda, pasangan generasi Milenial (44 – 30 tahun).
 Psikografi: Aktif di media sosial, gemar membagikan momen personal, menyukai konten autentik dan emosional.
 Perilaku: Konsumsi musik lewat streaming, responsif terhadap tren challenge atau konten romantis di media sosial.
 
-Strategi Konten
+## Strategi Konten
 
 Konten A :
 #TemanDari0Challenge #TemanDari0 #TemanSetia #Persahabatan #FromZeroCouple
@@ -47,7 +55,7 @@ Format: video pendek yang di produksi oleh videographer yang bersumber dari data
 Referensi: Format video dan infografis Narasi.tv, Tirto.id, dll.
 Jadwal: 2 Video untuk 1 bulan sebelum rilis lagu.
 
-3. Metrik Keberhasilan (KPI)
+## 3. Metrik Keberhasilan (KPI)
 
 Streaming: Minimal 50.000 streams di Spotify dalam satu bulan.
 Engagement Rate: Minimal 10% di tiap platform (likes, shares, comments).

@@ -2,20 +2,31 @@
 title: Memo Lintang
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template surat pemberitahuan perubahan departemen/posisi/kenaikan gaji karyawan.
+
+## Surat Pemberitahuan Perubahan Departemen/Posisi/Gaji
 
 **SURAT PEMBERITAHUAN**
 **ANTARA**
 **MUSTI MUSIK**
 **DENGAN**
-**Lintang Angkoso**
+**[Nama Karyawan]**
 
 Perihal: Pemberitahuan perubahan Departemen/ Perubahan Posisi/ Peningkatan Gaji.
-Tanggal: **9 Oktober 2024**
-Kepada Yth. **Lintang Angkoso**
-Kami ingin memberitahukan bahwa efektif mulai 01 Oktober 2024, terjadi perubahan pada:
+Tanggal: **[Tanggal Surat]**
+Kepada Yth. **[Nama Karyawan]**
+Kami ingin memberitahukan bahwa efektif mulai **[Tanggal Efektif]**, terjadi perubahan pada:
+
+[Rincian perubahan departemen/posisi/gaji]
 
 Remunerasi Anda yang lain akan tetap sama seperti yang disebutkan pada pemberitahuan sebelumnya.
 Peningkatan ini merupakan bagian dari nilai tambah untuk meningkatkan kinerja total kami. Ini juga merupakan apresiasi bagi anda yang telah menunjukkan kinerja yang sangat baik untuk Perusahaan sejak Anda mulai.
@@ -23,7 +34,5 @@ Dengan ini, kami berharap Anda akan terus melakukan yang terbaik dan berkontribu
 
 **    HORMAT KAMI							DITERIMA OLEH**
 
-![image8.png](Memo Lintang_images/image8.png)
-
-**Nama : Dave Henokh Liong					Nama : Lintang Angkoso**
+**Nama : [Nama HR/Founder]					Nama : [Nama Karyawan]**
 **Tanggal :							Tanggal : **

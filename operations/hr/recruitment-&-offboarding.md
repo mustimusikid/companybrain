@@ -2,24 +2,25 @@
 title: Recruitment & Offboarding
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> SOP recruitment (alur, interview, onboarding) dan offboarding (resign, termination) Musti Musik.
 
-RECRUITMENT
-![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-***Guide To***
-**RECRUITMENT AND OFFBOARDING**
-**Musti Musik**
+***Guide To*** **RECRUITMENT AND OFFBOARDING** **Musti Musik**
 
-# 📣 Color Code Notes :
-***🔵 Blue : Subject***
-***🔴 Red : Timeline***
-***🟢 Green : Actions****** ***
+***🔵 Blue : Subject · 🔴 Red : Timeline · 🟢 Green : Actions***
 
-# RECRUITMENT
+## Recruitment
 Recruitment merupakan salah satu tugas HR dalam melakukan pencarian kandidat baru untuk menempati posisi yang sedang dibutuhkan oleh perusahaan. Setiap orang yang akan di rekrut haruslah memenuhi standar kriteria kerja Musti Musik.
 Adapun tahap - tahap dalam proses recruitment di Musti Musik yang mencakup sebagai berikut :
+
 ## Alur Recruitment
 Beberapa tahap yang dilakukan sebelum hire kandidat baru adalah:
 **Department Head**** ****mengajukan saran** untuk merekrut tim baru.
@@ -39,10 +40,7 @@ Selesai onboarding, jika SDM betah dan tim internal juga puas, tim HR merilis fo
 Menginvite ke grup Musti Team dan memberikan welcome message
 Saat awal Employee Enrichment, introduce them to the team
 
-TEMPLATE LINKEDIN
-![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**TEMPLATE LINKEDIN**
-
+## Template LinkedIn (Job Description per Role)
 Role: **[NAMA POSISI]**
 Profile perusahaan:
 Musti Musik adalah edtech startup yang bergerak di bidang edukasi musik. Misi kami adalah untuk memberikan edukasi berkualitas di jazz dan gospel piano.
@@ -60,7 +58,9 @@ Pengalaman praktis di industri **[LIHAT DIBAWAH]**
 Kerja remote dan fleksibel, berorientasi pada hasil.
 Kesempatan untuk membangun jaringan.
 Potensi untuk pekerjaan di masa depan.
-# Tanggung Jawab
+
+**Tanggung Jawab per Role:**
+
 ## Finance
 Tanggung Jawab:
 Membantu dalam menyiapkan dan menganalisis laporan keuangan serta laporan arus kas harian.
@@ -69,6 +69,7 @@ Melakukan penelitian untuk pelaporan keuangan.
 Berpartisipasi dalam proses penutupan akhir bulan.
 Persyaratan:
 S1 di bidang Akuntansi, Bisnis, Finance
+
 ## Design
 Tanggung Jawab:
 Membantu tim Organik untuk membuat desain carousel yang edukatif
@@ -77,6 +78,7 @@ Membantu tim Academy dan Organik untuk membuat desain yang mendukung promosi
 Membantu tim MM untuk membuat desain, contoh thumbnail, poster, dll
 Membuat, menganalisis, memperbarui, dan menggunakan SOP
 Persyaratan: S1 di bidang Desain Grafis, Ilmu Komunikasi, atau bidang terkait lainnya yang relevan.
+
 ## Video Editing
 Tanggung Jawab:
 Mengedit video short form sesuai standard short form baiknya.
@@ -85,6 +87,7 @@ Mengedit dan menghasilkan video ads sesuai standar editing ads baiknya.
 Mengedit video free class, modul online, dll sesuai standar video editing yang baik.
 Membuat, menganalisis, memperbarui, dan menggunakan SOP
 Persyaratan: S1 di bidang Media Digital, Ilmu Komunikasi, atau bidang terkait lainnya yang relevan dengan video editing.
+
 ## Sales Strategy
 Tanggung Jawab:
 Membuat strategi Meta Ads dan creative yang cocok
@@ -97,6 +100,7 @@ Analisis pesan yang dikirim dari response rate
 Administrasi hal yang mendukung sales strategy
 Membuat, menganalisis, memperbarui, dan menggunakan SOP
 Persyaratan: Memiliki passion pada bidang sales dan memiliki pengalaman organisasi menjadi nilai tambah.
+
 ## Product Organic
 Tanggung Jawab:
 Menyelesaikan modul (video, PPT, PR) setiap bulan tepat waktu dengan konten (isi materi) yang berkualitas dan relevan
@@ -107,12 +111,15 @@ Menghasilkan script dan content plan yang kreatif, autentik, dan selaras dengan 
 Membuat story yang menarik dan efektif dalam meningkatkan engagement dan conversion.
 Membuat, menganalisis, memperbarui, dan menggunakan SOP
 Persyaratan: S1 di bidang Manajemen atau bidang terkait lainnya yang relevan
+
 ## Tech
+
 ## Website Landing Page Musti Musik
 Mengelola Tampilan Landing Page
 Mengatur Page Webinar (Careers, Free Class, Bootcamp)
 Mengelola Plugin-plugin yang digunakan
 Mengelola Data Member Webinar
+
 ## Website Member Area Musti Musik
 Mengelola Data Users
 Mengelola LMS Musti Musik
@@ -120,12 +127,15 @@ Melakukan Maintenance, Debugging code pada LMS
 Mengelola Tampilan Member Area menggunakan Additional CSS
 Mengelola pembelian courses dan coupon menggunakan plugin WooCommerce
 Mengelola Plugin-plugin yang digunakan
+
 ## Technical
 Membuat dan Memperbaiki akun Member yang mengalami Technical Issue
 Mengatur Mannychat dan Desty Page
 Mengelola Website Infrastructure seperti cPanel, cloudflare dan domain
+
 ## Memperbaiki Error dari Feedback Member
 Persyaratan: S1 di bidang Teknik Informatika, Sistem Informasi, Ilmu Komputer, Rekayasa Perangkat Lunak, atau bidang terkait lainnya.
+
 ## Account Management
 Tanggung Jawab:
 Membantu tim Organik dalam streamline hal-hal yang repetitif
@@ -133,6 +143,7 @@ Membantu tim Product dalam memberikan impression yang baik ke customer
 Membantu company menjadi terorganisir, teratur, dan meluruskan misinya
 Membantu tim Tech dalam membuatkan akun ke member
 Persyaratan: Memiliki passion pada bidang account management.
+
 ## HR
 Tanggung Jawab:
 Menciptakan dan memelihara budaya perusahaan yang positif dan mendukung kinerja serta kepuasan karyawan. Tanggung jawab untuk menegakan budaya perusahaan dan peraturan perusahaan
@@ -142,19 +153,19 @@ Mengelola worklist sheets dan night reports dengan akurat dan tepat waktu untuk 
 Membuat, menganalisis, memperbarui, dan menggunakan SOP
 Persyaratan: S1 di bidang Psikologi, Manajemen Sumber Daya Manusia, Hukum, atau bidang terkait lainnya.
 
-INTERVIEW PROCESS
-![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**INTERVIEW**
+## Interview Process
 
-# Tahap Interview
+### Tahap Interview
 
 Introduksi diri dari Department Head dan penjelasan mengenai interview: 2 tahap. Tahap pertama (10 menit pertama) mengenai technical. Tahap kedua (10 menit terakhir) mengenai talenta dan culture.
 Tahap 1 Technical tergantung department masing-masing. Lihat di bawah.
 Tahap 2 Talenta dan Culture tergantung department masing-masing. Lihat di bawah.
 Semua interview diakhiri sebagai berikut :
 Result akan mendatang maksimal 1 minggu kedepan, jika kami tidak contact kembali, bisa dianggap tidak lulus ya Kak
-# List Pertanyaan Interview Technical
-## Finance
+
+## Interview Questions: Technical
+
+### Finance
 Apa aja yg ada dalam laporan keuangan, tujuan masing2 apa → ad 5
 neraca : buat nunjukin asset liability and equity in a certain time
 ⁠⁠⁠income statement : buat nunjukin gross profit (liat revenue sama expense)
@@ -165,17 +176,20 @@ Gimana caranya tau perusahaan sehat apa engga dari laporan laba ruginya?
 bandingin gross profit, profit margin
 Apa itu LTGP, CAC, dan COGS?
 buat nunjukin kejujuran orang
-## HR
+
+### HR
 Ceritakan tentang pengalaman Anda dalam menangani konflik antara karyawan.
 Bagaimana Anda memastikan bahwa kebijakan HR diikuti oleh semua karyawan?
 Apa pendekatan Anda terhadap pengembangan dan pengelolaan budaya perusahaan?
 Bagaimana Anda menangani perubahan kebijakan atau prosedur yang mungkin tidak disetujui oleh karyawan?
 Bagaimana Anda mengukur keberhasilan program HR yang Anda jalankan?
-## Social Media
+
+### Social Media
 Apa perbedaan behavior TikTok, Instagram, dan Shorts?
 Apa metric paling penting dalam social media strategy? Apa yang kamu lakukan utk influence metric itu?
 Bagaimana apa yang ANDA lakukan membuat perusahaan menghasilkan lebih banyak uang?
-## Tech
+
+### Tech
 Ceritakan pengalaman kamu mengelola atau mengembangkan website sebelumnya. Apa tantangan terbesar yang pernah dihadapi?
 Apa tantangan terbesar yang pernah dihadapi?
 Apakah sudah pernah bekerja atau belajar tentang website WordPress?
@@ -188,29 +202,39 @@ Didalam WEB ada 2 profesi, yaitu front end dan backend, kamu lebih condong keman
  Coba liat website : , menurut kamu apa yang harus di improve dari website tersebut
 Apakah kamu mengetahui  infrastructure website seperti domain, cloudflare, hosting, cpanel? Setidaknya tau fungsinya
 
-# List Pertanyaan Interview Talenta & Culture
+## Interview Questions: Talenta & Culture
+
 ### Vision
 Apa visi hidup mu? Bisa jelaskan hal yang menggambarkan visi mu itu?
+
 ### Dedication/Drive
 Hal paling sulit apa yang pernah kamu lakukan?
 Kenapa kamu bekerja keras/berdedikasi? Kenapa kamu peduli?
+
 ### Speed
 Coba ceritakan mengenai situasi dimana kamu harus bertindak sangat cepat tetapi kamu belum punya informasi yang kamu perlukan
+
 ### Passion/Curiosity
 Aspek pekerjaan apa yang paling kamu sukai, alasannya kenapa?
+
 ### Quality Obsession
 Bagaimana cara kamu memastikan bahwa hasil pekerjaanmu memenuhi standar kualitas tinggi?
+
 ### Innovation
 Coba ceritakan mengenai hal signifikan apa yang kamu pelajari tentang bagaimana cara melakukan pekerjaanmu lebih baik.
+
 ### Execution
 Coba ceritakan tentang situasi dimana ada hal yang berada dibawah standar pada company terakhir kamu bekerja, bagaimana peran kamu dalam membantu memperbaiki hal itu?
+
 ### Toughness
 Bisa ceritakan pengalamanmu bekerja pada lingkungan kerja yang penuh tekanan?
+
 ### Collaboration/Ethics
 Ceritakan pengalaman waktu kamu ada cekcok dengan rekan kerjamu.
 Apa yang akan kamu lakukan jika kamu tahu ada rekan kerja lain yang mendapat pengakuan atas pekerjaanmu?
 Apabila ada anggota tim yang melanggar peraturan perusahaan, bagaimana cara kamu menangani hal itu?
-# Checklist
+
+## Interview Checklist
 Dalam melakukan proses interview, terdapat poin-poin utama yang akan menjadi penilaian dari jawaban interview tersebut. Apabila jawaban interview berhasil memenuhi poin-poin dibawah, maka itulah talent yang tepat untuk di hire.
 **Ask a few open ended questions and then be quiet:**
 The talent interview should mirror verbally what will face him on the job behaviorally. Ask open-ended questions that offer many potential directions and do not telegraph the “right” direction — questions such as “How closely do you think people should be supervised?” or “What do you enjoy most about selling?” remain silent dan kalau mereka tanya klarifikasi, tolak
@@ -223,8 +247,7 @@ Lu udh harus tau jawaban optimalnya.
 **Is ethics clear? Avoid hires that hint questionable ethics:**
 Bohong, jawab pake chatgpt, dkk LANGSUNG TOLAK
 
-ONBOARDING
-![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
+## Onboarding
 **5 DAY ONBOARDING PROGRAMME FOR NEW HIRES**
 
 Objektif : Employee training to align the company’s vision and culture.
@@ -232,7 +255,8 @@ Bentuk : 3 Days Programme dimana employees merasakan seluruh visi, culture, prod
 💻 Files :
 Handbook :  📚
 Organization Chart :  👥
-# RUNDOWN ONBOARDING PROCESS FOR NEW HIRES
+**Rundown Onboarding Process for New Hires:**
+
 ## D1: What Makes Musti Musik, Musti Musik (Vision & Culture), How Musti Musik Works (Product Knowledge), SOP & Talents
 1-on-1 dengan **CEO **untuk membahas visi dan culture company dan menjelaskan alur program onboarding yang akan dijalani oleh new hires selama 3 hari, termasuk menjelaskan tujuan dari pelaksanaan onboarding tersebut, menanyakan goals atau tujuan mereka dalam melakukan internship ini guna mengetahui apakah kandidat new hires tersebut sesuai dengan culture dan technical fit Musti Musik. Membahas tentang job expectation agar tercipta clear communication antar kedua pihak. Arahkan mereka untuk mempelajari Employee Handbook. Setelah proses 3 hari onboarding selesai, lakukan TTD Kontrak.
 1-on-1 Buddy Program dengan **Rekan Kerja Department**
@@ -240,6 +264,7 @@ Alur pelaksanaannya antara lain :
 Mulai kasih akses ke SOP dan mereka ditrain untuk mempelajarinya
 Mulai invite ke grup
 Share tools/fasilitas: tergantung department head di SOPnya masing2
+
 ## D2: HR Policy & Salary
 1-on-1 dengan **HR **pada new hires untuk membahas tentang HR Policy
 Topik-topik yang akan disampaikan :
@@ -254,6 +279,7 @@ Alur pelaksanaannya antara lain :
 Mulai kasih akses ke SOP dan mereka ditrain untuk mempelajarinya
 Mulai invite ke grup
 Share tools/fasilitas: tergantung department head di SOPnya masing2
+
 ## D3: How Musti Musik Works
 1-on-1 dengan **Department** **Head **pada new hires untuk membahas tentang job expectation agar tercipta clear communication antar kedua pihak.
 Hal-hal yang akan dibahas antara lain :
@@ -273,6 +299,7 @@ Alur pelaksanaannya antara lain :
 Mulai kasih akses ke SOP dan mereka ditrain untuk mempelajarinya
 Mulai invite ke grup
 Share tools/fasilitas: tergantung department head di SOPnya masing2
+
 ## D4: SOP & Talents
 1-on-1 dengan **Department** **Head **pada new hires untuk membahas tentang SOP dan summary.
 Hal-hal yang akan disampaikan :
@@ -280,6 +307,7 @@ Pentingnya SOP & summary
 Cara bikin SOP
 Cara bikin summary
 1-on-1 dengan **Department** **Head **pada new hires untuk melakukan Strengths Interview
+
 ## D3: Final Examination
 1-on-1 dengan **Head **pada new hires dengan agenda final examination atau kuis yang diambil berdasarkan isi dari Employee Handbook, selain itu juga membahas tentang kontrak dan benefits yang akan didapat.
 Hal-hal yang akan disampaikan :
@@ -287,10 +315,7 @@ Meeting Head & HR untuk quiz mengenai handbook
 Ingetin ke mereka bahwa HR akan mengeluarkan kontrak + benefits dan invite ke musti team
 Career progression
 
-STRENGTHS INTERVIEW
-![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**STRENGTHS INTERVIEW**
-
+## Strengths Interview
 **Department head** akan menanyakan kepada **new hires** mengenai 10 pertanyaan dibawah ini :
 Hal apa yang paling kamu nikmati dari pekerjaanmu yang sebelumnya?
 Apa yang membawa kamu kesini?
@@ -312,10 +337,7 @@ Apa yang aku bisa bantu?
 Apa ada yang ingin kamu bicarakan, yang sekiranya memungkinkan kita untuk bisa bekerja bersama dengan baik?
 Tujuan pertama dari sesi ini diantaranya untuk mengetahui hal-hal dari POV employee seperti kelebihan, goals mereka, apa aja yang mereka butuhkan sehingga kita tahu apa aja yang bisa kita lakukan untuk membantu dia menjadi produktif, dsb.
 
-KONTRAK PERJANJIAN KERJASAMA
-![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**KONTRAK PERJANJIAN KERJASAMA**
-
+## Kontrak Perjanjian Kerjasama
 Template kontrak perjanjian kerjasama dapat dilihat pada link berikut : 👇🏻
 
 Terdapat beberapa hal yang harus diperhatikan dalam pembuatan kontrak perjanjian kerjasama tersebut, yakni :
@@ -327,42 +349,48 @@ Posisi Jabatan
 Tanggal Tanda Tangan
 Paid
 
-OFFBOARDING
-![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**OFFBOARDING**
+## Offboarding: Resign
 
-# RESIGN
-## Resignation Letter (surat pengunduran diri)
+### Resignation Letter (surat pengunduran diri)
 employee yang memutuskan untuk resign wajib **mengirimkan surat pengunduran diri** yang mereka buat dengan alasan yang jelas kepada **HR**
-## Regenerasi
+
+### Regenerasi
 Seorang employee yang akan mengundurkan diri, harus **mencari pengganti dirinya sendiri**
-## Diskusi
+
+### Diskusi
 **Dave dan HR** nanti **berdiskusi sebelum memutuska**n (mempertimbangkan alasan sebelum akhirnya membuat keputusan)
-## Konfirmasi
+
+### Konfirmasi
 Setelah selesai diskusi dan pengambilan keputusan,** HR** nanti akan **konfirmasi **ke employee yang mau resign, lalu **menetapkan tanggal terakhir**
-## Job Handover
+
+### Job Handover
 Setelah tahap konfirmasi, **employee **diwajibkan **menyerahkan tugas (jobscope) serta akses**. Dan diharuskan **minimal 2 minggu setelahnya tetap di company untuk job handover**
-# TERMINATION
-## Evaluasi
+
+## Offboarding: Termination
+
+### Evaluasi
 **Dave, HR dan employee bersangkutan** melakukan **meeting evaluasi** , yang berisikan bagaimana kinerja kerja dan penyebab employee tsb di cut > biasanya apabila performa kerjanya menurun,merugikan company,dan mendapat Surat Peringatan sampai 3 kali.
 Atau** Cost Cutting** **: **Karena revenue Musti Musik decline significantly jadi gak perpanjang kontrak dan nge-cut employee
-## Diskusi
-## Keputusan memecat dibahas dan disetujui oleh Dave, serta employee yang bersangkutan menerima keputusan HR dan Dave
-## Interview Pemecatan
+
+### Diskusi dan Keputusan
+Keputusan memecat dibahas dan disetujui oleh Dave, serta employee yang bersangkutan menerima keputusan HR dan Dave
+
+### Interview Pemecatan
 **Department head** akan **mengadakan meeting dengan employee yang bersangkutan **
 **Surat Pemecatan**
 **HR **akan memberikan surat pemecatan kepada employee yang bersangkutan,dan harus **ditanda tangani oleh employee** lalu **diberikan kembali ke HR **
-## Job Handover
+
+### Job Handover
 Setelahnya, maka employee wajib menyerahkan tugas dan akses
-# PROSES OFFBOARDING
+
+## Proses Offboarding (Umum)
 Employees yang akan melakukan resign sebelum tanggal kontrak perjanjian magang berakhir, maka harus terlebih dahulu memberikan notice maksimal 2 minggu sebelumnya kepada Tim HR.
 Employees yang akan resign ataupun waktu kontraknya telah habis dan tidak diperpanjang, maka terlebih dahulu harus logout semua akun company dan mengirimkan bukti foto tersebut.
 Employees yang akan meninggalkan Musti Musik harus memberi training atau pelatihan terlebih dahulu kepada employee baru yang akan menggantikan posisinya.
 Sebelum Employee meninggalkan MM akan terlebih dahulu diberikan Farewell message dan townhall (video perpisahan) yang akan diputar pada agenda employee enrichment.
 Setelah itu, Employees akan dikeluarkan dari grup community WA.
 
-WELCOME & FAREWELL TEXT
-# WELCOME TEXT TEMPLATE
+## Welcome Text Template
 “Hi Everyone!
 We have new team member joining us. Let's give a warm welcome to (Name) , who has recently joined our team as (Role), where (he/she) will streamline all company operations and track deadlines.
 ⁨@(name) we invite you to take a moment to introduce yourself and share a little about your background or anything interesting.
@@ -370,7 +398,7 @@ Once again, a heartfelt welcome to our new team member. Let's make them feel at 
 Best Regards, Musti Musik HR Team”
 ****Setiap habis invite ke grup yang relevan: Introduce new employee nya dan menjelaskan role dia pada department tersebut, kemudian introduce employee nya dengan rolenya masing-masing.***
 
-# FAREWELL TEXT TEMPLATE
+## Farewell Text Template
 Musti Musik's Fond Farewell to a Valued Team Member
 Dear team, today marks a bittersweet day as we bid farewell to our esteemed colleague, @⁨Kaka (IG Desain Grafis)⁩, who has been an integral part of the Musti Musik family for the past few months.
 Your dedication, contributions, and hard work have left an indelible mark on our projects. We are immensely grateful for the positive impact you have made during your tenure with us.

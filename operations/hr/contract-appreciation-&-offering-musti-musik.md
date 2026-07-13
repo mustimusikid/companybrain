@@ -2,9 +2,16 @@
 title: Contract Appreciation & Offering Musti Musik
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template surat Apresiasi & Penawaran untuk kontributor/anggota komunitas yang naik peran (contoh pengisian: Community Manager).
 
 **KONTRAK **
 **APRESIASI & PENAWARAN**** **

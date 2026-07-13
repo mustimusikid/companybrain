@@ -1,12 +1,19 @@
 ---
 title: Ai Engineer Intern
 domain_tag: [operations, hr]
-doc_type: sop
+doc_type: transcript
+owner: hr_head
+status: Draft
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: evergreen
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Catatan wawancara kandidat magang AI Engineer Intern (Akmal, Raffael) — kesibukan, ekspektasi kerja, red flag, negosiasi gaji.
 
-Akmal
+## Akmal
 Handle sistem otomatisasi
 Kesibukan: free lance, recording ini, code reviewer, project based
 Magang (unfinished) → karena mahasiswa akhir (akademis, kondisi magangnya agak full agak keteteran kalo harus ngerjain magang sama ngerjain skripsi)
@@ -18,7 +25,7 @@ Fast respon → tengah2
 Pengerjaan 3 hari → belum termasuk fixing bug, kalo dihajar beruntun dia agak kurang bisa
 gaji masih negotiable
 
-Raffael
+## Raffael
 Cerita restaurant agent project (detail, arsitektur, tools, hasil)
 Kerja praktek → handle dari pemesanan makanan, reservasi tempat/meja, keuangan, expected outputnya bisa handle chat tanpa kaku → whatsapp
 Arsitektur langgraph extended dari lang chain → sediain tools2

@@ -2,11 +2,17 @@
 title: Old Rule
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> SOP pendataan shift Customer Service (Report Data Leads) — mencatat waktu on shift dan penandaan tepat waktu/terlambat.
 
-![image8.jpg](OLD RULE_images/image8.jpg)
 **REPORT DATA LEADS**
 
 **HR **memiliki kewajiban untuk **mendata shift Customer Service** dengan menuliskan pukul berapa Customer Service On sesuai laporan yang diberikan staff Customer Service di group WA CS.

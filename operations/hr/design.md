@@ -2,20 +2,21 @@
 title: Design
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: annually
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> SOP brand & design guideline Musti Musik — color palette, typeface, artboard size, cara bikin thumbnail/IG post/carousel/website design, dan basic design principles.
 
-DESIGN
-![image17.jpg](Design_images/image17.jpg)
 **DESIGN**
 
-# Design Details
-Elemen foto:
-Be Creative and Original
-Buat beberapa alternatif design
-Ikuti standar minimum design yang baik
-Tetap ikuti aturan design
+Elemen foto: Be Creative and Original, buat beberapa alternatif design, ikuti standar minimum design yang baik, tetap ikuti aturan design.
+
 ## Standard Design - PENTING!!
 Wajib dipakai di semua design
 Silahkan membaca panduan prinsip desain : Basic Principle Design
@@ -26,6 +27,7 @@ Penggunaan foto untuk konten (hindari elemen kartun)
 Penggunaan shadow untuk transisi yang smooth antara image dan background
 Overall look: modern, sophisticated, and professional
 Copywriting yang edukatif dan informatif
+
 ## WARNA
 ![image12.png](Design_images/image12.png)
 Color pallete diatas merupakan warna utama yang digunakan pada setiap design yang ada di Musti musik. Color palette utama untuk:
@@ -49,6 +51,7 @@ Warna tambahan tidak lebih mencolok dari warna freeclass (#252525)
 Boleh juga disesuaikan dengan color psychology mood:
 
  ex: kuning=ceria, gold=worship, biru=tenang
+
 ## TYPEFACE : Montserrat
 ![image47.png](Design_images/image47.png)
 Gunakan sesuai konten. Semakin tebal, semakin menarik perhatian.
@@ -59,9 +62,11 @@ Regular: body text.
 ![image46.png](Design_images/image46.png)
 Ukuran title setidaknya 2x dari body text.
 Opsional hingga 4x. Pastikan ada perbedaan kontras antara title dan body text. Agar ada prioritas membaca.
+
 ## Artboard Size
 ![image49.png](Design_images/image49.png)
 Ini merupakan panduan ukuran artboard untuk beberapa keperluan design yang dibutuhkan, ukuran tersebut bersifat opsional dan dapat digunakan pada media,atau plaform lainnya selain yang sudah disebutkan.
+
 ## Thumbnail Design - Link Design
 Step 1 - Pengaturan Background
 ![image51.png](Design_images/image51.png)
@@ -99,6 +104,7 @@ Pemetaan konten
 ![image35.png](Design_images/image35.png)
 ![image38.png](Design_images/image38.png)
 ![image37.png](Design_images/image37.png)
+
 ## Instagram Post Carousel - Link Design
 Step 1 - Cover
 ![image21.png](Design_images/image21.png)
@@ -153,26 +159,18 @@ Tips:
 ![image1.png](Design_images/image1.png)
 Tekan tombol share di kanan atas (biru)
 Ubah pengaturan: Anyone with the link can EDIT dan serahkan ke Tech & Web agar tim tech dapat copy paste elemen design dengan cepat
-🔒 **Mandatory Element** Berisi Element - element yang wajib ada disetiap design
 
-**Schedule **
--Carousel 2x Seminggu(Selasa & Sabtu) kategori: Tips Piano & News.w
-**All Details**
-- Output file carousel berbentuk .ZIP yang berisi .JPG yang sesuai dengan urutan post. Sehingga dapat memudahkan proses Pre-post Content. -Export File dengan Scale x2 dan resolusi 100%. *(Canva)
+## Mandatory Element & Schedule
+🔒 **Mandatory Element**: Berisi Element - element yang wajib ada disetiap design.
+**Schedule**: Carousel 2x Seminggu (Selasa & Sabtu) kategori Tips Piano & News.
+**All Details**: Output file carousel berbentuk .ZIP yang berisi .JPG yang sesuai dengan urutan post, sehingga dapat memudahkan proses Pre-post Content. Export File dengan Scale x2 dan resolusi 100% (Canva).
 
-BASIC PRINCIPLE DESIGN
-![image17.jpg](Design_images/image17.jpg)
-**BASIC PRINCIPLE DESIGN**
-
-![image2.png](Design_images/image2.png)
-​
-PPT SLIDES
-
-## WHY?
+## Basic Principle Design: Why?
 Aesthetic dan Functional
 Semua design setidaknya memenuhi standar estetika
 Pesan dapat disampaikan melalui visual (menghindari kesalahpahaman)
-## 01. Hirarki
+
+## Design Principle: Hirarki
 Design secara keseluruhan
 Memberi alur membaca supaya viewers ga bingung
 Atur konten supaya hal paling penting langsung ditangkap
@@ -180,7 +178,8 @@ Paling mudah membangun hirarki melalui ukuran, contoh pada ukuran teks:
 Heading: 44 (dibaca duluan)
 Body Text: 22
 ![image7.png](Design_images/image7.png)
-## 02. Kontras
+
+## Design Principle: Kontras
 Buat highlight poin utama dari konten
 Intensitas kontras akan menarik attention
 Terutama saat banyak info bisa mastiin poin'' penting ga terlewat
@@ -189,7 +188,8 @@ Contoh: IG POST
 Warna background dibuat lebih padam biar subject menonjol
 Pilih warna yang berlawanan di color wheel untuk kontras tinggi (buat highlight)
 ![image6.png](Design_images/image6.png)
-## 03. Keseimbangan
+
+## Design Principle: Keseimbangan
 Ngebagi bobot visual merata: teks, gambar, dan area kosong
 Untuk memastikan kenyamanan membaca
 Pastikan post tidak terlalu ramai atau kosong
@@ -198,7 +198,8 @@ Tulisan banyak di kiri diimbangi dengan gambar besar di kanan
 Color palette elemen design ambil dari warna gambar di design
 ![image14.png](Design_images/image14.png)
 ![image13.png](Design_images/image13.png)
-## 04. Layout
+
+## Design Principle: Layout
 Pakai grid
 Gunakan border
 Ada jarak antara konten dengan ujung post dan jarak antara atas, bawah, kanan, kiri SAMA
@@ -206,7 +207,8 @@ Supaya konten ter-fokus ditengah
 Sebagai garis besar gambaran letak elemen-elemen design
 Konten terlihat rapi dan jelas (ga ketutup kolom komentar, reply, dll)
 ![image15.png](Design_images/image15.png)
-## 05. Spacing
+
+## Design Principle: Spacing
 Atur jarak antar elemen
 Semakin dekat jarak elemen, viewers akan mengelompokkannya jadi 1 info
 Jarak yang teratur supaya informasi lebih cepat diproses
@@ -214,7 +216,8 @@ Contoh: IG POST
 Judul, konten 1, konten 2 diberi jarak yang jelas
 ![image41.png](Design_images/image41.png)
 ![image40.png](Design_images/image40.png)
-## 06. Konsistensi
+
+## Design Principle: Konsistensi
 Mempertahankan style design
 Agar mudah dikenali
 Dengan masukin 1 elemen yang sama ke semua design, contoh: font kita selalu Montserrat

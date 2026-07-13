@@ -2,11 +2,18 @@
 title: Group Interview Ceo Office
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: quarterly
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template pertanyaan group interview (skenario prioritas & komunikasi) untuk posisi CEO Office.
 
-GROUP INTERVIEW QUESTIONS FOR CEO OFFICE
+## Group Interview Questions for CEO Office
 Di MM, mentor/guru cuma satu sedangkan muridnya udah 70an. Kalau beliau sakit 3 hari, menurut kamu apa dampaknya ke bisnis dan apa yang bisa kamu lakukan?
 Dalam 1 minggu, ada 70 murid private aktif, 1 kelas webinar, dan 1 konser offline. Mentor/guru ada jadwal lain dan minta 1 hari kosong total. Tiba2 ada murid private minta reschedule ke hari kosong itu dan murid minta rehearsal tambahan untuk konser offline.
 Tentukan:

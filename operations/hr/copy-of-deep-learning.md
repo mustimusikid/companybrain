@@ -1,18 +1,24 @@
 ---
 title: Copy Of Deep Learning
 domain_tag: [operations, hr]
-doc_type: sop
+doc_type: reference
+owner: hr_head
+status: Draft
+confidentiality: Internal
+source: external
+effective_date:
+review_frequency: evergreen
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Catatan course eksternal soal Deep Learning (neural network, backpropagation, bias/variance, regularization) — materi training teknis.
 
 Deep Learning
 ![image13.jpg](Copy of Deep Learning_images/image13.jpg)
 **Deep Learning**
 
-# Resource
+**Course 1**
 
-# Course 1
 ## Summary
 **Deep Learning** adalah **subbagian dari Machine Learning** yang berfokus pada algoritma berbasis **neural networks.**
 **Deep Learning** menggunakan **artificial neural networks** dengan banyak lapisan yang terhubung (deep). Model deep learning bisa sangat kompleks dengan **jaringan saraf berlapis-lapis** (deep neural networks), termasuk **Convolutional Neural Networks (CNNs)** untuk data gambar atau **Recurrent Neural Networks (RNNs)** untuk data sekuensial seperti teks.
@@ -22,6 +28,7 @@ Single Neuron Entity of Neural Network
 Size adalah Input yang akan di pertimbangkan untuk Neural Network.
 Circle adalah Proses Neural Network, atau proses Deep Learning, in this case menggunakan Function ReLU (Rectified Linear Unit).
 Final Price adalah Output yang di hasilkan setelah melewati proses Deep Learning.
+
 ## Neural Network yang lebih besar terbentuk dari stacking atau Gabungan dari banyak Single Neuron
 Salah satu metode pendekatan Deep Learning adalah Supervised Learning
 Dalam **supervised learning**, model deep learning dilatih menggunakan data yang **dilabeli**. Ini berarti setiap contoh data yang digunakan untuk pelatihan memiliki **input (fitur)** dan **output yang diketahui (label)**. Tujuannya adalah agar model dapat mempelajari hubungan antara input dan output, sehingga dapat memprediksi output yang benar untuk data baru yang tidak dilabeli.
@@ -32,6 +39,7 @@ Didalam pendekatan Supervised Learning terdapat beberapa arsitektur model untuk 
 Didalam pendekatan Supervised Learning juga terdapat 2 jenis data, yaitu:
 Structured Data adalah jenis data yang **terorganisir** dengan baik dalam format yang **terdefinisi** dengan jelas, seperti tabel dalam database atau spreadsheet. Structured data disusun dalam bentuk yang dapat dengan mudah diidentifikasi, diakses, dan diproses oleh algoritma machine learning.
 Unstructured Data adalah data yang **tidak terorganisir** secara rapi dalam format tabel yang terstruktur, dan tidak mudah dipetakan ke kolom dan baris. Data ini biasanya berupa **data tidak terstruktur** seperti teks, gambar, audio, dan video.
+
 ## Binary Classification
 **Binary classification** adalah jenis tugas **klasifikasi** di mana model dilatih untuk **memprediksi salah satu dari dua kelas**. Dalam binary classification, output dari model biasanya dibatasi pada dua kategori, yang seringkali dilambangkan sebagai:
 **Kelas 0** atau **Kelas 1**
@@ -71,6 +79,7 @@ Contoh penambahan Array biasa
 dimensi array sama, broadcasting tidak diperlukan
 ![image4.png](Copy of Deep Learning_images/image4.png)
 disini skalar di perluas menjadi ukuran yang sama dengan a sehingga operasi penambahan bisa dilakukan.
+
 ## Single Layer Neural Network
 Dalam **single layer neural network**, ada hanya **satu lapisan neuron** yang terhubung langsung dari **lapisan input** ke **lapisan output** tanpa lapisan tersembunyi (hidden layer). Contoh dalam NumPy:
 ![image3.png](Copy of Deep Learning_images/image3.png)
@@ -92,6 +101,7 @@ Penjelasan:
 **relu()**: Fungsi aktivasi ReLU diterapkan pada hasil dari hidden layer.
 **W_output** dan **b_output**: Bobot dan bias dari hidden layer ke lapisan output.
 **sigmoid()**: Fungsi aktivasi di lapisan output yang menghasilkan probabilitas prediksi.
+
 ## Hubungan Activation Function, Non-Linear Activation dan Derivatives of Activation Function
 **Activation function**, **derivatives (turunan)**, dan **non-linear activation function** sangat berhubungan erat dan **tidak bisa dipisahkan** dalam konteks neural networks dan **deep learning**. Mereka bekerja **bersama-sama** untuk memungkinkan **pembelajaran** yang efektif di dalam neural network.
 **Fungsi aktivasi** digunakan di setiap neuron dalam neural network untuk mentransformasikan input dari lapisan sebelumnya.
@@ -101,14 +111,17 @@ Bagaimana Penerapannya dalam Deep Learning
 **Activation function** diterapkan pada setiap lapisan, terutama pada **lapisan tersembunyi**. Lapisan-lapisan ini akan memproses dan mentransformasikan input melalui fungsi aktivasi non-linear untuk menghasilkan representasi fitur yang lebih abstrak dan bermanfaat.
 **Turunan fungsi** dari aktivasi digunakan selama **backpropagation** untuk menghitung bagaimana bobot di setiap lapisan harus diperbarui, sehingga jaringan dapat belajar dari kesalahan.
 **Non-linear activation function** (seperti **ReLU**, **tanh**, atau **sigmoid**) memungkinkan **deep learning** bekerja pada masalah yang sangat kompleks, seperti pengenalan gambar, pemrosesan bahasa alami, atau prediksi suara, yang tidak bisa dilakukan oleh model linear.
+
 ## Proses Training Deep Learning
 **Forward propagation** dan **backpropagation** adalah dua langkah inti dalam proses pelatihan jaringan saraf. Forward propagation digunakan untuk menghitung prediksi, sementara backpropagation digunakan untuk memperbaiki prediksi dengan memperbarui bobot berdasarkan error.
 **Random initialization** memastikan bahwa bobot jaringan tidak semuanya dimulai dari nol, memungkinkan pembelajaran yang lebih efektif.
 **Parameter** (bobot dan bias) dioptimalkan selama pelatihan, sementara **hyperparameter** seperti **learning rate** dan **jumlah lapisan** harus ditentukan sebelum pelatihan.
 **Matrix dimensions** yang tepat sangat penting untuk memastikan bahwa operasi matematis berjalan lancar di setiap lapisan.
 Proses pelatihan berulang dalam beberapa **epoch** hingga model dapat membuat prediksi yang akurat berdasarkan data yang diberikan.
-# Course 2
+**Course 2**
+
 ## Summary
+
 ### Train, Test and Dev Sets
 Dalam Machine learning dan Deep learning terdapat 3 pelatihan penting untuk modeling
 Train Set
@@ -120,6 +133,7 @@ Biasanya, **10%-20%** dari data dialokasikan untuk dev set.
 Test Set
 **Test set** adalah bagian dari dataset yang digunakan **hanya setelah pelatihan selesai** untuk mengevaluasi **seberapa baik model dapat menggeneralisasi** pada data yang belum pernah dilihat sebelumnya. Test set digunakan **sekali** di akhir pelatihan untuk memberikan **indikasi kinerja akhir** model.
 **Biasanya, 10%-20%** dari dataset dialokasikan untuk test set.
+
 ### Bias/Variance
 Bias (Bias Model)
 **Bias** mengacu pada **seberapa baik model bisa belajar pola dari data**. Bias tinggi berarti model membuat **asumsi yang kuat dan sederhana** tentang data, sehingga tidak cukup fleksibel untuk menangkap **pola-pola yang kompleks** dalam data.

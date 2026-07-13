@@ -2,11 +2,18 @@
 title: Strengths Interview Template
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+effective_date:
+review_frequency: annually
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Template pertanyaan Strengths Interview untuk new hires — 10 pertanyaan soal talent, goals, dan preferensi kerja, plus penjelasan 3 tipe talent (Striving/Thinking/Relating).
 
-STRENGTHS INTERVIEW
+## Strengths Interview
 
 **Q1: (Jika pernah ada prev experience) Apa yang paling Anda nikmati tentang pengalaman kerja Anda sebelumnya?**
 

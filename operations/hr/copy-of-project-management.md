@@ -1,15 +1,19 @@
 ---
 title: Copy Of Project Management
 domain_tag: [operations, hr]
-doc_type: sop
+doc_type: reference
+owner: hr_head
+status: Draft
+confidentiality: Internal
+source: external
+effective_date:
+review_frequency: evergreen
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Catatan referensi dari buku "The Goal" (Theory of Constraints) — fokus pada bottleneck sebagai satu-satunya hal yang menentukan throughput proses. Catatan ini terpotong/belum lengkap (bagian Critical Path Method & Gantt Chart belum terisi).
 
-Project Management
-![image8.jpg](Copy of Project Management_images/image8.jpg)
-**Project Management**
-
+## The Goal: Fokus pada Bottleneck
 "The Goal" says that only one part of any process really matters, **the bottleneck**. The bottleneck is whichever part of the process can handle the least amount of material. Nothing else matters, except if it holds up the bottleneck. The logic is fairly easy to see, but the implications are not.
 Suppose you have a process that goes like this: Raw materials are cleaned (10 minutes per 10 units)-> cleaned items are machined (10 minutes per 1 unit)-> machined items are heat treated (10 minutes per 10 units)-> heat treated items are shipped (1 minute per 10 units).
 Now suppose that you started with an empty plant and ran the process for an hour. Your output would look like this.

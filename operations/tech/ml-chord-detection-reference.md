@@ -1,17 +1,22 @@
 ---
 title: Reference
-domain_tag: [operations, hr]
-doc_type: sop
+domain_tag: [operations, tech]
+doc_type: reference
+owner: tech_head
+status: Approve
+confidentiality: Internal
+source: ai
+effective_date:
+review_frequency: annually
+superseded_by:
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Penjelasan metode machine learning (CNN) yang dipakai untuk deteksi/klasifikasi chord — arsitektur, komponen, dan workflow.
 
-![image7.jpg](Reference_images/image7.jpg)
 **REFERENCE**
 
-# Explanation of Method That We Use
-## PILIHAN METODE MACHINE LEARNING UNTUK DETEKSI/KLASIFIKASI CHORD
-### CONVOLUTIONAL NEURAL NETWORK (CNN)
+## Pilihan Metode Machine Learning untuk Deteksi/Klasifikasi Chord
+### Convolutional Neural Network (CNN)
 CNN adalah jenis jaringan saraf tiruan yang sangat efektif untuk memproses data dengan struktur grid, seperti gambar atau, dalam kasus kita, spektrogram audio. CNN terdiri dari beberapa lapisan yang memproses dan mengekstrak fitur dari input secara bertahap.
 CNN sangat efektif untuk klasifikasi audio, termasuk deteksi chord. Metode ini bisa mengolah spectrogram atau mel-spectrogram dari audio sebagai input.
 Mengapa CNN menjadi pilihan terbaik?
