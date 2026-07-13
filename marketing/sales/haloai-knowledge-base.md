@@ -1,10 +1,16 @@
 ---
-title: Haloai Knowledge Base
+title: HALO AI Knowledge Base — Version History (Archive)
 domain_tag: [marketing, sales]
-doc_type: sop
+doc_type: reference
+owner: marketing_head
+status: Archive
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
+superseded_by: sales-halo-ai-agent-spec.md
 ---
 
-> Sales playbook, outreach script, or customer service flow for Musti Musik.
+> Riwayat 6 versi HALO AI agent spec (7 Nov 2025 - 27 Mei 2026) digabung berurutan. Jangan dipakai operasional — versi terbaru yang sudah bersih & terverifikasi ada di sales-halo-ai-agent-spec.md. Disimpan sebagai arsip riwayat perubahan harga/kebijakan.
 
 VER 27 MEI 26
 **AGENT SPEC EDITOR**

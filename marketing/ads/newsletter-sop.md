@@ -2,9 +2,14 @@
 title: Newsletter & Email Marketing SOP
 domain_tag: [marketing, ads]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> SOP penerbitan newsletter Musti Musik (alur konten lintas tim, jadwal Senin/Rabu/Jumat via Email/WA/Telegram), tutorial campaign & reporting Mailketing, metrik email, dan prinsip membangun brand value.
+> SOP penerbitan newsletter Musti Musik (alur konten lintas tim, jadwal Senin/Rabu/Jumat via Email/WA/Telegram), tutorial campaign & reporting Mailketing, metrik email, dan prinsip membangun brand value. Catatan: Mailketing saat ini sudah tidak aktif dipakai, tapi alur & prinsipnya tetap jadi acuan.
 
 ## Alur Newsletter
 

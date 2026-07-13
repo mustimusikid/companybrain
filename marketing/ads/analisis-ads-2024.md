@@ -1,10 +1,15 @@
 ---
 title: Analisis Ads 2024
 domain_tag: [marketing, ads]
-doc_type: sop
+doc_type: strategy
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> Marketing strategy, ad script, or content SOP for Musti Musik.
+> Analisis performa campaign iklan Meta tahun 2024 (kode kampanye CR 2.x, CR 3.x) — insight umum soal CTR/CPC/budget overrun masih relevan, tapi isi dokumen ini perlu ditulis ulang: formatnya rusak (bekas tabel yang gagal ke-convert jadi paragraf panjang) dan belum dipecah per topik.
 
 ## Overview
 

@@ -1,10 +1,15 @@
 ---
 title: Potential Agency
 domain_tag: [marketing, ads]
-doc_type: sop
+doc_type: reference
+owner: marketing_head
+status: Archive
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
-> Marketing strategy, ad script, or content SOP for Musti Musik.
+> Riset & perbandingan vendor agency (social media management + Google/YouTube Ads) — kontak, layanan, kelebihan/kekurangan, quotation, dan hasil MoM meeting. Diarsipkan — keputusan pemilihan agency sudah diambil, data disimpan sebagai riwayat riset vendor.
 
 ## Social Media Agency
 

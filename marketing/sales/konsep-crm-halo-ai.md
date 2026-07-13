@@ -1,16 +1,22 @@
 ---
-title: Konsep Crm Halo Ai
+title: Konsep CRM — Requirement Meeting Halo AI (29 Mei 2026)
 domain_tag: [marketing, sales]
-doc_type: sop
+doc_type: reference
+owner: marketing_head
+status: Archive
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
+superseded_by: sales-halo-ai-agent-spec.md
 ---
 
-> Sales playbook, outreach script, or customer service flow for Musti Musik.
+> Dokumen persiapan meeting requirement CRM dengan vendor Halo AI (29 Mei 2026). Diarsipkan — meeting sudah terjadi, hasil aktualnya ada di sales-halo-ai-agent-spec.md.
 
 **KONSEP CRM**
 Dokumen Kebutuhan & Persiapan Meeting
 Halo AI — CRM Feature Discussion
 
-# 1. Apa Itu CRM?
+## 1. Apa Itu CRM?
 CRM (Customer Relationship Management) adalah sistem untuk mengelola semua interaksi dengan calon pelanggan (leads) dan pelanggan aktif — mulai dari pertama kali mereka masuk, sampai mereka closing dan seterusnya.
 
 Intinya: satu tempat terpusat untuk mengetahui siapa leads-mu, dari mana datangnya, sudah di tahap mana, dan apa yang perlu dilakukan selanjutnya.
@@ -22,7 +28,7 @@ Follow-up tidak ada yang terlewat karena sistem yang mengingatkan atau melakukan
 Bisa mengukur dari channel mana leads paling banyak datang dan paling banyak closing
 Kinerja tim sales bisa dimonitor dan dioptimalkan berdasarkan data
 
-# 2. Alur Kerja CRM
+## 2. Alur Kerja CRM
 Dalam bisnis yang menggunakan CRM dengan baik, alurnya berjalan seperti berikut:
 
 | Tahap | Aktivitas | Siapa yang Terlibat |
@@ -34,7 +40,7 @@ Dalam bisnis yang menggunakan CRM dengan baik, alurnya berjalan seperti berikut:
 | 5. Konversi | Hot leads ditangani langsung oleh sales untuk closing | Sales |
 | 6. Retensi | Pelanggan aktif dikelola untuk repeat order dan referral | CS + Marketing |
 
-# 3. Kebutuhan CRM yang Diinginkan
+## 3. Kebutuhan CRM yang Diinginkan
 ## 3.1 Auto-Detect Kategori Leads
 Sistem harus mampu mengklasifikasikan leads secara otomatis ke dalam tiga kategori berdasarkan sinyal perilaku yang terdeteksi:
 
@@ -95,7 +101,7 @@ Bisa set delay/timing follow-up secara fleksibel?
 Auto follow-up bisa berhenti otomatis jika leads sudah membalas?
 Apakah ada fitur A/B testing untuk template follow-up?
 
-# 4. Fitur Tambahan yang Ingin Dieksplorasi
+## 4. Fitur Tambahan yang Ingin Dieksplorasi
 ## 4.1 Alert Eskalasi Manual
 Leads Hot yang belum direspons oleh sales dalam waktu tertentu harus memicu notifikasi otomatis ke tim.
 Notifikasi via WhatsApp, email, atau in-app ke sales person yang ditunjuk
@@ -131,7 +137,7 @@ Catatan dari sales person bisa ditambahkan manual
 Perubahan kategori tercatat dengan timestamp
 Riwayat follow-up yang sudah dikirim
 
-# 5. Pertanyaan Kunci untuk Meeting
+## 5. Pertanyaan Kunci untuk Meeting
 Gunakan checklist berikut selama meeting dengan Halo AI untuk memastikan semua kebutuhan terjawab.
 
 | No | Pertanyaan | Prioritas |

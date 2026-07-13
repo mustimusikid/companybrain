@@ -2,9 +2,14 @@
 title: Meta Ads SOP
 domain_tag: [marketing, ads]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> SOP Performance Marketing untuk Meta (Facebook/Instagram) Ads: setup Business Manager, struktur campaign/adset/ads, audience (saved/custom/lookalike), pixel, Orthodox Matrix (OCLP, LP Convert), scaling, rules, dan manual bidding.
+> SOP Performance Marketing untuk Meta (Facebook/Instagram) Ads: setup Business Manager, struktur campaign/adset/ads, audience (saved/custom/lookalike), pixel, Orthodox Matrix (OCLP, LP Convert), scaling, rules, manual bidding, dan SOP scripting ads.
 
 ## How To Set Up A Facebook Ads Campaign
 
@@ -54,6 +59,17 @@ doc_type: sop
 - Adset: nama mis. `LAL / Sales / Indo / 21-55 / Nama Creative`; Conversion=Website; Performance Goal=Maximize conversions; Datasets=Musti Musik; Conversion Event=Purchase. Budget contoh: 4jt / 8 adset / 10 hari = Rp50.000/hari/adset. Audience: switch to original → custom/lookalike; age, gender, interest.
 - Ads: nama mis. `Ad / Dark Post / Video / Creative Name`; Identity Page "Musti Musik" + IG "mustimusik.id"; Creative source Manual Upload; Video ad; Primary Text + Headline; CTA "Book Now"; Destination Website (mis. mustimusik.id/bootcampads/); Tracking Musti Musik Datasets → Publish.
 
+## Rumus Metrik Dasar
+
+- **Reach:** jumlah unik orang yang melihat iklan (ditargetkan Meta). **Impression:** total tayangan iklan, termasuk yang melihat >1×.
+- **Result:** jumlah tindakan sesuai tujuan campaign (klik, konversi, purchase). **Amount Spent:** total biaya campaign.
+- **CPR (Cost Per Result)** = Amount Spent / Results.
+- **CPC (Cost Per Click)** = Amount Spent / Link Click.
+- **CTR (Link Click-Through Rate)** = (Link Click / Impression) × 100%.
+- **CPM (Cost Per Mille)** = (Amount Spent / Impression) × 1000.
+- **CR Purchase to LC** = (Purchase / Link Click) × 100%.
+- **Purchase ROAS** = Revenue / Amount Spent.
+
 ## Orthodox Matrix
 
 - **CTR – Link Click:** relevansi konten vs audiens. Standar 1%.
@@ -72,6 +88,7 @@ doc_type: sop
 
 - Buat rule: matikan campaign pukul 23.00/24.00 WIB, nyalakan lagi 05.00 WIB (audiens Indonesia tidur, hemat budget). Hanya untuk CBO; jangan untuk ABO.
 - More → Create a new rule → centang campaign → Action "Turn off campaign", Time range "Today", Schedule Custom semua hari 05.00–23.30 → Create.
+- **Rule anti-boncos:** tujuannya campaign auto-off kalau spend tinggi tanpa hasil. Bisa set 1-3 rule per campaign. Cara: klik campaign → Create new rule → Custom rule → beri nama (mis. "Spent 30rb No Pur Off") → Apply to campaign → Condition: Spent greater than Rp30.000 AND Purchase smaller than 1 → Time range "Today" → Create. Bertingkat, contoh rule ke-2: "Spent 50rb No Pur Off" (Turn off campaign, Spent > Rp50.000, Purchase < 2, Today). Bisa dilanjutkan rule ke-3 sampai ke-5 dengan threshold makin tinggi.
 
 ## Manual Bidding
 

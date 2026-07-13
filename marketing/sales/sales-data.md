@@ -1,10 +1,16 @@
 ---
-title: Sales Data
+title: Sales Data — Old AI Agent Flow (Archive)
 domain_tag: [marketing, sales]
-doc_type: sop
+doc_type: reference
+owner: marketing_head
+status: Archive
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
+superseded_by: sales-halo-ai-agent-spec.md
 ---
 
-> Sales playbook, outreach script, or customer service flow for Musti Musik.
+> Versi lama flow chat AI Agent & harga (harga Private masih Rp1.499.999 + Regis Fee Rp99.999, sudah berubah jadi Rp1.599.999 + Rp199.999 di versi terbaru). Diarsipkan — sudah digantikan sales-halo-ai-agent-spec.md.
 
 ## AI Agent
 

@@ -1,10 +1,16 @@
 ---
-title: Untitled Spreadsheet
+title: Warm Reachout Script — Old WA Shortcuts (Archive)
 domain_tag: [marketing, sales]
-doc_type: sop
+doc_type: reference
+owner: marketing_head
+status: Archive
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
+superseded_by: sales-halo-ai-agent-spec.md
 ---
 
-> Sales playbook, outreach script, or customer service flow for Musti Musik.
+> Script WA quick-reply lama untuk Warm Reachout Jazz/Worship dengan shortcut command (/WarmReachoutJazz, /academistep1, dll) dan harga Akademi lama (Rp1.197.000/12 bulan). Diarsipkan — harga & flow sudah berubah, acuan terbaru ada di sales-halo-ai-agent-spec.md.
 
 ## Overview
 

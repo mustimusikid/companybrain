@@ -1,10 +1,15 @@
 ---
-title: Downsell
+title: Downsell SOP
 domain_tag: [marketing, sales]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> Sales playbook, outreach script, or customer service flow for Musti Musik.
+> SOP downsell untuk prospek yang keberatan harga/waktu — Academy Downsell Ladder (12→6→3 bulan, content-only, free orientation) dan Music School Downsell Ladder (3 bulan→trial→group session→durasi lebih pendek), lengkap dengan script dan harga.
 
 # 📑 Musti Musik Downsell SOP
 ### 🎯 Objective
