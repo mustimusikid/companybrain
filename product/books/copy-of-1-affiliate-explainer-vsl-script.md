@@ -1,7 +1,7 @@
 ---
 title: Copy Of 1 Affiliate Explainer Vsl Script
 domain_tag: [product, books]
-doc_type: sop
+doc_type: reference
 ---
 
 > Buku Jazz/Worship product SOP or book launch document.

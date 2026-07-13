@@ -1,7 +1,7 @@
 ---
 title: Health Safety What You Need To Know
 domain_tag: [product, music_school]
-doc_type: sop
+doc_type: reference
 ---
 
 > Reference material from the Build A Music School course archive.

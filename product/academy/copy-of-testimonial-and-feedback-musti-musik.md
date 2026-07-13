@@ -1,7 +1,7 @@
 ---
 title: Copy Of Testimonial And Feedback Musti Musik
 domain_tag: [product, academy]
-doc_type: sop
+doc_type: transcript
 ---
 
 > Online academy product SOP or operational document for Musti Musik.

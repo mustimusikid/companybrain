@@ -1,7 +1,7 @@
 ---
 title: Musti Musik Book Launch Plan
 domain_tag: [product, events]
-doc_type: sop
+doc_type: strategy
 ---
 
 > Free class operation SOP or product document for Musti Musik.

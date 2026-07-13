@@ -1,7 +1,7 @@
 ---
 title: Teacher Handbook Musti Musik
 domain_tag: [product, music_school]
-doc_type: sop
+doc_type: strategy
 ---
 
 > Physical music school SOP, teacher contract, or handbook for Musti Musik.

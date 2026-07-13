@@ -1,7 +1,7 @@
 ---
 title: Copy Of [New] $100M Money Models Book Launch Run Of Show Blackbook
 domain_tag: [product, books]
-doc_type: sop
+doc_type: reference
 ---
 
 > Buku Jazz/Worship product SOP or book launch document.

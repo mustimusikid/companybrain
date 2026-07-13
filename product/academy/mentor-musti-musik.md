@@ -1,7 +1,7 @@
 ---
 title: Mentor Musti Musik
 domain_tag: [product, academy]
-doc_type: sop
+doc_type: rundown
 ---
 
 > Online academy product SOP or operational document for Musti Musik.

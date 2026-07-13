@@ -1,7 +1,7 @@
 ---
 title: Webinar Courses
 domain_tag: [product, events]
-doc_type: sop
+doc_type: reference
 ---
 
 > Free class operation SOP or product document for Musti Musik.

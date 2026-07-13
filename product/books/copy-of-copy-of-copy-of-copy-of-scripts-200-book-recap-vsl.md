@@ -1,7 +1,7 @@
 ---
 title: Copy Of Copy Of Copy Of Copy Of Scripts 200 Book Recap Vsl
 domain_tag: [product, books]
-doc_type: sop
+doc_type: reference
 ---
 
 > Buku Jazz/Worship product SOP or book launch document.

@@ -1,7 +1,7 @@
 ---
 title: 22 Lessons Webinar Courses
 domain_tag: [product, events]
-doc_type: sop
+doc_type: transcript
 ---
 
 > Free class operation SOP or product document for Musti Musik.

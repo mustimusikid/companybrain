@@ -1,7 +1,7 @@
 ---
 title: Rate Card Mandarin
 domain_tag: [product, paid_class]
-doc_type: sop
+doc_type: reference
 ---
 
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.

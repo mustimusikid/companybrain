@@ -1,7 +1,7 @@
 ---
 title: Survey Pricing Bootcamp
 domain_tag: [product, paid_class]
-doc_type: sop
+doc_type: strategy
 ---
 
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.

@@ -1,7 +1,7 @@
 ---
 title: Kompetitor Benchmark
 domain_tag: [product, music_school]
-doc_type: sop
+doc_type: reference
 ---
 
 > Physical music school SOP, teacher contract, or handbook for Musti Musik.
