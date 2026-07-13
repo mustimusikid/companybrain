@@ -2,6 +2,11 @@
 title: YouTube Analytics SOP
 domain_tag: [marketing, ads]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > SOP Performance Marketing untuk YouTube Analytics & Reporting: pengumpulan data ads & organik, analisis real-time/jangka panjang, thumbnail A/B testing, retention (50%/30% rule), baseline, dan timeline pelaporan.
@@ -57,6 +62,18 @@ Ide → Title → Thumbnail → Script → Rekam. Judul & thumbnail adalah fakto
 - **50% Rule:** temukan titik 50% penonton pergi → analisis & hindari di video berikutnya; outro singkat + CTA/endscreen.
 - **30% Rule:** titik 30% pergi (30-60 detik pertama) → buat intro lebih menarik, gunakan timestamp.
 - **Monetisasi:** CPM tinggi + Watch Time tinggi = audiens ideal & pendapatan maksimal.
+
+## Contoh Format Daily Report
+
+Contoh isian laporan harian (28 Maret 2025):
+- Peringkat: -
+- Views: -
+- Impressions: 19.636
+- CTR: 3,7%
+- Average View Duration: 3:53
+- Watch Time: 61,0 jam
+- Suka & Tidak Suka: 👍 43 suka / 👎 1 tidak suka
+- Subscribers Gained: 10
 
 ## Catatan Penting (Akademi YouTube)
 1. Jangan terlalu obsesi CTR (tidak bersih, fokus ke views). 2. Ganti thumbnail hanya jika tak perform 2-3 hari; pakai TubeBuddy untuk A/B paralel. 3. Perhatikan audience insights (usia/gender/behavior). 4. Pemilihan topik: demand + emosi + relevansi; cek Search Traffic; momentum-aware (lagu religi saat Natal/Paskah). 5. Personal branding & konsistensi (jangan lompat topik). 6. Persiapan konten sebelum rekam. 7. Analitik untuk video berikutnya, bukan utak-atik video lama. 8. Algoritma dinamis — konsistensi konsep yang penting. Konten bagus butuh waktu naik (kadang viral setahun kemudian).

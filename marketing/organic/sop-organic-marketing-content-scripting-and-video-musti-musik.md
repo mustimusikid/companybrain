@@ -1,10 +1,15 @@
 ---
-title: Sop Organic Marketing Content Scripting And Video Musti Musik
+title: SOP Organic Marketing Content Scripting and Video
 domain_tag: [marketing, organic]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> SOP alur produksi konten organik Musti Musik: workflow ideation → scripting → recording → editing → posting, jadwal konten harian (Senin-Minggu), ketentuan scripting, dan 2 pilar konten (Edukasi vs Entertainment).
 
 ![image14.png](SOP Organic Marketing Content Scripting and Video Musti Musik_images/image14.png)
 **[SOP] Standard Operating Procedure**

@@ -2,6 +2,11 @@
 title: Sales HALO AI — Agent Spec & Knowledge Base
 domain_tag: [marketing, sales]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Spesifikasi agent CS/sales "Admin Musti Musik" (HALO AI): identity & style, router, jobs & guardrails, kategori leads, AI agent behavior flows, dan Knowledge Base lengkap (Sekolah Musik, Akademi Online, Masterclass, PO Buku, Free Class) beserta harga & link pendaftaran.

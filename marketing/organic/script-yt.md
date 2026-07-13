@@ -1,10 +1,15 @@
 ---
-title: Script Yt
+title: Bank Ide & Script Video YouTube Edukasi Piano
 domain_tag: [marketing, organic]
-doc_type: sop
+doc_type: reference
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> Marketing strategy, ad script, or content SOP for Musti Musik.
+> Kumpulan riset & breakdown script untuk ide video YouTube edukasi piano — analisis referensi video (Top 20 Worship Piano Intro, chord progression, teknik five-finger drill, dll) dengan timestamp, diadaptasi untuk konten Musti Musik.
 
 26 DES 2025
 IDE ADA DI SUB TAB

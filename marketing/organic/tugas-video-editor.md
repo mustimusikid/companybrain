@@ -1,10 +1,15 @@
 ---
-title: Tugas Video Editor
+title: Tugas Video Editor — Form Responses
 domain_tag: [marketing, organic]
-doc_type: sop
+doc_type: reference
+owner: marketing_head
+status: Draft
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
-> Human resources document for Musti Musik covering employment, contracts, or performance.
+> Placeholder form responses tugas/test video editor — belum ada data terisi.
 
 ## Form Responses 1
 

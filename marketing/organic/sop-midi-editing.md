@@ -2,6 +2,11 @@
 title: SOP Editing & Sinkronisasi MIDI untuk Konten Video Murid Private
 domain_tag: [marketing, organic]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Proses editing dan sinkronisasi aset MIDI + backing track agar selaras tempo dan dinamika natural, siap dipakai tim video untuk konten murid private.

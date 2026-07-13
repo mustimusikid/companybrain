@@ -2,6 +2,11 @@
 title: AI Content Creation Module
 domain_tag: [marketing, organic]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Modul pelatihan AI untuk produksi konten: cara kerja ChatGPT/LLM, fitur ChatGPT, struktur & teknik prompt, level AI (generative → multi-agent), tooling gambar/video/voice (Nano Banana, Veo, Kling, ElevenLabs, HeyGen, Higgsfield), OpenClaw, dan roadmap 7 hari mastery konten AI.

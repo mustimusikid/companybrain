@@ -1,10 +1,15 @@
 ---
-title: Sop Organic
+title: SOP Organic — Checklist Script & Platform Reference
 domain_tag: [marketing, organic]
 doc_type: sop
+owner: marketing_head
+status: Approve
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> Marketing strategy, ad script, or content SOP for Musti Musik.
+> Checklist lengkap produksi konten organik: Short Form, Editing, Long Form, Carousel, Threads, Story; format umum scripting Hook-Body-CTA dengan contoh; catatan strategi per platform (TikTok, YouTube, Twitter/Threads, LinkedIn, Instagram, Facebook).
 
 ![image16.jpg](SOP Organic_images/image16.jpg)
 # S.O.P
