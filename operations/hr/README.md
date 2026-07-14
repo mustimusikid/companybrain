@@ -32,6 +32,7 @@ Individual PDR files do NOT go here (use DB hr_performance_reviews). Hiring resp
 - strengths-interview-template.md
 - technical-writer.md
 - termination-letter-template.md
+- video-editor-job-description.md
 - videographer.md
 - virtual-assistant.md
 - web-development.md
