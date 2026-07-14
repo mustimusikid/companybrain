@@ -42,6 +42,28 @@ Don't force a mixed document into one label. Split it into separate files along 
 
 If a chunk still resists clean classification after splitting as far as reasonably possible, just pick whichever type covers >50% of the content. Don't over-optimize for purity.
 
+## File Naming Convention
+- **kebab-case, lowercase**: `topic-keywords.md` — hyphen-separated, no spaces, no brackets, no special characters
+- **Descriptive of content topic, not origin.** Banned patterns: `copy-of-...`, `untitled-...`, `[batch-2]-...`, bare `data-4.md`. If you can't tell what's inside from the filename alone, rename it.
+- **No dates baked into the filename** unless the doc is genuinely ONE dated occurrence (`doc_type: rundown`, or a pricing/campaign snapshot that will eventually get `superseded_by`'d). Reusable `sop`/`strategy`/`reference` docs should never have a date in the name — that's what `effective_date` and `last_reviewed` are for.
+- **No ambiguous numeric suffixes** to distinguish near-duplicates (`-1`, `-2`, `-copy`). If two files are genuinely different topics, name them distinctly. If one is an outdated version of the other, use `superseded_by` metadata instead of a new filename suffix.
+- **Target 3-6 hyphenated words** — descriptive, not cryptic, not a full sentence.
+
+## File Granularity — When to Split vs Merge Files
+Chunking (`##` boundary, above) already handles retrieval granularity *within* a file — a long file with well-organized `##` sections isn't automatically a problem. The real question is whether the **file-level metadata** (`doc_type`, `owner`, `confidentiality`, `review_frequency`, `effective_date`, `status`) applies uniformly across the whole thing.
+
+### Split into separate files when:
+1. Content mixes multiple `doc_type`s (see "One document, multiple doc_types" above)
+2. Different parts would need genuinely different `owner`, `confidentiality`, `review_frequency`, or `effective_date` — these are file-level fields, so if they diverge by section, one file can't represent all of it correctly. (Example: a file mixing Newsletter SOP and Ads SOP content — if they have different review cadence or a different accountable role, split them even though both are `doc_type: sop`.)
+3. A reviewer can't give one clean `Approve`/`Draft` verdict for the entire file — mixed trust levels ("half of this is right, half is outdated") is a signal to split.
+
+### Merge into an existing file (as a new `##` section) when:
+1. New content is below the ~50-word minimum chunk size and closely related in topic/owner/domain_tag to an existing file — fold it in as a section rather than create a thin standalone file that's too small to chunk meaningfully.
+2. Two existing files cover the same narrow topic with no meaningful metadata differences — consolidate into one. If one is simply an outdated version of the other, use `superseded_by` instead of keeping both live.
+
+### Length alone is not a reason to split
+If a long file's `##` sections all share the same owner/confidentiality/review_frequency/status and belong to the same coherent process, keep it as one file. Splitting purely because a file "feels long" just fragments something a reader needs to see as a whole.
+
 ## Owner vs Access — two different concerns, don't conflate
 - **`owner`** (frontmatter field): **a role, not a person's name** — e.g. `marketing_head`, `academy_head`, `finance_head`. Sales SOPs are owned by `marketing_head` (there's no separate Sales Head), etc. Using a role instead of a name means owner stays correct through staff turnover — nobody needs to bulk-edit files just because someone changed jobs or left. Owner values should be drawn from the **same canonical role list** used for Access below — one source of truth for roles, not two lists that can drift apart.
   - Since owner is now role-based, it's largely **auto-suggestible**: the role that heads a document's `domain_tag` (via the same role→scope table used for Access) is usually the right owner — the system can pre-fill it, and a human only needs to override for edge cases (e.g. a sub-domain with its own lead distinct from the parent division head).
