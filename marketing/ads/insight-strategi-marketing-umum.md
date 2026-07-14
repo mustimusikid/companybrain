@@ -1,7 +1,7 @@
 ---
 title: Insight Strategi Marketing Umum (Webinar & Buku Eksternal)
 domain_tag: [marketing, ads]
-doc_type: strategy
+doc_type: reference
 owner: marketing_head
 status: Approve
 confidentiality: Internal

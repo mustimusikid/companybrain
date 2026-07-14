@@ -1,10 +1,15 @@
 ---
-title: Profile Dave
-domain_tag: [marketing, ads]
-doc_type: sop
+title: Script Personal Branding — Profile & Story Dave Henokh
+domain_tag: [marketing, organic]
+doc_type: reference
+owner: marketing_head
+status: Draft
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
-> Marketing strategy, ad script, or content SOP for Musti Musik.
+> Bahan mentah profile & cerita hidup Dave Henokh (pendidikan, bisnis, musik, relationship, iman) yang dipakai sebagai referensi/bank cerita untuk script konten personal branding — CV, slide storytelling, dan ringkasan per-topik. Dipindahkan dari marketing/ads karena isinya bahan konten personal branding organik, bukan materi iklan.
 
 Tab 1
 
@@ -129,7 +134,7 @@ Dan aku di sini buat bantu kamu lewatin perjalanan itu, lebih cepat dari yang ak
 **EDUCATION**
 
 **The University of Hong Kong | ***Bachelor of Electronics Engineering*** **	Sep 2021 - Jun 2025
-GPA: 3.71/4.3; First Class Honours & Dean’s Honours List 2021-2022.
+GPA: 3.71/4.3; First Class Honours & Dean's Honours List 2021-2022.
 6+ Awards: HKU Engineering Alumni Association Scholarship 2024, S.Y. King Prize in EEE 2023, EE 72 Chan Kam Yin Scholarship 2023, HK Kowloon Electrical Appliances Merchants Association Ltd. Scholarship 2023, IET Prize 2022, HKU Foundation Scholarship for Outstanding Academic Talents 2021-2024.
 
 **PROFESSIONAL QUALIFICATION**
@@ -156,7 +161,7 @@ Instructing **advanced jazz techniques**, focusing on complex chord structures a
 **MUSIC ACTIVITIES**
 
 **Winner | ***HKU Music Festival***	**Feb 2024 & 2025
-**Won twice in a row for HKU’s music festival** with my contemporary jazz compositions “Drizzle” and “Pilgrimage”.
+**Won twice in a row for HKU's music festival** with my contemporary jazz compositions "Drizzle" and "Pilgrimage".
 **Content Creator | ***, **, ***	**Jun 2023 - Present
 Creating piano education content for the Indonesian audience, amassing **200K+ followers and 20M+ impressions**.
 Invited as a **guest speaker at 6+ events**, including masterclasses hosted by music brands, churches, and content creators.
@@ -173,25 +178,25 @@ Consistently** performed hymns during weekly sermons since high school**, return
 
 **PERFORMANCES**
 
-**Billie’s Bounce (Charlie Parker)**: Arranged “Billie’s Bounce” in a bebop and ragtime style, featuring dynamic solos for piano, bass, and drums. *, *
+**Billie's Bounce (Charlie Parker)**: Arranged "Billie's Bounce" in a bebop and ragtime style, featuring dynamic solos for piano, bass, and drums. *, *
 **Pilgrimage (Dave Henokh Liong)**: A contemporary jazz composition that seamlessly blends orchestral instruments with jazz and classical elements. The piece is anchored by a Songo groove, reflecting its Latin influence. *, *
 **Drizzle (Dave Henokh Liong)**: A contemporary jazz composition inspired by Snarky Puppy, characterized by flowing arpeggiated movements and a singing bass melody that evoke the sensation of rain. *, *
-**Footprints (Wayne Shorter)**: Arranged “Footprints” using Indonesian Slendro and Pelog pentatonic scales, incorporating traditional Gamelan phrases to create a unique fusion of jazz and Indonesian music. *, *
+**Footprints (Wayne Shorter)**: Arranged "Footprints" using Indonesian Slendro and Pelog pentatonic scales, incorporating traditional Gamelan phrases to create a unique fusion of jazz and Indonesian music. *, *
 
 # Bisnis:
 Jualan siomay umur 18/19. Bbbrp bulan, hpp 20 ribu, jual 200 ribu, profit jutaan. Skill = 1-on-1 jualan
 Agensi sosmed, bntr bgt doang dan byk klien tp dulu pro bono semua, offernya masih jelek
 Musti musik, dimulai dr ngonten tahun 2023, 100k followers dalam 5 bulan di tiktok, mulai bikin kelas (bootcamp 1 bulan -> pernah beranti ngonten 2 bulan di desember karena burnout, tapi lanjut ngonten lagi di februari | feb bikin produk digital akademi online (feburari 2024). Total2 ada 800 murid sampe skrg | freeclass rutin dr 2023, total2 10,000 pendaftar | masterclass (1 day group coaching) total2 1000 pendaftar | sekolah musik berdirinya mei 2025, 100an murid dan ada 2 tim guru
 
-**May 2023**: Musti Musik was born. We were not a company yet, and I was just figuring out how content creating works. I didn’t know then, but this decision would change my life.
+**May 2023**: Musti Musik was born. We were not a company yet, and I was just figuring out how content creating works. I didn't know then, but this decision would change my life.
 **July 2023**: Started our first free class. 90+ people showed up.
 **Sept 2023**: Started our first bootcamp. 50+ people bought. You could say this is where Musti Musik turned from a money sink to a proper business.
 **Nov 2023**: Gained 100K+ followers on TikTok.
-**Dec 2023**: I wouldn’t say Musti Musik went bankrupt but I’d say I was having crazy doubts in myself so I stopped creating content and doing business.
+**Dec 2023**: I wouldn't say Musti Musik went bankrupt but I'd say I was having crazy doubts in myself so I stopped creating content and doing business.
 **Feb 2024**: Realized that this is my passion and fuck what other people think.
 **Mar 2024**: Started our online academy, killed the bootcamp product line (no passion in bootcamps lol).
 **May 2024**: Started hiring aggressively cause our members grew to hundreds, and I was tired of doing things alone.
-**June 2024**: Started meeting important people cause I’m back in Indonesia. This led to…
+**June 2024**: Started meeting important people cause I'm back in Indonesia. This led to…
 **Aug 2024**: Our first offline event and B2B success with Roland Corporation. We have made wonderful partnerships since then with Kawai, Korg, and Omah Library.
 **Sept 2024**: Reinitiated the bootcamp product line (cause bootcamps really do bring in money and qualified leads so I will have to stick to it). We also became profitable (accrual-basis, cash-basis has always been fine) for the 1st time (lfg).
 **Dec 2024: **Made Lifetime access available to our academy, double the price of the academy. This is our most profitable product line yet.
