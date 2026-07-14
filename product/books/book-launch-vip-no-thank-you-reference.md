@@ -1,12 +1,17 @@
 ---
-title: Copy Of Scripts Vip Thank You
+title: Copy Of Scripts Vip No Thank You
 domain_tag: [product, books]
 doc_type: reference
+owner: books_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Buku Jazz/Worship product SOP or book launch document.
 
-Thank You
+No Thank You
  You are registered. Excited to see you on August 16th. Uh, we start at 9:00 AM Pacific, 12:00 PM Eastern. You can screenshot this page below to save all the details and email it to yourself to make sure you don't miss it and star it, extra star it if you missed it earlier. Here are three amazing bonuses you can get absolutely free if you just choose to pre-order the book for the same price as it's going to be live.
 
 So if you're gonna get one live, you might as well just get it now before the launch to make my warehouse guys lives easier, which I will reward you with a whole bunch of amazing free stuff. Which if you didn't see the video, the four things are one you get automatic entry to and drawing to come out here to Vegas to spend a day here with me and my team.

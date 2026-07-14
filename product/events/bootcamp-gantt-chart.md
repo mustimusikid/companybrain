@@ -2,6 +2,11 @@
 title: Bootcamp Gantt Chart (Oktober 2025)
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: quarterly
 ---
 
 > Timeline operasional bootcamp Musti Musik (Open Reg 3 Okt 2025, D1 Bootcamp 14 Okt 2025) per aktivitas, PIC, dan departemen, plus catatan task bertanda (*).

@@ -2,6 +2,14 @@
 
 Append-only. Never rewrite existing entries.
 
+## 2026-07-19 (product/ full cleanup pass)
+- **Deleted (6 files, certificate-merge data missed in original June purge):** `product/events/masterclass-{agustus,desember,juli,november}.md`, `product/events/untitled-spreadsheet.md`, `product/paid-class/special-class-maret-2026.md`
+- **Renamed (14 files, removed `copy-of-`/`untitled-` artifacts):** 12 Hormozi book-launch reference scripts in `product/books/` renamed to `book-launch-*-reference.md` pattern; `product/paid-class/copy-of-project-plan.md` → `bootcamp-project-plan.md`; `product/academy/copy-of-testimonial-and-feedback-musti-musik.md` → `testimonial-and-feedback-transcript.md`
+- **Metadata migrated (130 files):** added `owner` (role per subfolder: academy_head/books_head/events_head/music_school_head/paid_class_head), `status: Unknown`, `confidentiality: Internal`, `source` (`ai` for the 9 docs I authored this month, `gdrive` for the rest), `review_frequency` (evergreen for reference/strategy/transcript, annually for sop, quarterly if pricing keywords detected) — all per Migration Defaults in schema.md. `status` intentionally left `Unknown`/not `Approve` — accuracy verification needs a human, per the schema's own tiering.
+- **Structural fixes:** removed 3 files' `•⁠` bullet-artifact characters (`worklist-musti-musik.md`, `competitor-analysis.md`, `customer-success-1.md`); converted 22 files from H1-only chapter dividers to real `##` chunk boundaries (list in commit) — these previously had zero valid chunk boundaries per Chunking Convention
+- **Flagged, not auto-fixed:** 64 files still have standalone bold lines that may be pseudo-headings (`**Some Title**` used as a heading instead of `##`/`###`) — not bulk-converted because some bold lines are legitimate emphasis (full sentences, signature-line underscores), not headings; converting blindly risked corrupting content. Needs individual review — good candidate for the department Claude Code review sessions (see the "review/[departemen]" branch workflow already in place).
+- Not touched: `product/*/archive/` (51 files, already excluded from ETL embedding, out of scope for this pass) and body-content prose cleanup (escaped chars — none found; wall-of-text-to-list conversion — not attempted at this scale, left for department review sessions)
+
 ## 2026-07-19 (cleanup)
 - Removed `operations/hr/performance-marketing.md` — misfiled duplicate (31k words, mixed Newsletter/Meta Ads/YouTube/TikTok content) missed by the marketing team's metadata PR because it lived in operations/hr, out of that PR's scope. Content already fully superseded by `marketing/ads/newsletter-sop.md`, `meta-ads-sop.md`, `youtube-analytics-sop.md`, `marketplace-ads-tiktok-shopee.md`. Its twin at `marketing/ads/performance-marketing.md` was already removed by the team's own PR.
 

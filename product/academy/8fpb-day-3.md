@@ -2,6 +2,11 @@
 title: 8Fpb Day 3
 domain_tag: [product, academy]
 doc_type: reference
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Online academy product SOP or operational document for Musti Musik.

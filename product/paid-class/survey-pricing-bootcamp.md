@@ -2,6 +2,11 @@
 title: Survey Pricing Bootcamp
 domain_tag: [product, paid_class]
 doc_type: strategy
+owner: paid_class_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.

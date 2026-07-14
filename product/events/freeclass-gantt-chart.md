@@ -2,6 +2,11 @@
 title: Free Class Gantt Chart
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: quarterly
 ---
 
 > Template timeline operasional Free Class Musti Musik per aktivitas, PIC, departemen, dan fase (H-7 Open Reg → H+2), plus catatan task bertanda (*).

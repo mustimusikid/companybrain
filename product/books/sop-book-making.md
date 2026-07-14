@@ -2,6 +2,11 @@
 title: SOP Pembuatan Buku Musti Musik
 domain_tag: [product, books]
 doc_type: sop
+owner: books_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: quarterly
 ---
 
 > Proses penyusunan buku edukasi Musti Musik dari kurikulum hingga file siap cetak (A5), termasuk standar visual, QR code, dan kurasi.

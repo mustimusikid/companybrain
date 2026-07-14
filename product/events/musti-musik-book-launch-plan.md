@@ -2,6 +2,11 @@
 title: Musti Musik Book Launch Plan
 domain_tag: [product, events]
 doc_type: strategy
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Free class operation SOP or product document for Musti Musik.

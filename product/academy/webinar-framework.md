@@ -2,6 +2,11 @@
 title: Webinar Framework
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
@@ -13,7 +18,7 @@ Perfect Webinar itu 3 main frame work
 BONUS: Less than XX, more than XX, yg dateng LIVE dapet FREE -> Free class
 
 Title -> cerita dia (testimoni) -> ruler slide ->
-# A. BIG DOMINO
+## A. BIG DOMINO
 (singgle point belief)
 I am going to teach _____________________
 (insert submarket)
@@ -52,7 +57,7 @@ _No structured data — see original file_
 - bullet points for 14 step
 ![image6.png](webinar framework_images/image6.png)
 
-# B. Three Secrets
+## B. Three Secrets
 (identify fals beliefe dulu)
 1. Vehicle (new opportunity/other false believe)
 2. internal belief
@@ -82,7 +87,7 @@ ngajar materi step 1 (strategynya aja)
 (untuk yang step 3 all about customer external fals beliefs
 ----------------------------------------------
 
-# C. Stack and Closes
+## C. Stack and Closes
 move from teach to sales
 list our offer element in 1 slide
    a. tell story how you created this (learn n earn) -> show 1 elemnt
@@ -174,34 +179,34 @@ If you only got (show them what they already got for free and what they can poss
 Close close (push them to edge)
 1 to million
 INTRODUCTION
-# Cementing your authority
+## Cementing your authority
 Intinya bangun Impresi ttg diri kita
 RESULT: show them your result
 POSITION: who you are that compare with
 CELEBRITY: tell them u meet celebrity (anything that u can relate to, event it is not relate)
 TESTIMONIALS (how good u are / their big result / their immediate result)
 
-# Create Commitments
+## Create Commitments
 Tell and explain your goals in this webinar, and make them give their best with write it
 Commitment tell all about future
 
-# Objections in Advance
+## Objections in Advance
 Kayanya ini kaya false believe
 1. Disagre → acknowledge and soften, validate and reframe, present a target.
 2. Agree → agree with their objection, define what you’re agreeing to, prove it to be true, and provide a target.
 
 Use humor → if they can laugh at their problem, easier to destroy the problem and make the sales
-# Fostering Hope
+## Fostering Hope
 Fostering hope → with “why”: inspire them with something greater + talk back to them to REFLECT
 
 Use mystery
 
-# FIRST LAST TECHNIQUE
+## FIRST LAST TECHNIQUE
 On this webinar…. (jelasin 1 per 1 per slide)
 (bisa dipaduin sama mysteri)
 
 THE CONTENT
-# Knowing and Feeling
+## Knowing and Feeling
 Important to know your audience feeling,
 
 Audience: What audience are you going to serve?

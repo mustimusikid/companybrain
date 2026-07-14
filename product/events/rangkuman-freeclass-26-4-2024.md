@@ -2,13 +2,18 @@
 title: Rangkuman Freeclass 26 4 2024
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Free class operation SOP or product document for Musti Musik.
 
 Tab 1
 Belajar jazz bakal cepat dan mudah kalau tahu triknya!
-# Belajar Chord Miring Yang Jazzy
+## Belajar Chord Miring Yang Jazzy
 Voicing chord adalah cara menyuarakan suatu chord agar lebih manis
 **a). Chord 7 dan 9**
 Chord 7:
@@ -25,16 +30,16 @@ b). Diminished7
 Chord yang tersusun dari Root (1)+3b+5b+ (interval ke 7 dim)
 Cara pakainya sebagai jembatan ½ chord sebelum chord tujuan
 (dari C ke Dm → menjadi C - Dbdim7 - Dm)
-# Belajar Main Genre Jazz
+## Belajar Main Genre Jazz
 Feel jazz banyak terdapat pada Rhythm Pattern karena merupakan jiwa lagu
 a). Swing: Pakai walking bass
 ![image12.png](RANGKUMAN FREECLASS 26／4／2024_images/image12.png)
 Walking Bass bisa dengan bermain diatonik (1-2-3-5) dari suatu chord
-# Cara Improvisasi di Jazz
+## Cara Improvisasi di Jazz
 Jazz identik dengan Improve, cara yang paling gampang dengan Blues Scale
 a). Major Blues Scale: 1-2-**3b**-5-6
 b). Minor Blues Scale: 1-3b-4-**5b**-5-7b
-# 4. Mau cerita tentang Dian.
+## 4. Mau cerita tentang Dian.
 Dian adalah ex pianis klasik.
 Pas dulu umur 24:
 

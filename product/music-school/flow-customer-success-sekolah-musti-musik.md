@@ -2,6 +2,11 @@
 title: Flow Customer Success Sekolah Musti Musik
 domain_tag: [product, music-school]
 doc_type: sop
+owner: music_school_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: quarterly
 ---
 
 > Alur Customer Success murid Sekolah Musti Musik — onboarding murid baru, reminder sesi, reminder pembayaran tiap pertemuan ke-4, hingga info paket & harga, beserta template pesan.

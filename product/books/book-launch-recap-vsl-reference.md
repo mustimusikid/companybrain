@@ -2,6 +2,11 @@
 title: Copy Of Scripts Recap Vsl
 domain_tag: [product, books]
 doc_type: reference
+owner: books_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Buku Jazz/Worship product SOP or book launch document.

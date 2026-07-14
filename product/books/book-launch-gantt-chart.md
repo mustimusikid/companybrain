@@ -2,6 +2,11 @@
 title: Book Launch Gantt Chart
 domain_tag: [product, books]
 doc_type: sop
+owner: books_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: quarterly
 ---
 
 > Timeline/checklist peluncuran buku Musti Musik (launch 26 Juni 2026) dari Week 6 sampai H+1, plus catatan task bertanda (*). Harga buku Rp89.999.

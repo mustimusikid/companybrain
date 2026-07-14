@@ -2,6 +2,11 @@
 title: Gantt Chart
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Free class operation SOP or product document for Musti Musik.

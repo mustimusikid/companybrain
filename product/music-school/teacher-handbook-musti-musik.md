@@ -2,6 +2,11 @@
 title: Teacher Handbook Musti Musik
 domain_tag: [product, music_school]
 doc_type: strategy
+owner: music_school_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Physical music school SOP, teacher contract, or handbook for Musti Musik.
@@ -10,14 +15,14 @@ doc_type: strategy
 **IN MUSTI MUSIK**
 **– HANDBOOK FOR TEACHERS –**
 
-# Chapter 1: Hello
+## Chapter 1: Hello
 
 Hi, I’m Dave Henokh, CEO of Musti Musik. If you read this handbook, then congrats, cause you’re gonna have one of the best experiences of your life here, because you’ll learn a ton and what you will do here matters if you believe in our vision.
 
 This is not a rulebook. The purpose of this is not to give you a bunch of rules to follow. We are a growing edtech startup. What we do changes all the time, so this handbook will definitely change overtime. I need you to know that this handbook gives you an overview of the business (so that you’ll catch up to all things in Musti Musik) and I hope this book inspires you with questions and to come to us to learn more.
 
 I write this myself for authenticity, **so what I said here is what I really meant.**
-# Chapter 2: Musti Musik Vision
+## Chapter 2: Musti Musik Vision
 
 Small companies tend to ignore making their vision or they ChatGPT their way through it. I FULLY disagree because VISION sets the direction that the company is heading. It sets what decisions are right and wrong, and it gives purpose to the mundane tasks that we do every day. With that said, vision consists of 3 parts (took this from the book Beyond Entrepreneurship):
 ![image16.png](Teacher Handbook Musti Musik_images/image16.png)
@@ -63,7 +68,7 @@ Why aim to become the biggest? Well why aim to make anything without being the n
 
 Just to be very clear. We have no offline branches yet. But as of now we have 450+ students (300 students from academy, 150 students from bootcamps). Our monthly free class is the most popular piano free class in Indonesia. We have taught 3000+ students through our free classes. Hundreds of people have told me directly that their lives have changed because of our free classes.
 
-# Chapter 3: History of Musti Musik
+## Chapter 3: History of Musti Musik
 
 Feels weird writing out the history of your company (especially since we’re still so young) but I really believe by being open and vulnerable, you as an employee can trust me that I won’t fuck you over (this becomes our cultural code below btw). So here is our history:
 
@@ -81,7 +86,7 @@ Feels weird writing out the history of your company (especially since we’re st
 **Dec 2024: **Made Lifetime access available to our academy, double the price of the academy. This is our most profitable product line yet.
 
 And this leads to…
-# Chapter 4: Musti Musik Products
+## Chapter 4: Musti Musik Products
 
 You have to know this cause in the beginning of my hiring journey, people don’t even know what impact they have and why they’re doing the stuff that they do (which is bad cause who wants to work in a company where you don’t even know how they do business).
 
@@ -129,7 +134,7 @@ Free class is designated for the masses. It’s a chance for potential customers
 ![image3.png](Teacher Handbook Musti Musik_images/image3.png)
 
 One last disclaimer. Products change. Business models change. But we stay true to our vision. That’s what keeps us going, not the products.
-# Chapter 5: Live and Breathe Our Culture
+## Chapter 5: Live and Breathe Our Culture
 
 I take culture seriously because I want to make Musti Musik a good place to work. I want to make Musti Musik a good place to work because of 3 things:
 Being a good company doesn’t matter when things go well, but it can be the difference between life and death when things go wrong.
@@ -250,7 +255,7 @@ Third Time: It's a serious issue. This shows a lack of learning.
 Repeated mistakes happen either as a systemic problem that we need to address at an organizational level, or an individual performance issue. Neither of these is acceptable in the long term.
 
 By this principle, I am creating a tough organization that delves in bad news all the time and solves it all the time. We become tough.
-# Chapter 6: What Do I Want In You?
+## Chapter 6: What Do I Want In You?
 
 You may be wondering what's the difference between cultural code and employee quality. Cultural code is the values that we believe in as a company. But qualities are something you need to have in order for you to realize our cultural values. **Because if you don’t, then none of our cultural code really matters.**
 
@@ -269,7 +274,7 @@ Musti Musik’s company-wide qualities sought in employees:
 A shocking rule is a rule that makes you ask “Why is this rule here?”. It’s for you to remember our culture code, so each rule is highly unique to our company and therefore treated as important as our HR policy (chap 8). Thus there will be consequences for not doing it.
 **Deadline Bargaining**: You must refuse a deadline set by your head if you cannot commit to it. Then the bargaining starts until you both agree on a deadline that you must deliver. If you do not commit to the deadline, it’s YOUR fault and you will be penalized in our monthly assessment.
 **Late? Rp1,000/minute**: Every minute you are late to meetings, pay Rp1,000/person/minute. So if there’s 3 people in the meeting and you’re late for 5 minutes, then pay Rp15,000.
-# Chapter 7: How Musti Musik Runs
+## Chapter 7: How Musti Musik Runs
 
 Here’s our organizational chart and here’s how we’re all connected. This part is made by my personal assistant, Dian:
 ![image11.png](Teacher Handbook Musti Musik_images/image11.png)
@@ -314,7 +319,7 @@ Eduardo: Our academy guy. He works with Chrystian to create educational content 
 In a nutshell, our organization thrives on teamwork and clear communication. Everyone has their role, but we all come together to hit our goals, making us a pretty effective and efficient crew.
 
 We have countless stories of how people here came through to others who are depending on them. We also have a few cases who didn’t come through to others, and I can proudly say that they are not working here anymore. (And if you are like this, I will know, and you will know what happens next)
-# Chapter 8: Human Resources Policy
+## Chapter 8: Human Resources Policy
 
 The purpose of Human Resources is to help you thrive here. HR have a bad rep in big corporations for executing layoffs and dirty practices etc but people forget that their core purpose is to help you enjoy your work. HR helps Musti Musik become a good company to work for.
 
@@ -334,7 +339,7 @@ Employees may receive warnings for violations such as **dishonesty, negligence, 
 **7: Shocking Rules**
 **Refer to Chapter 6 (it’s that important)**
 
-# Chapter 9: Advance Your Career in Musti Musik
+## Chapter 9: Advance Your Career in Musti Musik
 
 **Career Progression**
 
@@ -409,7 +414,7 @@ SUMMARY OF EACH DEPARTMENT CASH COMPENSATION
 
 _No structured data — see original file_
 
-# Chapter 10: What About You?
+## Chapter 10: What About You?
 
 If you’ve made it this far you are at least interested in this being your career for the next 3-6 months. Because if you're ambitious and want to dedicate your life to work, you picked the best company in Indonesia to do it at.
 

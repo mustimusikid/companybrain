@@ -2,6 +2,11 @@
 title: Competitor Analysis
 domain_tag: [product, academy]
 doc_type: reference
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
@@ -446,9 +451,9 @@ C. Advance
 3. Barry Harris Voicing
 4. Dll. | 4-5 orang | 2637 orang | - Grup Komunitas dengan 1000+ anggota dan reharm app |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 7.0 | Sinfonia Music School |  |  | grade (ABRSM / Rock School):
-•⁠  ⁠basic
-•⁠  ⁠debut 430rb per bulan
-•⁠  grade ⁠1-8 (grade 8: 1.030 per bulan)
+-   ⁠basic
+-   ⁠debut 430rb per bulan
+-   grade ⁠1-8 (grade 8: 1.030 per bulan)
 
 online beda 30 ribu doang lebih murah | Online | piano
 cello
@@ -831,9 +836,9 @@ Viewers : 2K paling besar 91K dengan konten promosi menggunakan video latihan de
 
 Google Business : 118 Reviews - 4.9
  | grade (ABRSM / Rock School):
-•⁠  ⁠basic
-•⁠  ⁠debut 430rb per bulan
-•⁠  grade ⁠1-8 (grade 8: 1.030 per bulan)
+-   ⁠basic
+-   ⁠debut 430rb per bulan
+-   grade ⁠1-8 (grade 8: 1.030 per bulan)
 
 online beda 30 ribu doang lebih murah | ABRSM/Rock School | Online | piano
 cello
@@ -1453,9 +1458,9 @@ gitar eletri akustik
 drum
 keyboard
 flute |  | grade (ABRSM / Rock School):
-•⁠  ⁠basic
-•⁠  ⁠debut 430rb per bulan
-•⁠  grade ⁠1-8 (grade 8: 1.030 per bulan) | kurang lebih 40 orang | 1 cabang 26 murid
+-   ⁠basic
+-   ⁠debut 430rb per bulan
+-   grade ⁠1-8 (grade 8: 1.030 per bulan) | kurang lebih 40 orang | 1 cabang 26 murid
 1 cabang lagi 292 murid
 total: 318 murid
 304 murid offline

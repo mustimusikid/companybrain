@@ -2,6 +2,11 @@
 title: Checklist Concert
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Event rundown, concert checklist, or student concert SOP for Musti Musik.

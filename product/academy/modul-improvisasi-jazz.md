@@ -2,11 +2,16 @@
 title: Modul Improvisasi Jazz
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
 
-# Outline Materi Modul
+## Outline Materi Modul
 
 "Improvisation 101"
 
@@ -30,7 +35,7 @@ Cara Berpikir Ketika Improvisasi (copy aja)
 
 TIPS BERLATIH IMPROVE (COURSESERA)
 
-# 10 Level improve
+## 10 Level improve
 ![image26.png](MODUL IMPROVISASI JAZZ_images/image26.png)
 ![image32.png](MODUL IMPROVISASI JAZZ_images/image32.png)
 ![image30.png](MODUL IMPROVISASI JAZZ_images/image30.png)
@@ -46,7 +51,7 @@ Exotic scales(melodic minoor modes, whole tone scales, diminished scales, etc.) 
 Chormatic scale (substitution), phrase nya kombinasi small medium large, rhythm polyrhythms, target nya ke not yg dihindari, dibuat aneh dan jelek. rhythm nya acak2 an, jumlah not semuanya
 ![image36.png](MODUL IMPROVISASI JAZZ_images/image36.png)
 ![image34.png](MODUL IMPROVISASI JAZZ_images/image34.png)
-# 3 Improve Exercise
+## 3 Improve Exercise
 ![image40.png](MODUL IMPROVISASI JAZZ_images/image40.png)
 #### Intinya main terus (maksa main improve tanpa henti → bebas)
 Bisa bertahap (tahap 1 main biasa sesuai ketukan, tahap 2 pakai eight notes / lebih cepet notasinya)
@@ -61,7 +66,7 @@ Ganti oktaf
 Ganti transpose
 Dlll bebas
 → main tematik
-# Scale And Modes
+## Scale And Modes
 ![image2.png](MODUL IMPROVISASI JAZZ_images/image2.png)
 ![image6.png](MODUL IMPROVISASI JAZZ_images/image6.png)
 
@@ -78,14 +83,14 @@ Dlll bebas
 ![image24.png](MODUL IMPROVISASI JAZZ_images/image24.png)
 ![image29.png](MODUL IMPROVISASI JAZZ_images/image29.png)
 
-# Embellish Melody
+## Embellish Melody
 ![image27.png](MODUL IMPROVISASI JAZZ_images/image27.png)
 
 Embellish the melody cuma bahas yang no 4 → ubah melodi lagu jadi improvisasi
 Mainin melodinya, tapi ganti2 rhythm
 Rhythmnya sama, ganti notesnya aja → (bisa pake  1-3)
 Fill in → ngisi bagian kosong di melody (bisa pake 1-3)
-# Coursera
+## Coursera
 xx
 
 ![image33.png](MODUL IMPROVISASI JAZZ_images/image33.png)

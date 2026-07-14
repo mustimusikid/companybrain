@@ -2,24 +2,29 @@
 title: Sop Vip Community
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
 
 ![image9.jpg](SOP VIP Community_images/image9.jpg)
-# S.O.P.
-# MUSTI MUSIK.
-# COMMUNITY
+## S.O.P.
+## MUSTI MUSIK.
+## COMMUNITY
 
-# Color Code Notes :
+## Color Code Notes :
 ***🔵 Blue : Subject***
 ***🔴 Red : Timeline***
 ***🟢 Green : Actions****** ***
 
-# TARGET
+## TARGET
 **Tim Community**** ****Mengatur semua**** kegiatan komunitas, jadwal, dan reminder kelas kepada VIP Community di Whatsapp dengan benar dan tepat waktu **
 
-# Jadwal
+## Jadwal
 Ketentuan:
 **Social Media Admin ****melakukan reminder** pada setiap akun sosial media komunitas pada **Hari H** jadwal reminder
 **Social Media Admin**** mengirimkan reminder** melalui akun WA Mentor Musti Musik (nomor baru)
@@ -35,13 +40,13 @@ Jadwal Reminder dan announcement meliputi.
 
 **Template pesan dapat dilihat di**
 
-# Bedah Piano
+## Bedah Piano
 Setiap member yang mengikuti Bedah Piano akan **mengirim permainannya ke nomor WA Mentor Musti Musik**
 **Tim Academy** kemudian **mengumpulkan **terlebih dahulu di suatu group “Bank Bedah Piano” dengan format yang jelas
 **Tim Academy**  **Pastikan **member memberikan data (Nama?, Mau dibedah hari apa?, Mau dibedah bagian apa?) atau bisa langsung menggunakan quick reply WA Mentor Musti Musik (/bedahpiano2)
 **Tim Academy** **mengirim semua video **dan keterangan ke group VIP - Bedah Piano **H-1 pada hari sabtu dan atau minggu **setelah sesi Bedah Piano pertama untuk peserta Bedah Piano di hari berikutnya.
 **Tim Academy** memastikan semua video member telah dimasukan ke dalam VIP - Bedah Piano
-# Onboarding New Member
+## Onboarding New Member
 **Dave Henokh** bersama** PIC Community** **mengadakan Onboarding New Member untuk member baru yang join tiap bulannya**. Welcoming member dilakukan **1x dalam 1 bulan** di hari** selasa minggu pertama bulan tersebut di jam 19:30:00 WIB - 20:00 WIB**
 Welcoming New Member dilakukan secara online melalui Zoom Meeting
 Link zoom akan dibuat oleh **PIC Account Management **maksimal **H-1** sebelum kelas
@@ -50,7 +55,7 @@ Link zoom akan dibuat oleh **PIC Account Management **maksimal **H-1** sebelum k
 **Dave Henokh, PIC Academy, PIC Tech** join zoom paling lambat 5 menit sebelum kelas dimulai
 Materi Welcoming member **disiapkan **oleh **Dave Henokh**** **atau jika diperlukan **Tim Akademi **membuat materi PPT ** **
 Format Onboarding (Login member.mustimusik.id  - nonton video onboarding - QnA)
-# Live Mentoring dan Bedah Piano
+## Live Mentoring dan Bedah Piano
 **Dave Henokh** bersama member Musti Musik Akademi **mengadakan Live Class **mentoring dan bedah piano
 Live Mentoring dilakukan** tiap selasa**
 Bedah Piano dilakukan tiap **minggu dan senin (opsional jika ada)**

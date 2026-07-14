@@ -2,12 +2,17 @@
 title: Rangkum Fc 29 3 2025
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Free class operation SOP or product document for Musti Musik.
 
 Tab 1
-# Worship Genre dan Cara Mainnya
+## Worship Genre dan Cara Mainnya
 Lagu worship dapat dibedakan jadi 2, yaitu Worship dan Praise
 ![image15.png](Rangkum FC 29／3／2025_images/image15.png)
 ![image17.png](Rangkum FC 29／3／2025_images/image17.png)
@@ -17,7 +22,7 @@ Lagu worship dapat dibedakan jadi 2, yaitu Worship dan Praise
 ![image9.png](Rangkum FC 29／3／2025_images/image9.png)
 	Pattern 3 (Praise)			        Pattern 4 (Praise
 
-# Cara Manis dengan Passing Chord
+## Cara Manis dengan Passing Chord
 	Passing chord = Jembatan antar chord agar tidak kaku.
 	Cara umum passing chord
 Secondary Dominant
@@ -31,7 +36,7 @@ Yang sering dipakai:
 V/VII → Jembatan ke VIm dari I → C - G/B - Am
 IV/V → Jembatan ke I dari IV → F - F/G - C
 I/III → jembaran dari I ke IV atau IV ke IIm → F - C/E - Dm
-# 3. Rahasia Improve Worship Manis
+## 3. Rahasia Improve Worship Manis
 Dalam bermain worship kita bisa berimprovisasi agar terdengar lebih manis
 ![image2.png](Rangkum FC 29／3／2025_images/image2.png)
 Pakai Inner Voice: Memainkan melody dalam sebuah chord
@@ -43,8 +48,8 @@ Chromatic passing tones: memainkan 1 dan ½ not di bawah/diatas not tujuan
 ![image1.png](Rangkum FC 29／3／2025_images/image1.png)
 ![image4.png](Rangkum FC 29／3／2025_images/image4.png)
 Diatonic passing tones: memainkan 2 dan 1 not di bawah/diatas not tujuan
-# Koil;l
-# ]4. Mau cerita tentang Dian.
+## Koil;l
+## ]4. Mau cerita tentang Dian.
 Dt6r.ian adalah ex pianis klasik.
 Pas dulu umur 24:
 

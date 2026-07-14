@@ -2,6 +2,11 @@
 title: Flow Customer Success Academy Online
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: quarterly
 ---
 
 > Alur Customer Success member Akademi Online Musti Musik — onboarding member baru hingga penanganan member menjelang expired, beserta 8 template pesan.

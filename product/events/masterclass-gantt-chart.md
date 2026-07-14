@@ -2,6 +2,11 @@
 title: Masterclass Gantt Chart (Maret 2026)
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: annually
 ---
 
 > Timeline operasional Masterclass Musti Musik (Open Reg 6 Mar 2026, Masterclass 27 Mar 2026) per aktivitas, PIC, departemen, plus catatan task bertanda (*).

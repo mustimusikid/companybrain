@@ -2,6 +2,11 @@
 title: Youtube Music Note Icon
 domain_tag: [product, paid_class]
 doc_type: reference
+owner: paid_class_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.

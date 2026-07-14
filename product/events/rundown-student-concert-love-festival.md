@@ -2,6 +2,11 @@
 title: Rundown Student Concert Love Festival
 domain_tag: [product, events]
 doc_type: rundown
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Event rundown, concert checklist, or student concert SOP for Musti Musik.

@@ -2,6 +2,11 @@
 title: Worklist Musti Musik
 domain_tag: [product, paid_class]
 doc_type: sop
+owner: paid_class_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.
@@ -2414,11 +2419,11 @@ INI LINK ONBOARDING YA, SELALU INI @Lila Musti Musik |  |  |  |  |  |  |  |  |  
 (c.a) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Buat WA Komunitas Bootcamp dan grup diskusi utk diinvite peserta |  | - Grup Diskusi (two way)
 - Announcement (one way) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Buat design poster & dan IG post |  | •⁠  ⁠revisi judul✅
-•⁠  ⁠⁠revisi konsistensi slide✅
-•⁠  ⁠⁠video > foto + teks✅
-•⁠  ⁠⁠ganti muka✅
-•⁠  ⁠⁠sesuain hari dan tanggal✅
+| Buat design poster & dan IG post |  | -   ⁠revisi judul✅
+-   ⁠⁠revisi konsistensi slide✅
+-   ⁠⁠video > foto + teks✅
+-   ⁠⁠ganti muka✅
+-   ⁠⁠sesuain hari dan tanggal✅
 - carousel 1 harus estetik dan bikin kaget (kek dulu free class pengumuman) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Landing Page Bootcamp & fix copywriting |  | LP Bootcamp
 1. https://mustimusik.id/bootcampwa/
@@ -2583,7 +2588,7 @@ Daftar Free Class melalui Youtube: mustimusik.id/freeclass/?utm_source=yt (slot 
 | Review materi PPT webinar dgn team (meeting) |  | kamis jam 16:30 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Membuat kode promo                                             *note : bedakan yang organic (performance) |  | JAZZY100 & JAZZY200 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Reminder H-8 jam ke Grup community and 
-one way sebelumnya |  | •⁠reminder ngajak dan ngingetin 
+one way sebelumnya |  | - reminder ngajak dan ngingetin 
 itu harus berkali-kali untuk webinar. 
 mau di IG story, mau di whatsapp grup. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Reminder H-6 jam ke grup pembagian zoom dan bagian link |  | setiap kali reminder ke grup
@@ -2673,11 +2678,11 @@ Pas jualan, kirim template message (siapkan template template message sebelum fr
 (c.a) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Buat WA Komunitas Bootcamp dan grup diskusi utk diinvite peserta |  | - Grup Diskusi (two way)
 - Announcement (one way) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Buat design poster & dan IG post |  | •⁠  ⁠revisi judul✅
-•⁠  ⁠⁠revisi konsistensi slide✅
-•⁠  ⁠⁠video > foto + teks✅
-•⁠  ⁠⁠ganti muka✅
-•⁠  ⁠⁠sesuain hari dan tanggal✅
+| Buat design poster & dan IG post |  | -   ⁠revisi judul✅
+-   ⁠⁠revisi konsistensi slide✅
+-   ⁠⁠video > foto + teks✅
+-   ⁠⁠ganti muka✅
+-   ⁠⁠sesuain hari dan tanggal✅
 - carousel 1 harus estetik dan bikin kaget (kek dulu free class pengumuman) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Landing Page Bootcamp & fix copywriting |  | LP Bootcamp
 1. https://mustimusik.id/bootcampwa/
@@ -2813,11 +2818,11 @@ Jadi tunggu apa lagi ⁉️ Segera manfaatkan promonya sebelum berakhir hari ini
 (c.a) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Buat WA Komunitas Bootcamp dan grup diskusi utk diinvite peserta |  | - Grup Diskusi (two way)
 - Announcement (one way) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Buat design poster & dan IG post |  | •⁠  ⁠revisi judul✅
-•⁠  ⁠⁠revisi konsistensi slide✅
-•⁠  ⁠⁠video > foto + teks✅
-•⁠  ⁠⁠ganti muka✅
-•⁠  ⁠⁠sesuain hari dan tanggal✅
+| Buat design poster & dan IG post |  | -   ⁠revisi judul✅
+-   ⁠⁠revisi konsistensi slide✅
+-   ⁠⁠video > foto + teks✅
+-   ⁠⁠ganti muka✅
+-   ⁠⁠sesuain hari dan tanggal✅
 - carousel 1 harus estetik dan bikin kaget (kek dulu free class pengumuman) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Landing Page Bootcamp & fix copywriting |  | LP Bootcamp
 1. https://mustimusik.id/bootcampwa/
@@ -3114,11 +3119,11 @@ Reminder H-Jam |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
 (c.a) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Buat WA Komunitas Bootcamp dan grup diskusi utk diinvite peserta |  | - Grup Diskusi (two way)
 - Announcement (one way) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Buat design poster & dan IG post |  | •⁠  ⁠revisi judul✅
-•⁠  ⁠⁠revisi konsistensi slide✅
-•⁠  ⁠⁠video > foto + teks✅
-•⁠  ⁠⁠ganti muka✅
-•⁠  ⁠⁠sesuain hari dan tanggal✅
+| Buat design poster & dan IG post |  | -   ⁠revisi judul✅
+-   ⁠⁠revisi konsistensi slide✅
+-   ⁠⁠video > foto + teks✅
+-   ⁠⁠ganti muka✅
+-   ⁠⁠sesuain hari dan tanggal✅
 - carousel 1 harus estetik dan bikin kaget (kek dulu free class pengumuman) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Landing Page Bootcamp & fix copywriting |  | LP Bootcamp
 1. https://mustimusik.id/bootcampwa/
@@ -3346,11 +3351,11 @@ _No structured data — see original file_
 (c.a) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Buat WA Komunitas Bootcamp dan grup diskusi utk diinvite peserta |  | - Grup Diskusi (two way)
 - Announcement (one way) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| Buat design poster & dan IG post |  | •⁠  ⁠revisi judul✅
-•⁠  ⁠⁠revisi konsistensi slide✅
-•⁠  ⁠⁠video > foto + teks✅
-•⁠  ⁠⁠ganti muka✅
-•⁠  ⁠⁠sesuain hari dan tanggal✅
+| Buat design poster & dan IG post |  | -   ⁠revisi judul✅
+-   ⁠⁠revisi konsistensi slide✅
+-   ⁠⁠video > foto + teks✅
+-   ⁠⁠ganti muka✅
+-   ⁠⁠sesuain hari dan tanggal✅
 - carousel 1 harus estetik dan bikin kaget (kek dulu free class pengumuman) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Landing Page Bootcamp & fix copywriting |  | LP Bootcamp
 1. https://mustimusik.id/bootcampwa/

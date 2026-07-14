@@ -2,6 +2,11 @@
 title: Online Concert Gantt Chart
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: annually
 ---
 
 > Timeline operasional Online Concert Musti Musik (H-30 mulai 4 Mar 2026, Concert 30 Mar 2026, sampai H+2) per aktivitas, PIC, dan departemen.

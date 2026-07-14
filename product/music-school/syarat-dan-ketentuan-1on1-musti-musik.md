@@ -2,6 +2,11 @@
 title: Syarat Dan Ketentuan 1On1 Musti Musik
 domain_tag: [product, music_school]
 doc_type: sop
+owner: music_school_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Physical music school SOP, teacher contract, or handbook for Musti Musik.
@@ -134,7 +139,7 @@ PRODUCT DEMO DETAILS
 
 ![image41.png](Syarat dan Ketentuan 1on1 Musti Musik_images/image41.png)
 
-# CONTENT EVALUATION
+## CONTENT EVALUATION
 
 | Shares, likes, or comments | 750/3,800/240 |
 | --- | --- |
@@ -145,7 +150,7 @@ PRODUCT DEMO DETAILS
 | Conversion rate | 6% |
 | Notes | Strong performance |
 
-# SELECTED QUOTES
+## SELECTED QUOTES
 
 _No structured data — see original file_
 
@@ -158,7 +163,7 @@ CONTENT 2
 | Platform: | Platform name |
 | Link: | File |
 
-# CONTENT EVALUATION
+## CONTENT EVALUATION
 *Track the content’s performance. This could be quantitative data such as likes and comments, or qualitative data such as comment sentiment.*
 
 | Shares, likes, or comments | # or NA |
@@ -170,7 +175,7 @@ CONTENT 2
 | Conversion rate | # or NA |
 | Notes | Notes or NA |
 
-# SELECTED QUOTES
+## SELECTED QUOTES
 Link to noteworthy quotes.
 
 _No structured data — see original file_
@@ -184,7 +189,7 @@ CONTENT 3
 | Platform: | Platform name |
 | Link: | File |
 
-# CONTENT EVALUATION
+## CONTENT EVALUATION
 *Track the content’s performance. This could be quantitative data such as likes and comments, or qualitative data such as comment sentiment.*
 
 | Shares, likes, or comments | # or NA |
@@ -196,7 +201,7 @@ CONTENT 3
 | Conversion rate | # or NA |
 | Notes | Notes or NA |
 
-# SELECTED QUOTES
+## SELECTED QUOTES
 Link to noteworthy quotes.
 
 _No structured data — see original file_
@@ -210,7 +215,7 @@ CONTENT 4
 | Platform: | Platform name |
 | Link: | File |
 
-# CONTENT EVALUATION
+## CONTENT EVALUATION
 *Track the content’s performance. This could be quantitative data such as likes and comments, or qualitative data such as comment sentiment.*
 
 | Shares, likes, or comments | # or NA |
@@ -222,7 +227,7 @@ CONTENT 4
 | Conversion rate | # or NA |
 | Notes | Notes or NA |
 
-# SELECTED QUOTES
+## SELECTED QUOTES
 Link to noteworthy quotes.
 
 _No structured data — see original file_
@@ -236,7 +241,7 @@ CONTENT 5
 | Platform: | Platform name |
 | Link: | File |
 
-# CONTENT EVALUATION
+## CONTENT EVALUATION
 *Track the content’s performance. This could be quantitative data such as likes and comments, or qualitative data such as comment sentiment.*
 
 | Shares, likes, or comments | # or NA |
@@ -248,7 +253,7 @@ CONTENT 5
 | Conversion rate | # or NA |
 | Notes | Notes or NA |
 
-# SELECTED QUOTES
+## SELECTED QUOTES
 Link to noteworthy quotes.
 
 _No structured data — see original file_
@@ -262,7 +267,7 @@ CONTENT 6
 | Platform: | Platform name |
 | Link: | File |
 
-# CONTENT EVALUATION
+## CONTENT EVALUATION
 *Track the content’s performance. This could be quantitative data such as likes and comments, or qualitative data such as comment sentiment.*
 
 | Shares, likes, or comments | # or NA |
@@ -274,7 +279,7 @@ CONTENT 6
 | Conversion rate | # or NA |
 | Notes | Notes or NA |
 
-# SELECTED QUOTES
+## SELECTED QUOTES
 Link to noteworthy quotes.
 
 _No structured data — see original file_

@@ -2,6 +2,11 @@
 title: Offline Concert Gantt Chart
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: ai
+review_frequency: annually
 ---
 
 > Timeline operasional konser offline (student concert) Musti Musik dalam 5 fase — Planning, Teaser, Deals, 2 Weeks Before, Hari H, dan After Event — per aktivitas, PIC, departemen. Concert date 28 Feb 2026.

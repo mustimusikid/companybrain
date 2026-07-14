@@ -2,6 +2,11 @@
 title: Djazz Class Room 2025
 domain_tag: [product, music_school]
 doc_type: reference
+owner: music_school_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Physical music school SOP, teacher contract, or handbook for Musti Musik.

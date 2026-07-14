@@ -2,12 +2,17 @@
 title: Freeclass 26 10 2024
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Free class operation SOP or product document for Musti Musik.
 
 Tab 1
-# Worship Genre & Cara Mainnya
+## Worship Genre & Cara Mainnya
 Dalam gereja kristen, lagu ibadah dibedakan menjadi 2
 ![image15.png](FREECLASS 26／10／2024_images/image15.png)
 Praise: Tempo yang cepat, semangat, dan ceria
@@ -15,7 +20,7 @@ Praise: Tempo yang cepat, semangat, dan ceria
 ![image17.png](FREECLASS 26／10／2024_images/image17.png)
 Worship: Tempo yang lebih lambat, suasana yang khusuk, damai sejahtera
 ![image9.png](FREECLASS 26／10／2024_images/image9.png)
-# Gospel Chord Progression & Voicing Tips
+## Gospel Chord Progression & Voicing Tips
 Dalam gereja kristen, lagu ibadah dibedakan menjadi 2
 ![image2.png](FREECLASS 26／10／2024_images/image2.png)
 Buat lagu worship jadi manis: LINE CLICHE!
@@ -28,13 +33,13 @@ Buat lagu worship jadi manis: LINE CLICHE!
 Buat lagu worship jadi hidup: SLASH CHORD
 - Yang sering dipakai IV/V, I/III, V/VII
 
-# 3. Rahasia Improve worship manis:
+## 3. Rahasia Improve worship manis:
 Pakai Passing Note
 Diatonic: Memakai not-not di kunci asli
 (Tips gampang: Pakai 2 not diatonis di bawah atau di atas)
 Chromatic: Memakai not di luar kunci asli
 (Tips gampang: Pakai 1 dan ½ not di bawah atau di atas)
-# 4. Mau cerita tentang Dian.
+## 4. Mau cerita tentang Dian.
 Dian adalah ex pianis klasik.
 Pas dulu umur 24:
 

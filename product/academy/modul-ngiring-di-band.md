@@ -2,11 +2,16 @@
 title: Modul Ngiring Di Band
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
 
-# Materi
+## Materi
 **CARA MENGIRING DALAM BAND**
 bahas secara general
 pakai contoh lagu pop macem2 + Penerapan beberapa di worship
@@ -38,7 +43,7 @@ Drop 2 for low
 
 5. Mengiring Band di Worship
 Penerapan ke lagu worship pake teknik2 yang tadi
-# OUTLINE
+## OUTLINE
 Piano Position in a Band
 **INTRO:** Dalam bermain piano, kita pasti akan bermain dalam Band + Gimana caranya? + ilustrasi
 **Piano Role:** Sebelum bermain, harus tahu ESENSI Piano dalam Band + 1. Menghubungkan antar instrumen + 2. Fill dalam lagu + Karena itu kalian wajib paham 2 Hal ini!

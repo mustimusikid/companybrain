@@ -2,12 +2,17 @@
 title: Rangkuman Freeclass 25 01 2024
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Free class operation SOP or product document for Musti Musik.
 
 Tab 1
-# 5 Comping Worship
+## 5 Comping Worship
 Lagu worship memiliki tempo lambat sehingga pattern ngiringnya cenderung santai
 ![image19.png](RANGKUMAN FREECLASS 25／01／2024_images/image19.png)
 ![image21.png](RANGKUMAN FREECLASS 25／01／2024_images/image21.png)
@@ -20,7 +25,7 @@ Lagu worship memiliki tempo lambat sehingga pattern ngiringnya cenderung santai
 ![image4.png](RANGKUMAN FREECLASS 25／01／2024_images/image4.png)
 	Pattern 5 (lagu 12/8)
 
-# 5 Comping Praise
+## 5 Comping Praise
 Lagu worship memiliki tempo cepat sehingga pattern ngiringnya cenderung main chord
 ![image2.png](RANGKUMAN FREECLASS 25／01／2024_images/image2.png)
 ![image7.png](RANGKUMAN FREECLASS 25／01／2024_images/image7.png)
@@ -33,7 +38,7 @@ Lagu worship memiliki tempo cepat sehingga pattern ngiringnya cenderung main cho
 ![image13.png](RANGKUMAN FREECLASS 25／01／2024_images/image13.png)
 	Pattern 5 (Bossa Nova Rhythm + Pattern Chord tangan kanan)
 
-# 3. Fill in Worship
+## 3. Fill in Worship
 Arpeggio Extended:  memanjangkan teknik Arpeggio sampai beberapa oktaf.
 ![image16.png](RANGKUMAN FREECLASS 25／01／2024_images/image16.png)
 ![image15.png](RANGKUMAN FREECLASS 25／01／2024_images/image15.png)
@@ -42,7 +47,7 @@ Diatonic: Memakai not-not di kunci asli
 Tips gampang: Pakai 2 not diatonis di bawah/di atas
 Chromatic: Memakai not di luar kunci asli
 Tips gampang: Pakai 1 dan ½ not di bawah atau di atas
-# 4. Mau cerita tentang TANIA.
+## 4. Mau cerita tentang TANIA.
 Tania adalah Pianis Klasik umur 39 tahun
 Bergantung dengan sheet music
 Ga paham chord dan progresi gospel dan jazz

@@ -2,6 +2,11 @@
 title: Customer Success 1
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
@@ -16277,18 +16282,18 @@ ada PR
 Komunitas ekslusif | penjelasan kurikulum yang menyesuaikan customer |  |  |  |  |  |  |
 |  | Expectations
 
-•⁠  ⁠dream outcome 
-•⁠  ⁠perceived liklihood of achievemt -> not enough support -> give them a way so they can chat!!!!
-•⁠  ⁠time delay -> rescript the fkin script, to lower expectations biar perceived likelohoodnua naik
-•⁠  ⁠effort and sacrifice -> rescript
+-   ⁠dream outcome 
+-   ⁠perceived liklihood of achievemt -> not enough support -> give them a way so they can chat!!!!
+-   ⁠time delay -> rescript the fkin script, to lower expectations biar perceived likelohoodnua naik
+-   ⁠effort and sacrifice -> rescript
 
 lower the level of language, apapun run the script ke grade web, jd biar bs 1st grade lang
 
 
 misaligned incentives
-•⁠  ⁠sales rep malah rangkap customer success (ya berantakan lah) -> bikin escalations team (utk tau ini org problemnya apa), terus kasih ke customer success team
-•⁠  ⁠customer success gapeduli bantu customer -> kasih insentif 10-15% dong, turunin churn
-•⁠  ⁠unstructred calls pas CS (ga ad script, cuma bilg “what can i help you with?” which is bad) -> ya lu script tiap problem, solusinya apa dgn script
+-   ⁠sales rep malah rangkap customer success (ya berantakan lah) -> bikin escalations team (utk tau ini org problemnya apa), terus kasih ke customer success team
+-   ⁠customer success gapeduli bantu customer -> kasih insentif 10-15% dong, turunin churn
+-   ⁠unstructred calls pas CS (ga ad script, cuma bilg “what can i help you with?” which is bad) -> ya lu script tiap problem, solusinya apa dgn script
 
 
 
@@ -16395,18 +16400,18 @@ Meeting ID: 972 5712 0275
 
 _No structured data — see original file_
 
-•⁠  ⁠dream outcome 
-•⁠  ⁠perceived liklihood of achievemt -> not enough support -> give them a way so they can chat!!!!
-•⁠  ⁠time delay -> rescript the fkin script, to lower expectations biar perceived likelohoodnua naik
-•⁠  ⁠effort and sacrifice -> rescript
+-   ⁠dream outcome 
+-   ⁠perceived liklihood of achievemt -> not enough support -> give them a way so they can chat!!!!
+-   ⁠time delay -> rescript the fkin script, to lower expectations biar perceived likelohoodnua naik
+-   ⁠effort and sacrifice -> rescript
 
 lower the level of language, apapun run the script ke grade web, jd biar bs 1st grade lang
 
 
 misaligned incentives
-•⁠  ⁠sales rep malah rangkap customer success (ya berantakan lah) -> bikin escalations team (utk tau ini org problemnya apa), terus kasih ke customer success team
-•⁠  ⁠customer success gapeduli bantu customer -> kasih insentif 10-15% dong, turunin churn
-•⁠  ⁠unstructred calls pas CS (ga ad script, cuma bilg “what can i help you with?” which is bad) -> ya lu script tiap problem, solusinya apa dgn script
+-   ⁠sales rep malah rangkap customer success (ya berantakan lah) -> bikin escalations team (utk tau ini org problemnya apa), terus kasih ke customer success team
+-   ⁠customer success gapeduli bantu customer -> kasih insentif 10-15% dong, turunin churn
+-   ⁠unstructred calls pas CS (ga ad script, cuma bilg “what can i help you with?” which is bad) -> ya lu script tiap problem, solusinya apa dgn script
 
 
 
@@ -16455,18 +16460,18 @@ Siapa sih nama teman terdekat kakak yang berpotensi menjadi rekan diskusi piano 
 Selamat belajar kak✨ |  |  |  |  |  |  |  |  |  |  |  |  |
 |  | Expectations
 
-•⁠  ⁠dream outcome 
-•⁠  ⁠perceived liklihood of achievemt -> not enough support -> give them a way so they can chat!!!!
-•⁠  ⁠time delay -> rescript the fkin script, to lower expectations biar perceived likelohoodnua naik
-•⁠  ⁠effort and sacrifice -> rescript
+-   ⁠dream outcome 
+-   ⁠perceived liklihood of achievemt -> not enough support -> give them a way so they can chat!!!!
+-   ⁠time delay -> rescript the fkin script, to lower expectations biar perceived likelohoodnua naik
+-   ⁠effort and sacrifice -> rescript
 
 lower the level of language, apapun run the script ke grade web, jd biar bs 1st grade lang
 
 
 misaligned incentives
-•⁠  ⁠sales rep malah rangkap customer success (ya berantakan lah) -> bikin escalations team (utk tau ini org problemnya apa), terus kasih ke customer success team
-•⁠  ⁠customer success gapeduli bantu customer -> kasih insentif 10-15% dong, turunin churn
-•⁠  ⁠unstructred calls pas CS (ga ad script, cuma bilg “what can i help you with?” which is bad) -> ya lu script tiap problem, solusinya apa dgn script
+-   ⁠sales rep malah rangkap customer success (ya berantakan lah) -> bikin escalations team (utk tau ini org problemnya apa), terus kasih ke customer success team
+-   ⁠customer success gapeduli bantu customer -> kasih insentif 10-15% dong, turunin churn
+-   ⁠unstructred calls pas CS (ga ad script, cuma bilg “what can i help you with?” which is bad) -> ya lu script tiap problem, solusinya apa dgn script
 
 
 

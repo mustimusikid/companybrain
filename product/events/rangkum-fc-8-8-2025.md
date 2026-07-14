@@ -2,12 +2,17 @@
 title: Rangkum Fc 8 8 2025
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Free class operation SOP or product document for Musti Musik.
 
 Tab 1
-# Belajar Voicing Chord Enak Anti Mainstream
+## Belajar Voicing Chord Enak Anti Mainstream
 Voicing Chord itu bukan chord progression, hanya mengubah isian chordnya saja
 Sus Chord
 Rumus: 1+2+5 (sus2) atau 1+4+5 (Sus4)
@@ -27,18 +32,18 @@ Rumus 9, 11, 13 :
 11 : Dominant 7 + int 9 + int 11
 13 : Dominant 7 + int 9 + int 11 + int 13
 		Chord extension dapat digunakan untuk menggantikan chord 7
-# Strategi Main Ngalir dengan Passing Chord
+## Strategi Main Ngalir dengan Passing Chord
 Cara main ngalir bisa kita dapatkan dengan passing chord, yang paling sering dipakai
 Secondary Dominant
 Memainkan chord V7 sebelum chord tujuan
 Contoh C ke F → C - **C7**(V7)** - F **(I)
 Contoh F ke Dm → F - **A7**(V7)** - Dm **(I)
-# 3. Cara Manipulasi chord lagu jadi lebih dramatis
+## 3. Cara Manipulasi chord lagu jadi lebih dramatis
 Menggunakan chord function substitution, caranya menggantikan chord dengan sesamanya (tonik dengan tonik, predominant dengan  predominant, dominant dan dominant)
 Chord Tonik (C, Em dan Am)
 Chord predominant (F dan Dm)
 Chord dominant (G dan Bdim)
-# 4. Mau cerita tentang Dian.
+## 4. Mau cerita tentang Dian.
 Dt6r.ian adalah ex pianis klasik.
 Pas dulu umur 24:
 

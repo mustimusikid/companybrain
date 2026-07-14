@@ -2,6 +2,11 @@
 title: Mentor Musti Musik
 domain_tag: [product, academy]
 doc_type: rundown
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Online academy product SOP or operational document for Musti Musik.

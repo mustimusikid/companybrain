@@ -2,6 +2,11 @@
 title: Webinar Framework
 domain_tag: [product, events]
 doc_type: reference
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > Free class operation SOP or product document for Musti Musik.

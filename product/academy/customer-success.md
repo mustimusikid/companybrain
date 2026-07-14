@@ -2,6 +2,11 @@
 title: Customer Success
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Online academy product SOP or operational document for Musti Musik.

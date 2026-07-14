@@ -2,6 +2,11 @@
 title: Copy Of Project Plan
 domain_tag: [product, paid_class]
 doc_type: sop
+owner: paid_class_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.

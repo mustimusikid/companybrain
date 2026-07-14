@@ -2,6 +2,11 @@
 title: Buku Jazz
 domain_tag: [product, books]
 doc_type: sop
+owner: books_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Buku Jazz/Worship product SOP or book launch document.

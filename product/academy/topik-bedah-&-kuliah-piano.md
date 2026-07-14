@@ -2,6 +2,11 @@
 title: Topik Bedah & Kuliah Piano
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
@@ -104,17 +109,17 @@ Pop
 
 Bebas
 
-# KULIAH PIANO 30 DES
+## KULIAH PIANO 30 DES
 BEGINNER
 ![image99.png](TOPIK BEDAH & KULIAH PIANO_images/image99.png)
 INTERMEDIATE
 ![image98.png](TOPIK BEDAH & KULIAH PIANO_images/image98.png)
 
-# KULIAH PIANO 6 JAN
+## KULIAH PIANO 6 JAN
 ![image101.png](TOPIK BEDAH & KULIAH PIANO_images/image101.png)
 ![image100.png](TOPIK BEDAH & KULIAH PIANO_images/image100.png)
 
-# KULIAH PIANO 13 JAN 25
+## KULIAH PIANO 13 JAN 25
 
 ![image103.png](TOPIK BEDAH & KULIAH PIANO_images/image103.png)
 ![image93.png](TOPIK BEDAH & KULIAH PIANO_images/image93.png)

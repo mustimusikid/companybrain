@@ -2,6 +2,11 @@
 title: Tnc Teachers
 domain_tag: [product, music_school]
 doc_type: sop
+owner: music_school_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Physical music school SOP, teacher contract, or handbook for Musti Musik.

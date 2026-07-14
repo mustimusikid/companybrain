@@ -2,23 +2,28 @@
 title: Sop Academy
 domain_tag: [product, academy]
 doc_type: sop
+owner: academy_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Online academy product SOP or operational document for Musti Musik.
 
 ![image13.jpg](SOP Academy_images/image13.jpg)
-# S.O.P.
-# MUSTI MUSIK.
-# ACADEMY DEPT.
+## S.O.P.
+## MUSTI MUSIK.
+## ACADEMY DEPT.
 
-# Color Code Notes :
+## Color Code Notes :
 ***🔵 Blue : Subject***
 ***🔴 Red : Timeline***
 ***🟢 Green : Actions****** ***
 
-# TARGET
+## TARGET
 **Academy membuat PPT baru mengenai jazz / worship / pop secara berkala 1 bulan 1-2x dan menerbitkan PR untuk tiap modulnya **
-# STEPS MODUL
+## STEPS MODUL
 **Academy Team** bersama **PIC Academy** berkolaborasi **mencari ide-ide modul** yang akan diterbitkan **tiap bulannya **melalui sumber terpercaya yang sudah dilanggan Musti Musik.
 Sumber untuk Jazz:
  login dengan email : davehenokh@gmail.com
@@ -50,7 +55,7 @@ Video yang telah direvisi dan disetujui **PIC Academy** akan **diberikan kepada*
 **
 **PIC Academy** juga sekaligus **memberikan file PPT Modul terbaru dalam format PDF yang diupload pada file “Slides Modul” sekaligus memberikan file PR dan Jawaban Optimal dalam bentuk PDF yang diupload pada folder “Slides Modul - PR / Jawaban PR” pada google drive akun mustimusik.id@gmail.com **kepada **Tim Tech** pada **hari itu juga** untuk** upload ke website**** pada bagian PR****
 **
-# STEPS OTHER MATERIAL
+## STEPS OTHER MATERIAL
 **Tim akademi**** menentukan Hook Headline** yang menarik dan melakukan Polling di group yang berkaitan
 **Tim akademi**** membuat PPT berdasarkan Tema** event yang disepakati maksimal selesai H-2 sebelum acara dimulai
 Materi diambil dari modul yang sudah ada dan dimodifikasi sedikit

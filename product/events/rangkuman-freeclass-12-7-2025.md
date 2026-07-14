@@ -2,12 +2,17 @@
 title: Rangkuman Freeclass 12 7 2025
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Free class operation SOP or product document for Musti Musik.
 
 Tab 1
-# Cara Ngiring Lagu Praise and Worship
+## Cara Ngiring Lagu Praise and Worship
 Dalam gereja kristen, lagu ibadah dibedakan menjadi 2
 ![image15.png](Rangkuman FREECLASS 12／7／2025_images/image15.png)
 Praise: Tempo yang cepat, semangat, dan ceria
@@ -17,7 +22,7 @@ Worship: Tempo yang lebih lambat, suasana yang khusuk, damai sejahtera
 ![image9.png](Rangkuman FREECLASS 12／7／2025_images/image9.png)
 
 Immanuel (20 tahun) setelah mengikuti akademi Musti Musik, cara ngiringnya jadi lebih baik
-# Ngerasa chord worship gitu2 aja dan mau upgrade?
+## Ngerasa chord worship gitu2 aja dan mau upgrade?
 Cara jadi manis bisa belajar voicing chord
 Augmented chord : rumus 1+3+5#
 	Bisa dipakai di chord I ke IV (C - Caug - F) atau V ke I (G - Gaug - C
@@ -30,12 +35,12 @@ V/VII (G/B) →  C - G/B - Am
 Iaug/IV# (Caug/F#) → G - Caug/F# - F
 VIIb/I (Bb/C) → C - Bb/C - F
 
-# 3. Cara makin manis di lagu worship pake variasi
+## 3. Cara makin manis di lagu worship pake variasi
 ![image1.png](Rangkuman FREECLASS 12／7／2025_images/image1.png)
 Pakai Arpeggio extend: Main arpeggio bertingkat terus menerus
 Pakai 6th interval: rumusnya 6+1
 ![image4.png](Rangkuman FREECLASS 12／7／2025_images/image4.png)
-# 4. Mau cerita tentang Dian.
+## 4. Mau cerita tentang Dian.
 Dian adalah ex pianis klasik.
 Pas dulu umur 24:
 

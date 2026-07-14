@@ -2,12 +2,17 @@
 title: Rangkuman Freeclass 30 11 2024
 domain_tag: [product, events]
 doc_type: sop
+owner: events_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Free class operation SOP or product document for Musti Musik.
 
 Tab 1
-# Cara Ngerti dan Paham Chord Jazzy
+## Cara Ngerti dan Paham Chord Jazzy
 Chord Jazzy (Chord Miring) adalah chord basis yang telah di modifikasi
 Contohnya **Chord 7, 9, 11, 13**
 Chord 7:
@@ -23,7 +28,7 @@ Major 13 : Major 7 + int 9 + int 11 + int 13
 9 : Dominant 7/minor 7 + int 9
 11 : Dominant 7/minor 7 + int 9 + int 11
 13 : Dominant 7/minor 7 + int 9 + int 11 + int 13
-# Substitusi Progresi Chord Jadi Jazzy
+## Substitusi Progresi Chord Jadi Jazzy
 Progresi chord adalah perpindahan suatu chord ke chord lain (I-VII)
 Agar lebih Jazzy pakai teknik SECONDARY DOMINANT
 ![image15.png](RANGKUMAN FREECLASS 30／11／2024_images/image15.png)
@@ -31,20 +36,20 @@ Agar lebih Jazzy pakai teknik SECONDARY DOMINANT
 	Contoh: 
 	C ke Am: C - E7 - Am
 	F ke Dm: F - A7 - Dm
-# 3. Cara Pianis Reharm Lagu Apapun
+## 3. Cara Pianis Reharm Lagu Apapun
 ![image16.png](RANGKUMAN FREECLASS 30／11／2024_images/image16.png)
 Reham adalah mengubah chord lagu tanpa merubah melodinya. Paling sering pakai RELATIVE MINOR
 
 	Contoh:
 	C - G - Am bisa diubah jadi Am - Em - F
 
-# 4. Penerapan di Lagu
+## 4. Penerapan di Lagu
 ![image9.png](RANGKUMAN FREECLASS 30／11／2024_images/image9.png)
 ![image2.png](RANGKUMAN FREECLASS 30／11／2024_images/image2.png)
 
 ![image1.png](RANGKUMAN FREECLASS 30／11／2024_images/image1.png)
 ![image4.png](RANGKUMAN FREECLASS 30／11／2024_images/image4.png)
-# 5. Mau cerita tentang FEO.
+## 5. Mau cerita tentang FEO.
 ![image3.png](RANGKUMAN FREECLASS 30／11／2024_images/image3.png)
 Feo adalah Pianis Otodidak
 Pas dulu umur 23:
