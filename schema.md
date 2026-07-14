@@ -44,10 +44,12 @@ If a chunk still resists clean classification after splitting as far as reasonab
 
 ## File Naming Convention
 - **kebab-case, lowercase**: `topic-keywords.md` — hyphen-separated, no spaces, no brackets, no special characters
+- **English filenames, always** — even though document *content* is written in Bahasa Indonesia (and should stay that way). English filenames scan consistently across tooling/git and avoid encoding issues with special characters. Example: `hr-leave-policy.md`, not `kebijakan-cuti-hr.md`.
 - **Descriptive of content topic, not origin.** Banned patterns: `copy-of-...`, `untitled-...`, `[batch-2]-...`, bare `data-4.md`. If you can't tell what's inside from the filename alone, rename it.
 - **No dates baked into the filename** unless the doc is genuinely ONE dated occurrence (`doc_type: rundown`, or a pricing/campaign snapshot that will eventually get `superseded_by`'d). Reusable `sop`/`strategy`/`reference` docs should never have a date in the name — that's what `effective_date` and `last_reviewed` are for.
 - **No ambiguous numeric suffixes** to distinguish near-duplicates (`-1`, `-2`, `-copy`). If two files are genuinely different topics, name them distinctly. If one is an outdated version of the other, use `superseded_by` metadata instead of a new filename suffix.
 - **Target 3-6 hyphenated words** — descriptive, not cryptic, not a full sentence.
+- **Type-hint suffix (`-sop`, `-guide`, `-flow`, `-spec`) is optional, not required.** Use it when it genuinely improves scannability in a raw file listing (e.g. `meta-ads-sop.md`); skip it when the title alone is already unambiguous. `doc_type` in frontmatter is the source of truth either way — the filename suffix is just a convenience, don't rely on it programmatically.
 
 ## File Granularity — When to Split vs Merge Files
 Chunking (`##` boundary, above) already handles retrieval granularity *within* a file — a long file with well-organized `##` sections isn't automatically a problem. The real question is whether the **file-level metadata** (`doc_type`, `owner`, `confidentiality`, `review_frequency`, `effective_date`, `status`) applies uniformly across the whole thing.
@@ -63,6 +65,33 @@ Chunking (`##` boundary, above) already handles retrieval granularity *within* a
 
 ### Length alone is not a reason to split
 If a long file's `##` sections all share the same owner/confidentiality/review_frequency/status and belong to the same coherent process, keep it as one file. Splitting purely because a file "feels long" just fragments something a reader needs to see as a whole.
+
+## Skill-Readiness — writing for future agent execution, not just retrieval
+The brain has two different consumption modes, and it's worth writing with both in mind even though only the first one works today:
+
+1. **Retrieved as context (what gBrain does today)** — a query gets embedded, the closest `##` chunks come back, an agent uses them as background to answer. Passive: the doc is read material.
+2. **Executed as a skill (future phase, not yet built)** — an agent doesn't just read the doc, it follows its steps to actually perform a task (e.g. `sales-halo-ai-agent-spec.md`'s JOB STEPS + GUARDRAILS format is already close to this — numbered steps + explicit Always/Never rules an agent could execute directly, unlike a prose explainer like the AI Content Module).
+
+### What's missing for mode 2: an explicit trigger condition
+`domain_tag` controls access scope; it doesn't say *when* a specific document should activate. Strengthen the `> summary line` on `sop` documents to state the trigger condition, not just describe the content:
+
+```
+> Gunakan kalau customer tertarik Akademi Online, tanya pengalaman
+> piano, atau minta rekomendasi belajar. Alur: identifikasi kendala
+> → tawarkan paket → konfirmasi → arahkan pembayaran.
+```
+...instead of just:
+```
+> SOP Akademi Online Musti Musik.
+```
+
+This costs almost nothing to do now (it's one sentence) and means the future skill-packaging work can parse trigger conditions straight out of existing summary lines instead of every SOP needing to be rewritten later.
+
+### Which doc_types are skill candidates
+- **`sop` with explicit sequential steps** (numbered JOB STEPS, decision flows, Always/Never guardrails) — strong candidate to eventually become an executable skill
+- **`strategy`, `reference`, `transcript`, `rundown`** — stay as retrieved context only. A Vision/Mission doc shouldn't be "executed" step by step; it informs decisions, it isn't a procedure.
+
+Building the actual skill-execution system is out of scope for the Foundation Phase (matches the contract's exclusion of full agent implementation) — this section only ensures the SOPs being written now don't need a rewrite once that phase starts.
 
 ## Owner vs Access — two different concerns, don't conflate
 - **`owner`** (frontmatter field): **a role, not a person's name** — e.g. `marketing_head`, `academy_head`, `finance_head`. Sales SOPs are owned by `marketing_head` (there's no separate Sales Head), etc. Using a role instead of a name means owner stays correct through staff turnover — nobody needs to bulk-edit files just because someone changed jobs or left. Owner values should be drawn from the **same canonical role list** used for Access below — one source of truth for roles, not two lists that can drift apart.
