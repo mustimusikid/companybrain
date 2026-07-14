@@ -91,6 +91,29 @@ This costs almost nothing to do now (it's one sentence) and means the future ski
 - **`sop` with explicit sequential steps** (numbered JOB STEPS, decision flows, Always/Never guardrails) — strong candidate to eventually become an executable skill
 - **`strategy`, `reference`, `transcript`, `rundown`** — stay as retrieved context only. A Vision/Mission doc shouldn't be "executed" step by step; it informs decisions, it isn't a procedure.
 
+Note: `doc_type: sop` is necessary but not sufficient — a document can legitimately be `sop` (a real repeatable process) without containing discrete literal steps yet. Use the objective test below to tell the two apart.
+
+### Objective test: is this specific document skill-ready?
+
+**Primary question:** Could someone with zero other context execute this correctly by following the document literally — no improvisation, no outside judgment required?
+- **Yes** → skill candidate
+- **No** (requires interpretation/background knowledge, or the content is about direction rather than steps) → context-only
+
+**4 supporting signals** (check these if the primary question is ambiguous — more "yes" answers = stronger skill candidate):
+1. Does it have a clear numbered sequence of steps (1, 2, 3...)?
+2. Does it have explicit conditional branches ("if customer says X → do A; if Y → do B")?
+3. Does it have explicit boundary rules (Always/Never, guardrails)?
+4. Does following it produce a concrete, checkable outcome — not just "understanding," but something that actually happens (e.g. "customer receives a payment link")?
+
+**Applied to real examples in this repo:**
+
+| Document | Numbered steps? | Conditional branches? | Guardrails? | Concrete outcome? | Verdict |
+| --- | --- | --- | --- | --- | --- |
+| `sales-halo-ai-agent-spec.md` | ✅ JOB STEPS 1-9 | ✅ flows A–H per scenario | ✅ explicit Always/Never | ✅ customer gets payment link | **Strong skill candidate** |
+| `ai-content-creation-module.md` | Partial (7-day roadmap only) | ❌ | ❌ | ❌ mostly concept explanation | **Context-only** — correctly `reference`, not our process |
+| Employee Handbook — Vision/Mission | ❌ | ❌ | ❌ | ❌ | **Context-only**, clearly |
+| Employee Handbook — HR attendance/leave policy | ✅ numbered rules | ✅ ("absent >5 days → considered resigned") | ✅ | ✅ employment status changes | **Skill candidate** — not just customer-facing SOPs qualify, rule-based internal policy can too |
+
 Building the actual skill-execution system is out of scope for the Foundation Phase (matches the contract's exclusion of full agent implementation) — this section only ensures the SOPs being written now don't need a rewrite once that phase starts.
 
 ## Owner vs Access — two different concerns, don't conflate
