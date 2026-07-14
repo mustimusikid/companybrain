@@ -1,5 +1,5 @@
 ---
-title: Old Rule
+title: CS Shift Tracking SOP
 domain_tag: [operations, hr]
 doc_type: sop
 owner: hr_head
@@ -13,7 +13,7 @@ superseded_by:
 
 > SOP pendataan shift Customer Service (Report Data Leads) — mencatat waktu on shift dan penandaan tepat waktu/terlambat.
 
-**REPORT DATA LEADS**
+## Report Data Leads
 
 **HR **memiliki kewajiban untuk **mendata shift Customer Service** dengan menuliskan pukul berapa Customer Service On sesuai laporan yang diberikan staff Customer Service di group WA CS.
 ***GSheets Report Data Leads dapat diakses pada ******.***
