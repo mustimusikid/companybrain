@@ -373,29 +373,10 @@ Jangan sampai rugi karena salah beli ukuran violin, kita akan bantu ukur supaya 
 
 ## Hooks
 
+Hook yang berstatus "Winning" (No. 1-20 di versi sebelumnya) sudah tercatat di database (`marketing_ad_scripts`, `is_winning = true`) — dihapus dari sini supaya tidak dobel. Yang tersisa di bawah ini hook berstatus "New" (belum ada di database).
+
 | No | Hooks | Genre | Winning/New | Notes |
 | --- | --- | --- | --- | --- |
-| 1.0 | Halo, Kenain ini Feo, pianis berusia 24 tahun yang berhasil main chord jazzy hanya dalam 1 bulan! | Jazz | Winning |  |
-| 2.0 | Apa sih rahasia pianis gereja bisa chordnya enak2 begini? Mau juga bisa ngiring utk Tuhan, tapi malah kaku dan chordnya jelek? | Worship | Winning |  |
-| 3.0 | Pelayanan untuk Tuhan itu susah! Itu satu kalimat yang bisa gw simpulin setelah 7 tahun pelayanan sebagai pianis di gereja | Worship | Winning |  |
-| 4.0 | Kamu mau jago worship piano, tapi sering Pake Transpose? | Worship | Winning |  |
-| 5.0 | Ini kamu ya, yang masih main chord C, F, G doang? Taun lalu katanya mau bagus mainnya, cuma udh taun baru mainnya masih chord 1,4,5 doang, mau sampe kapan? | General | Winning |  |
-| 6.0 | kamu pernah les piano klasik? tapi pengen main chord sejazzy ini? | Jazz | Winning |  |
-| 7.0 | Kamu pengen kan bisa main chord manis di piano? [langsung main piano] | General | Winning |  |
-| 8.0 | Ini kamu ya, yang masih main chord C, F, G doang di worship piano? Taun lalu katanya mau pelayanannya bagus, cuma udh taun baru mainnya masih chord 1,4,5 doang, mau sampe kapan? | Worship | Winning |  |
-| 9.0 | kamu pernah les piano klasik? tapi pengen bisa main worship piano nya manis begini? | Worship | Winning |  |
-| 10.0 | Dulu Males Belajar Piano… Sekarang Rajin & Semangat Improvisasi Jazz! | Jazz | Winning | Image |
-| 11.0 | INI KAMU YA, YANG MASIH MAIN CHORD C, F, G DOANG? Kapan Mau Ngiringin Worship Kalau Masih Chord Basic Terus? | Worship | Winning | Image |
-| 12.0 | Dulu Cuma Main Chord Basic, Sekarang Pianis Cilik Ini Bisa Ngiringin di Gereja! | Worship | Winning | Academy |
-| 13.0 | Ini kamu ya, yang masih main chord C, F, G doang? Kapan mau main semanis ini kalau masih C,F,G doang? | General | Winning |  |
-| 14.0 | Ini kamu ya, yang masih main piano pake transpose? Kapan mau main chord semanis ini di kuci apapun kalau masih pake transpose? | General | Winning |  |
-| 15.0 | Kamu ibu-ibu yang pengen main piano nya manis? Sama kayak ibu ini, dan dia main piano nya jadi manis dan jazzy dalam 1 bulan padahal sibuk ngurus anak | Jazz | Winning | Academy |
-| 16.0 | Ini kamu ya, yang masih main chord C, F, G doang? Kapan mau pelayanan worship kalau masih C,F,G doang? | Worship | Winning |  |
-| 17.0 | Kamu pengen kan bisa main kayak pianis gereja yang chordnya enak2 begini? Mau kan bisa ngiring utk Tuhan, tapi malah kaku dan chordnya jelek? | Worship | Winning |  |
-| 18.0 | [intro manis] |  |  |  |
-Kamu Capek kan main chord cuma C, F, G doang? Kapan chord manis kayak begini? | General | Winning |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 19.0 | Ini kamu ya, yang masih main chord C, F, G doang? mainnya masih chord 1,4,5 doang, mau sampe kapan? | General | Winning |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 20.0 | Kamu pengen kan bisa main kaya pianis gereja yang denger lagu worship sekali langsung bisa main? Mau kan bisa ngiring untuk Tuhan, tapi tebak chord aja masih salah, pilih kunci masih salah? | Worship | Winning |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 21.0 | 5 alasan kamu harus belajar piano privat bareng aku di Sekolah Musik Musti Musik! | General | New | Privat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 22.0 | Les piano tapi ngerasa stuck di situ-situ aja? Dulu aku/murid aku juga gitu | General | New | Privat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 23.0 | Ga semua orang bisa belajar piano | General | New | Privat |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
