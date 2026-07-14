@@ -2,6 +2,9 @@
 
 Append-only. Never rewrite existing entries.
 
+## 2026-07-19 (cleanup)
+- Removed `operations/hr/performance-marketing.md` — misfiled duplicate (31k words, mixed Newsletter/Meta Ads/YouTube/TikTok content) missed by the marketing team's metadata PR because it lived in operations/hr, out of that PR's scope. Content already fully superseded by `marketing/ads/newsletter-sop.md`, `meta-ads-sop.md`, `youtube-analytics-sop.md`, `marketplace-ads-tiktok-shopee.md`. Its twin at `marketing/ads/performance-marketing.md` was already removed by the team's own PR.
+
 ## 2026-07-19
 - Expanded `schema.md` metadata design (decided w/ Dave + AI engineer Faris before Foundation Phase kickoff):
   - Added `doc_type: reference` (external knowledge, not internal SOP) + explicit decision tree for sop/strategy/transcript/rundown/reference classification
