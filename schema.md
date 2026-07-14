@@ -22,7 +22,7 @@ superseded_by: other-file.md     # optional — only set on archived/outdated do
 - `strategy` — direction-setting: goals, OKRs, vision/mission, why we're prioritizing X
 - `transcript` — raw/lightly-cleaned record of a meeting or interview, dialogue-like
 - `rundown` — timed sequence for ONE specific occurrence of an event
-- `reference` — knowledge sourced from OUTSIDE Musti Musik (course, book, benchmark), not our own process/decision
+- `reference` — external knowledge **not yet applied** as our own practice (a course, book, or benchmark we haven't turned into how we actually operate)
 
 ### Decision tree (check in order, first match wins)
 1. Is this a record of what people actually said, in order, not deliberately structured? → **transcript**
@@ -30,8 +30,8 @@ superseded_by: other-file.md     # optional — only set on archived/outdated do
    (Test: if you strip the dates, does it still read as "the way we always do X"? If yes, it's `sop`, not `rundown` — most of our recurring event gantt charts are `sop` for this reason, since teams copy the same file and just change dates each month.)
 3. Is this about deciding what to do / why (direction, priorities, positioning), not the steps to execute it? → **strategy**
 4. Is this the repeatable process the team actually follows — regardless of where the knowledge originally came from? → **sop**
-   (Where it came from is a separate question, captured by the `source` field, not `doc_type`. Example: Meta Ads SOP originated from external training (`source: external`) but is now literally how the team runs ads — that makes it `doc_type: sop`, not `reference`.)
-5. Otherwise (external material we keep as background knowledge, not yet adopted as our own operating process) → **reference**
+   (**Important — the test is NOT "does this document mention Musti Musik."** It's "do we actually apply/follow this as our practice." A generic external guide on setting up Meta Ads campaigns, once it's how we actually run our ads, is `sop` — even though the source material never says "Musti Musik" anywhere and reads like a general how-to. Don't downgrade something to `reference` just because it looks generic or came from outside; downgrade it only if we genuinely haven't adopted it as practice yet. Where the knowledge originally came from is a separate question, captured by the `source` field, not `doc_type`.)
+5. Otherwise (external material genuinely **not yet applied** — still just background reading, hasn't become how we actually operate) → **reference**
 
 ### One document, multiple doc_types
 Don't force a mixed document into one label. Split it into separate files along its natural content boundaries (usually the existing `##` chapters), and give each file its own doc_type + metadata. Example — `Employee Handbook`:
