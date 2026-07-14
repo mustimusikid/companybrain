@@ -7,17 +7,14 @@ Employee contracts, intern contracts, company handbook, job description template
 Individual PDR files do NOT go here (use DB hr_performance_reviews). Hiring response data → DB hr_recruitment.
 
 ## Key Files
-- ai-engineer-intern.md
 - brand-design-guideline.md
-- campaign-assessment-sample-merah-putih.md
-- campaign-assessment-sample-teman-dari-0.md
 - company-regulations.md
 - content-strategist.md
 - cs-shift-tracking-sop.md
-- deep-learning-notes.md
 - design-intern-job-description.md
 - employee-handbook.md
 - employee-management-guide.md
+- executive-assistant-job-description.md
 - finance-accounting-intern.md
 - google-form-best-practices.md
 - group-interview-ceo-office.md
@@ -27,9 +24,7 @@ Individual PDR files do NOT go here (use DB hr_performance_reviews). Hiring resp
 - job-description-form-example.md
 - meeting-memo-writing-sop.md
 - ml-intern-job-description.md
-- personal-assistant.md
 - position-change-memo-template.md
-- project-management-the-goal-notes.md
 - recruitment-and-offboarding.md
 - sales-job-description.md
 - sop-employee-success.md (status: Archive — materi eksternal)
