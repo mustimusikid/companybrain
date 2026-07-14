@@ -1,7 +1,7 @@
 ---
 title: Insight & Strategi Meta Ads (Akademi Marketer / Firdi)
 domain_tag: [marketing, ads]
-doc_type: strategy
+doc_type: reference
 owner: marketing_head
 status: Approve
 confidentiality: Internal
