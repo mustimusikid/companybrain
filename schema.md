@@ -224,6 +224,17 @@ frontmatter → > summary → compiled truth sections → ---
 - Maximum chunk: ~500 words (split long sections at paragraph boundary)
 - Keep `##` sections focused: one process or concept per section
 
+## Body Content Cleanup Standard
+Common artifacts from the original Google Drive export, in priority order (fix top-down):
+
+1. **Bold-as-heading (highest priority — this breaks chunking, not just cosmetics).** If text like `**Some Topic**` sits alone on a line functioning as a section title, convert it to a real `##`/`###` heading. Bold text is NOT a chunk boundary — only real heading syntax is (see Chunking Convention above). A document can look perfectly structured when rendered and still fail to chunk correctly if its "headings" are just bold text.
+2. **Escaped markdown artifacts** from the Google Docs export (`\*`, `\-`, `\(`, `\)`, stray backslashes) — unescape to plain characters.
+3. **Redundant title repetition** — many migrated docs repeat the title 2-3 times before real content starts (plain text, then bold, then as a heading again). Keep one clean title, remove the rest.
+4. **Bullet artifacts** (`•⁠ ⁠` — a bullet character plus stray invisible joiner characters from the export) — convert to standard markdown `-` list syntax.
+5. **Wall-of-text paragraphs describing sequential steps** — if a paragraph reads "first do X, then Y, then Z," convert it to a numbered list. Easier to scan, and matches the JOB STEPS format that makes a doc skill-ready (see Skill-Readiness above).
+6. **Meta-formatting notes that don't survive translation to markdown** — e.g. a spreadsheet's "Color Code Notes: Blue = Subject, Red = Timeline" — either remove (if the color coding carried no meaning outside the original spreadsheet) or translate into real structure (e.g. explicit labels or a table).
+7. **Image reference paths with spaces or inconsistent naming** — normalize to the Image References convention below (`<filestem>_images/`, no spaces).
+
 ## Table Rules
 - Use markdown tables for structured data
 - Max 200 characters per cell (truncate with "...")
