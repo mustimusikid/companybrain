@@ -1,7 +1,7 @@
 ---
 title: Spt Pajak
 domain_tag: [operations, finance]
-doc_type: sop
+doc_type: reference
 owner: finance_head
 status: Approve
 confidentiality: Internal

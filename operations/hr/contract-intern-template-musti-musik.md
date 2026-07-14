@@ -1,20 +1,20 @@
 ---
-title: Contract Organik Intern 4 Empat Bulan Musti Musik
+title: Contract Intern Template Musti Musik
 domain_tag: [operations, hr]
 doc_type: sop
 owner: hr_head
-status: Approve
+status: Draft
 confidentiality: Internal
-source: gdrive
+source: ai
 effective_date:
 review_frequency: quarterly
 superseded_by:
 ---
 
-> Template Perjanjian Kerja Magang untuk role Organik Intern, durasi 4 bulan, remote.
+> Template generik Perjanjian Kerja Magang, berlaku untuk semua role intern — isi [ROLE], [DURASI], dan [NOMINAL UANG SAKU] sesuai role yang direkrut. Lihat kontrak-magang-uang-saku.md untuk nominal per role.
 
 **PERJANJIAN KERJA MAGANG**
-MM/INTERN/2024/08/006
+MM/INTERN/[TAHUN]/[BULAN]/[NOMOR URUT]
 Perjanjian Kerja ini ditandatangani pada hari                                , oleh dan di antara:
 I.           **MUSTI MUSIK**,
 Entitas yang didirikan di Jl Surya Widuri IV, Kedoya Selatan, Kebon Jeruk, Jakarta Barat 11520. Dalam hal ini diwakili oleh **Dave Henokh Liong** dengan jabatan
@@ -30,11 +30,11 @@ Nomor Telepon/HP		: _____________________
 dalam hal ini bertindak untuk diri sendiri, selanjutnya disebut **”Pihak Kedua”**.
 Pihak Pertama dan Pihak Kedua yang selanjutnya disebut **Para Pihak** sepakat untuk mengikatkan diri dalam suatu Perjanjian Kerja Magang yang sebelumnya terlebih dahulu menerangkan hal-hal sebagai berikut:
 Pihak Pertama merupakan Entitas yang bergerak di bidang jasa edukasi melalui teknologi, yang membutuhkan karyawan dengan status sebagai Karyawan Magang
-Pihak Kedua telah memenuhi persyaratan untuk menjadi **Karyawan Magang **pada Pihak Pertama dan dengan ini menyatakan bersedia sebagai ***Organik Intern ***secara **Remote**
+Pihak Kedua telah memenuhi persyaratan untuk menjadi **Karyawan Magang **pada Pihak Pertama dan dengan ini menyatakan bersedia sebagai ***[ROLE] ***secara **Remote**
 
 ## Pasal 1 Jangka Waktu
 
-Jangka waktu pelaksanaan Magang adalah selama **4 (empat) bulan** terhitung semenjak ditandatanganinya Perjanjian Kerja Magang ini oleh Para Pihak terhitung_______sampai_______
+Jangka waktu pelaksanaan Magang adalah selama **[DURASI]** terhitung semenjak ditandatanganinya Perjanjian Kerja Magang ini oleh Para Pihak terhitung_______sampai_______
  Perjanjian ini berakhir dengan sendirinya dalam hal:
 a.    Pihak Kedua mengundurkan diri;
 b.   Pihak Kedua meninggal dunia;
@@ -44,7 +44,7 @@ c. Terjadinya Pemutusan Hubungan Kerja oleh Pihak Pertama yang secara berturut-t
 
 ## Pasal 2 Penugasan dan Pekerjaan
 
-Pihak Pertama menyetujui untuk memberikan pekerjaan dan Pihak Kedua menyetujui untuk menerima pekerjaan sebagai ***Organik Intern**** *dengan tugas-tugas dan tanggung jawab sesuai dengan ketentuan.
+Pihak Pertama menyetujui untuk memberikan pekerjaan dan Pihak Kedua menyetujui untuk menerima pekerjaan sebagai ***[ROLE]**** *dengan tugas-tugas dan tanggung jawab sesuai dengan ketentuan.
 Pihak Kedua wajib memperhatikan dan berusaha semaksimalnya untuk melaksanakan tugas dan tanggung jawab pekerjaan sesuai Jobdesk dengan *Standard Operation Procedure *(SOP) dari Pihak Pertama.
 Pihak Kedua wajib menjamin bahwa seluruh dokumen, keterangan, data, dan informasi yang diberikan atau diserahkan kepada Pihak Pertama lengkap, benar, dan sesuai dengan ketentuan dari Pihak Pertama.
 Apabila terjadi perubahan alamat, susunan keluarga, atau ahli waris Pihak Kedua wajib memberitahukan kepada Pihak Pertama
@@ -52,7 +52,7 @@ Apabila terjadi perubahan alamat, susunan keluarga, atau ahli waris Pihak Kedua 
 ## Pasal 3 Remunerasi dan Benefit
 
 1. Pihak Kedua akan menerima remunerasi dan *benefit *dari Pihak Pertama sebagai berikut:
-      	a.	Uang Saku : **Rp 500.000,- (lima ratus ribu rupiah) per bulan.**
+      	a.	Uang Saku : **[NOMINAL UANG SAKU] per bulan.**
 2. Pihak Kedua akan memperoleh surat keterangan magang yang diberikan di akhir masa magang yang telah dilaksanakan dengan baik.
 
 ## Pasal 4 Waktu Kerja Dan Izin
@@ -112,7 +112,5 @@ Perjanjian Kerja Magang ini berakhir sesuai dengan jangka waktu sebagaimana dima
 Demikianlah Perjanjian ini dibuat dalam rangkap satu, yang isi dan bunyinya sama, dan masing-masing ditandatangani oleh **Para Pihak** secara digital.
 
 **    PIHAK PERTAMA                                                                            PIHAK KEDUA**
-
-![image6.png](Contract - Organik Intern - 4 (empat) bulan - Musti Musik_images/image6.png)
 
 _No structured data — see original file_
