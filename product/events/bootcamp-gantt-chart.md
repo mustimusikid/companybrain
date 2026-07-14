@@ -1,7 +1,7 @@
 ---
 title: Bootcamp Gantt Chart (Oktober 2025)
 domain_tag: [product, events]
-doc_type: sop
+doc_type: rundown
 owner: events_head
 status: Unknown
 confidentiality: Internal

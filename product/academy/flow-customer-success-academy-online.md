@@ -27,7 +27,7 @@ review_frequency: quarterly
    - **Lanjut:** Pembayaran via mentor + forward ke Ci Dian dan customer support tim tech → Tracking Resubs (di data tiap bulan) di sheets success
    - **Tidak:** Kick dari group setelah expired (pesan 8)
 
-## Template Pesan
+## Template Pesan -> reference
 
 | # | Keterangan | Isi Pesan |
 | --- | --- | --- |

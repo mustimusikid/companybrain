@@ -1,7 +1,7 @@
 ---
 title: About Musti Musik
 domain_tag: [product, music_school]
-doc_type: sop
+doc_type: strategy
 owner: music_school_head
 status: Unknown
 confidentiality: Internal

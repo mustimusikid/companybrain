@@ -1,7 +1,7 @@
 ---
 title: Gantt Chart Bootcamp
 domain_tag: [product, paid_class]
-doc_type: sop
+doc_type: rundown
 owner: paid_class_head
 status: Unknown
 confidentiality: Internal

@@ -1,7 +1,7 @@
 ---
 title: Musti Musik Book Launch Plan
 domain_tag: [product, events]
-doc_type: strategy
+doc_type: reference
 owner: events_head
 status: Unknown
 confidentiality: Internal

@@ -1,7 +1,7 @@
 ---
 title: Teacher Handbook Musti Musik
 domain_tag: [product, music_school]
-doc_type: strategy
+doc_type: sop
 owner: music_school_head
 status: Unknown
 confidentiality: Internal

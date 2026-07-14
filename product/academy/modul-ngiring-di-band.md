@@ -1,7 +1,7 @@
 ---
 title: Modul Ngiring Di Band
 domain_tag: [product, academy]
-doc_type: sop
+doc_type: reference
 owner: academy_head
 status: Unknown
 confidentiality: Internal

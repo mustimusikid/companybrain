@@ -1,7 +1,7 @@
 ---
 title: Tor Free Class Musti Musik
 domain_tag: [product, events]
-doc_type: sop
+doc_type: strategy
 owner: events_head
 status: Unknown
 confidentiality: Internal

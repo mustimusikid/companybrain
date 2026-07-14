@@ -1,6 +1,6 @@
 ---
 title: Musti Musik Teacher Contract
-domain_tag: [product, music_school]
+domain_tag: [operations, hr]
 doc_type: sop
 owner: music_school_head
 status: Unknown

@@ -1,7 +1,7 @@
 ---
 title: Survey Pricing Bootcamp
 domain_tag: [product, paid_class]
-doc_type: strategy
+doc_type: reference
 owner: paid_class_head
 status: Unknown
 confidentiality: Internal

@@ -1,7 +1,7 @@
 ---
 title: Music Academy
-domain_tag: [product, academy]
-doc_type: sop
+domain_tag: [operations, hr]
+doc_type: strategy
 owner: academy_head
 status: Unknown
 confidentiality: Internal

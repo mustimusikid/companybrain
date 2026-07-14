@@ -1,7 +1,7 @@
 ---
 title: Rangkuman Freeclass 26 4 2024
 domain_tag: [product, events]
-doc_type: sop
+doc_type: reference
 owner: events_head
 status: Unknown
 confidentiality: Internal

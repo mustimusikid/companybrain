@@ -1,7 +1,7 @@
 ---
 title: Checklist Concert
 domain_tag: [product, events]
-doc_type: sop
+doc_type: reference
 owner: events_head
 status: Unknown
 confidentiality: Internal

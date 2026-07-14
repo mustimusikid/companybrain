@@ -1,7 +1,7 @@
 ---
 title: Tor Academy
 domain_tag: [product, academy]
-doc_type: sop
+doc_type: strategy
 owner: academy_head
 status: Unknown
 confidentiality: Internal

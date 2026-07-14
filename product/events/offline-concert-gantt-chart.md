@@ -1,7 +1,7 @@
 ---
 title: Offline Concert Gantt Chart
 domain_tag: [product, events]
-doc_type: sop
+doc_type: rundown
 owner: events_head
 status: Unknown
 confidentiality: Internal

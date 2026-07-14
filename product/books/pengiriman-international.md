@@ -1,7 +1,7 @@
 ---
 title: Pengiriman International
 domain_tag: [product, books]
-doc_type: sop
+doc_type: reference
 owner: books_head
 status: Unknown
 confidentiality: Internal
