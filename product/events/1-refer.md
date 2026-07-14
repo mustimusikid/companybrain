@@ -21,7 +21,7 @@ SANS 341424
 201
 L
 (SONG) SOURd
-**JOIN THE AFFILIATE PROGRAM **
+## JOIN THE AFFILIATE PROGRAM
 AND YES... **IT'S **COMPLETELY FREE
 ▲ **THERE'S STILL TIME ****- ****EVENT STARTS IN****: **
 **5 ****15**: 24: 3
@@ -68,7 +68,7 @@ FEEL STUPID SAYING NO
 LEX HORMO
 &FitForms
 **Become **a **$100M Money Models Affiliate **
-**JOIN THE AFFILIATE PROGRAM **
+## JOIN THE AFFILIATE PROGRAM
 AND YES**... ****IT'S **COMPLETELY FREE
 **$**100M LEADS
 best books **ever ****written **for business owners. @hormozi
@@ -82,4 +82,4 @@ Affiliate Terms & **Conditions **| Giveaway Terms & Conditions
 Copyright 2025 Acquisition.com
 Alex and Leila Hormozi's results are not typical and are not a guarantee of your **success**. We cannot guarantee that you will make money or that you will be successful if you employ their business strategies specifically or generally. Consequently, your results may significantly vary from theirs. The information contained within this website is the property of Acquisition.com. Any **use **of the images**, **content, or **ideas **expressed **herein **without the express written consent of Acquisition.com is prohibited.
 ACQUISITION.COM
-**Get Help **
+## Get Help

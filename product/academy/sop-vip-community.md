@@ -38,7 +38,7 @@ Jadwal Reminder dan announcement meliputi.
 | Onboarding | setiap hari (PC) + Reminder hari H Senin(18:00WIB) | lihat data member baru di Customer Support, langsung DM yang baru masuk dan list nama dan nomornya di group | Template 3 pesan |
 
 
-**Template pesan dapat dilihat di**
+### Template pesan dapat dilihat di
 
 ## Bedah Piano
 Setiap member yang mengikuti Bedah Piano akan **mengirim permainannya ke nomor WA Mentor Musti Musik**

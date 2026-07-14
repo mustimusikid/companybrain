@@ -11,11 +11,11 @@ review_frequency: annually
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
-**[SOP] Standard Operating Procedure**
-**Improvement**
+### [SOP] Standard Operating Procedure
+### Improvement
 
 ## Workflow
-**Community Team**
+### Community Team
 ## Provision
 ![image6.png](SOP Improvement Musti Musik_images/image6.png)
 PPT

@@ -27,8 +27,8 @@ Yuk, kita mulai petualangannya!
 
 **Dave Henokh Liong** *Founder Musti Musik*
 
-**BAB 1: **
-**MINDSET**
+## BAB 1:
+## MINDSET
 
 Nah, sebelum kita masuk ke aplikasi-aplikasi canggih, kita kudu benerin dulu nih cara pandang kita soal AI. Banyak yang parno duluan, katanya AI bakal gantiin pianis atau bikin orang jadi males belajar. Padahal kenyataannya nggak gitu!
 **1. Apa sih AI itu sebenernya? (Versi Gampangnya)** Bayangin AI itu kayak punya asisten yang pinter banget, dia udah dengerin jutaan lagu di dunia dan baca semua teori musik yang pernah ada. Dia bisa nangkep pola suara, frekuensi, sampai struktur lagu dalam sekejap.
@@ -48,38 +48,38 @@ Nah, di buku ini, kunci yang harus kamu pegang adalah: **Mengerti proses AI deng
 Intinya: **Output yang keren lahir dari Input (Prompt) yang bener.** Tenang, nanti aku bakal kasih bocoran "template" prompt yang sering aku pakai!
 ![image56.png](E BOOK AI_images/image56.png)
 
-**BAB 2: **
-**AI for Education /Information**
+## BAB 2:
+## AI for Education /Information
 
 Di bab ini, kita bakal masuk ke tipe AI yang pertama, yaitu **Information AI**. Tipe ini sistemnya satu arah, jadi kamu tidak perlu untuk prompting apapun: kamu punya sesuatu (suara atau audio), kamu kasih ke AI, dan AI bakal kasih tau data yang kamu butuhin secara instan.
 ![image62.png](E BOOK AI_images/image62.png)
-**1. Menemukan Judul Lagu yang Misterius**
+## 1. Menemukan Judul Lagu yang Misterius
 Pernah nggak lagi di cafe, terus denger lagu piano yang enak banget tapi nggak tau judulnya apa? Mau nanya pelayan tapi malu. Nah, di sinilah AI bekerja sebagai detektif musik.
 ![image68.png](E BOOK AI_images/image68.png)
 **Alatnya:** atau
 
 **Cara Pakainya:** Tinggal buka aplikasinya, biarkan dia "mendengarkan" potongan lagu itu selama beberapa detik. AI ini bakal nyocokin frekuensi audionya dengan jutaan database lagu di seluruh dunia. Hasilnya? Judul lagu, penyanyi, sampai albumnya bakal langsung muncul di layar HP kamu.
-**2. Ganti Nada Dasar & Tempo Sesuai Keinginan**
+## 2. Ganti Nada Dasar & Tempo Sesuai Keinginan
 Pernah ketemu lagu latihan yang temponya terlalu cepet sampai jari kamu belibet? Atau mau nyanyi tapi nada lagunya ketinggian? Dulu, kalau kita lambatin lagu manual, suaranya bakal pecah atau jadi berat banget kayak monster.
 ![image70.png](E BOOK AI_images/image70.png)
 **Alatnya:** **(Web Extension)**.
 
 **Rahasianya:** Pakai AI ini, kamu bisa turunin nada (Pitch Shift) atau pelanin tempo (Time Stretch) sesuka hati tanpa merusak kualitas suaranya. Suara penyanyinya bakal tetep jernih, cuma jadi lebih pelan atau lebih rendah. Ini asisten wajib buat kamu yang lagi belajar lagu baru!
 ![image34.png](E BOOK AI_images/image34.png)
-**3. Bongkar Chord Lagu Tanpa Perlu Pusing**
+## 3. Bongkar Chord Lagu Tanpa Perlu Pusing
 Ini bagian yang paling disukai murid-murid saya. Males kan harus dengerin lagu berkali-kali cuma buat nentuin satu *chord* yang susah?
 **Alatnya:** atau .
 ![image41.png](E BOOK AI_images/image41.png)
 **Cara Kerjanya:** Kamu cukup upload file MP3 atau deketin HP kamu ke arah speaker. AI ini bakal menganalisis gelombang audionya dan langsung nampilin deretan *chord*-nya secara *real-time*. Bahkan kalau lagunya punya progresif *jazz* yang agak ribet pun, AI ini akurasinya luar biasa. Ini jalan pintas buat kamu yang mau langsung main tanpa harus "ngulik" manual berjam-jam.
-**4. Ubah Audio Jadi Partitur (PDF) Secara Otomatis**
+## 4. Ubah Audio Jadi Partitur (PDF) Secara Otomatis
 Punya rekaman permainan piano sendiri tapi males nulis not baloknya ke kertas? Atau pengen punya teks lagu (sheet music) dari lagu favorit tapi nggak ketemu di Google?
 **Alatnya:** atau
 ![image49.png](E BOOK AI_images/image49.png)
 .
 **Keajaibannya:** AI ini punya kemampuan transkripsi tingkat tinggi. Dia bakal dengerin audionya, terus dia bakal "ngetik" not-notnya ke dalam garis paranada. Hasil akhirnya bisa kamu download dalam bentuk **PDF** yang rapi atau file **MIDI** kalau kamu mau edit lagi suaranya di komputer. Bener-bener hemat energi!
 
-**BAB 3: **
-**AI for Idea**
+## BAB 3:
+## AI for Idea
 Di bab ini, kita bakal masuk ke "dapur rekaman" digital kita. Kita nggak cuma cari data lagi, tapi mulai bikin sesuatu yang nggak ada jadi ada. Kuncinya cuma satu: **Prompt yang benar.**
 #### 1. Lyric Generator: Bikin Kata-kata Jadi Bernyawa
 Kadang bikin lirik itu sesuatu yang perlu waktu dan sulit, tapi sekarang kamu ga perlu bingung.
@@ -94,7 +94,7 @@ Mari kita bedah satu-satu biar kamu paham cara pakainya:
 **Music Type (Genre/Tipe Musik):** Apakah ini lagu Pop, Jazz, atau Rock? *(Cont Contoh: Jazz Ballad yang lambat)*.
 **Character (Karakter):** Siapa yang "nyanyi" di lagu ini? Apakah seorang guru, seorang anak, atau seseorang yang lagi patah hati? *(Contoh: Seorang pianis senior yang mengenang masa lalunya)*.
 **Context (Konteks):** Ceritain kejadiannya apa? Lagi di mana? Ngapain? *(Contoh: Sedang duduk di depan piano tua di ruang tamu yang sepi saat hujan turun)*.
-**Contoh Gabungan Prompt yang Pro:**
+## Contoh Gabungan Prompt yang Pro:
 "Tuliskan lirik lagu dengan emosi melankolis yang puitis seperti gaya Tulus. Tipe musiknya adalah Jazz Ballad. Karakter yang bernyanyi adalah seorang pianis yang sudah lama tidak bermain musik, dan konteksnya dia baru saja menemukan kembali partitur lama di atas piano tuanya saat suasana hujan."
 **Tips Tambahan:** Kamu bisa tambahkan apapun untuk membuat hasil lebih detail. Misal: "Gunakan rima akhiran A-B-A-B" atau "Jangan pakai kata-kata yang terlalu cengeng, buat lebih elegan." Semakin detail kamu kasih "bumbu", semakin enak "masakan" lirik yang AI buat buat kamu.
 ![image23.png](E BOOK AI_images/image23.png)
@@ -128,7 +128,7 @@ Kalau dulu bikin lagu butuh sewa studio, bayar musisi pengiring, sampai cari pen
 **Ganti Kecepatan (The Speed Hack):** Nah, ini trik rahasianya! Kalau audio yang kamu upload ditolak atau gagal diproses oleh sistem, **coba ganti kecepatannya** (bisa dipercepat sedikit atau diperlambat). Ini sering kali membantu "mengelabui" filter sistem supaya proses *generating* tetap jalan. (Ubah kecepatan lagu (lebih lambat <0,9x atau lebih cepat >1,05x)
 
 **Prompt untuk style yang kamu mau: **Nah untuk cover kamu hanya perlu style promptnya (sama seperti tadi) saja, karena lirik sudah auto generated.
-**C. Peringatan Penting: Hak Cipta (Copyright)**
+## C. Peringatan Penting: Hak Cipta (Copyright)
 Ini bagian yang paling krusial dan wajib kamu perhatikan. Menggunakan fitur upload audio, apalagi kalau kamu pakai potongan lagu orang lain, punya risiko hukum.
 **Pahami Risikonya:** Menggunakan AI untuk mengolah karya orang lain itu berada di area abu-abu.
 **Tanggung Jawab Pribadi:** Semua risiko terkait hak cipta atau klaim dari pihak ketiga **ditanggung sendiri oleh masing-masing pengguna.** Gunakan fitur ini dengan bijak, terutama kalau tujuannya untuk dipublikasikan atau dimonetisasi.
@@ -153,8 +153,8 @@ Bahkan dengan chat model yang terlatih, kamu bisa membuat lirik juga hanya dari 
 ![image53.png](E BOOK AI_images/image53.png)
 Intinya di Bab 3 ini: Kamu adalah Konduktornya. Lirik, Lagu, dan Prompt adalah alat musiknya. Kalau kamu bisa "nyuruh" (prompting) dengan bener, hasilnya bakal bikin orang nggak percaya kalau itu buatan AI! Dan pastinya kamu bakala dapetin ide yang unlimited karena kamu paham cara pake AI!
 
-**BAB 4: **
-**AI for Production**
+## BAB 4:
+## AI for Production
 
 Di bab ini, kita bakal belajar AI yang sangat berguna untuk produksi khususnya untuk seorang *Sound Engineer*. Kita bakal pakai AI yang punya kemampuan khusus untuk membedah, mengubah suara, sampai memoles lagu agar hasilnya jernih dan enak didengar.
 AI di jenis ini juga telah diprogram dengan jelas untuk tujuan penggunaannya sehingga bersifat 1 arah dan tanpa melalui prompt
@@ -184,7 +184,7 @@ Sebelum lanjut, kamu wajib tahu bedanya mixing dan mastering!
 Nah, cara pakai AInya seperti ini:
 ![image38.png](E BOOK AI_images/image38.png)
 File yang dihasilkan akan menjadi 1 file rata yang nantinya bisa digunakan untuk mastering
-**B. Mastering AI (Polesan Akhir & Standarisasi)**
+## B. Mastering AI (Polesan Akhir & Standarisasi)
 **Fungsinya:** Ini adalah tahap terakhir setelah Mixing selesai. Mastering gunanya untuk bikin suara lagu jadi "megah", jernih, dan volumenya setara dengan lagu-lagu di Spotify atau Radio. AI akan memastikan lagu kamu nggak pecah (*distorsi*) meskipun diputar di volume kencang dan terdengar konsisten di semua jenis speaker.
 ![image44.png](E BOOK AI_images/image44.png)
 **Prosesnya:** AI ini bakal menganalisis seluruh frekuensi di lagu kamu. Dia bakal otomatis menyeimbangkan antara suara vokal, bass, dan instrumen lainnya.
@@ -202,11 +202,11 @@ Dulu, buat dapet kualitas Mixing & Mastering yang bagus, kamu harus bayar *Sound
 **Konsisten:** Kamu bisa punya standar suara yang sama untuk setiap lagu yang kamu buat di rumah.
 ![image27.png](E BOOK AI_images/image27.png)
 
-**BAB 5: **
-**Ethics**
+## BAB 5:
+## Ethics
 
 Nah, di bab terakhir ini kita harus bahas soal "pagar-pagar"-nya. Memakai AI itu seru, tapi ada tanggung jawab besar di baliknya. Jangan sampai niatnya mau berkarya malah jadi masalah di kemudian hari.
-**1. Hak Cipta dan Hukum**
+## 1. Hak Cipta dan Hukum
 Dunia AI ini masih baru, dan hukumnya masih terus berkembang. Kamu harus sadar bahwa hak cipta lagu yang dihasilkan AI itu area abu-abu. Secara umum, hasil mentah dari AI seringkali tidak bisa dipatenkan atas nama kita sepenuhnya.
 **Peringatan:** Kalau kamu pakai lagu orang lain sebagai referensi di fitur *Upload Audio*, risiko pelanggaran hak cipta sepenuhnya ada di tangan kamu. Selalu ingat bahwa hukum melindungi pemegang hak cipta asli.
 **2. Tips Pakai AI: Main Aman!**
@@ -218,5 +218,5 @@ Ini poin yang paling penting buat kamu para pianis dan musisi. Penggunaan AI unt
 **AI itu Pola, Manusia itu Rasa:** AI hanya mengolah data dan frekuensi, tapi manusia punya **“Rasa yang berbeda”** dalam bermain musik. AI nggak bisa ngerasain sedihnya sebuah jeda (silence) di tengah lagu atau dinamika sentuhan jari yang lahir dari perasaan tulus.
 **Kesimpulan:** AI boleh jadi asisten yang hebat untuk teknis, tapi "nyawa" dari sebuah lagu tetap ada pada interpretasi dan emosi kamu saat menyentuh tuts piano. Jangan biarkan AI mematikan kreativitas dan karakter unik kamu!
 
-**BONUS TAMBAHAN**
+## BONUS TAMBAHAN
 SILAHKAN DOWNLOAD FILE PROMPT INI UNTUK MELATIH AI LLM KALIAN DALAM GENERATE LAGU

@@ -57,11 +57,11 @@ Survey
 Upselling
 Review staff, dll
 Template Checklist
-**SHOWCASE PLAN**
+### SHOWCASE PLAN
 
-**Notes:**
+### Notes:
 
-**22 - 28 June 2025**
+### 22 - 28 June 2025
 Meeting Concert Strategy
 Branding/Rebranding
 Venue
@@ -74,24 +74,24 @@ Staff expectations
 Performer expectations
 Q&A
 Begin branding/rebranding
-**29 Juni - 5 juli 2025**
+### 29 Juni - 5 juli 2025
 Finish branding/rebranding
 Search for showcase partners
 Community Partner
 Venue
 Staff band
-**6 -12 juli 2025**
+### 6 -12 juli 2025
 Showcase registration opens
-**13 - 19 juli 2025**
+### 13 - 19 juli 2025
 Send info ke WA Group
-**20 - 26 juli 2025**
+### 20 - 26 juli 2025
 Secure showcase partners
 Close showcase registration
 Gather performer details
-**27 juli - 2 agustus 2025**
+### 27 juli - 2 agustus 2025
 Secure performer details
 Edit performer tracks
-**3 augustus - 9 augustus 2025**
+### 3 augustus - 9 augustus 2025
 Secure performer tracks
 Meet with new staff about showcase procedure
 General showcase schedule/procedures
@@ -105,7 +105,7 @@ Secure showcase physicals
 Food
 Snacks
 Merch
-**10 - 16 augustus 2025**
+### 10 - 16 augustus 2025
 Finish last band rehearsals
 Meet with venue production staff
 Schedule
@@ -113,7 +113,7 @@ Show order
 Tech needs
 Finalize show order
 Secure printed programs
-**17 Agustus**
+### 17 Agustus
 Grab the instruments and tech needed for the showcase at 5 hours till start
 Keyboard
 Keyboard stand
@@ -176,26 +176,26 @@ Schedule
 Questions
 Reminders
 Have people at the front for check in at 30 minutes till start
-**18 Agustus**
+### 18 Agustus
 Communicate with staff about showcase
 Pros/Cons
 Major failures and solutions/preventative measures
 Needs/Wants
 Memorable moments
-**19 Agustus 2025**
+### 19 Agustus 2025
 ** **
-**20 Agustus 2025**
+### 20 Agustus 2025
 ** **
-**21 Agustus 2025**
+### 21 Agustus 2025
 
 Tab 3
 ![image7.jpg](Checklist Concert_images/image7.jpg)
 Checklist Event 17/8/2025
-**SHOWCASE PLAN**
+### SHOWCASE PLAN
 
-**Notes:**
+### Notes:
 
-**22 - 28 June 2025**
+### 22 - 28 June 2025
 Meeting Concert Strategy
 Branding/Rebranding/Tema
 Venue
@@ -214,7 +214,7 @@ Poster Registration Performer
 Script Promosi Ads/content
 Template Pesan
 
-**29 Juni - 5 juli 2025**
+### 29 Juni - 5 juli 2025
 Finish branding/rebranding
 Search for concert partners
 Partnership
@@ -222,7 +222,7 @@ Venue
 Staff band
 Volunteer
 
-**6 -12 juli 2025**
+### 6 -12 juli 2025
 Persiapan Performer Registration
 Form Registration
 QC Poster
@@ -233,7 +233,7 @@ Persiapan concert registration
 Finalize and QC Poster
 QC Template Pesan
 
-**13 - 19 juli 2025**
+### 13 - 19 juli 2025
 Concert registration opens
 WA Group
 Story/Post
@@ -243,7 +243,7 @@ Update all link in web/YT
 Reminder Open Registration Concert
 Reminder Performer Registration
 
-**20 - 26 juli 2025**
+### 20 - 26 juli 2025
 Reminder Performer Registration
 Reminder Open Registration Concert
 Secure showcase partners
@@ -252,7 +252,7 @@ Close form
 Announce WA Group
 Gather performer details
 
-**27 juli - 2 agustus 2025**
+### 27 juli - 2 agustus 2025
 Secure performer details
 Songs
 Dresscode
@@ -265,7 +265,7 @@ Outreach PC
 Show Concept/Procedure making
 Coaching Performer (opsional)
 
-**3 augustus - 9 augustus 2025**
+### 3 augustus - 9 augustus 2025
 Secure performer tracks
 Meet with new staff and voulenter about showcase procedure
 General show schedule/procedures
@@ -287,7 +287,7 @@ Ads (opsional)
 Outreach PC
 Coaching Performer (opsional)
 
-**10 - 16 augustus 2025**
+### 10 - 16 augustus 2025
 Finish last band/performer rehearsals
 Documentation before event
 Meet with venue production staff
@@ -301,7 +301,7 @@ Location Survey
 Stage Decor and property Preparation
 Stage Decor (opsional)
 
-**17 Agustus 2025**
+### 17 Agustus 2025
 Grab the instruments and tech needed for the showcase at 5 hours till start
 Keyboard
 Keyboard stand
@@ -369,7 +369,7 @@ Live Testimonials
 Content Making
 Souvenir/Certificate
 
-**18 Agustus**
+### 18 Agustus
 Communicate with staff about showcase
 Pros/Cons
 Major failures and solutions/preventative measures
@@ -381,7 +381,7 @@ WA Group
 Story/Post
 Ads (opsional)
 Outreach PC
-**19 Agustus 2025**
+### 19 Agustus 2025
 
 Share Moments / Testimonial Review with poster
 Upelling 2 days off
@@ -390,14 +390,14 @@ Story/Post
 Ads (opsional)
 Outreach PC
 
-**20 Agustus 2025**
+### 20 Agustus 2025
 Upelling 1 days off
 WA Group
 Story/Post
 Ads (opsional)
 Outreach PC
 
-**21 Agustus 2025**
+### 21 Agustus 2025
 Content Upload (testimonials/documentation)
 
 Pertanyaan

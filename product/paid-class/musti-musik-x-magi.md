@@ -14,12 +14,12 @@ review_frequency: quarterly
 # PERIKATAN KONTRAK KERJASAMA
 ## MUSTI MUSIK & MAGI
 Pada hari ini, Jumat, tanggal 06 bulan Februari tahun 2026, kami yang bertanda tangan di bawah ini:
-**Pihak Pertama**
+### Pihak Pertama
 **Nama**: Dave Henokh Liong
 **Jabatan**: Direktur
 **Alamat**: Arcade Business Center 6th Floor Unit 6-03, Jl. Pantai Indah Utara 2 Kav. C1, PIK, Kecamatan Penjaringan, Jakarta Utara
 **Kontak**: +62 831-9941-4911
-**Pihak Kedua**
+### Pihak Kedua
 **Nama**: Ran
 **Jabatan**: Marketing
 **Nama Brand**: Magi

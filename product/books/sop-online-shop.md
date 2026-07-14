@@ -32,18 +32,18 @@ Catatan:
  → Penjemputan oleh kurir maksimal **2 hari setelah resi dibuat**
 
 ## 4. Alur Proses Pembuatan Resi
-**Order Masuk**
+### Order Masuk
 Admin mengecek order baru dari marketplace
 Memastikan order sesuai dengan ketentuan waktu
-**Pembuatan Resi**
+### Pembuatan Resi
 Resi dibuat secara manual oleh admin sesuai pembagian shift
-**Penyimpanan Data Resi**
+### Penyimpanan Data Resi
 Resi yang sudah dibuat disimpan ke dalam Google Drive
-**Pengiriman ke Percetakan**
+### Pengiriman ke Percetakan
 File resi dikirim ke pihak percetakan **setiap hari**
 Waktu pengiriman:
 **Malam sebelumnya**, atau (oleh admin shift malam)
-**Pagi hari**
+### Pagi hari
 Tujuan: agar percetakan dapat segera mencetak dan menyiapkan pengiriman
 
 ## 5. Pencatatan Keuangan (Settlement)
@@ -60,14 +60,14 @@ Memastikan semua angka yang dicatat sudah final
 
 ## 6. Pembagian Tugas & Shift
 ### Shift Admin
-**Shift 1 (Admin 1)**
+### Shift 1 (Admin 1)
 Bertanggung jawab atas resi **batch pertama (00:00 – 12:00)**
 Fokus memastikan semua resi pagi selesai di hari yang sama
-**Shift 2 (Admin 2)**
+### Shift 2 (Admin 2)
 Bertanggung jawab atas resi **batch kedua (12:00 – 00:00)**
 Menyelesaikan sisa resi dan memastikan tidak ada yang tertunda lebih dari H+1
 Jumlah admin:
-**1 orang per shift**
+### 1 orang per shift
 
 ## 7. Standar Operasional Wajib
 Tidak boleh ada resi yang terlewat (*zero lost resi*)

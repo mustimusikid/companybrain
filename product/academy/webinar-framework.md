@@ -218,11 +218,11 @@ Result: What outcome would your audience consider a success?
 Use road map  (tiap selesai 1 bab tampilin roadmap)
 
 Every step needs** **
-**contex**
+### contex
 Why is it important
 What type
 Why xxx
-**Sourcing**
+### Sourcing
 
 TRANSITION
 After all material, summarized it → focus with the benefits outcome and they can achieve based on our lesson

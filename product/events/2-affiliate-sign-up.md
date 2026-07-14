@@ -12,29 +12,29 @@ review_frequency: evergreen
 > Free class operation SOP or product document for Musti Musik.
 
 A ACQUISITION.COM
-**$100M Affiliate Program **
+## $100M Affiliate Program
 **First Name ***
 John
 **Email ***
 Enter your email
-**Sign Up **
+## Sign Up
 G **Continue with Google **
 **Password* **
 Enter your password
-**Country **
+## Country
 Please select **a **country
-**Address **
+## Address
 123 Main St
-**Phone Number **
+## Phone Number
 V
 **+1 **555 123 4567
 OR
-**Last Name **
+## Last Name
 Doe
-**Website **
+## Website
 https://example.com
 I **agree **to receive email notifications (like when I earn a commission) and other important emails regarding the affiliate
 program
 I agree to affiliate terms & conditions *
-**Sign Up **
+## Sign Up
 Already have an account? **Sign In **

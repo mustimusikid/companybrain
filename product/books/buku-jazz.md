@@ -25,17 +25,17 @@ Dave Henokh Liong, DipLCM, ALCM
 **KAT****A ****MEREKA**** (5 dari 1000+ murid):**
 ![image100.png](Buku Jazz _images/image100.png)
 
-**Brian Ramon Patriasena**
+### Brian Ramon Patriasena
 (Siswa kelas V, 11th)  **   ****  **
 *“Belajar dengan Kak Dave ngebuat permainan piano aku lebih bagus, aku suka banget waktu belajar improvisasi.”  *
 
 ![image100.png](Buku Jazz _images/image100.png)
-**Leticya Bellvanya**
+### Leticya Bellvanya
 (Siswi kelas VII, 12 th)
 *“Belajar dengan kak Dave rasanya menyenangkan dan membuat wawasan saya luas, saya jadi mencintai musik.”*
 ![image100.png](Buku Jazz _images/image100.png)
 
-**Erick Imanuel**
+### Erick Imanuel
 (Music Director, 40 th)
 *“Sangat menyenangkan dan efektif! Belajar jazz piano jadi nggak tegang. Pokoknya fun dan dapat ilmu!”*
 ![image103.png](Buku Jazz _images/image103.png)
@@ -49,7 +49,7 @@ Dave Henokh Liong, DipLCM, ALCM
 *“Musti Musik bikin belajar jazz jadi pengalaman yang seru dan suportif; sangat membantu saya lebih percaya diri dalam improvisasi perform!”*
 
 ***Dan Masih Ada Banyak Cerita Lainnya…***
-**CARA BUKU INI BISA MEMBANTUMU**
+### CARA BUKU INI BISA MEMBANTUMU
 Banyak banget pianis yang nyoba belajar lagu jazz dengan main lagu yang sama persis dengan partitur atau mungkin coba-coba pakai *chord* yang agak miring biar terdengar jazz. Tapi jujur aja, berapa banyak sih yang beneran ngerti apa yang lagi mereka pencet? Banyak yang jago baca partitur, hafal *chord* susah, dan jarinya lincah banget pas mainin lagu yang udah diatur. Tapi giliran partiturnya diambil, atau tiba-tiba diajak *jamming* dan harus improvisasi spontan, mendadak ngeblank. Jari sih masih mau gerak, tapi telinga dan *feeling* bingung mau jalan ke mana.
 Aku tahu banget rasanya, soalnya aku dulu persis kayak gitu. Percaya deh, itu bukan karena kita kurang bakat atau malas latihan. Masalahnya cuma satu: jarang banget ada sistem belajar Jazz yang gampang dicerna. Seringnya, kita cuma diajarin teori yang ribet banget atau sekadar disuruh "hafalin aja nada ini", bukan diajak beneran ngerti fundamental/bahasa musiknya. Nah, kalau cuma ngandelin hafalan tanpa ngerti pondasinya, jatuhnya kita cuma meniru, bukan beneran "main". Hasilnya? Permainanmu bakal terasa kaku dan cepet banget mentok.
 Buku ini lahir untuk mengubah hal itu. Kita nggak akan pusing-pusingan sama teori Jazz yang bikin ngantuk. Di sini, aku bakal kasih langkah-langkah praktis yang bisa langsung kamu terapkan di tuts piano: gimana cara bikin *voicing chord* yang terdengar "mahal", ngerti alur progresi *chord* biar nggak nyasar, dan gimana cara nambahin variasi serta improvisasi yang bikin permainanmu bener-bener hidup dan punya karakter.
@@ -66,20 +66,20 @@ Aku nulis buku ini supaya kamu bisa belajar dengan cepat dan terarah. Jadi, seti
 **Bagaimana Buku ini Bekerja?**
 Belajar Jazz tanpa arah itu rasanya seperti mengemudi tanpa GPS ke tempat asing yang belum pernah kamu datangi. Kamu bisa saja terus jalan, tapi belum tentu sampai ke tujuan. Karena itu, aku menyusun buku ini seperti peta yang bakal menuntunmu, langkah demi langkah, dari pemahaman dasar sampai ke permainan Jazz yang matang.
 Buku ini terbagi dalam tiga bagian utama. Setiap bagian punya tujuan yang berbeda, tapi semuanya saling terhubung:
-**Jazz Genre and Rhythm **
+### Jazz Genre and Rhythm
 Di bagian ini, kamu akan belajar gimana cara ngebangun pondasi Jazz yang stabil. Kita nggak cuma main nada, tapi belajar "rasanya". Kamu akan paham cara dapetin *swing feel* yang asik, cara mainin *walking bass*, dan teknik dasar supaya permainanmu nggak terdengar kaku seperti robot.
-**Chord Voicing & Progression in Jazz**
+### Chord Voicing & Progression in Jazz
 Mungkin kamu pernah dengar, di jazz ada banyak chord yang aneh-aneh dan miring kaya 11, 9, 13 dan kamu pun bertanya-tanya “ini chord gimana konsepnya?” di Babab ini Kamu akan ngerti gimana cara main dan pakai chord-chord itu!, ga cuma chord, tapi juga progresinya yang bisa dipakai secara universal.
-**Variasi & Improvisasi (The Freedom)**
+### Variasi & Improvisasi (The Freedom)
 Nah, di bagian ini kamu belajar untuk bebas "berbicara" lewat piano. Kamu akan belajar teknik improvisasi, pakai *scale* yang tepat, *fill-in*, sampai *licks* khas Jazz yang bakal bikin permainanmu terasa hidup, ekspresif, dan punya karakter sendiri.
 Buku ini bisa dibaca dari awal sampai akhir, atau langsung ke bagian yang dibutuhkan.  Yang terpenting, jangan cuma dibaca, berlatihlah setiap contoh dan pattern yang ada di dalamnya.** **Untuk mendukung proses belajarmu, buku ini juga dilengkapi dengan QR yang berisi video visual pembelajaran, jadi kamu bisa praktek langsung. Jika kamu konsisten mengikuti langkah-langkah di buku ini, kamu akan melihat perubahan nyata dalam permainan Jazzmu!
-**KAMU BUTUH DASAR ILMU PIANO**
+### KAMU BUTUH DASAR ILMU PIANO
 ![image59.png](Buku Jazz _images/image59.png)
 Materi di buku ini membutuhkan ilmu dasar piano (sudah tau tuts, kenal dengan kunci C, bisa main chord Major dan Minor)** **untuk bisa diaplikasikan langsung ke permainanmu. Jika kamu belum pernah belajar piano, TENANG AJA! **Kamu bisa**** langsung scan QR video di bawah ini untuk belajar piano dasar dalam 7 hari!**
 ![image57.png](Buku Jazz _images/image57.png)
 ![image63.png](Buku Jazz _images/image63.png)
 Scan QR Code di samping untuk strategi belajar piano dasar dalam 7 hari!
-**DAFTAR ISI**
+### DAFTAR ISI
 KATA PENULIS
 CARA BUKU INI BISA MEMBANTUMU
 | BAB I: | Berkenalan dengan Jazz dan Buku Pedomannya! |
@@ -91,11 +91,11 @@ CARA BUKU INI BISA MEMBANTUMU
 | BAB IV: | Cara Pianis Jazz bisa Menyatu dengan Piano saat Improvisasi |
 | BAB V: | Langkah Nyata Menuju Kebebasan Bermain Jazz! |
 
-**~ Jazz Fun Fact  #1~**
+### ~ Jazz Fun Fact  #1~
 **Jazz was Illegal!**
 “Di beberapa wilayah AS, jazz sempat dianggap terlalu liar hingga dilarang diputar di radio dan ruang publik. Namun, jazz tetap eksis dan terus berkembang melalui klub bawah tanah serta obrolan dari mulut ke mulut.”
 
-**BAB I**
+### BAB I
 Berkenalan dengan Jazz dan Buku Pedomannya
 
 **Sejarah Singkat Jazz?**
@@ -147,7 +147,7 @@ Melodi tema lagu
 Part Improvisasi/solo (tidak semua dituliskan
 Melodi Tema Lagu
 
-**BAB II**
+### BAB II
 Strategi Paham Genre dan Rhythm Jazz
 
 Dulu, aku pikir Jazz itu cuma satu jenis musik, pokoknya musik yang kedengarannya "miring", lambat, dan sedikit berat. Aku pikir kalau sudah bisa satu lagu Jazz, aku otomatis bisa main di semua suasana. Ternyata, itu kesalahan besar yang bikin permainanku terdengar kaku dan sering "salah kostum".
@@ -176,14 +176,14 @@ Tangan kanan dalam pattern dimainkan dengan cara yang berbeda dengan tangan kiri
 V = Full Chord
 (contoh C Full chord)
 
-**Strategi Bermain Solo di Genre Jazz**
+### Strategi Bermain Solo di Genre Jazz
 Dalam bermain solo piano, tugasmu adalah menjadi sebuah "orkestra". Kamu tidak punya pemain drum untuk menjaga tempo atau pemain bass untuk menjaga nada rendah. Semuanya ada di jarimu.
 Konsep dasarnya,
 **Tangan Kanan**: Bermain Melodi Lagu
 **Tangan Kiri**: Bermain Pattern Genre
 Jadi kamu yang akan memegang keseluruhan jalannya lagu.
 Setelah memahami konsep bermain solo, kamu juga harus paham bagaimana cara bermain comping di Jazz beserta cara mengeksekusinya di dalam genre-genre Jazz.:
-** Strategi Bermain Comping di Genre Jazz**
+### Strategi Bermain Comping di Genre Jazz
 Istilah *Comping* berasal dari kata ***Accompanying*** (menemani). Dalam konteks Jazz, *comping* berarti tugas Anda untuk mengiringi penyanyi, solois, atau instrumen lain dalam sebuah band secara harmonis dan ritmis. Sebagai seorang pianis, peran Anda bukan lagi memainkan melodi lagu, atau bukan juga hanya sekedar menekan chord sesuai teks lagu, melainkan menjadi "jangkar" yang menjaga ritme, mendukung suasana, dan melengkapi dinamika musisi lainnya.
 
 Untuk bisa bermain *comping* dengan vokal yang "hidup" dan tidak kaku, Anda perlu mengintegrasikan dua elemen utama:
@@ -198,9 +198,9 @@ Di bagian ini kita akan belajar bagaimana cara menggunakan tangan kanan untuk me
 **Genre-genre Jazz dan Cara ****Bermainnya**
 ![image52.png](Buku Jazz _images/image52.png)
 Untuk bisa memahami materi bermain genre-genre Jazz Kamu direkomendasikan scan QR di samping untuk belajar dengan video.
-**1. Swing**
+### 1. Swing
 **Swing **adalah genre paling terkenal dari Jazz. Kuncinya ada di ketukan ***yang *****mengayun. **Swing sendiri juga memiliki keunikan saat bermain solo, tangan kirimu harus bisa memainkan *walking bass* (bass yang berjalan), sementara tangan kanan melakukan melodi/improvisasi.
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
 ![image23.png](Buku Jazz _images/image23.png)
@@ -239,7 +239,7 @@ Jangan cuma latihan satu per satu. Rahasia *walking bass* yang enak adalah kombi
 | Ketukan (RH)  (LH) | 1  n  2  n  3  n  4  n ………..Melodi…………..        C’     B      A      G | 1  n  2  n  3  n  4  n ………….Melodi…………..        F       A        C’     E’ |
 |  | (C) Diatonik turun | (FM7) Arpeggio ke atas |
 
-**Mengiring/Comping**
+### Mengiring/Comping
 Pattern Simple:
 _No structured data — see original file_
 
@@ -252,9 +252,9 @@ _No structured data — see original file_
 Perpaduan *Syncop *1 dan 2:
 _No structured data — see original file_
 
-**2. Ballad**
+### 2. Ballad
 **Ballad **adalah** **salah satu genre Jazz yang terkenal akan “emosi yang tersampaikan” di dalamnya. Ballad cenderung lambat dan tenang, yang menjadi ciri khas genre ini. Biarkan tangan kirimu bermain pattern ballad yang mengalir dan panjang sementara tangan kanan melakukan melodi/improvisasi.
-**Bermain Solo**
+### Bermain Solo
 Ada 3 tipe Ballad pattern yang bisa kamu mainkan, masing-masing punya ciri khasnya tersendiri.
 Pattern Ballad slow
 _No structured data — see original file_
@@ -267,7 +267,7 @@ Pattern Ballad terbuka
 _No structured data — see original file_
 
 Pattern ini memiliki rasa yang lebih “terbuka” untuk dimainkan, jadi lebih cocok untuk lagu yang lebih cepat sedikit ataupun lagu yang punya rasa lebih bahagia
-**Mengiring/Comping**
+### Mengiring/Comping
 Pattern Ballad Slow
 _No structured data — see original file_
 
@@ -281,7 +281,7 @@ _No structured data — see original file_
 **3****. Bossa Nova**
 Bossa Nova adalah genre jazz yang berasal dari turunan musik Latin. Berbeda dengan Swing dan Ballad, Bossa Nova itu *straight* (rata) tapi penuh dengan *syncop *yang tak terduga (ciri khas latin). Genre Bossa Nova memiliki ciri khas yang santai, romantis, dan punya *groove* yang rapi.
 
-**Bermain Solo**
+### Bermain Solo
 Versi simple:
 _No structured data — see original file_
 
@@ -297,7 +297,7 @@ _No structured data — see original file_
 Atau
 _No structured data — see original file_
 
-**Mengiring/Comping**
+### Mengiring/Comping
 _No structured data — see original file_
 
 Left Hand (LH) juga dapat mengikuti pattern solo
@@ -306,22 +306,22 @@ Dari banyak pilihan pattern ini kita bisa pilih salah satu untuk dimainkan dalam
 **4****. ****Choro **
 Selain Bossa Nova, latin juga punya genre turunan lainnya, yaitu **Choro, **yang punya kesan lebih melankolis.
 
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
-**Mengiring/Comping**
+### Mengiring/Comping
 _No structured data — see original file_
 
-**5. Blues**
+### 5. Blues
 **Blues **punya ciri khas “Energi Tanpa Henti”, Menurut aku Ini adalah salah satu genre yang paling seru buat dimainin. Saat bermain solo, tangan kirimu adalah mesinnya. Tangan kiri tidak boleh berhenti bergerak memainkan blues pattern agar *groove*-nya tidak mati.
 
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
 ![image34.png](Buku Jazz _images/image34.png)
 
 Bass di dalam Blues Pattern ini dimainkan oleh tangan kiri secara bersamaan, sehingga mendapatkan aksen seperti diluar ketukan (saat dimainkan di “n” / *Syncop */ *Offbeat*) dan di dalam ketukan (saat dimainkan di angka ketukan).
-**Mengiring/Comping**
+### Mengiring/Comping
 Bisa dilakukan dengan seirama Tangan Kiri untuk mempertahankan Blues Rhythmnya.
 
 _No structured data — see original file_
@@ -332,10 +332,10 @@ _No structured data — see original file_
 **6****. Rag**** **
 Rag adalah salah satu genre paling riang/ceria dari piano Jazz. Ciri khasnya, tangan kirimu harus sangat lincah melompat untuk menciptakan suara chord yang melompat-lompat juga.
 
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
-**Mengiring/Comping**
+### Mengiring/Comping
 menggunakan gabungan *syncop *dalam patternnya.
 _No structured data — see original file_
 
@@ -343,18 +343,18 @@ Karena karakter permainannya yang riang dan gembira, maka pattern rag juga serin
 
 ### Tips Cara Mengiringi
 Ketika bermain piano Jazz, salah satu hal terpenting untuk diperhatikan adalah cara memposisikan tangan kita dalam permainan. Umumnya pianis jazz dapat membedakan posisi permainan menjadi 3 kondisi:
-**Piano Jazz Solo**
+### Piano Jazz Solo
 ![image32.png](Buku Jazz _images/image32.png)
 Saat bermain piano solo, kamu boleh mengambil semua range di piano, mulai dari range paling rendah (low register), sampai range tertinggi (high register)
 Tangan kiri: Pattern (di low - medium register)
 Tangan kanan: Melodi (di medium - high register)
 
-**Bermain Piano Jazz Dengan Penyanyi**
+### Bermain Piano Jazz Dengan Penyanyi
 ![image32.png](Buku Jazz _images/image32.png)
 Saat bermain dengan penyanyi, kamu harus mulai menghentikan penggunaan high register. Karena jika dipaksa dimainkan akan bertumpuk tindih dengan range suara vokal.
 Tangan kiri: Pattern (low - medium register)
 Tangan kanan: Full chord (medium register) atau sedikit fill in (high register)
-**Bermain Piano Jazz dengan Band**
+### Bermain Piano Jazz dengan Band
 ![image32.png](Buku Jazz _images/image32.png)
 Saat bermain dengan band, kamu harus mulai menghentikan penggunaan low register. Karena akan bertumpuk tindih dengan instrumen lain (bass). Jika dalam band terdapat instrumen *lead *(seperti saxophone, biola, lead gitar), kamu juga bisa membatasi penggunaan high register, karena bisa bertabrakan dengan instrumen tersebut.
 Tangan kiri: Pattern (di medium register)
@@ -373,11 +373,11 @@ Scan QR berikut untuk berlatih langsung dengan Practice Sheets.
 Sekarang Kamu sudah memahami bahwa bermain piano dalam genre Jazz bukan sekadar main ngasal, melainkan seni mengatur **flow, interaksi, dan energi** di dalam sebuah band. Setiap *pattern* ritme dan setiap perubahan dinamika yang kamu mainkan memiliki peran krusial dalam sebuah lagu, serta menjaga "rasa" dari lagu tersebut tetap hidup.
 Jika kamu sudah mulai terbiasa dengan berbagai gaya *comping* dan pengiringan di genre-genre Jazz, langkah selanjutnya adalah mendalami bagian lain dari Jazz: **Voicing Chord dan Progresi Chord di Jazz**. Mengapa? Karena memainkan *pattern* tanpa pemahaman harmoni yang mendalam hanya akan membuat permainan kamu terdengar monoton dan repetitif.
 
-**~ Jazz Fun Fact  #2~**
+### ~ Jazz Fun Fact  #2~
 **No Wrong Notes in Jazz!**
 “Dalam harmoni Jazz, nada yang dianggap -salah- atau -fals- biasanya cuma kurang resolusi. Kalau kamu tahu cara mengarahkannya ke nada berikutnya (voicing yang benar), nada paling aneh sekalipun akan terdengar jenius. Jazz mengajarkan kalau harmoni itu soal *perjalanan*, bukan cuma satu titik nada”
 
-**BAB III**
+### BAB III
 Rahasia Harmoni Jazz yang Enak dan Mewah
 
 Dulu, aku pikir setelah sudah lancar bermain *pattern* genre Jazz, permainanku sudah otomatis terdengar "Jazz banget". Tapi kenyataannya? Meskipun aku udah hafal pattern, ketukanku sudah *Swing* dan pola *walking bass*-nya sudah jalan, permainanku masih kedengaran kayak Pop yang dipaksain jadi Jazz. Ada yang kurang, tapi aku sendiri gak tahu di mana salahnya.
@@ -450,11 +450,11 @@ Progresi Chord menjawab pertanyaan: "Chord apa selanjutnya?"
 Voicing Chord menjawab pertanyaan: "Bagaimana sebuah chord terdengar berbeda?"
 Karena tujuannya berbeda, aku membagi bab ini menjadi dua bagian besar. Kita tidak akan bicara soal urutan chord dulu, tapi kita akan fokus pada seninya menyusun nada. Kita mulai dari yang paling krusial: Voicing!
 
-**~ Jazz Fun Fact  #3~**
+### ~ Jazz Fun Fact  #3~
 **All instruments are Jazz Instruments!**
 “Dulu di New Orleans, musisi Jazz menggunakan alat musik apa aja yang mereka temui dari sisa-sisa *marching band* (terompet, trombon, hingga klarinet). Piano baru masuk belakangan saat Jazz mulai berpindah dari jalanan ke gedung pertunjukan dan klub malam”
 
-**BAB IIIA**
+### BAB IIIA
 Rahasia Voicing Jazz yang Enak dan Mewah
 ![image59.png](Buku Jazz _images/image59.png)
 ![image11.png](Buku Jazz _images/image11.png)
@@ -500,7 +500,7 @@ Chord 7 yang dipakai di chord Minor, namanya menjadi chord Minor 7, dan sering d
 Dm → Dm7 (D + F + A + C)
 Am → Am7 (A + C + E + G)
 
-**6th chord **
+### 6th chord
 ![image18.png](Buku Jazz _images/image18.png)
 Coba cek lagu *Jazz Standards* di bawah ini!
 Di lagu ini, salah satunya ada ada chord C6, tapi sebenarnya apa sih angka 6 di belakang chord C? Itulah 6th chords. 6th chord adalah penambahan nada ke-6 di dalam sebuah chord Major maupun Minor yang masing-masing punya rasa yang khas dan berbeda.
@@ -648,7 +648,7 @@ G13 (G + B + D + F + A + C) ke chord C
 Di chord Minor (Minor 9, 11, 13) untuk menggantikan chord Minor agar lebih berwarna. Pakailah chord m9 untuk pemula. Contohnya:
 E  → Em9 (E + G + B + D + F#)
 Dm → Dm9 (D + F + A + C + E)
-**Teori ≠ Praktek**
+### Teori ≠ Praktek
 ![image113.png](Buku Jazz _images/image113.png)
 Secara teori Jazz, isian chord-chord extension (9,11,13) harus dimainkan semua, tapi dalam prakteknya, tidak perlu.
 Contoh
@@ -685,7 +685,7 @@ Rumus:  chord dominant 9 + nada b13
 Bisa dipakai di chord V, jadi tegang
 Contohnya F - G -C jadi F - G9(b13) - C
 
-**Tips Extension & Extension Altered Chord**
+### Tips Extension & Extension Altered Chord
 Jangan terlalu banyak menggunakan chord *altered *di sepanjang lagu, karena chord ini tegang dan suara nya unik (biasa disebut chord mahal).
 Bagi kamu yang berpikir bahwa extension & altered extension itu ada banyak tuts sehingga 1 tangan tidak cukup memainkan semua not nya, triknya adalah tangan kiri memainkan 1&7 nya, dan tangan kanan memainkan 3, 5, dan extensionnya (9,11,13).
 **10. ****Upper Structure**
@@ -726,7 +726,7 @@ Contohnya F - G -C jadi F - G11b9 - C
 
 Dengan trik ini, kamu juga bisa menemukan chord upper structure lainnya untuk hafalanmu sendiri saat memainkan chord-chord rumit.
 
-**BAB IIIB**
+### BAB IIIB
 Bertumbuh Bersama
 Kalau kamu sudah sampai di halaman ini, aku mau kasih apresiasi buat kamu: terima kasih sudah mengambil langkah berani untuk naik level dalam belajar **Jazz Piano**. Belajar Jazz itu ibarat belajar bahasa baru; tidak semua pianis mau untuk keluar dari zona nyaman mengandalkan partitur lagu dan mulai "berekspresi" lewat Jazz.
 ![image59.png](Buku Jazz _images/image59.png)
@@ -736,11 +736,11 @@ Caranya? Tolong berikan ulasan jujur untuk buku ini melalui scan QR disamping:
 
 Testimoni dari kamu bisa membantu pianis lain menemukan arah lebih cepat dan  bermain jazz dengan lebih percaya diri. Dan sebagai ucapan terima kasih, kamu akan mendapatkan bonus materi latihan Jazz piano eksklusif setelah kamu memberikan ulasan buku ini (anggap saja hadiah kecil karena kamu sudah ikut menolong orang lain bertumbuh).
 
-**~ Jazz Fun Fact  #4~**
+### ~ Jazz Fun Fact  #4~
 **IIm-V Everywhere!**
 “90% dari lagu-lagu *Jazz Standards *yang ada di Real Book memiliki progresi IIm-V di dalamnya, sehingga progresi IIm-V ini disebut identitas Jazz”
 
-**BAB IIIC**
+### BAB IIIC
 Rahasia Progresi Jazz yang Enak dan Mewah
 ![image72.png](Buku Jazz _images/image72.png)
 ![image59.png](Buku Jazz _images/image59.png)
@@ -855,7 +855,7 @@ Reharm
 Sekarang kamu sudah tahu bahwa bermain chord bukan cuma sekedar menekan chord, tapi tentang memahami hubungan antar chord dan arah perjalanannya. Kalau kamu sampai di titik ini, kamu sudah punya fondasi yang kuat. Karena pemain yang paham chord dan progresi bisa membuat musik apa pun terasa hidup, bahkan dengan progresi yang sederhana.
 Langkah selanjutnya adalah belajar bagaimana cara memperkaya permainanmu, menambah warna, variasi, dan karakter saat berimprovisasi di bab berikutnya.
 
-**BAB IV**
+### BAB IV
 Cara Pianis Jazz bisa Menyatu dengan Piano saat Improvisasi
 
 **Apa itu Improvisasi?**
@@ -1015,7 +1015,7 @@ Major Ending
 _No structured data — see original file_
 
 Licks ini cocok untuk ending di chord I
-**Latihan Mengembangkan Improvisasi**
+### Latihan Mengembangkan Improvisasi
 Sekarang kamu udah punya banyak modal untuk bisa berimprovisasi, mulai dari Melody Improvisation, Chord Improvisation, Scale, dan sampai ke licks. Namun kalau cuma tahu teorinya aja, aku yakin 100% kamu ga akan bisa berkembang! Kamu perlu Latihan!
 Setiap latihan improvisasi, cobalah untuk bermain apapun yang kamu ketahui secara berkelanjutan. Jangan biarkan jeda menghentikan ritme improvisasi, karena improvisasi yang baik adalah improvisasi yang terus berlanjut.
 Tips:
@@ -1041,9 +1041,9 @@ Akhir
 	Akhiri improvisasi dengan menurunkan kembali suasana, seperti dengan **memberi jeda lebih tiap not, turun nada** untuk menurunkan suasana. Kamu bisa **gunakan kembali melody improvisation dan chord improvisation** dan persiapan masuk kembali ke dalam lagu.
 
 ![image248.png](Buku Jazz _images/image248.png)
-**Yuk sekarang latihan dengan Lagu**
+### Yuk sekarang latihan dengan Lagu
 Kamu juga bisa cek QR Mini Practice Sheets di Bab II untuk gambar yang lebih jelas.
-**Langkah Latihan:**
+### Langkah Latihan:
 Bermain Head lagu tersebut 1x.
 Mainkan kembali progresi lagu tersebut dan coba untuk berlatih improvisasi.
 Tutup dengan bermain kembali Head lagu tersebut 1x.
@@ -1052,9 +1052,9 @@ Tutup dengan bermain kembali Head lagu tersebut 1x.
 Di bab ini, kamu sudah belajar bagaimana melakukan improvisasi di Jazz. Ingat, tujuannya bukan asal main, tapi untuk memberi rasa dan kedalaman di setiap nada yang kamu bawakan. Karena pada akhirnya, Jazz bukan cuma soal teori, tapi tentang bagaimana kamu berekspresi.
 Di bab berikutnya, kita akan bahas bagaimana semua hal ini bisa kamu latih dengan cara yang praktikal, supaya ga cuma teori, tapi bisa benar-benar bisa kamu pakai langsung!
 
-**BAB V**
+### BAB V
 Langkah Nyata Menuju Kebebasan Jazz
-**Yang Harus Kamu Lakukan Sekarang**
+### Yang Harus Kamu Lakukan Sekarang
 
 ## Panduan Latihan Praktis
 Sekarang waktunya mempraktikkan semua yang sudah kamu pelajari tentang *genre*, *voicing*, hingga improvisasi. Ingat, teori tanpa praktik cuma akan jadi tumpukan informasi. Banyak orang jalan di tempat bukan karena kurang bakat, tapi karena sudah tahu teorinya tapi ga tahu harus mulai dari mana. Di bagian ini, kita akan susun jadwal latihan yang simpel tapi nendang, biar setiap kali buka *tuts* piano, kamu nggak lagi bengong.
@@ -1169,7 +1169,7 @@ Scan atau hubungi
  +6283199414911
 Karena slot sangat terbatas!
 
-**Penutup**
+### Penutup
 	Terima kasih untuk diri kamu yang mau untuk terus maju dan berkembang dalam belajar piano.  Aku tahu kamu punya keinginan keuat untuk bisa mencapai tujuan piano Jazz-mu, dan semoga kamu tetap dalam semangat yang membara itu. Aku harap buku ini bisa menjadi teman terbaikmu dalam belajar dan menjawab semua pertanyaan atau kesulitan belajarmu. Jangan ragu untuk terus mengulang belajar dan berlatih, karena hal-hal baik harus diperjuangkan.
 	Aku juga ingin meminta maaf apabila ada kekurangan atau kesalahan dalam penulisan buku ini, apabila kamu ingin memberi masukan, kritik ataupun saran, kamu bisa sampaikan lewat QR di bawah ini. Terima kasih atas antusiasme kamu, dan sukses selalu!
 ![image84.png](Buku Jazz _images/image84.png)
@@ -1215,23 +1215,23 @@ MINI PRACTICE SHEETS
 ![image148.png](Buku Jazz _images/image148.png)
 ![image42.png](Buku Jazz _images/image42.png)
 Fun fact
-**~ Jazz Fun Fact  #3~**
+### ~ Jazz Fun Fact  #3~
 **No Wrong Note on Jazz!**
 “Dalam harmoni Jazz, nada yang dianggap -salah- atau -fals- biasanya cuma kurang resolusi. Kalau kamu tahu cara mengarahkannya ke nada berikutnya (voicing yang benar), nada paling aneh sekalipun akan terdengar jenius. Jazz mengajarkan kalau harmoni itu soal *perjalanan*, bukan cuma satu titik nada”
 
 **mo**
-**~ Jazz Fun Fact  #6~**
+### ~ Jazz Fun Fact  #6~
 **IIm-V Everywhere!**
 “90% dari lagu-lagu *Jazz Standards *yang ada di Real Book memiliki progresi IIm-V di dalamnya, sehingga progresi IIm-V ini disebut identitas Jazz”
 
-**~ Jazz Fun Fact #4  ~**
+### ~ Jazz Fun Fact #4  ~
 ***Real Book***** Was Illegal!**
 “Dulu disusun sembunyi-sembunyi oleh mahasiswa Berklee tahun 70-an, *Real Book* awalnya adalah buku "bajakan" ilegal untuk menghindari royalti. Musisi harus membelinya "di bawah meja" atau dari bagasi mobil. Kini, buku ini sudah legal dan jadi kurikulum wajib Jazz dunia.”
 
 Bonus
 ![image8.png](Buku Jazz _images/image8.png)
 
-**BAB I**
+### BAB I
 Berkenalan dengan Jazz dan Buku Pedomannya
 
 **Sejarah Singkat Jazz?**
@@ -1295,7 +1295,7 @@ Melodi Tema lagu
 Bonus 2
 ![image8.png](Buku Jazz _images/image8.png)
 
-**REHARM BONUS**
+### REHARM BONUS
 Tambahan Cara Reharmonisasi yang aku sering pakai
 
 Reharmonization atau "Reharm" adalah seni mengganti, menambahkan, atau menyusun ulang struktur chord pada sebuah lagu tanpa mengubah melodi aslinya. Bayangkan melodi adalah sebuah sketsa hitam putih; reharm adalah proses mewarnai sketsa tersebut. Kamu bisa memilih warna yang cerah, gelap, atau bahkan futuristik, tergantung chord apa yang kamu pasang di bawah melodi tersebut.
@@ -1305,7 +1305,7 @@ Selain Chord Function Substitution dan Melodi Based Reharm yang kita pelajari di
 Teknik pertama adalah **Relative Minor Reharm**. Cara kerjanya adalah dengan mengganti pondasi chord atau bahkan kunci lagu ke kunci *relative Minor*-nya. Teknik ini sangat efektif untuk memberikan nuansa yang lebih *deep* dan kontemplatif pada melodi yang aslinya terang.
 **Apa itu kunci Relative Minor?** Kunci *relative Minor* adalah kunci Minor yang memiliki deretan nada yang persis sama dengan kunci Majornya. Jadi, secara "bahan baku" tidak ada yang berubah, hanya titik pusatnya saja yang bergeser. Cara termudah untuk menemukannya adalah dengan melihat **nada ke-6** dari suatu tangga nada Major.
 
-**Contoh Perbandingannya:**
+### Contoh Perbandingannya:
 NOTE: selalu mulai dari chord VIm nya
 | do=C | I | II | III | IV | V | VI | VII |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1328,17 +1328,17 @@ Jika dalam progresi Minor kamu ada pergerakan chord **v - i** (misalnya **Em - A
 ### 2. CHROMATIC REHARMONIZATION
 Kalau *Relative Minor* bermain di wilayah "keluarga" yang sama, **Chromatic Reharm** adalah teknik yang lebih berani. Konsepnya adalah mengubah atau menyisipkan beberapa chord tepat sebelum chord tujuan, sehingga tercipta pergerakan setengah nada (*chromatic*) yang sangat dinamis.
 Teknik ini bikin transisi antar chord jadi nggak kaku. Misalnya, kalau nada tujuanmu adalah **Em7**, daripada langsung lompat, kamu bisa buat jembatan seperti ini:
-**Dm7 — B/Eb — Em7**
+### Dm7 — B/Eb — Em7
 #### Tips Teknik Chromatic Reharm
 Berdasarkan arah gerakannya, ada dua cara populer untuk mengeksekusi teknik ini:
 
-**1. Chromatic Ke Atas (Rising Chromatic)**
+### 1. Chromatic Ke Atas (Rising Chromatic)
 ![image290.png](Buku Jazz _images/image290.png)
 Kita mendekati chord tujuan dengan cara naik setengah langkah demi setengah langkah. Ini memberikan kesan energi yang meningkat atau membangun *climax*.
 
 **Contoh:** **F — D/F# — G7**
 Dari F ke G, kita sisipkan D/F#. Perhatikan nada F → F# → G. Pergerakan naik ini bikin transisinya terdengar jauh lebih "mahal" daripada cuma main F langsung ke G.
-**2. Chromatic Ke Bawah (Falling Chromatic)**
+### 2. Chromatic Ke Bawah (Falling Chromatic)
 Kebalikannya, kita turun setengah langkah untuk memberikan kesan yang lebih halus, *moody*, atau transisi yang "jatuh" dengan pas.
 ![image289.png](Buku Jazz _images/image289.png)
 **Contoh:** **Am — Abdim7 — C/G** (atau **C/D**)
@@ -1363,7 +1363,7 @@ B: Chromatic Reharm
 ![image64.png](Buku Jazz _images/image64.png)
 BAB I
 
-**BAB I**
+### BAB I
 Berkenalan dengan Jazz dan Buku Pedomannya
 
 **Sejarah Singkat Jazz?**
@@ -1415,13 +1415,13 @@ Melodi tema lagu
 Part Improvisasi/solo (tidak semua dituliskan
 Melodi Tema lagu
 
-**~ Jazz Fun Fact  #1~**
+### ~ Jazz Fun Fact  #1~
 **Jazz was Illegal!**
 “Di beberapa wilayah AS, jazz sempat dianggap terlalu liar hingga dilarang diputar di radio dan ruang publik. Namun, jazz tetap eksis dan terus berkembang melalui klub bawah tanah serta obrolan dari mulut ke mulut.”
 
 BAB II
 
-**BAB II**
+### BAB II
 Strategi Paham Genre dan Rhythm Jazz
 
 Dulu, aku pikir Jazz itu cuma satu jenis musik, pokoknya musik yang kedengarannya "miring", lambat, dan sedikit berat. Aku pikir kalau sudah bisa satu lagu Jazz, aku otomatis bisa main di semua suasana. Ternyata, itu kesalahan besar yang bikin permainanku terdengar kaku dan sering "salah kostum".
@@ -1449,14 +1449,14 @@ Tangan kanan dalam pattern dimainkan dengan cara yang berbeda dengan tangan kiri
 V = Full Chord
 (contoh C Full chord)
 
-**Strategi Bermain Solo di Genre Jazz**
+### Strategi Bermain Solo di Genre Jazz
 Dalam bermain solo piano, tugasmu adalah menjadi sebuah "orkestra". Kamu tidak punya pemain drum untuk menjaga tempo atau pemain bass untuk menjaga nada rendah. Semuanya ada di jarimu.
 Konsep dasarnya,
 **Tangan Kanan**: Bermain Melodi Lagu
 **Tangan Kiri**: Bermain Pattern Genre
 Jadi kamu yang akan memegang keseluruhan jalannya lagu.
 Setelah memahami konsep bermain solo, kamu juga harus paham bagaimana cara bermain comping di Jazz beserta cara mengeksekusinya di dalam genre-genre Jazz.:
-** Strategi Bermain Comping di Genre Jazz**
+### Strategi Bermain Comping di Genre Jazz
 Istilah *Comping* berasal dari kata ***Accompanying*** (menemani). Dalam konteks Jazz, *comping* berarti tugas Anda untuk mengiringi penyanyi, solois, atau instrumen lain dalam sebuah band secara harmonis dan ritmis. Sebagai seorang pianis, peran Anda bukan lagi memainkan melodi lagu, atau bukan juga hanya sekedar menekan chord sesuai teks lagu, melainkan menjadi "jangkar" yang menjaga ritme, mendukung suasana, dan melengkapi dinamika musisi lainnya.
 
 Untuk bisa bermain *comping* dengan vokal yang "hidup" dan tidak kaku, Anda perlu mengintegrasikan dua elemen utama:
@@ -1468,11 +1468,11 @@ Tangan **Kiri**: Bermain *Pattern *Genre
 Di bagian ini kita akan belajar bagaimana cara menggunakan tangan kanan untuk melengkapi tangan kiri dalam bermain comping.
 
 ![image59.png](Buku Jazz _images/image59.png)
-**Genre-genre Jazz dan Cara Bermainnya**
+### Genre-genre Jazz dan Cara Bermainnya
 Untuk bisa memahami materi bermain genre-genre Jazz Kamu direkomendasikan scan QR di samping untuk belajar dengan video.
-**1. Swing**
+### 1. Swing
 **Swing **adalah genre paling terkenal dari Jazz. Kuncinya ada di ketukan ***yang *****mengayun. **Swing sendiri juga memiliki keunikan saat bermain solo, tangan kirimu harus bisa memainkan *walking bass* (bass yang berjalan), sementara tangan kanan melakukan melodi/improvisasi.
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
 ![image23.png](Buku Jazz _images/image23.png)
@@ -1511,7 +1511,7 @@ Jangan cuma latihan satu per satu. Rahasia *walking bass* yang enak adalah kombi
 | Ketukan (RH)  (LH) | 1  n  2  n  3  n  4  n ………..Melodi…………..        C’     B      A      G | 1  n  2  n  3  n  4  n ………….Melodi…………..        F       A        C’     E’ |
 |  | (C) Diatonik turun | (FM7) Arpeggio ke atas |
 
-**Mengiring/Comping**
+### Mengiring/Comping
 Pattern Simple:
 _No structured data — see original file_
 
@@ -1524,9 +1524,9 @@ _No structured data — see original file_
 Perpaduan *Syncop *1 dan 2:
 _No structured data — see original file_
 
-**2. Ballad**
+### 2. Ballad
 **Ballad adalah **salah satu genre Jazz yang terkenal akan “emosi yang tersampaikan” di dalamnya. Ballad cenderung lambat dan tenang, yang menjadi ciri khas genre ini. Biarkan tangan kirimu bermain pattern ballad yang mengalir dan panjang sementara tangan kanan melakukan melodi/improvisasi.
-**Bermain Solo**
+### Bermain Solo
 Ada 3 tipe Ballad pattern yang bisa kamu mainkan, masing-masing punya ciri khasnya tersendiri.
 Pattern Ballad slow
 _No structured data — see original file_
@@ -1539,7 +1539,7 @@ Pattern Ballad terbuka
 _No structured data — see original file_
 
 Pattern ini memiliki rasa yang lebih “terbuka” untuk dimainkan, jadi lebih cocok untuk lagu yang lebih cepat sedikit ataupun lagu yang punya rasa lebih bahagia
-**Mengiring/Comping**
+### Mengiring/Comping
 Pattern Ballad Slow
 _No structured data — see original file_
 
@@ -1550,10 +1550,10 @@ Pattern Ballad lainnya kamu bisa dengan memindahkan full chord (V) ke tangan kan
 Pattern Ballad Terbuka
 _No structured data — see original file_
 
-**3. Bossa Nova**
+### 3. Bossa Nova
 Bossa Nova adalah genre jazz yang berasal dari turunan musik Latin. Berbeda dengan Swing dan Ballad, Bossa Nova itu *straight* (rata) tapi penuh dengan *syncop* yang tak terduga (ciri khas latin). Genre Bossa Nova memiliki ciri khas yang santai, romantis, dan punya *groove* yang rapi.
 
-**Bermain Solo**
+### Bermain Solo
 Versi simple:
 _No structured data — see original file_
 
@@ -1569,31 +1569,31 @@ _No structured data — see original file_
 Atau
 _No structured data — see original file_
 
-**Mengiring/Comping**
+### Mengiring/Comping
 _No structured data — see original file_
 
 Left Hand (LH) juga dapat mengikuti pattern solo
 Dari banyak pilihan pattern ini kita bisa pilih salah satu untuk dimainkan dalam sebuah lagu. Dalam memilih pattern, usahakan pattern yang dimainkan konsisten agar tidak merubah feel dari suatu lagu bossa nova yang memiliki karakter  *straight* (rata).
 
-**4. Choro **
+### 4. Choro
 Selain Bossa Nova, latin juga punya genre turunan lainnya, yaitu **Choro, **yang punya kesan lebih melankolis.
 
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
-**Mengiring/Comping**
+### Mengiring/Comping
 _No structured data — see original file_
 
-**5. Blues**
+### 5. Blues
 **Blues **punya ciri khas “Energi Tanpa Henti”, Menurut aku Ini adalah salah satu genre yang paling seru buat dimainin. Saat bermain solo, tangan kirimu adalah mesinnya. Dia tidak boleh berhenti bergerak memainkan blues pattern agar *groove*-nya tidak mati.
 
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
 ![image34.png](Buku Jazz _images/image34.png)
 
 Bass di dalam Blues Pattern ini dimainkan oleh tangan kiri secara bersamaan, sehingga mendapatkan aksen seperti diluar ketukan (saat dimainkan di “n” / *Syncop */ *Offbeat*) dan di dalam ketukan (saat dimainkan di angka ketukan).
-**Mengiring/Comping**
+### Mengiring/Comping
 Bisa dilakukan dengan seirama Tangan Kiri untuk mempertahankan Blues Rhythmnya.
 
 _No structured data — see original file_
@@ -1601,13 +1601,13 @@ _No structured data — see original file_
 Bisa dengan dimainkan seluruh ketukan (biasanya dipakai untuk menaikkan suasana)
 _No structured data — see original file_
 
-**6. Rag **
+### 6. Rag
 Rag adalah salah satu genre paling riang/ceria dari piano Jazz. Ciri khasnya, tangan kirimu harus sangat lincah melompat untuk menciptakan suara chord yang melompat-lompat juga.
 
-**Bermain Solo**
+### Bermain Solo
 _No structured data — see original file_
 
-**Mengiring/Comping**
+### Mengiring/Comping
 menggunakan gabungan *syncop *dalam patternnya.
 _No structured data — see original file_
 
@@ -1615,18 +1615,18 @@ Karena karakter permainannya yang riang dan gembira, maka pattern rag juga serin
 
 ### Tips Cara Mengiringi
 Ketika bermain piano Jazz, salah satu hal terpenting untuk diperhatikan adalah cara memposisikan tangan kita dalam permainan. Umumnya pianis jazz dapat membedakan posisi permainan menjadi 3 kondisi:
-**Piano Jazz Solo**
+### Piano Jazz Solo
 ![image32.png](Buku Jazz _images/image32.png)
 Saat bermain piano solo, kamu boleh mengambil semua range di piano, mulai dari range paling rendah (low register), sampai range tertinggi (high register)
 Tangan kiri: Pattern (di low - medium register)
 Tangan kanan: Melodi (di medium - high register)
 
-**Bermain Piano Jazz Dengan Penyanyi**
+### Bermain Piano Jazz Dengan Penyanyi
 ![image32.png](Buku Jazz _images/image32.png)
 Saat bermain dengan penyanyi, kamu harus mulai menghentikan penggunaan high register. Karena jika dipaksa dimainkan akan bertumpuk tindih dengan range suara vokal.
 Tangan kiri: Pattern (low - medium register)
 Tangan kanan: Full chord (medium register) atau sedikit fill in (high register)
-**Bermain Piano Jazz dengan Band**
+### Bermain Piano Jazz dengan Band
 ![image32.png](Buku Jazz _images/image32.png)
 Saat bermain dengan band, kamu harus mulai menghentikan penggunaan low register. Karena akan bertumpuk tindih dengan instrumen lain (bass). Jika dalam band terdapat instrumen *lead *(seperti saxophone, biola, lead gitar), kamu juga bisa membatasi penggunaan high register, karena bisa bertabrakan dengan instrumen tersebut.
 Tangan kiri: Pattern (di medium register)
@@ -1650,7 +1650,7 @@ Jika kamu sudah mulai terbiasa dengan berbagai gaya *comping* dan pengiringan di
 
 BAB IIIA
 
-**BAB III**
+### BAB III
 Rahasia Harmoni Jazz yang Enak dan Mewah
 
 Dulu, aku pikir setelah sudah lancar bermain *pattern* genre Jazz, permainanku sudah otomatis terdengar "Jazz banget". Tapi kenyataannya? Meskipun aku udah hafal pattern, ketukanku sudah *Swing* dan pola *walking bass*-nya sudah jalan, permainanku masih kedengaran kayak Pop yang dipaksain jadi Jazz. Ada yang kurang, tapi aku sendiri gak tahu di mana salahnya.
@@ -1696,7 +1696,7 @@ Cadd2 – G – Am – G – F
 Voicingnya tidak berubah, tapi progresinya berubah!
 ![image59.png](Buku Jazz _images/image59.png)
 ![image245.png](Buku Jazz _images/image245.png)
-**Bahasa Universal Progresi Chord**
+### Bahasa Universal Progresi Chord
 Kamu sangat disarankan scan
 QR di samping untuk belajar cara berpindah kunci lebih dalam lagi.
 
@@ -1722,11 +1722,11 @@ Progresi Chord menjawab pertanyaan: "Chord apa selanjutnya?"
 Voicing Chord menjawab pertanyaan: "Bagaimana sebuah chord terdengar emosional?"
 Karena tujuannya berbeda, aku membagi bab ini menjadi dua bagian besar. Kita tidak akan bicara soal urutan chord dulu, tapi kita akan fokus pada seninya menyusun nada. Kita mulai dari yang paling krusial: Voicing!
 
-**~ Jazz Fun Fact  #2~**
+### ~ Jazz Fun Fact  #2~
 **All instruments are Jazz Instruments!**
 “Dulu di New Orleans, musisi Jazz menggunakan alat musik apa aja yang mereka temui dari sisa-sisa *marching band* (terompet, trombon, hingga klarinet). Piano baru masuk belakangan saat Jazz mulai berpindah dari jalanan ke gedung pertunjukan dan klub malam”
 
-**BAB IIIA**
+### BAB IIIA
 Rahasia Voicing Jazz yang Enak dan Mewah
 ![image59.png](Buku Jazz _images/image59.png)
 Kamu sangat disarankan scan
@@ -1771,7 +1771,7 @@ Chord 7 yang dipakai di chord Minor, namanya menjadi chord Minor 7, dan sering d
 Dm → Dm7 (D + F + A + C)
 Am → Am7 (A + C + E + G)
 
-**6th chord **
+### 6th chord
 ![image18.png](Buku Jazz _images/image18.png)
 Coba cek lagu *Jazz Standards* di bawah ini!
 Di lagu ini, salah satunya ada ada chord C6, tapi sebenarnya apa sih angka 6 di belakang chord C? Itulah 6th chords. 6th chord adalah penambahan nada ke-6 di dalam sebuah chord Major maupun Minor yang masing-masing punya rasa yang khas dan berbeda.
@@ -1810,7 +1810,7 @@ Misal C - Am - G jadi C - Am(add2) - G
 Add 4 dapat digunakan di chord Minor (tapi jarang digunakan)
 Misal C - Am - G jadi C - Am(add4) - G
 
-**Slash Chord**
+### Slash Chord
 ![image189.png](Buku Jazz _images/image189.png)
 Coba cek lagu* Jazz Standards *di bawah ini!
 
@@ -1919,7 +1919,7 @@ G13 (G + B + D + F + A + C) ke chord C
 Di chord Minor (Minor 9, 11, 13) untuk menggantikan chord Minor agar lebih berwarna. Pakailah chord m9 untuk pemula. Contohnya:
 E  → Em9 (E + G + B + D + F#)
 Dm → Dm9 (D + F + A + C + E)
-**Teori ≠ Praktek**
+### Teori ≠ Praktek
 ![image113.png](Buku Jazz _images/image113.png)
 Secara teori Jazz, isian chord-chord extension (9,11,13) harus dimainkan semua, tapi dalam prakteknya, tidak perlu.
 Contoh
@@ -1956,7 +1956,7 @@ Rumus:  chord dominant 9 + nada b13
 Bisa dipakai di chord V, jadi tegang
 Contohnya F - G -C jadi F - G9(b13) - C
 
-**Tips Extension & Extension Altered Chord**
+### Tips Extension & Extension Altered Chord
 Jangan terlalu banyak menggunakan chord *altered *di sepanjang lagu, karena chord ini tegang dan suara nya unik (biasa disebut chord mahal).
 Bagi kamu yang berpikir bahwa extension & altered extension itu ada banyak tuts sehingga 1 tangan tidak cukup memainkan semua not nya, triknya adalah tangan kiri memainkan 1&7 nya, dan tangan kanan memainkan 3, 5, dan extensionnya (9,11,13).
 **10. ****Upper Structure**
@@ -2004,12 +2004,12 @@ Contohnya Dm - G - C jadi Dm - G - CM7(#11)
 
 Dengan trik ini kamu juga bisa menemukan chord upper structure lainnya untuk hafalanmu sendiri saat memainkan chord-chord rumit.
 
-**~ Jazz Fun Fact  #3~**
+### ~ Jazz Fun Fact  #3~
 **No Wrong Note on Jazz!**
 “Dalam harmoni Jazz, nada yang dianggap -salah- atau -fals- biasanya cuma kurang resolusi. Kalau kamu tahu cara mengarahkannya ke nada berikutnya (voicing yang benar), nada paling aneh sekalipun akan terdengar jenius. Jazz mengajarkan kalau harmoni itu soal *perjalanan*, bukan cuma satu titik nada”
 
 BAB IIIB
-**BAB IIIB**
+### BAB IIIB
 Bertumbuh Bersama
 Kalau kamu sudah sampai di halaman ini, aku mau kasih *applause* buat kamu: terima kasih sudah mengambil langkah berani untuk naik level dalam belajar **Jazz Piano**. Belajar Jazz itu ibarat belajar bahasa baru; tidak semua pianis mau untuk keluar dari zona nyaman mengandalkan partitur lagu dan mulai "berekspresi" lewat Jazz.
 ![image59.png](Buku Jazz _images/image59.png)
@@ -2019,11 +2019,11 @@ Caranya? Tolong berikan ulasan jujur untuk buku ini melalui scan QR disamping:
 
 Testimoni dari kamu bisa membantu pianis lain menemukan arah lebih cepat dan  bermain Jazz dengan lebih percaya diri. Dan sebagai ucapan terima kasih, kamu akan mendapatkan bonus materi latihan Jazz piano eksklusif setelah kamu memberikan ulasan (anggap saja hadiah kecil karena kamu sudah ikut menolong orang lain bertumbuh).
 
-**~ Jazz Fun Fact  #3~**
+### ~ Jazz Fun Fact  #3~
 **IIm-V Everywhere!**
 “90% dari lagu-lagu *Jazz Standards *yang ada di Real Book memiliki progresi IIm-V di dalamnya, sehingga progresi IIm-V ini disebut identitas Jazz”
 BAB IIIC
-**BAB IIIC**
+### BAB IIIC
 Rahasia Progresi Jazz yang Enak dan Mewah
 ![image59.png](Buku Jazz _images/image59.png)
 Kamu sangat direkomendasikan scan QR di samping untuk belajar dengan contoh langsung di video.
@@ -2137,7 +2137,7 @@ Sekarang kamu sudah tahu bahwa bermain chord bukan cuma sekedar menekan chord, t
 Langkah selanjutnya adalah belajar bagaimana cara memperkaya permainanmu, menambah warna, variasi, dan karakter saat berimprovisasi di bab berikutnya.
 
 BAB IV
-**BAB IV**
+### BAB IV
 Cara Pianis Jazz bisa Menyatu dengan Piano saat Improvisasi
 
 **Apa itu Improvisasi?**
@@ -2288,7 +2288,7 @@ Major Ending
 _No structured data — see original file_
 
 Licks ini cocok untuk ending di chord I
-**Latihan Mengembangkan Improvisasi**
+### Latihan Mengembangkan Improvisasi
 Sekarang kamu udah punya banyak modal untuk bisa berimprovisasi, mulai dari Melody Improvisation, Chord Improvisation, Diatonic up and down, Modes, Scale, dan sampai ke licks. Namun kalau cuma tahu teorinya aja, aku yakin 100% kamu ga akan bisa berkembang!. Kamu perlu Latihan!
 Setiap latihan improvisasi, cobalah untuk bermain apapun yang kamu ketahui secara berkelanjutan. Jangan biarkan jeda menghentikan ritme improvisasi, karena improve yang baik adalah improve yang terus berlanjut.
 Tips:
@@ -2315,9 +2315,9 @@ Di bab ini, kamu sudah belajar bagaimana melakukan improvisasi di Jazz. Ingat, t
 Di bab berikutnya, kita akan bahas bagaimana semua hal ini bisa kamu latih dengan cara yang praktikal, supaya ga cuma teori, tapi bisa benar-benar bisa kamu pakai langsung!
 
 BAB V
-**BAB V**
+### BAB V
 Langkah Nyata Menuju Kebebasan Jazz
-**Yang Harus Kamu Lakukan Sekarang**
+### Yang Harus Kamu Lakukan Sekarang
 
 ## Panduan Latihan Praktis
 Sekarang waktunya mempraktikkan semua yang sudah kamu pelajari tentang *genre*, *voicing*, hingga improvisasi. Ingat, teori tanpa praktik cuma akan jadi tumpukan informasi. Banyak orang jalan di tempat bukan karena kurang bakat, tapi karena sudah tahu teorinya tapi ga tahu harus mulai dari mana. Di bagian ini, kita akan susun jadwal latihan yang simpel tapi nendang, biar setiap kali buka *tuts* piano, kamu nggak lagi bengong.
@@ -2431,7 +2431,7 @@ Kamu juga bisa pilih untuk:
    +6283199414911
    Karena slot sangat terbatas!
 
-**Penutup**
+### Penutup
 	Terima kasih untuk diri kamu yang mau untuk terus maju dan berkembang dalam belajar piano.  Aku tahu kamu punya keinginan kuat untuk bisa mencapai tujuan piano Jazz-mu, dan semoga kamu tetap dalam semangat yang membara itu. Aku harap buku ini bisa menjadi teman terbaikmu dalam belajar dan menjawab semua pertanyaan atau kesulitan belajarmu. Jangan ragu untuk terus mengulang belajar dan berlatih, karena hal-hal baik harus diperjuangkan.
 	Aku juga ingin meminta maaf apabila ada kekurangan atau kesalahan dalam penulisan buku ini, apabila kamu ingin memberi masukan, kritik ataupun saran, kamu bisa sampaikan lewat QR dibawah ini. Terima kasih atas antusiasme kamu, dan sukses selalu!
 ![image43.png](Buku Jazz _images/image43.png)

@@ -11,11 +11,11 @@ review_frequency: annually
 
 > Online academy product SOP or operational document for Musti Musik.
 
-**JAZZ IMPROVISATION**
+### JAZZ IMPROVISATION
 **Jazz Song Structure** → Melody + Improve + Melody
-**Improve Scale**
+### Improve Scale
 Major Blues Scale: 1 2 3b 3 5 6               Minor Blues Scale: 1 3b 4 5b 5 7
-**Ready to use lick**
+### Ready to use lick
 | Progresi iim-V | 3. Progresi iim7-V7-IM7 |
 | --- | --- |
 | Chord iim | 4. Chord V |
@@ -30,8 +30,8 @@ Bermain klimaks kita butuh pengembangan → **Manipulation:
 ![image29.png](Rangkuman Intensive Masterclass_images/image29.png)
 2. **Rhythmic Wise’**
 ** **
-**WORSHIP COMPING**
-**10 Pattern for Worship Styles **
+### WORSHIP COMPING
+### 10 Pattern for Worship Styles
 ![image28.png](Rangkuman Intensive Masterclass_images/image28.png)
 ![image31.png](Rangkuman Intensive Masterclass_images/image31.png)
 ![image30.png](Rangkuman Intensive Masterclass_images/image30.png)
@@ -44,22 +44,22 @@ Bermain klimaks kita butuh pengembangan → **Manipulation:
 ![image11.png](Rangkuman Intensive Masterclass_images/image11.png)
 ![image14.png](Rangkuman Intensive Masterclass_images/image14.png)
 
-**Sweet Gospel Tricks and Variation**
+### Sweet Gospel Tricks and Variation
 ![image13.png](Rangkuman Intensive Masterclass_images/image13.png)
 **Cara umum Improvisasi di Worship
 1. Song Improvisation → **Syncope, passing Notes
 **2. Melody Improvisation → **3rd and 6th Interval
 **3. Fill in Improvisation → **Licks
-**GUIDED PRACTICE SESSION**
+### GUIDED PRACTICE SESSION
 
 **Iringi lagu “Sbab Dia Hidup” dengan pattern-pattern yang sudah diajari, dan lakukan improvisasi jazz.**
 
-**Struktur lagunya: Melody + Improve + Melody**
+### Struktur lagunya: Melody + Improve + Melody
 **Main di kunci C.**
 **Tempo (kecepatan lagunya) dibuat medium.**
 
 _No structured data — see original file_
 
-**STEP-BY-STEP UNTUK NGIRING DAN IMPROVISASI:**
+### STEP-BY-STEP UNTUK NGIRING DAN IMPROVISASI:
 
 _No structured data — see original file_

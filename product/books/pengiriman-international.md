@@ -12,14 +12,14 @@ review_frequency: quarterly
 > Buku Jazz/Worship product SOP or book launch document.
 
 # PENGIRIMAN INTERNASIONAL
-**Indonesia → Sydney & Hong Kong**
+### Indonesia → Sydney & Hong Kong
 ## Ongkir (Biaya Pengiriman)
 ### Faktor penentu ongkir
 Berat aktual **atau** berat volumetrik
 Dimensi paket
 Tujuan negara/kota
 Jenis layanan (Express / Economy)
-**Rumus berat volumetrik:**
+### Rumus berat volumetrik:
 (Panjang × Lebar × Tinggi) / 5000
 Yang dipakai adalah **berat terbesar** (aktual vs volumetrik).
 ### Estimasi ongkir kasar (1 kg)
@@ -32,16 +32,16 @@ Harga bisa berubah, ini hanya gambaran
 Forwarder biasanya **lebih murah**, kurir premium **lebih cepat**.
 
 ## Dokumen yang Diperlukan
-**Dokumen WAJIB**
-**KTP / Paspor pengirim**
-**Alamat lengkap pengirim & penerima**
-**Invoice / Commercial Invoice**
+### Dokumen WAJIB
+### KTP / Paspor pengirim
+### Alamat lengkap pengirim & penerima
+### Invoice / Commercial Invoice
 Nama barang
 Jumlah
 Nilai barang
 Tujuan pengiriman
 Tanda tangan
-**Dokumen Tambahan (tergantung barang)**
+### Dokumen Tambahan (tergantung barang)
 Packing list (disarankan)
 Surat pernyataan isi barang
 Dokumen khusus:

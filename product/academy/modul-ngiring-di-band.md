@@ -12,7 +12,7 @@ review_frequency: annually
 > Online academy product SOP or operational document for Musti Musik.
 
 ## Materi
-**CARA MENGIRING DALAM BAND**
+### CARA MENGIRING DALAM BAND
 bahas secara general
 pakai contoh lagu pop macem2 + Penerapan beberapa di worship
 contoh bisa coba pake minus one
@@ -47,10 +47,10 @@ Penerapan ke lagu worship pake teknik2 yang tadi
 Piano Position in a Band
 **INTRO:** Dalam bermain piano, kita pasti akan bermain dalam Band + Gimana caranya? + ilustrasi
 **Piano Role:** Sebelum bermain, harus tahu ESENSI Piano dalam Band + 1. Menghubungkan antar instrumen + 2. Fill dalam lagu + Karena itu kalian wajib paham 2 Hal ini!
-**Sub Judul: Band Rhythm and Tempo**
+### Sub Judul: Band Rhythm and Tempo
 **Band Rhythm: **(Penjelasan rhythm singkat) + Biasanya peran ini diambil oleh **Drum**
 **Tips Rhythm: **1. Selalu ikuti rhythm drum 2. Mainkan pattern comping yang berbeda untuk rhythm yang berbeda
-**Sub Judul: Piano Sounding**
+### Sub Judul: Piano Sounding
 **Piano Sounding: **Dalam bermain band kita akan bermain bersama intrumen-instrumen lain + Karena itu kita harus BLEND dengan instrumen lain + caranya gimana? + paham Piano Register waktu kita main
 **Piano Register: **(pengertian sound register) + [kasih ilustrasi  ] kasih keterangan
 **Low Register: **[ilustrasi yang termasuk low register] + Hindari main di arena ini karena biasanya akan bertabrakan dengan instrumen Bass + [contoh]
@@ -60,16 +60,16 @@ Piano Position in a Band
 
 Mengiring Band + Penyanyi
 **Intro: **Ketika sebuah band mengiringi seorang penyanyi, maka kita harus memperhatikan hal-hal berikut + 1. Nada Dasar + 2. Fill in Melodi + 3. Komunikasi dalam tim + kita bahas satu per satu!
-**Sub Judul: Nada Dasar**
+### Sub Judul: Nada Dasar
 **Nada Dasar: **Dalam mengiring penyanyi kita WAJIB mengikuti range nada penyanyi + karena setiap orang memiliki suara yang berbeda + oleh karena itu wajib menguasai FAMILY CHORD
 **Contoh: **(2 video dengan lagu sama penyanyi beda, dimainkan dengan nada dasar yang beda juga)
 **Family Chord: **[kasih SS modul Belajar Harmony dari 0] Mau belajar Family Chord Lebih Dalam lagi?
-**Sub Judul: Melodi**
+### Sub Judul: Melodi
 **Melodi:** Dalam mengiring penyanyi, hendaknya penggunaan melodi DIBATASI + melodi dapat digunakan pada saat tertentu seperti: + 1. Memainkan Intro + 2. Mengisi Bagian Kosong + 3. Menegaskan sebuah frasa dalam lagu +
-**Melodi: 1. Memainkan Intro. (Kasih Contoh Video)**
-**Melodi: 2. Mengisi Bagian Kosong. (Kasih Contoh Video)  **
-**Melodi: 3. Menegaskan Sebuah Frasa dalam lagu (kasih contoh video)**
-**Subjudul: Komunikasi Pemain**
+### Melodi: 1. Memainkan Intro. (Kasih Contoh Video)
+### Melodi: 2. Mengisi Bagian Kosong. (Kasih Contoh Video)
+### Melodi: 3. Menegaskan Sebuah Frasa dalam lagu (kasih contoh video)
+### Subjudul: Komunikasi Pemain
 **Komunikasi Pemain: **Ketika bermain dalam sebuah Band, salah satu hal yang paling penting adalah HARMONISASI + yang bisa didukung lewat KOMUNIKASI + untuk menyamakan tempo/ urutan lagu/ kunci/ syncop
 
 Pattern Umum Mengiring Band

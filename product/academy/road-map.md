@@ -12,7 +12,7 @@ review_frequency: annually
 > Online academy product SOP or operational document for Musti Musik.
 
 Road Map
-**Ingin Belajar Piano Dari Nol…**
+### Ingin Belajar Piano Dari Nol…
 | Category | Modul | Link |
 | --- | --- | --- |
 | General | Welcome to Musti Musik | https://member.mustimusik.id/courses/welcome-mustimusik/ |
@@ -25,7 +25,7 @@ Road Map
 |  | Cara Baca Not Balok dari Nol | https://member.mustimusik.id/courses/cara-baca-not-balok-pro-2/ |
 |  | Cheat Sheet | https://member.mustimusik.id/courses/cheat-sheet/ |
 
-**Mau Belajar Chord Manis tapi Ga Tau Caranya…**
+### Mau Belajar Chord Manis tapi Ga Tau Caranya…
 | Category | Modul | Link |
 | --- | --- | --- |
 | Worship | Rahasia Ngiring Worship Jadi Manis | https://member.mustimusik.id/courses/rahasia-ngiring-worship-jadi-manis/ |
@@ -34,7 +34,7 @@ Road Map
 |  | Cara Bikin Voicing Chord Manis | https://member.mustimusik.id/courses/voicing-chord-manis-pro/ |
 |  | Reharmonization (Advance) | https://member.mustimusik.id/courses/06-reharmonization-pro/ |
 
-**Permainan Terbatas, Tidak Bisa Bermain Tanpa Partitur…**
+### Permainan Terbatas, Tidak Bisa Bermain Tanpa Partitur…
 | Category | Modul | Link |
 | --- | --- | --- |
 | Worship | Step-by-step Ngiring Piano Worship | https://member.mustimusik.id/courses/step-by-step-ngiring-piano-worship/ |
@@ -71,7 +71,7 @@ Road Map
 | Jazz | Bedah Lagu Jazz | https://member.mustimusik.id/courses/bedah-lagu-jazz-pro/ |
 |  | Cara Main Lagu Jazz Standards untuk Pemula | https://member.mustimusik.id/courses/cara-main-lagu-jazz-standard-untuk-pemula/ |
 
-**Mau Buat Lagu Sendiri**
+### Mau Buat Lagu Sendiri
 | Category | Modul | Link |
 | --- | --- | --- |
 | General | Belajar Buat Lagu dari Nol | https://member.mustimusik.id/courses/cara-buat-lagu-dari-0/ |
@@ -79,14 +79,14 @@ Road Map
 
 **
 **
-**Mau Bisa Lancar Improvisasi…**
+### Mau Bisa Lancar Improvisasi…
 | Category | Modul | Link |
 | --- | --- | --- |
 | Worship | Worship Piano Fills/Licks | https://member.mustimusik.id/courses/licks-for-worship-worship-2/ |
 | Jazz | Improvisasi Jazz Piano | https://member.mustimusik.id/courses/improvisasi-jazz-piano-pro/ |
 |  | Jazz Piano Licks | https://member.mustimusik.id/courses/09-licks-for-jazz-jazz-2/ |
 
-**ingin Ngiring Penyanyi Lebih Hidup dan Variatif…**
+### ingin Ngiring Penyanyi Lebih Hidup dan Variatif…
 | Category | Modul | Link |
 | --- | --- | --- |
 | General | Ngiring Piano Dalam Band | https://member.mustimusik.id/courses/ngiring-piano-dalam-band/ |
@@ -95,7 +95,7 @@ Road Map
 |  | Rahasia Ngiring Worship Jadi Manis | https://member.mustimusik.id/courses/rahasia-ngiring-worship-jadi-manis/ |
 | Jazz | Fast Track Jazz | https://member.mustimusik.id/courses/fast-track-jazz-pro/ |
 
-**Mau Bisa Dapat Chord Hanya Dengan Mendengar Melodi…**
+### Mau Bisa Dapat Chord Hanya Dengan Mendengar Melodi…
 
 | Category | Modul | Link |
 | --- | --- | --- |
@@ -112,7 +112,7 @@ Private Roadmap
 Level 0:
 
 **Materi ini berfokus pada pemahaman sistem, bukan sekadar hafalan.**
-**Roadmap 6 Bulan (24 Sesi) - Mulai dari 0**
+### Roadmap 6 Bulan (24 Sesi) - Mulai dari 0
 **Target: 1 Sesi per minggu + Latihan harian minimal 15-30 menit.**
 ***DISCLAIMER: materi ini mungkin akan berubah tergantung progress tiap murid dalam belajar**
 
@@ -150,7 +150,7 @@ Bulan 6: Improvisasi & Kesiapan Pelayanan
 ## Level 1:
 
 **Materi ini berfokus pada pemahaman sistem, bukan sekadar hafalan.**
-**Roadmap 5 Bulan (20 Sesi) - Mulai dari cara mengiring**
+### Roadmap 5 Bulan (20 Sesi) - Mulai dari cara mengiring
 **Target: 1 Sesi per minggu + Latihan harian minimal 15-30 menit.**
 ***DISCLAIMER: materi ini mungkin akan berubah tergantung progress tiap murid dalam belajar**
 
@@ -197,12 +197,12 @@ Bulan 2: Memaniskan Chord (Voicing)
  * W6: Add Chord (warna penuh) dan Slash Chord (bass berbeda dari chord asli).
  * W7: Pengenalan Chord 7th (Major 7 & Dominant 7) untuk kesan "jazzy".
  * W8: Penggunaan Diminished & Augmented sebagai jembatan antar chord.
-**Bulan 3: Progresi & Navigasi Lagu**
+### Bulan 3: Progresi & Navigasi Lagu
  * W9: Chord Function Substitution (Mengganti chord dengan fungsi harmoni yang sama).
  * W10: Secondary Dominant & IIm-V (Teknik jembatan chord "mahal").
  * W11: Teknik Pedal Tones dan Line Cliché (Pergerakan melodi di dalam chord).
  * W12: Cara mencari chord lagu worship dengan telinga (Play by Ear).
-**Bulan 4: Improvisasi & Kesiapan Pelayanan**
+### Bulan 4: Improvisasi & Kesiapan Pelayanan
  * W13: Inner Voice (Mengisi harmoni manis pada melodi).
  * W14: Teknik Fill-in (Improvisasi pada jeda lirik).
  * W15: Belajar Worship Licks (Template melodi siap pakai).
@@ -211,21 +211,21 @@ Bulan 2: Memaniskan Chord (Voicing)
 ## Level 3:
 
 **Materi ini berfokus pada pemahaman sistem, bukan sekadar hafalan.**
-**Roadmap 3 Bulan (12 Sesi) - Mulai dari Voicing Chord**
+### Roadmap 3 Bulan (12 Sesi) - Mulai dari Voicing Chord
 **Target: 1 Sesi per minggu + Latihan harian minimal 15-30 menit.**
 ***DISCLAIMER: materi ini mungkin akan berubah tergantung progress tiap murid dalam belajar**
 
-**Bulan 1: Memaniskan Chord (Voicing)**
+### Bulan 1: Memaniskan Chord (Voicing)
  * W1: Power Chord (1-5) dan Sus Chord (mengambang).
  * W2: Add Chord (warna penuh) dan Slash Chord (bass berbeda dari chord asli).
  * W3: Pengenalan Chord 7th (Major 7 & Dominant 7) untuk kesan "jazzy".
  * W4: Penggunaan Diminished & Augmented sebagai jembatan antar chord.
-**Bulan 2: Progresi & Navigasi Lagu**
+### Bulan 2: Progresi & Navigasi Lagu
  * W5: Chord Function Substitution (Mengganti chord dengan fungsi harmoni yang sama).
  * W6: Secondary Dominant & IIm-V (Teknik jembatan chord "mahal").
  * W7: Teknik Pedal Tones dan Line Cliché (Pergerakan melodi di dalam chord).
  * W8: Cara mencari chord lagu worship dengan telinga (Play by Ear).
-**Bulan 3: Improvisasi & Kesiapan Pelayanan**
+### Bulan 3: Improvisasi & Kesiapan Pelayanan
  * W9: Inner Voice (Mengisi harmoni manis pada melodi).
  * W10: Teknik Fill-in (Improvisasi pada jeda lirik).
  * W11: Belajar Worship Licks (Template melodi siap pakai).
@@ -238,17 +238,17 @@ Bulan 2: Memaniskan Chord (Voicing)
 **Target: 1 Sesi per minggu + Latihan harian minimal 15-30 menit.**
 ***DISCLAIMER: materi ini mungkin akan berubah tergantung progress tiap murid dalam belajar**
 
-**Bulan 1: Progresi & Navigasi Lagu**
+### Bulan 1: Progresi & Navigasi Lagu
  * W1: Chord Function Substitution (Mengganti chord dengan fungsi harmoni yang sama).
  * W2: Secondary Dominant & IIm-V (Teknik jembatan chord "mahal").
  * W3: Teknik Pedal Tones dan Line Cliché (Pergerakan melodi di dalam chord).
  * W4: Cara mencari chord lagu worship dengan telinga (Play by Ear).
-**Bulan 2: Improvisasi & Kesiapan Pelayanan**
+### Bulan 2: Improvisasi & Kesiapan Pelayanan
  * W5: Inner Voice (Mengisi harmoni manis pada melodi).
  * W6: Teknik Fill-in (Improvisasi pada jeda lirik).
  * W7: Belajar Worship Licks (Template melodi siap pakai).
  * W8: Simulasi Pelayanan: Membuat Intro, Ending, dan Modulasi naik kunci.
-**Bulan 3: Advance Gospel Technique**
+### Bulan 3: Advance Gospel Technique
 * W9: Tips and Trick pelayanan di gereja (hand signal, cara mencocokan kunci dengan vokalis, dll)
 * W10: Alternative Chord di Worship yang jarang orang tahu
 * W11: Ngiring genre latin ala gospel yang sering dipakai

@@ -12,31 +12,31 @@ review_frequency: evergreen
 > Online academy product SOP or operational document for Musti Musik.
 
 FGD 23/05/2024
-**Hasil Analisis FGD**
+### Hasil Analisis FGD
 # FGD 23/05/2024
-**Testimonial and Feedback**
+### Testimonial and Feedback
 ## Focus Group Discussion
-**Tanggal: 23/05/24**
+### Tanggal: 23/05/24
 
 _No structured data — see original file_
 
-**Permasalahan dan efort sebelum ketemu Musti Musik**
-**Apa yang stuck**
-**Apa yang dipelajari**
-**Yang dipelajari apa**
-**Yang **
-**Fitur yang disukai dan berguna**
+### Permasalahan dan efort sebelum ketemu Musti Musik
+### Apa yang stuck
+### Apa yang dipelajari
+### Yang dipelajari apa
+### Yang
+### Fitur yang disukai dan berguna
 
 **Anggota FGD
 1. Budi Setiawan Chang, belitung, 28 tahun, guru bahasa jepang musik dan bisnis ortu**
-**2. Sovie 25 tahun, guru**
-**3. Ferei Kristiawan, 40 tahun, karyawan rumah sakit swasta**
-**4. Sharon agustina, 50 tahun, bantu teman di project**
-**5. Immanuel, jawa timur, umur 20 tahun, full timer pelayanan**
-**6. Sheila lukito, semarang, 41 tahun, guru**
-**7. Agnes, palenmbang, 23 taun, guru**
+### 2. Sovie 25 tahun, guru
+### 3. Ferei Kristiawan, 40 tahun, karyawan rumah sakit swasta
+### 4. Sharon agustina, 50 tahun, bantu teman di project
+### 5. Immanuel, jawa timur, umur 20 tahun, full timer pelayanan
+### 6. Sheila lukito, semarang, 41 tahun, guru
+### 7. Agnes, palenmbang, 23 taun, guru
 
-**Pertanyaan 1**
+### Pertanyaan 1
 **Sharon, terkendala di licks. Dulu les di sekolah musik, gurunya suruh suka2 (jazz ga ada yang salah), terlalu bebas, tanpa guide. (Cuma diajarin swing ryhtm sama pola ryhtm aja dulu). Di MM dijelasin detail, dijabarin**
 
 **Budi, dulu licks (terutama licks) sama progresi kurang didapat. Karena lagu2 gereja tuh banyak bagian kosong perlu isian, scale2 lain udah banyak, cuma di licksnya**
@@ -49,24 +49,24 @@ _No structured data — see original file_
 
 **Sheila, ga berkembang. Basic di electone, dulu banyak baca daripada improve. Kalau improvepun dulu yang dasar. Ketika di hadapkan lagu jadi bosen, itu lagi itu lagi…, Ketika ketemu MM, ternyata chord bisa dikembangkan lagi, pingin belajar lebih lagi.**
 
-**Pertanyaan 2**
+### Pertanyaan 2
 
 **Sharon, search by youtube/partitur/temen. Dulu nonton youtube chanelnya tergantung kebutuhan, misal cari disney/Jimi dorothy (search). Tapi kurang jelas asal muasal permainannya, ka sharon suka yang detail**
-**Feri. senam jarinya mainin lick**
+### Feri. senam jarinya mainin lick
 **Budi, belajar lick di youtube juga. Bingung aplikasinya kapan. Bill evans ka budi suka dan enak, tapi pas main di gereja kurang enak jadi bingung pakenya. Lick belajar dari youtube “piano with …..(ga jelas suaranya)”**
 **Sheila, lebih suke eksperimen sendiri. Penggemar tiktok dan dengerin spotify, sedaptnya karena udah capek, dari situ dapet insight “oh itu bisa lari ke situ yaa..”**
 **Noel, referensi youtubenya random, kalau scroll ig yang muncul di follow, kalau youtube sama kaya ka sharon, tergantung kebutuhan**
 **Sovie, random juga referensinya sebelum MM, tergantung kebutuhan. **
 
-**Pertanyaan 3**
+### Pertanyaan 3
 
 **Sharon agustina (tambahan). Dulu gurunya kasih contoh, dia sibuk videoin. Trus gurunya suruh buat, variasinya suruh bikin sendiri, dengan lagu yang sama bisa, kalau di lagu lain bingung karena dia main ka sharon cuma videoin dan suruh ikutin, kalau pindah pasti ga bisa.**
 **Ferry. Prakteknya belum banyak, Paling inget kalau dari I ke vim, kasih ii-v dari vi nya **
 **Budi, perkembagnan yang paling berasa, Scale2 yang jarang dibahas. Scale jawa, arab, jepang, dll. Karena di youtube itu ga dijelasin, cara bikin scalenya, (isian scale)**
-**Ka Sovie paling teringat penggunaan chord2 7 + extension**
+### Ka Sovie paling teringat penggunaan chord2 7 + extension
 
-**Tambahan dari ko dave (penomoran di modul)**
-**Ka budi : iya**
+### Tambahan dari ko dave (penomoran di modul)
+### Ka budi : iya
 **Ka sheila : bingung, lihatnya dari basic. Kalau ga urut takutnya hasil latihannya beda.**
 
 **Tambahan PR berguna tidak ?**
@@ -74,36 +74,36 @@ _No structured data — see original file_
 
 **Ka Noel + ka sovie fokus di worship karena jazz lebih rumit dan butuh intens. **
 
-**Pertanyaan ke 4**
-**Noel, belum ada tambahan, karena sudah lengkap, ntaps**
+### Pertanyaan ke 4
+### Noel, belum ada tambahan, karena sudah lengkap, ntaps
 **Sharon, yang terutama licks. Untuk gabungin licks dengan permainan piano agar lebih baik. Dulu waktu batch 2 selalu disinggung ttg story telling, jadi biar lebih enak permainannya**
 **Budi, dalam lagu lambat, ex: How Great is thou art, biasanya mainnya cuma ikutin drum (pakai sus) perlu vocab baru biar lebih asik. Butuh story telling di permainan sebuah lagu, misal ada saat dimana drum main / berhenti (berarti dalam band)**
 **Sovie, ingin pattern ngiring latin seperti di bossa, chacha, dll (pola rhythm)**
 
-**Pertanyaan 5 **
+### Pertanyaan 5
 **(list fitur : academy online, komunitas (diskusi public, bedah piano, materi ekslusif, dll), **
 **Sharon : saran : kasih tips untuk genre2 jazz. (by chat : Dave, kyknya blh deh dibahas pattern berbagai genre spt yg Sovie blg. Kyk latin, salsa, dll. Krn kan beda cara mainnya. Wkt itu sy prnh usulkan jg kyknya y?)**
 **Sofie : Diskusi harian itu berguna, karena bisa dapat hal baru dan detail dijelasinnya.**
 
-**Tanya Random ko dave**
-**Menurut kalian web kita gimana ? cepat lambat tampilan dll**
-**Noel : bagus, praktis, bisa dipercepat diperlambat**
-**Budi : ga ada masalah**
+### Tanya Random ko dave
+### Menurut kalian web kita gimana ? cepat lambat tampilan dll
+### Noel : bagus, praktis, bisa dipercepat diperlambat
+### Budi : ga ada masalah
 **Ferri : aman (****Ada 1 video di materi ekslusif video ke 2 tidak bisa diputar (natal kayaknya)**
 **Sovie : aman, tapi dulu pernah tidak bisa login, sekarang masih bagus**
 **Sharon : Waktu awal2 iya karena pwnya dulu harus beda. ****Saran apakah bisa ada shortcut untuk member langsung masuk gitu tanpa masukin username dll… (dulu punya temen punya shortcut yang bisa login suatu app)**
-**Sheila**
-** Jadwal (nyaman ga jam 8-9 malam)**
-**Sheila : oke, karena selesai kerja jam 7**
-**Ferri : oke**
-**Lainnya oke**
-**Jadwal (hari)**
+### Sheila
+### Jadwal (nyaman ga jam 8-9 malam)
+### Sheila : oke, karena selesai kerja jam 7
+### Ferri : oke
+### Lainnya oke
+### Jadwal (hari)
 **Sharon : ****perhatiin tanggal merah, kalau bisa jangan tanggal merah / weekend karena banyak pelayanan**
 **Noel : ****Live mentoring bisa sambil ngulik lagu yang familier + masukin praktek yang udah dipelajari (sekalian belajar)**
 **Apakah live mentoring terlalu worship ?**
-**Member : engga **
+### Member : engga
 **Sharon  :  kasih selang seling, kalau temanya 1 minggu jazz biar jadi jazz, kalau worship jadi worhsip aja. ****Kasih tema aja lah, biar menyesuaikan membernya, biar bisa terfokus **
-**Noel : setuju hehehe, kasih selang seling**
+### Noel : setuju hehehe, kasih selang seling
 
 **Apa masalah yang Anda alami pada permainan piano Anda (dan effort yang udah dilakukan) sebelum menemukan Musti Musik?**
 
@@ -118,7 +118,7 @@ _No structured data — see original file_
 **Apa saja hal yang Anda lakukan ketika merasa stuck untuk permainan piano Anda? Apabila ada referensi, dapat disebutkan **
 
 **Sharon: Searching by youtube or tny tmn. Mksdnya minta partitur ke tmn.**
-**Ferri: Istirahat dulu, senam jari, main tangga nada**
+### Ferri: Istirahat dulu, senam jari, main tangga nada
 **Budi: Hal yang saya lakukan ketika stuck permainan piano saya.. saya mencari2 lick d youtube tp terkadang bingung aplikasikan ny.. lalu pernah bljr BEV ( Bill Evan Voicing ) sempat les jg, tp karna ngk paham pemakaian nya dlm lagu rohani.. jd ngk saya pakai dan akhir ny lupa. Lick2 pun hanya sedikit yg hafal gt :(**
 **Agnes: Klo stuck, biasanya istirahat dulu, denger" lagu dgn style random**
 **Sheila: Hanya mencoba secara mandiri... Secara simpel... Chord ini bisa dilarikan kemana, kemudian apa bisa dibuat jalan untuk dr sisi bass nya. Kemudian dengerin dr yutub yg ga sengaja ketemu.... Misal dari Bethany Nginden ato GMS**
@@ -131,14 +131,14 @@ _No structured data — see original file_
 **Sharon: Sy pelajari semuanya. Satu per satu. Walau blm sempat semuanya scr detail, krn wkt. Dampaknya amat sgt berguna utk perkembangan permainan musik sy. Jd byk tau & bs memahami sgl sesuatu yg dl mungkin blm bs dipahami oleh sy.**
 **Budi: Berdampak bgt, karna saya jg ngajarin musik di grj.. jd setelah ikt musti musik, saya bs lebih jelasin detail teori2 musik kpd murid2 saya. Sbnr ny, dl ak les piano klasi tp les nya bbrp bulan dan hanya nyampe grade 2 atau 3. Karna bosen les klasik trus guru ny jg galak, akhir ny memutuskan untuk cari guru lain untuk Pop.. tp cari guru ny dr grj sendiri atau grj yg lain. Saya lebih enjoy untuk bljr pop, clasic, latin, jazz dll ketimbang klasik.**
 **Agnes: Jujur, blm bnyk bljr modulnya .. Baru sempat bljr yg basic"..  jadi blum tau, hehe**
-**Nuell:**
-**Dampak setelah belajar di program musti musik : **
+### Nuell:
+### Dampak setelah belajar di program musti musik :
 *** Mengerti bagaimana sebuah genre dlm musik **
 *** Mengerti variasi chord **
-**Chord 7,9 Chord sus**
+### Chord 7,9 Chord sus
 *** Mengerti Progresi Chord lebih banyak lagi **
-**Misal penggunaan Secondary Dominat **
-**Dampak dalam permainan :**
+### Misal penggunaan Secondary Dominat
+### Dampak dalam permainan :
 *** Mulai memainkan voicing2 chord misal sus2 Chord7 dll**
 *** Mulai mencoba licks dlm sebuah lag**
 **Sovie: Penggunaan chord 7,9 ; Progresi chord ; Modulasi ;Pattern arpegio ; Slash chord ; Walking Bass ; Ending lagu**
@@ -152,8 +152,8 @@ _No structured data — see original file_
 **Sheila: Butuh bagaimana cara menggunakan Chord dan pengembangan chord tmsk Chord Progression nya dalam lagu. Bagaimana membuat pola rhythm yg enak dan cocok untuk lagu tmsk intro endingnya dll**
 
 **Apa fitur dari Musti Musik yang paling Anda sukai? dan fitur apa yang menurut Anda kurang berguna?**
-**Sharon: Yg berguna pstnya 'Materi Eksklusif'**
-**Ferri: Fitur yg paling berguna: akademi (yg isinya video materi)**
+### Sharon: Yg berguna pstnya 'Materi Eksklusif'
+### Ferri: Fitur yg paling berguna: akademi (yg isinya video materi)
 **Nuell: Fitur yang paling berguna : Live Mentoring & Bedah Piano ,Fitur yang tidak berguna : Tidak ada overall semua berguna dengan baik**
 **Agnes: Balik lagi, karna masih baru, jadi belum tau fitur apa yg berguna atau yg kurang berguna .. sejauh ini oke" aja, karna kalaupun di diskusi aku gak nanya, tp bisa denger bbrp jawaban dan pendapat dr yg lain juga .. jd nambah ilmu juga**
 **Budi: Paling berguna bedah piano, live mentoring. Karena teknik permainan kita jg d bedah satu per satu.. namun kasih saran untuk beda piano, kan ak ad kirim bnyk tuh video ny.. cmn karna keterbatasan waktu kadang gk sampe habis d dngrin ny.. masukan aj, next time kalo mw submit video.. mungkin bs d ksh batasan waktu untuk bikin video. 1 menit kah begitu atau 1 menit 30 detik supaya ngk over tine begitu.**
@@ -162,7 +162,7 @@ _No structured data — see original file_
 
 ## Testimonial WA Call (one on one)
 
-**Tanggal: 06/06/24**
+### Tanggal: 06/06/24
 ## Faris, 16 tahun, SMA, pengen have fun
 ## Member 1 bulan lalu. Kritik: pengnedengaran lebih tajam, fingering tangan kiri dan kanan. Rating = 9
 ## Musa, 50an tahun, Bantu musik di greja. Member 1 bulan lalu. Masukan: diberikan cara mengiringi tangan kiri untuk lagu yang cepat. Rating = 9.
@@ -175,82 +175,82 @@ _No structured data — see original file_
 
 FGD 27/08/2024
 # FGD 27/08/2024
-**Instruksi**
+### Instruksi
 **Saya sebagai moderator akan membacakan pertanyaan, yang kemudian teman-teman akan mengirimkan jawaban ke chat personal WA Mentor musti musik, jadi bukan jawab di group ya teman-teman. Nah tujuannya biar jawaban teman2 ga tergangguoleh orang lain, dan agar teman-teman bisa lebih bebas berpendapat (kalau bisa teman-teman menjawab 1 paragraf yaa, agar kita bisa dapat insight yang lebih jelas dari teman-teman**
 **Setiap pertanyaannya teman2 akan diberikan waktu 3 menit. **
-**Apa sih Tujuan FGD ini:**
+### Apa sih Tujuan FGD ini:
 **Mendapat masukan untuk Musti Musik untuk pengembangan selanjutnya. Apakah ada pertanyaan?**
 
 ## Pertanyaan
 **1. Apakah diantara kalian masih ada yang mengalami kendala untuk login website / akses modul pembelajaran kita / kurang memahami fitur2 Musti Musik?**
-**--> tujuannya cari problem dulu**
+### --> tujuannya cari problem dulu
 
 **2. Apa yang menghambat kalian dalam berlatih piano saat ini? (contohnya: materi yang terlalu rumit /  ga ada waktu yang sesuai  / pengajarnya tidak jelas / komunitas yang tidak suportiv / minder)  **
-**--> biar tahu customer problem lain**
+### --> biar tahu customer problem lain
 
 **3. Apakah anda sering mencari sumber belajar lain seperti dari youtube?**
 **--> biar tahu mereka suka/puas atau engga sama produk kita = mereka loyal**
 
 **4. dari beneficial Musti Musik ini, apa yang anda paling berguna dan apa yang anda tidak begitu berguna. Kenapa?**
-**--> tujuannya cari yang mereka like and dont like**
+### --> tujuannya cari yang mereka like and dont like
 
-**Benefit:**
-**1. Group Community Premium untuk sharing dan diskusi**
-**2. Live Class: Kuliah Piano Normal**
-**3. ⁠Live Class: Bedah Piano **
-**4. ⁠Live Class: Guest Speaker**
-**5. ⁠Recording Live Class**
-**6. ⁠Modul Video Akademi + PPT**
-**7. ⁠PR di tiap Modul**
-**8. ⁠Bonus Materi Ekslusif di web di WA**
-**9. ⁠Sertifikat**
-**10. ⁠Offline Event Member**
-**11. ⁠Akses VIP Free Class dan Recordingnya**
-**12. ⁠Project Bareng Community**
-**13. ⁠Diskusi Harian**
+### Benefit:
+### 1. Group Community Premium untuk sharing dan diskusi
+### 2. Live Class: Kuliah Piano Normal
+### 3. ⁠Live Class: Bedah Piano
+### 4. ⁠Live Class: Guest Speaker
+### 5. ⁠Recording Live Class
+### 6. ⁠Modul Video Akademi + PPT
+### 7. ⁠PR di tiap Modul
+### 8. ⁠Bonus Materi Ekslusif di web di WA
+### 9. ⁠Sertifikat
+### 10. ⁠Offline Event Member
+### 11. ⁠Akses VIP Free Class dan Recordingnya
+### 12. ⁠Project Bareng Community
+### 13. ⁠Diskusi Harian
 
 **5. Hal lain apa yang anda inginkan ada di Musti Musik? (baik dari kegiatan/komunitas/materi akademi)**
-**--> dapet wish mereka**
-**Peserta**
-**Anggia 30, kaligraf**
-**Dian, 25, Hr**
-**Felicia feo, analyst 23**
-**Owen, 13, murid**
-**Sharon**
-**Victoria, 50, gifted community**
-**Alwin, jakarta, 17, wira swasta**
+### --> dapet wish mereka
+### Peserta
+### Anggia 30, kaligraf
+### Dian, 25, Hr
+### Felicia feo, analyst 23
+### Owen, 13, murid
+### Sharon
+### Victoria, 50, gifted community
+### Alwin, jakarta, 17, wira swasta
 
 ## Jawaban
-**Problem di web/fitur**
+### Problem di web/fitur
 **Kebanyakan tidak ada problem, aman2 aja, tapi 1 orang merasa tombol2nya membingungkan (mungkin karena flow?)**
 
-**  Penghambat berlatih**
+### Penghambat berlatih
 **problemnya  Lebih ke kendala waktu mereka sendiri2 dan terkadang ada materi yang kelihatannya mainnya gampang, tapi kok susah.**
 
 **3. Cari sumber lain?**
 **Sebagian masih mendengar youtube untuk cari materi lain referensi, untuk penjabaran mereka masih suka sama musti musik selebihnya cuma untuk lagu2 spesifik, (intinya mereka ttp consider belajar dari yt) kalau bisa kita bisa koleb belajar mereka dari youtube **
 
-**4. benefit**
+### 4. benefit
 **Berguna : 5, 2, 3, 3, 3, —-> 3 Bedah Piano
 Tdk : 9, 13, 9, 13, 9 (7/9/13), 10 → 9n13 sertifikat n diskusi harian
 
 2: 
 
 **
-**5. wish**
+### 5. wish
 
 **Private sama dave, menambah genre pop, bedah piano berdasarkan modul, rangkul member ga aktif (zoom 1x sebulan deh), bedah piano lebih dalam lagi, implementasi di lagu, lebih sering adain projek.
 **
 
 ## RANGKUMAN FGD
 
-**Member Blue note join di Maret - Juli**
+### Member Blue note join di Maret - Juli
 **Modul dirasa masih kurang cocok untuk pemula, (tidak mengcover fundamental dasar secara detail) akibatnya ada gap diantara level beginner dan Intermediate di Musti Musik**
 **Musti Musik dirasa hanya mengcover level piano intermediate ke advance, materi untuk level piano ini sudah OKE**
-**Untuk mengcover pemula bisa coba bahas 12 tangga nada dasar**
-**Live Class dan Modul juga masih disukai member**
+### Untuk mengcover pemula bisa coba bahas 12 tangga nada dasar
+### Live Class dan Modul juga masih disukai member
 
-**Para member sudah tahu ada produk di luar akademi, bootcamp**
+### Para member sudah tahu ada produk di luar akademi, bootcamp
 **Kalau bootcamp ga ada value lebih (kalau isinya sama kaya modul/ga ada inovasi) member ga minat beli. **
 **Kalau misal ada value lebih, harga 100.000 - 200.000 juga masih oke buat member**
 **Bootcamp sebenarnya sayang kalau slotnya banyak dipake buat member dengan harga yang lebih murah**
@@ -274,21 +274,21 @@ FGD 30/10/2024
 **Juli, maret, maret, juni, 
 ****Alwin: pengen nanya dijawab,  offline event waktuu gak cocock**
 
-**Modul: **
+### Modul:
 
-**Feo: untuk sangat pemula masih kurang mengakomodasi**
+### Feo: untuk sangat pemula masih kurang mengakomodasi
 
 **Sharon : intermediate ke advancenya oke kok. **
 
-**Alwin : **
-**Materi2 kurang menjawab untuk pemula**
+### Alwin :
+### Materi2 kurang menjawab untuk pemula
 **Dari fundamental kurang kuat untuk bisa ke intermediate → cover tangga nada dasar **
 
-**Immanuel:: Module, Live class…**
+### Immanuel:: Module, Live class…
 
-**Ci Tania: Live Class**
+### Ci Tania: Live Class
 
-**Benefit,  **
+### Benefit,
 
 **2. Mereka tahu ada produk lain diluar akademi (kaya freeclass / bootcamp / event) --> jelasin bootcamp tsb**
 
@@ -305,7 +305,7 @@ Nah bootcamp sendiri ini tujuannya **
 **--> kalau jadi member, menurut anda enaknya join bootcamp di harga brapa? --> kumpulin data harga**
 **Harus ada something new, karena kalau sama aja ngapain? 
 Karena semua sudah ada di modul, apa untungnya buat member?**
-**Dave juga akan sayang kalau buat member di dalam**
+### Dave juga akan sayang kalau buat member di dalam
 
 **Contohnya ngajarin spesifik pemula untuk bisa intermediate → karena musti musik itu intermediate ke advance**
 
@@ -317,14 +317,14 @@ Karena semua sudah ada di modul, apa untungnya buat member?**
 
 **Bakal memperpanjang dengan harga 1,3 (skarang) ga? **
 **Tidak akan kalau orang asing, tapi karena kenal bisa diconsider (Alwin): maybe not (karena case in pemula), dapet willing, **
-**Di Worship Academy, lifetime lebih murah dari 1 year membership**
+### Di Worship Academy, lifetime lebih murah dari 1 year membership
 **Sharon: harus dibedakan yang baru join sama yang udah 1 year, harganya harus ditetapkan biar bisa mikir **
 **Kalau mau lifetime bisa coba instalment (3 bulan) or langsung lebih tinggi dari harga normal langsung lifetime (alwin)**
 **Life 2,5jt untuk 3 tahun kedepan masih jalan dgn catatan harus ada materi baru**
 **Kalau memperpanjang Lebih murah dari harga umum, tapi kalau lifetime 2,5jt itu oke (apalagi ada instalment/pembayaran bertahap)**
 **Butuh acc ortu, kalau pribadi ingin lanjut (Nate), 1jt an masih oke maybe (renewal), karena ortu acc, 1.800.000 (buat lifetime) **
 
-**Fitur last timestamp di akses terakhirnya (sharon), untuk harga  **
+### Fitur last timestamp di akses terakhirnya (sharon), untuk harga
 
 **Kalau ada guru lain, (khusus pemula), (feo) gapapa asal jawabnya benar**
 **Kalau kak sharon se7nya biar member lain njawab dalam 1 group**
@@ -347,29 +347,29 @@ FGD 11/12/2024
 **Penjelasan asal usul teori: Ada saran untuk menjelaskan dasar teori atau asal-usul voicing jazz agar lebih mudah dipahami.**
 
 **2****. Fitur atau layanan apa yang paling sering Anda gunakan di Musti Musik, dan kenapa? Apakah ada fitur yang jarang atau tidak pernah Anda gunakan?**
-**Fitur paling sering digunakan:**
-**Kuliah Piano (live)**
-**Bedah Piano**
-**Modul Video Akademi + PPT**
+### Fitur paling sering digunakan:
+### Kuliah Piano (live)
+### Bedah Piano
+### Modul Video Akademi + PPT
 **Group Community VIP untuk diskusi.**
-**Fitur jarang digunakan:**
-**Offline Event**
-**Sertifikat**
-**Musti Musik Partnership**
+### Fitur jarang digunakan:
+### Offline Event
+### Sertifikat
+### Musti Musik Partnership
 **PR di modul.**
-**Alasan fitur digunakan/diabaikan:**
+### Alasan fitur digunakan/diabaikan:
 **Fitur seperti modul dan kuliah live dianggap paling membantu perkembangan skill.**
 **Fitur yang jarang digunakan seringkali terkait keterbatasan waktu atau relevansi dengan kebutuhan member.**
 
 **3. Menurut Anda, apa yang paling Anda butuhkan untuk mendukung perkembangan bermain piano Anda?**
-**Kebutuhan utama:**
+### Kebutuhan utama:
 **Materi improvisasi jazz:**** Lebih banyak contoh licks, chord voicing, dan teknik improvisasi.**
 **Praktik langsung: Fokus pada aplikasi teori dalam konteks lagu atau bermain langsung.**
 **Motivasi:**** Banyak yang merasa butuh dorongan atau inspirasi untuk mempelajari genre jazz, terutama bagi yang sebelumnya berlatih klasik. → ****FGD FEO ANDRI SONYA BRYAN, SHARON, → JURNEY MOTIVASI**
 **Kamus chord**** dan scale: Penjelasan yang lebih terstruktur tentang chord, scale, dan pola permainan. →**** Cheatsheet**
 
 **4. Menurut Anda, apa hambatan terbesar yang Anda hadapi dalam mengembangkan kemampuan bermain piano?**
-**Hambatan yang dirasakan:**
+### Hambatan yang dirasakan:
 **Waktu: Banyak member merasa kesulitan menyisihkan waktu untuk belajar secara konsisten. → ****FU member lama dari tim tech ke nomor mentor**
 **Kendala teknis: Beberapa merasa kesulitan memahami chord, voicing, atau teknik tertentu.**
 **Feedback langsung:**** Ada kebutuhan akan bimbingan langsung untuk mengevaluasi permainan mereka. → ****SELIPIN QNA jika sempet di Bedah piano**
@@ -377,7 +377,7 @@ FGD 11/12/2024
 **Keterbatasan alat bantu: Misalnya, kurangnya metronome atau pedoman teknik lainnya dalam permainan band.**
 
 **5. Apa yang Anda harapkan / apakah ada saran dari Musti Musik untuk membantu Anda lebih baik dalam belajar piano jazz ataupun worship?**
-**Saran dan harapan:**
+### Saran dan harapan:
 **Bedah lagu lebih banyak: Fokus pada analisis lagu jazz atau worship untuk memahami penerapan teori.**
 **Peningkatan level materi: Membedakan pembelajaran untuk pemula dan intermediate agar semua level merasa terakomodasi.**
 **Offline event: Banyak yang berharap adanya acara offline untuk meningkatkan interaksi dan pengalaman belajar.**
@@ -406,103 +406,103 @@ FGD 11/12/2024
 
 **5. Apa yang Anda harapkan / APAKAH ADA SARAN dari Musti Musik untuk membantu Anda lebih baik dalam belajar piano jazz ataupun worship?**
 
-**BELUM PADA BACA MODUL JADI BINGUNG**
-**FITUR2 **
-**1. Group Community VIP untuk sharing dan diskusi**
-**2. Kuliah Piano**
-**3. Bedah Piano **
-**4. Kuliah Piano Guest Speaker **
-**5. ⁠Modul Video Akademi + PPT**
-**6. ⁠PR di tiap Modul**
-**7. Bootcamp **
-**8. ⁠Sertifikat**
-**9. ⁠Offline Event Member**
-**10. ⁠Recording Bedah Piano dan Kuliah Piano **
-**11. ⁠Akses VIP Free Class dan Recordingnya**
-**12. ⁠Project Bareng Community**
-**13. Affiliate**
-**14. Musti Musik Piano Partnership**
+### BELUM PADA BACA MODUL JADI BINGUNG
+### FITUR2
+### 1. Group Community VIP untuk sharing dan diskusi
+### 2. Kuliah Piano
+### 3. Bedah Piano
+### 4. Kuliah Piano Guest Speaker
+### 5. ⁠Modul Video Akademi + PPT
+### 6. ⁠PR di tiap Modul
+### 7. Bootcamp
+### 8. ⁠Sertifikat
+### 9. ⁠Offline Event Member
+### 10. ⁠Recording Bedah Piano dan Kuliah Piano
+### 11. ⁠Akses VIP Free Class dan Recordingnya
+### 12. ⁠Project Bareng Community
+### 13. Affiliate
+### 14. Musti Musik Piano Partnership
 ## INPUT OUT MATERI
-**Materi voicing yang ga jelas asal usulnya**
+### Materi voicing yang ga jelas asal usulnya
 
-**2. Voicing ingin terima jadi**
+### 2. Voicing ingin terima jadi
 
-**3. Materi not balok (key signature) susah**
+### 3. Materi not balok (key signature) susah
 **—----------------**
-**No 2: BANYAK YANG BELUM KE DETECT **
+### No 2: BANYAK YANG BELUM KE DETECT
 
-**SERTIFIKAT GA GUNA**
+### SERTIFIKAT GA GUNA
 
-**MODUL GA KEBACA**
+### MODUL GA KEBACA
 
 **Fitur2 tuh harus dikenalin lagii, banyak yang kepegang dan temen-temen ga pake**
 **—----------------------**
 
-**LAGU-LAGU2 JAZZ STADARDS HARUS DIBEDAH & LICKS**
+### LAGU-LAGU2 JAZZ STADARDS HARUS DIBEDAH & LICKS
 
-**—- HAMBATAN**
+### —- HAMBATAN
 
 **MATERI KULIAH PIANO GA BISA PRAKTEK KE SEMUA LAGU, BINGING MILIH LAGI**
 
-**APLIKASI VOICING CORD NYAA**
+### APLIKASI VOICING CORD NYAA
 
-**APLIKASI PAKENYA PAKAN + SCALE UNTUK KOSONG GA ADA PART**
+### APLIKASI PAKENYA PAKAN + SCALE UNTUK KOSONG GA ADA PART
 
-**Ngebedah lagu**
+### Ngebedah lagu
 
-**Ingin perbedaah level piano → kita susahhh**
+### Ingin perbedaah level piano → kita susahhh
 
-**VOICING + APLIKASI LAGU KONKLUSINYAA**
-**GUEST SPEAKER: BISA DARI PIANIS JAZZ TERKENAL**
+### VOICING + APLIKASI LAGU KONKLUSINYAA
+### GUEST SPEAKER: BISA DARI PIANIS JAZZ TERKENAL
 
-**Modul untuk teknik2 pedal piano, dall**
-**TEMEN-TEMEN BANYAK YANG BELUM BACA MODUL SAMA TAHU FITUR2 LAINNYA **
+### Modul untuk teknik2 pedal piano, dall
+### TEMEN-TEMEN BANYAK YANG BELUM BACA MODUL SAMA TAHU FITUR2 LAINNYA
 ## Jawaban Via Chat WA
-**Jawaban Liana:**
+### Jawaban Liana:
 **Sangat mudah di pahami , susah di improv voicing masih belum dapat fill jazz nya**
-**Kuliah piano , pelajaran jazz masih masuk untuk belajar modul2nha**
-**Lebih ke jazz di banyakin kak**
+### Kuliah piano , pelajaran jazz masih masuk untuk belajar modul2nha
+### Lebih ke jazz di banyakin kak
 **Mungkin karena benar benar belum menguasai dan membaca modul ,pengaplikasian dan latian ..**
-**Perbanyak cara pengaplikasian chord voicing improv licks di jazz 🙏**
+### Perbanyak cara pengaplikasian chord voicing improv licks di jazz 🙏
 
-**Jawaban fonny:**
+### Jawaban fonny:
 **Pengalaman sangat bagus, materi bisa di follow up.. walaupun harus nonton berkali2 **
-**Kuliah piano**
-**Bedah Piano**
-**Modul Video**
-**(Yang wajib ditonton)**
-**partnership**
-**Waktu**
-**Lama buat mencerna materi**
-**Saran/ masukan:**
+### Kuliah piano
+### Bedah Piano
+### Modul Video
+### (Yang wajib ditonton)
+### partnership
+### Waktu
+### Lama buat mencerna materi
+### Saran/ masukan:
 **1.Modul fingering/main scale/etude.**
 
 **2.Bedah piano bisa lebih menarik kalo ada yg main live (mis. karna gk ada waktu buat record)**
 
 **3.Yang member2 suhu sering share permainan pianonya, supaya kita bisa blajar juga.**
 
-**Jawaban Andre:**
+### Jawaban Andre:
 **Materi overall tidak ada yg sulit (hanya butuh practice aja) dan cukup mudah dipahami. untuk self motivation, sesi bedah piano sangat membantu, jadi bisa slalu berusaha well prepare**
 **Yang paling sering : modul kuliah piano, video akademi n ppt. Karena sy gunakan sebagai guidance pengembangan skill bermusik. So far sy cukup puas dg materinya. Yang jarang : offline event member & sertifikat**
 **Materi bedah lagu jazz nya dibanyakin.. Dari situ bisa lebih mudah menambah wawasan, sehingga kita bisa explore aplikasi nya ke lagu2 lain**
 **Kendala saya : soal waktu. Dg adanya PR bedah piano berdasarkan materi di modul atau kuliah piano, mau ga mau harus dibela belain ngulik modulnya. Ini cukup membantu nambah motivasi sy.**
 **Menurut saya apa yg sudah di share di modul n kuliah piano sudah sangat cukup untuk senjata berperang. Balik lagi, tinggal bagaimana tiap member mau tekun dan berusaha mengeksplore lebih dari materi yg ada. GOOD JOB guys 👍👍**
 
-**Jawaban Andri**
+### Jawaban Andri
 **2.  1. Group comunnity karna memudahkan untuk saling sharing mengenai lagu dan alat**
 **2. Musti musik piano partnership karna memudahkan untuk lihat² alat dan melakukan perbandingan sesuai kebutuhan penggunaan**
-**3. kuliah piano live soalnya blm smpet cek modul lagi**
-**4. bedah piano live soalnya blm sempet cek modul lagi**
+### 3. kuliah piano live soalnya blm smpet cek modul lagi
+### 4. bedah piano live soalnya blm sempet cek modul lagi
 
 **Baru ini doang sih yg paling sering di pake karna lagi susah waktu banget buat lihat² modul yg lain apalagi masuk bulan desember**
 
-**Pengen kulik lagi modul modul yg lain cuma blm sempet**
+### Pengen kulik lagi modul modul yg lain cuma blm sempet
 **3. Kalo dari aku pribadi lebih perbanyak kamus Chord sih sama trick trick comping dan scale scale dalam piano**
 **Kalo aku bener kata ko dave perlu banyak main improve tapi masih belum pd buat mainin itu hahah karna aku masih sulit untuk main tempo karna masih suka miss**
 **Lebih terkendala karna suka main band di banding solo jadi jarang pake metronome sebnernya**
 
 **4.  Hambatannya pas lagi mentok gk ada yg kasih tau apakah permainan kita itu udh bener atau belum dan apakah masih ada yg bisa di improve atau ngga**
-**Terus kekurangan resources juga dalam tehnik tehnik piano**
+### Terus kekurangan resources juga dalam tehnik tehnik piano
 ** **
 **5. Berharap permainan piano solo, improve dan band saya bisa jadi lebih rapih dan bagus baik dalam jazz maupun worship. Berharap ada offline event karna spertinya menarik banget..**
 **Berharap juga materi kuliah piano itu lebih banyak ke bedah lagu karna teori piano di modul kan udh lumayan banyak**
@@ -521,22 +521,22 @@ FGD 11/12/2024
 
 **5. Mungkin materi bedah lagu jazz lebih diperbanyak dan lebih banyak bahas tentang voicing**
 
-**Jawaban Richard:**
-**Pengalaman baik2 saja**
+### Jawaban Richard:
+### Pengalaman baik2 saja
 **Hanya karena sedang sibuk penitia natal jadinya untuk bulan desember jarang liat grub wa dan web musti musik**
 **a. Fitur Yg suka itu bedah piano, karena jadi tau apakah permainan kita itu sudah meningkat dan perlu masukan2 agar lebih jazzy, yang susah itu modul baca not baloknya**
-**b. Fitur yg di nantikan itu yg even offline**
-**c. Fitur yg tidak penting menurutku**
-**Soal2 dan sertifikat**
-**Sejujurnya untuk mendukung perkembangan itu harus di praktekan pas ibadah **
+### b. Fitur yg di nantikan itu yg even offline
+### c. Fitur yg tidak penting menurutku
+### Soal2 dan sertifikat
+### Sejujurnya untuk mendukung perkembangan itu harus di praktekan pas ibadah
 **Nah masalahnya, saya pernah coba chord2 "agak" jazzy, lalu jemaat pada nengok, jadinya saya agak bingung juga sih**
-**Saran:**
-**a. Buat video/kuliah piano teori circel fift**
+### Saran:
+### a. Buat video/kuliah piano teori circel fift
 **b. Berharap bisa undang pianis seperti david jo, dll, di kuliah piano**
-**C. tutorial pedaling**
+### C. tutorial pedaling
 
-**Jawaban Shopie**
-**2. Yg sering : 1,2,3,4, 10, 11**
+### Jawaban Shopie
+### 2. Yg sering : 1,2,3,4, 10, 11
 **Yg ga pernah dan blm pernah : 5, 6,7,8,9,12,13,14
 3. Aku sih pingin lebih bahyak contoh2 licks2 , tp katanya ada di modul ya tp aku blm baca modulnya. Tp seperti dari bedah piano yg aku mainkan trs Dave ksh licks2 itu sangat berguna buat aku krn aku bisa lgs curi**
 **4. Hambatan yg terbesar kayanya pendengaran kurang tajam jd ga bisa nangkap chord miring yg dave main itu apa ya**
@@ -559,14 +559,14 @@ Masalah teknis seperti **sign in ulang, buat tombol home biar gak perlu banyak t
 
 **Bagaimana jadwal dan tema Bedah Piano dan Kuliah Piano saat ini? apakah sudah memenuhi kebutuhan Anda?**
 **Jadwal dan tema dianggap sudah sesuai** oleh sebagian besar member. Malam hari lebih cocok karena tidak bentrok dengan pekerjaan
-**Durasi sudah tepat dan cukup**
+### Durasi sudah tepat dan cukup
 Beberapa member merasa ada kebutuhan untuk** lebih menyelaraskan level pembelajaran** dari level dasar ke level lanjut agar lebih terstruktur
 Tema sudah cukup bervariasi, tapi ada usulan **1 tema digunakan selama 2 minggu untuk memperdalam materi**
-**Waktu submit pr terlalu singkat**
+### Waktu submit pr terlalu singkat
 
 	Actionable task:
 Tingkat kesulitan termasuk preference setiap orang, tapi kebanyakan orang udah cocok dengan pembagian 2 tingkat level beginner dan intermediate. **Lebih concern tentang tema tiap level**
-**Membuat tema tertentu untuk beberapa pertemuan kelas**
+### Membuat tema tertentu untuk beberapa pertemuan kelas
 **PR akan diberikan sebelum kuliah piano** mulai supaya menambah waktu untuk submit jawaban dan member punya gambaran tentang topik yang akan dibahas di kuliah piano
 
 **Apa hal yang Anda butuhkan dari program Musti Musik untuk perkembangan permainan piano Anda secara pribadi?**
@@ -575,7 +575,7 @@ Beberapa member **membutuhkan modul tambahan untuk tingkat advanced **(request k
 Butuh **dibuatkan not balok atau angka untuk melodi** di pr atau ppt
 
 Actionable task:
-**Modul bisa dibuat mulai ke arah yang lebih advanced**
+### Modul bisa dibuat mulai ke arah yang lebih advanced
 **Meningkatkan awareness member terhadap projek-projek** yang ada di musti musik
 Selain chord, perlu juga** dibuat not balok atau angka untuk melodi di modul atau ppt**
 
@@ -588,7 +588,7 @@ Member **struggle dengan gimana cara hafal suara suatu chord**
 
 Actionable task:
 **Sosialisasi ke member gimana cara bagi waktu untuk latihan** seperti task batching dan yang kesulitan untuk improv
-**Pastikan member tahu dan nonton video introduction serta dapat handbook**
+### Pastikan member tahu dan nonton video introduction serta dapat handbook
 **Buat tema tertentu yang masih relevan**, jangan minggu ini tema ini, minggu depan langsung ganti tema yang beda
 **Coba bahas tema 1 chord doang dalam 1 kali jadwal kuliah** agar semua langsung hafal sama suaranya
 
@@ -607,37 +607,37 @@ Perbaiki agar pengguna tidak perlu sering sign in ulang.
 Tambahkan tombol “home” untuk akses langsung tanpa menekan tombol back berkali-kali.
 Perbaiki UX tombol "mark as complete" agar langsung diarahkan ke modul selanjutnya.
 Fitur search sedang dalam proses, perlu diprioritaskan.
-**File PPT**
+### File PPT
 Buat format file yang lebih user-friendly (9 atau 12 slide per halaman) dan versi PDF agar mudah dicetak.
 
-**Tema dan Jadwal Bedah/Kuliah Piano**
-**Tema Pembelajaran**
+### Tema dan Jadwal Bedah/Kuliah Piano
+### Tema Pembelajaran
 Susun tema pembelajaran lebih terstruktur, dari level dasar ke lanjutan.
 Gunakan satu tema untuk beberapa pertemuan agar pendalaman materi lebih efektif.
-**PR dan Persiapan Materi**
+### PR dan Persiapan Materi
 Berikan PR sebelum kuliah piano dimulai untuk memberi waktu lebih banyak dan gambaran materi.
 
 ### Pengembangan Modul
-**Modul Lanjutan**
+### Modul Lanjutan
 Tambahkan topik advanced seperti modulasi, improvisasi, dan eksplorasi chord.
 Siapkan modul tentang **circle of fifth** dan bedah lagu dari pemain jazz lama.
-**Notasi Melodi**
+### Notasi Melodi
 Buat versi modul/PPT yang menyertakan not balok atau angka untuk melodi.
 
 ### Hambatan Member
-**Latihan dan Improvisasi**
+### Latihan dan Improvisasi
 Sosialisasikan teknik manajemen waktu seperti task batching untuk latihan piano.
 Siapkan konten untuk membantu improvisasi, seperti panduan langkah awal improvisasi.
-**Kesulitan dengan Chord**
+### Kesulitan dengan Chord
 Buat topik spesifik untuk satu chord pada jadwal tertentu agar member lebih familiar dengan suara chord.
-**Teknologi dan Awareness**
+### Teknologi dan Awareness
 Tingkatkan pemahaman member tentang cara menggunakan fitur aplikasi, termasuk video introduction dan handbook.
 
 ### Pesan dan Saran Lainnya
-**Alur Pengajaran**
+### Alur Pengajaran
 Pastikan alur pengajaran terstruktur dari mudah ke sulit, tanpa maju-mundur topik.
 Hindari perubahan tema drastis setiap minggu, pilih topik relevan secara bertahap.
-**Community Building**
+### Community Building
 Perkenalkan lebih banyak proyek bersama untuk membangun komunitas di antara para member.
 
 ## Pertanyaan dan Jawaban
@@ -782,7 +782,7 @@ Bisa menambahkan macam macam aliran jazz lain seperti jazz rock, jazz hiphop seb
 Pemakaian fitur kadang suka susah makainya jika ingin pindah pindah modul selalu kembali ke awal. Termasuk fitur tandai completenya
 Tetap mempertahankan tugas tugas atapun PR walaupun aku terkadang tidak mengumpulkan dan tetap rutin mengadakan kuliah piano
 
-**Pertanyaan dan Jawaban**
+### Pertanyaan dan Jawaban
 **Pertanyaan: 
 1. Bagaimana pengalaman Anda dengan materi Musti Musik? Apakah ada bagian yang terlalu sulit atau sulit dipahami?**
 **2. Fitur atau layanan apa yang paling sering Anda gunakan  di Musti Musik, dan kenapa?, apakah ada fitur yang jarang atau tidak pernah Anda gunakan?**
@@ -1036,7 +1036,7 @@ FGD 3/6/2025
 ### 1. Alasan Sadar Les Piano
 **🧠 Kesimpulan:
 ** Permainan stagnan, ingin lebih berkembang & dipakai untuk pelayanan.
-**✅ Task:**
+### ✅ Task:
 Buat konten "dulu gitu-gitu aja, sekarang…"
 Konten media sosial inspiratif dari mentor.
 Buat quiz: “Apakah permainan pianomu stagnan?”
@@ -1044,7 +1044,7 @@ Buat quiz: “Apakah permainan pianomu stagnan?”
 ### 2. Ekspektasi di Musti Musik
 **🧠 Kesimpulan:
 ** Ingin variasi permainan, chord manis, teori kuat, dan berkembang cepat.
-**✅ Task:**
+### ✅ Task:
 Tampilkan hasil belajar murid.
 Buat roadmap belajar yang jelas.
 Tawarkan fokus genre (worship, jazz).
@@ -1052,7 +1052,7 @@ Tawarkan fokus genre (worship, jazz).
 ### 3. Hambatan Memilih Tempat Les
 **🧠 Kesimpulan:
 ** Waktu, harga, keraguan soal kualitas mentor, & gaptek.
-**✅ Task:**
+### ✅ Task:
 Reminder belajar (WhatsApp/bot).
 Paket belajar fleksibel & cicilan.
 Video onboarding untuk pemula.
@@ -1060,7 +1060,7 @@ Video onboarding untuk pemula.
 ### 4. Proses Memilih Tempat Les
 **🧠 Kesimpulan****:
 ** Lihat konten mentor → ikut free class → cocok → daftar.
-**✅ Task:**
+### ✅ Task:
 Perkuat konten media sosial.
 Promosi free class.
 Tampilkan profil & latar mentor.
@@ -1068,7 +1068,7 @@ Tampilkan profil & latar mentor.
 ### 5. Pertimbangan Akhir Sebelum Join
 **🧠 Kesimpulan:
 ** Kualitas mentor, harga sesuai, materi relevan, ada komunitas.
-**✅ Task:**
+### ✅ Task:
 Tonjolkan gaya mengajar mentor.
 Bandingkan Musti vs tempat lain (transparan).
 Angkat testimoni komunitas belajar.

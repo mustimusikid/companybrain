@@ -12,10 +12,10 @@ review_frequency: annually
 > Online academy product SOP or operational document for Musti Musik.
 
 BEDAH DAN KULIAH
-**STANDAR OPERASIONAL PROSEDUR**
-**“REMINDER BEDAH PIANO DAN KULIAH PIANO”**
+## STANDAR OPERASIONAL PROSEDUR
+## “REMINDER BEDAH PIANO DAN KULIAH PIANO”
 
-**REMINDER BEDAH DAN KULIAH**
+## REMINDER BEDAH DAN KULIAH
 Bedah piano dibagi menjadi 3 level
 Basic
 Kriteria:
@@ -188,7 +188,7 @@ Bedah dan Kuliah Piano MM.
 https://hku.zoom.us/j/98335478413
 ID 983 3547 8413*
 
-**MENGIRIM VIDEO BEDAH**
+## MENGIRIM VIDEO BEDAH
 Video dan format Bedah Piano dari Member ditampung terlebih dahulu ke Group **BANK BEDAH PIANO**
 Track orang yang kirim video bedah piano dengan cara membuat checklist di spreadsheet (cari nomor member tsb, lalu taruh checklist di paling kanan):
 
@@ -214,8 +214,8 @@ UPDATE REMINDER KULIAH PIANO
 Kirim tiap selasa di group VIP Community
 
 SHARE VIDEO BEDAH/PRIVATE
-**STANDAR OPERASIONAL PROSEDUR**
-**“KIRIM VIDEO BEDAH/PRIVATE AS PROMOSI”**
+## STANDAR OPERASIONAL PROSEDUR
+## “KIRIM VIDEO BEDAH/PRIVATE AS PROMOSI”
 
 Hari **Selasa **tanyakan Kak Dave video bedah dan private mana yang mau dishare ke group
 Setelah dapat videonya, izin ke orang yang bersangkutan
@@ -250,10 +250,10 @@ Kalau teman2 mau tanya tentang private bareng Dave boleh chat ke sini ya:  +62 8
 Video Bedah terpilih dikirim ke VIP COMMUNITY dan PUBLIC COMMUNITY
 Video Private terpilih dikirim ke SEKOLAH MUSIK dan PUBLIC COMMUNITY
 EXP DAN EXT
-**STANDAR OPERASIONAL PROSEDUR**
-**“REMINDER EXP DAN PERPANJANG”**
+## STANDAR OPERASIONAL PROSEDUR
+## “REMINDER EXP DAN PERPANJANG”
 
-**REMINDER EXP**
+## REMINDER EXP
 Cek spreadsheet:
 Reminder H-30 hari dari tgl exp gunakan shortcut /exp1 di WA Mentor
 Reminder hari H exp (pagi/siang/sore) gunakan shortcut /exp2 di WA Mentor
@@ -262,7 +262,7 @@ Jika member tanya harga diskon gunakan shortcut /exp4. Jika ada perubahan harga 
 Jika member tidak perpanjang tanyakan alasannya dengan cara gunakan shortcut /exit di WA Mentor
 Jika member tidak perpanjang, hapus nomornya dari VIP Community. Klik Group VIP Community, search nomornya, pilih nomornya, dan klik remove
 
-**PERPANJANG MEMBER**
+## PERPANJANG MEMBER
 Jika member perpanjang akademi online, infokan harga dengan shortcut /exp4 dan info pembayaran dengan shortcut /lanjutakademi
 Kirimkan bukti tf ke group Sales dan Outreach lalu rincikan datanya sbb:
 Nama:
@@ -273,19 +273,19 @@ New Expired Date: X
 Jika member perpanjang catat di spreadsheet Data Exp, highlight dengan warna hijau, rekap juga di sheet Extend di spreadsheet yang sama
 Jika member perpanjang 12 bulan, catat di spreadsheet Music School sheet Member 12 Bln, dan tanyakan ingin diambil kapan untuk 1x sesi private 30 menitnya
 ATUR JADWAL
-**STANDAR OPERASIONAL PROSEDUR**
-**“ATUR JADWAL”**
+## STANDAR OPERASIONAL PROSEDUR
+## “ATUR JADWAL”
 
-**ATURAN UMUM**
+## ATURAN UMUM
 **JANGAN **masukkan acara apapun di** hari libur nasional **(konfirm di H-1 week ke kak dave)** dan weekend**
 Jadwal diatur agar tidak ada GAP antar jadwal (kecuali memang tidak memungkinkan/tidak ada kegiatan lain yang bisa dimasukkan)
-**JADWAL PRIVATE, TRIAL, DAN BONUS PRIVATE 30 MENIT**
+## JADWAL PRIVATE, TRIAL, DAN BONUS PRIVATE 30 MENIT
 Skala Prioritas: Private > Trial > Bonus 30 menit (kecuali jika murid private tidak keberatan untuk berubah jadwal)
 Jika ada murid private baru, tanyakan jadwal mereka terlebih dahulu, cek kalender yang kosong. Jika ada jadwal kosong tapi tidak sesuai dengan jam yang mereka inginkan, tawarkan dulu. Jika tidak bisa, lihat jadwalnya dipakai siapa, lalu atur jika murid lama ada jadwal available yang lain coba tanyakan, jika memang tidak mungkin coba cari jadwal lainnya dan beritahukan ke murid baru tersebut jika jadwalnya sudah terpakai
 Jika murid private tidak bisa les di hari yang ditentukan maka murid **wajib konfirmasi maksimal H-3 (atau saat hari make sure)**. Kemudian diskusikan ingin diganti kapan di minggu yang sama. Jika kondisi tidak memungkinkan, ganti next week
 Murid yang **konfirmasi H-1 atau bahkan D-Day maka sesi tersebut otomatis diganti dengan recording.**
 KHUSUS murid yg les 2 minggu sekali yang reschedule ke next week, next weeknya tetep di minggu awal dia les (misal awal 1 - 3 berarti kalo resched ke 4 next nya tetep ke 1)
-**REMINDER PRIVATE**
+## REMINDER PRIVATE
 Kirim list murid yang les (hari tgl les, nama, jam, dan metode) ke Group Music School
 Setelah reminder dikirim ke masing2 murid, kirim checklist nya di Group Music School
 Kirim message Make Sure di hari **Jumat **(untuk orang yang les di **Senin - Rabu**) dan **Sabtu **(untuk orang yang les di **Kamis - Sabtu**)
@@ -312,16 +312,16 @@ Noah
 TAMBAHIN TNC MAKS BERAPA LAMA DIAMBIL 1 BULAN (hrs diomongin lagi)
 
 SOP Admin Dashboard
-**STANDAR OPERASIONAL PROSEDUR**
-**“ADMIN DASHBOARD”**
+## STANDAR OPERASIONAL PROSEDUR
+## “ADMIN DASHBOARD”
 
-**MURID BARU**
+## MURID BARU
 
 Mengikuti SOP sesuai Customer Support yang sudah disediakan
 Input murid pada section “Data murid”, jika murid trial maka tambahkan pada “Data Trial”; jika tanpa trial langsung input ke “Master Data Murid (Lengkap)” dan jadwal disesuaikan dengan kesepakatan bersama murid.
 Input  juga pada section “Pembayaran” agar sesi murid tersebut dapat di tracking. Jika sesi yang dipilih dan payment tidak ada di opsi maka pilih “non paket” untuk mengisi jangka waktu.
 
-**MURID LAMA**
+## MURID LAMA
 Sebelum mulai sesi minggu depan pastikan jadwal murid sesuai dengan jadwal awal yang telah disepakati, Jika sudah sepakat pastikan jadwal di Dashboard admin sudah sesuai jadwal. (cek pada bagian jadwal dan kalender view)
 Jika terjadi perubahan jadwal maka silahkan menggunakan SOP reschedule pada SOP atur Jadwal.
 Jika sudah sepakat reschedule maka jadwal awal diedit pada fitur “+ sesi manual” atau klik jadwal lama lalu disesuaikan jadwal baru yang sudah disepakati.
@@ -329,22 +329,22 @@ Jika sesi/kuota sudah hampir habis, cek di bagian overview → tagih ke murid
 Jika murid lama memutuskan untuk lanjut, maka input payment ke section “pembayaran” dan murid akan kembali melanjutkan sesinya.
 Jika memutuskan untuk tidak lanjut, maka update status murid pada section “Data Murid” lalu di non active kan sebagai murid.
 REPLY IG TT
-**STANDAR OPERASIONAL PROSEDUR**
-**“REPLY IG TT”**
+## STANDAR OPERASIONAL PROSEDUR
+## “REPLY IG TT”
 
 Cek DM Request
 Jika pertanyaan terkait Musti Musik dan arahkan untuk hubungi:
 Jika pertanyaan terkait kerja sama, arahkan untuk hubungi +62 831-9941-4911
 UPDATE ORDER DAN RESI BUKU
-**STANDAR OPERASIONAL PROSEDUR**
-**“UPDATE ORDER DAN RESI BUKU FORMULIR”**
+## STANDAR OPERASIONAL PROSEDUR
+## “UPDATE ORDER DAN RESI BUKU FORMULIR”
 
-**UPDATE ORDER BUKU**
+## UPDATE ORDER BUKU
 Masuk ke  dengan email:  dan pass: mUSTIdIANA@2028
 Klik semua order, pilih produk fisik
 Klik filter, pilih filter berdasarkan payment lunas
 Klik detail pesanan, masukkan detail ke spreadsheet Data Pembeli Buku:
-**BUAT RESI BUKU**
+## BUAT RESI BUKU
 Masuk ke
 Pilih semua order > produk fisik > filter > lunas
 Buka spreadsheet Data Pembeli
@@ -354,7 +354,7 @@ Klik buat pesanan, sesuaikan dengan detail pesanan
 Perhatikan Actual Payment Non COD, tuliskan di spreadsheet (tgl pesanan, tgl jemput, dan tgl pembuatan resi)
 Print resi, masukkan ke drive, copy link drive masukkan ke spreadsheet
 Jika ada ekspedisi error, hubungi orangnya melalui WA mentor, tanyakan apakah gapapa jika pakai ekspedisi lain? Jika ada tambahan ongkir nnt akan diinfokan dan mereka bisa tf
-**CEK STATUS DELIVERY**
+## CEK STATUS DELIVERY
 Masuk ke
 Pilih riwayat pesanan
 Pilih ekspedisi di kiri atas
@@ -363,8 +363,8 @@ Copy nomor resi yg ada di spreadsheet
 Centang apakah sudah dipickup/sudah delivered
 Jika ada error, klik orderan tersebut. Lihat kenapa error, klik lihat balasan
 SHARE VIDEO YT KE COMMUNITY
-**STANDAR OPERASIONAL PROSEDUR**
-**“SHARE VIDEO YT KE COMMUNITY”**
+## STANDAR OPERASIONAL PROSEDUR
+## “SHARE VIDEO YT KE COMMUNITY”
 
 Setelah video yt diupload, copy link yt tersebut lalu buat message yang sesuai dengan format Hook, 1-2 kalimat, link. Contoh:
 [CARA BELAJAR WORSHIP PIANO DI 2026]
@@ -376,7 +376,7 @@ https://youtu.be/fuiad1hbW3E
 Kirim message tersebut beserta 1 thumbnailnya ke VIP COMMUNITY, PUBLIC COMMUNITY, GROUP EVENT YANG SEDANG BERLANGSUNG, dan UPLOAD KE STORY INSTAGRAM
 Font Story IG: Classic, tulisan putih, background tulisan hitam
 CEK PR MURID
-**CEK PR MURID**
+## CEK PR MURID
 Akses Link Berikut
 Search tanggal yang ingin di cek PRnya
 Copy Nama Peserta yang belum dapat PR
@@ -384,7 +384,7 @@ Kirimkan list Peserta yang belum dapat PR ke Kak Dave
 
 Video Tutorial: https://youtu.be/aL83gD_1MyU
 SUMMARY KULIAH & BEDAH PIANO
-**SUMMARY KULIAH & BEDAH PIANO**
+## SUMMARY KULIAH & BEDAH PIANO
 
 Ambil Transcript pada youtube yang sudah diupload
 Simpan di note text
@@ -426,11 +426,11 @@ Copy hasil prompt dan ringkasan kuliah & bedah piano bisa segera di share di gro
 
 Video Tutorial:
 KONSER
-**STANDAR OPERASIONAL PROSEDUR **
-**“STUDENT CONCERT”**
+## STANDAR OPERASIONAL PROSEDUR
+## “STUDENT CONCERT”
 
-**H-1 KONSER**
-**LOADING IN BARANG (22.00 WIB)**
+## H-1 KONSER
+## LOADING IN BARANG (22.00 WIB)
 Make sure surat2/keperluan loading in berjalan
 PIC: Dave & Dian
 List Barang:
@@ -447,8 +447,8 @@ Time keeper card (**print**)
 File:
 Formulir untuk Pengunjung (**print**) → PIC: Dave
 File:
-**HARI H KONSER**
-**GLADI RESIK (8.00 - 10.00 WIB)**
+## HARI H KONSER
+## GLADI RESIK (8.00 - 10.00 WIB)
 Video akses mall (untuk dokumentasi dan dipost di story)
 PIC: Dave & Dian
 Setting Booth
@@ -464,10 +464,10 @@ Kasih cue card
 Brief rundown
 Dokumentasi untuk keperluan story IG (semacam live report suasana GR dll)
 PIC: Ari
-**COUNTING DOWN CONCERT (10.00 - 10.30)**
+## COUNTING DOWN CONCERT (10.00 - 10.30)
 Story dan Reminder WA H-30 menit, 15 menit, dan 5 menit
 PIC: Lila
-**DURING CONCERT (10.30 - 12.30)**
+## DURING CONCERT (10.30 - 12.30)
 MC
 PIC: 1 orang dari Bu Elly
 Dokumentasi untuk keperluan story (semacam live report suasana GR)
@@ -491,9 +491,9 @@ Dokumentasi Keychain Sponsor
 PIC: Dian & Ari
 
 SOP CUSTOMER SUPPORT
-**SOP CUSTOMER SUPPORT**
+## SOP CUSTOMER SUPPORT
 
-**WELCOMING NEW MEMBER**
+## WELCOMING NEW MEMBER
 Dari WA Mentor, hubungi WA Member baru
 Invite ke group VIP (shortcut /inviteGroup)
 Hai Kak, selamat bergabung ke Musti Musik! Silakan join ke semua group di bawah ini yaa kak, dan mohon segera join karena link akan expired:
@@ -528,8 +528,8 @@ Oh iya, karena kakak ambil yang 12 bulan, kakak mau ambil bonus sesi 1x privat 3
 
 Kirim bonus menonton video onboarding
 Kirim modul practice and guidebook
-**EXIT INTERVIEW**
-**EXTEND INTERVIEW**
+## EXIT INTERVIEW
+## EXTEND INTERVIEW
 Kirim message survey (/extend1)
 Hai kak 👋
 Perkenalkan, Aku Lila dari Tim Musti Musik
@@ -701,17 +701,17 @@ Chat ke murid2 private ko erick dan ci christine yang udah dapat 1x sesi (abis t
 Format:
 hai kakkk airine, salam kenal akuu dave! akuu dapet infoo dari tim akuu, kakak tgl 2 April kemarin udah ada sesi les piano bareng ko erick yaa kakk? gimana nihhh kakk experiencenyaaa? kakakk bisa ceritaa ke akuuu di sini, nantii kalau dari kakak kira2 adaa yang mau diimprove dari sesinya jg feel free to tell me yaa kakk, supayaa kakak bisa achieve goals yang kakak mauu
 SOP WEB UTM
-**SOP SET UTM DAN DYNAMIC BUTTON WEB**
+## SOP SET UTM DAN DYNAMIC BUTTON WEB
 
 Agar link di button bisa berubah-ubah dinamis sesuai utm customer, maka step yang perlu dilakukan:
-**INSTALL PLUGIN HEADER FOOTER WP CODE**
+## INSTALL PLUGIN HEADER FOOTER WP CODE
 (Sekarang sudah diinstall, bisa tinggal pakai). Tapi, in case perlu tau caranya
 1) Login Cpanel
 2) Masuk ke wordpress as admin
 3) Klik plugin, search Header Footer, pilih yang dari WP Code
 4) Install, activate
 
-**ADD NEW CODE SNIPPET**
+## ADD NEW CODE SNIPPET
 Klik Code Snippet
 Klik add new
 Klik add your custom code
@@ -728,7 +728,7 @@ Active, save snippet
 
 **CODE YANG DIPAKAI SAAT INI
 **
-**HOME WEBPAGE = **
+## HOME WEBPAGE =
 <script>
 function getSource() {
   const params = new URLSearchParams(window.location.search);
@@ -802,7 +802,7 @@ function updateLinks() {
 window.addEventListener('DOMContentLoaded', updateLinks);
 </script>
 
-**WEB PAGE AKADEMI = **
+## WEB PAGE AKADEMI =
 <script>
 function getSource() {
   const params = new URLSearchParams(window.location.search);
@@ -872,7 +872,7 @@ function updateLinks() {
 window.addEventListener('DOMContentLoaded', updateLinks);
 </script>
 
-**WEB PAGE SEKOLAH MUSIK =**
+## WEB PAGE SEKOLAH MUSIK =
 <script>
 function getSource() {
   const params = new URLSearchParams(window.location.search);

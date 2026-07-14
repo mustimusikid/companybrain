@@ -15,7 +15,7 @@ MUSTI MUSIK TEACHERS HANDBOOK
 # MUSTI MUSIK
 # TEACHERS HANDBOOK
 ________________
-**Panduan Operasional Pengajar**
+### Panduan Operasional Pengajar
 ________________
 
 Musti Musik adalah perusahaan edukasi musik yang berfokus pada pengajaran piano jazz dan worship, baik melalui Sekolah Musik (Private dan Semi Private) maupun platform pembelajaran online di mustimusik.id. Sejak awal berdiri, Musti Musik dibangun dengan standar kualitas pengajaran yang tinggi, yang terbukti mampu memberikan kepuasan pelanggan secara konsisten.
@@ -250,7 +250,7 @@ Penghentian kerja sama sesuai ketentuan BAB 16.
 
 7.2. Jenis dan format pengajaran yang berlaku di Musti Musik meliputi:
 
-**a. Offline — Kunjungan ke Rumah Siswa**
+### a. Offline — Kunjungan ke Rumah Siswa
 
 7.3. Pengajar melaksanakan kegiatan mengajar secara tatap muka di rumah siswa sesuai jadwal dan alamat yang telah ditentukan oleh Musti Musik.
 
@@ -259,13 +259,13 @@ Hadir tepat waktu sesuai jadwal;
 Menjaga sikap, etika, dan profesionalisme selama berada di lingkungan rumah siswa;
 Fokus pada kegiatan pengajaran dan tidak melakukan aktivitas di luar kepentingan pembelajaran.
 
-**b. Offline — Mengajar di Tempat yang Ditentukan Musti Musik**
+### b. Offline — Mengajar di Tempat yang Ditentukan Musti Musik
 
 7.5. Pengajar melaksanakan kegiatan mengajar secara tatap muka di lokasi yang telah ditentukan oleh Musti Musik, seperti kantor bersama, studio, atau tempat lain yang bekerja sama dengan Musti Musik.
 
 7.6. Pengajar wajib mematuhi peraturan, tata tertib, dan ketentuan operasional yang berlaku di lokasi tersebut.
 
-**c. Online — Kelas Daring**
+### c. Online — Kelas Daring
 
 7.7. Pengajar melaksanakan kegiatan mengajar secara daring menggunakan platform yang ditetapkan oleh Musti Musik, yaitu Google Meet.
 
@@ -603,7 +603,7 @@ Teachers Hand Book
 ![image18.jpg](TnC Teachers _images/image18.jpg)
 
 MUSTI MUSIK.
-**TEACHERS HANDBOOK**
+### TEACHERS HANDBOOK
 * *
 
 # Terms and Condition

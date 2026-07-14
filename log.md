@@ -2,6 +2,11 @@
 
 Append-only. Never rewrite existing entries.
 
+## 2026-07-19 (product/ bold-as-heading conversion)
+- Converted 1,730 bold pseudo-heading lines across 62 files to real `##`/`###` headings (`##` when the file had zero existing `##`/`###`, `###` when nesting under existing structure), fixing the chunking gap flagged earlier.
+- Heuristic: a bold line converts only if ≤10 words, doesn't end in `.`/`!`/`?`, and contains at least one letter (excludes signature-line underscores). Long full-sentence bold (legitimate emphasis, not a heading) was deliberately left alone — verified against the two contrasting real examples from `sop-academy.md` (correctly untouched) vs `musti-musik-teacher-contract.md` (correctly converted).
+- Known minor leftover: a handful of already-broken bold fragments in the original source (e.g. `product/academy/fgd-big-document.md` has a stray `**Yang**` — a truncated FGD template artifact) got converted along with everything else. This reflects pre-existing source messiness, not something introduced by the conversion — flagged for department review, not blocking.
+
 ## 2026-07-19 (product/ full cleanup pass)
 - **Deleted (6 files, certificate-merge data missed in original June purge):** `product/events/masterclass-{agustus,desember,juli,november}.md`, `product/events/untitled-spreadsheet.md`, `product/paid-class/special-class-maret-2026.md`
 - **Renamed (14 files, removed `copy-of-`/`untitled-` artifacts):** 12 Hormozi book-launch reference scripts in `product/books/` renamed to `book-launch-*-reference.md` pattern; `product/paid-class/copy-of-project-plan.md` → `bootcamp-project-plan.md`; `product/academy/copy-of-testimonial-and-feedback-musti-musik.md` → `testimonial-and-feedback-transcript.md`

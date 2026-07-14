@@ -58,7 +58,7 @@ Always make a content based on solution, so we can gather more viewer with same 
 ### EXERCISE 2: CONTENT TYPE ALIGNMENT
 Review the content types that do and don't work for high-conversion:
 ![image5.jpg](8FPB Day 3_images/image5.jpg)
-**For your business, identify: **
+### For your business, identify:
 Three content types you've been creating that should be eliminated
 Mainin lagu X sama Y / Reharm lagu
 Bagaimana kalau lagu X jadi..
@@ -72,7 +72,7 @@ Three content types you should start creating immediately:
 ## PART 2: GOLD VEIN IDENTIFICATION
 ### EXERCISE 3: PAIN POINT MAPPING
 List your ideal customer's top 5 pain points/problems in detail:
-**Pain Point: **
+### Pain Point:
 Ga tahu cara main piano yang manis
 How they describe it:
 Pingin Bisa Main Chord Manis
@@ -80,7 +80,7 @@ Where they search for solutions:
 Youtube/E Course/Social Media
 Current solutions they try:
 Self Learning / Private
-**Pain Point:**
+### Pain Point:
 Ngiring worship ngebosenin
 How they describe it:
 Pingin bisa main piano worship jadi lebih enak
@@ -89,7 +89,7 @@ Youtube/E Course/Social Media
 Current solutions they try:
 Self Learning / Private
 
-**Pain Point: **
+### Pain Point:
 Ga tau cara main piano yang bener
 How they describe it:
 saya pemula, ga tahu harus belajar dari mana
@@ -97,7 +97,7 @@ Where they search for solutions:
 Youtube/E Course/Social Media/Music School
 Current solutions they try:
 Self Learning /Private/Join Music School
-**Pain Point:  **
+### Pain Point:
 Belajar Piano tapi stuck  (mungkin karena otodidak/belajar klasik)
 How they describe it:
 permainanku kok gitu2 aja
@@ -105,7 +105,7 @@ Where they search for solutions:
 Youtube/E Course/Social Media
 Current solutions they try:
 Self Learning /Private
-**Pain Point:  **
+### Pain Point:
 ga punya banyak dana
 How they describe it:
 pingin belajar tapi murah/gratis kalau bisa
@@ -118,13 +118,13 @@ Self learned
 ### EXERCISE 4: SEARCH-BASED TITLE TRANSFORMATION
 Transform each pain point into 4 different video titles (2 problem-oriented and 2 solution-oriented):
 **Example:** Hair loss postpartum
-**Problem-oriented titles: **
+### Problem-oriented titles:
 "Watch this if you're struggling with hair loss after giving birth"
 "Hair loss after giving birth? THIS hormone could be the cause"
-**Solution-oriented titles: **
+### Solution-oriented titles:
 "5 Steps to Prevent Hair Loss Postpartum"
 "Preventing Hair Loss Postpartum is Easy. Here's How."
-**Pain point 1:**
+### Pain point 1:
 Ga tau cara main piano yang manis
 Problem-oriented titles:
 1. 	 permainanmu pianomu  ga manis? mungkin ini penyebabnya!
@@ -132,7 +132,7 @@ Problem-oriented titles:
 Solution-oriented titles:
 1.  3 Cara main piano jadi manis untuk pemula
 2. Cara pianis jazz bisa main lagu jadi manis!
-**Pain point 2:**
+### Pain point 2:
 Ga tahu cara main piano yang bener
 Problem-oriented titles:
 Kamu pianis pemula? hindari  kesalahan 99% pianis pemula ini!
@@ -140,7 +140,7 @@ kesulitan belajar piano? mungkin kamu belum coba cara ini!
 Solution-oriented titles:
 Strategi aku bisa lulus Diploma Jazz padahal sibuk Kuliah!
 Bingung belajar piano? rahasia latihanku sampai lulus diploma jazz!
-**Pain point 3:**
+### Pain point 3:
 Ga punya banyak dana
 Problem-oriented titles:
 Belajar piano jangan asal gratis kalau ga mau stuck!
@@ -149,7 +149,7 @@ Solution-oriented titles:
 Strategi aku berinvestasi di Piano!
 Cara Belajar Jazz Piano Yang Murah!
 
-**Pain point 4:**
+### Pain point 4:
 Ngiring worship bosenin
 Problem-oriented titles:
 Cara ngiringmu gnebosenin, ini 3 alasannya
@@ -157,7 +157,7 @@ chord ini bikin permainan worshipmu ngebosenin!
 Solution-oriented titles:
 1. 	step by step belajar ngiring worship yang Manis!
 2. 	Cara ngiring worship yang manis untuk pianis pemula!
-**Pain point 5:**
+### Pain point 5:
 Belajar Piano tapi stuck  (mungkin karena otodidak/belajar klasik)
 Problem-oriented titles:
 permainan permainan kamu nyangkut? pianis pemula WAJIB WASPADA!
@@ -218,7 +218,7 @@ For your current videos (or competitors' videos in your niche), record these met
 ![image4.png](8FPB Day 3_images/image4.png)
 ![image4.png](8FPB Day 3_images/image4.png)
 
-**Success Indicators: **
+### Success Indicators:
 High CPM (>$30): Indicates audience with buying power
 APV (>50%): Indicates engagement
 High relative conversion rate: Shows monetization potential
@@ -254,7 +254,7 @@ Create a tracking system for your future videos using this format:
 ** **
 ## PART 4: PACKAGING OPTIMISATION
 ### EXERCISE 8: THUMBNAIL PRODUCTION SYSTEM
-**Design your thumbnail creation system: **
+### Design your thumbnail creation system:
 **Who will create your thumbnails? **
 □ Yourself
 □ Freelancer: Budget $________/month
@@ -262,12 +262,12 @@ Create a tracking system for your future videos using this format:
 □ In-house designer: Budget Rp1.000.000,-/month
 **How many thumbnail options will you create per video? **
 Target: 10 options
-**Thumbnail competition system: **
+### Thumbnail competition system:
 □ Multiple designers submitting options
 □ One designer creating multiple versions
 □ Testing system for selection
 □ Bonus structure for winning thumbnails: Rp10.000,-
-**Thumbnail testing process: **
+### Thumbnail testing process:
 How will you test thumbnails?
 Create 5  thumbnails and test it on youtube
 How long will you run tests?
@@ -276,7 +276,7 @@ What metrics determine a winner?
 best CTR + watch time share
 ** **
 ### EXERCISE 9: TITLE FRAMEWORK DEVELOPMENT
-**Create a framework for generating multiple title options: **
+### Create a framework for generating multiple title options:
 Your 5 most effective title templates based on today's training:
 Template 1: ________________________________________________
 Template 2: ________________________________________________
@@ -325,7 +325,7 @@ List 5 existing videos that could benefit from repackaging:
 ![image22.png](8FPB Day 3_images/image22.png)
 ![image21.png](8FPB Day 3_images/image21.png)
 ![image26.png](8FPB Day 3_images/image26.png)
-**Testing schedule for repackaging: **
+### Testing schedule for repackaging:
 When will you start testing?
 1 video/weeks
 How many tests will you run simultaneously?
@@ -361,13 +361,13 @@ Based on today's training, this investment should yield approximately $________ 
 ** **
 ### EXERCISE 12: 6-MONTH IMPLEMENTATION TIMELINE
 Create your detailed implementation plan:
-**MONTH 1: BUILD BASE **
-**Weekly goals: **
+### MONTH 1: BUILD BASE
+### Weekly goals:
 Week 1: Find 30 content topic  and record
 Week 2: Upload half of it using many thumbnails and video tittle
 Week 3: See result, and testing new  concept of videos
 Week 4: see result and make a strategy
-**Videos to create (topics): **
+### Videos to create (topics):
 1. 	Tips for beginners
 2. 	find time to practice
 3. 	cheap way to learn piano
@@ -385,39 +385,39 @@ Expected outcomes: find some topic that works
 ** **
 ** **
 
-**MONTH 2-3: EXPAND BASE & FIND GOLD VEINS **
+### MONTH 2-3: EXPAND BASE & FIND GOLD VEINS
 Weekly content schedule: make content using the works topic
 Gold vein mining strategy: start testing some tittle and thumbnail
-**Initial monetization plan: **
+### Initial monetization plan:
 Direct linking to: Website/WA numbers
 Call-to-action: click link in desc
 Conversion asset: Musti Musik Academy
 Tracking method: using Click through rate parametrics
 Expected outcomes: find the gold vein through best performing tittle, thumbnail, and topic
-**MONTH 4-6: MINE GOLD & BUILD SYSTEMS **
-**Flywheel VSL development: **
+### MONTH 4-6: MINE GOLD & BUILD SYSTEMS
+### Flywheel VSL development:
 Topic selection: (some of the best topic that works in Week 1 strategy)
 Production timeline: 1 Week/batch (7video)
 Testing strategy: upload 7 video a week that will be feeder for VSL using many works topic
-**Team building priorities: **
+### Team building priorities:
 First hire: Video editor
 Second hire: designer team and scripting team
 Management structure: Me 🡪 Scripting Team 🡪 Video Editor and Designner Team
-**Systems implementation: **
+### Systems implementation:
 Thumbnail testing system: make >5 thumbnail every video and see the result after a week
 Title testing system: try using same topic with different tittle every weeks, and see the result efter a week
 Performance tracking: Using analytics (watch time, ctr, cpm, views)
 Repackaging schedule: 1x a week using worst performing content
 Expected outcomes: find the best feeder to enhance the VSL
 ### EXERCISE 13: DIRECT MONETIZATION PLANNING
-**While building your Flywheel VSL, plan your immediate monetization strategy: **
-**Direct response assets you currently have: **
+### While building your Flywheel VSL, plan your immediate monetization strategy:
+### Direct response assets you currently have:
 □ Calendar booking link
 □ Sales page
 □ Order form
 □ Webinar registration
 □ Other: Consultation Number
-**For each video you create, plan your call-to-action: **
+### For each video you create, plan your call-to-action:
 What specific offer will you promote?
 Special price when you order from youtube using the spesificcode
 At what timestamp will you place the CTA?
@@ -434,7 +434,7 @@ Success metrics: CTR, Link Clicked, Warm Leads, Conversion(closing)
 ## PART 6: TODAY'S HOMEWORK
 Complete these specific tasks before Day 4:
 ### Topic Research
-**List your ideal customer's top 3 problems in detail: **
+### List your ideal customer's top 3 problems in detail:
 Problem 1:
 They feel stuck and limited at learning piano, it is because what they like is different with what they learn. Mostly came from people that learn classic, but actually they want to play pop/jazz
 Problem 2:
@@ -457,7 +457,7 @@ Problem 3 search terms:
 2. 	 Cara praktis belajar jazz piano
 	3.  Tutorial bisa ngiring worship cepat
 ** **
-**Map out 5 specific video topics focused on buyer intent: **
+### Map out 5 specific video topics focused on buyer intent:
 Topic 1: belajar piano yang murah
 Topic 2: belajar piano yang flexibel
 Topic 3: belajar piano dengan feedback
@@ -465,20 +465,20 @@ Topic 4: belajar piano jazz
 Topic 5: belajar piano worship
 ### 2. Channel Audit (if applicable)
 
-**Your top 5 performing videos by views: **
+### Your top 5 performing videos by views:
 1. 	Cara ngiring lagu worship jadi enak, dari pengiring worship umur 13 (104k)
 2. 	3 Rahasia main piano yang benar (33k)
 3. 	 Pianis Otodidak? Gua bantu gratis! (29k)
 4. 	Kamu main worshipnya jelek? Rahasia pengiring 7 tahun (18K)
 	        5. Rahasia jago worship piano (13k)
-**Your top 5 performing videos by watch time: **
+### Your top 5 performing videos by watch time:
 1. 	 . Cara ngiring lagu worship jadi enak, dari pengiring worship umur 13 (8,9k hours)
 2. 	3 Rahasia main piano yang benar (5k hours)
 3. 	 Pianis Otodidak? Gua bantu gratis! (2k hours)
 4. Aku masih pemula, cara ngiring worship gimana? (1,1k hours)
 5. Kamu main worshipnya jelek? Rahasia pengiring 7 tahun (958,1 hours)
 
-**Your top 5 performing videos by CPM (if known): **
+### Your top 5 performing videos by CPM (if known):
 1. 	 Harmoni MAGICAL Yang Dimiliki Semua Musik Disney
 2. 	 1 Bulan Kamu DIJAMIN Bisa Ngiring Worship Piano
 3. 	 7 Chord Manis Yang Bikin Pianomu Jadi Indah!

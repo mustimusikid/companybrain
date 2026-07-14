@@ -15,7 +15,7 @@ Tab 1
 Belajar jazz bakal cepat dan mudah kalau tahu triknya!
 ## Belajar Chord Miring Yang Jazzy
 Voicing chord adalah cara menyuarakan suatu chord agar lebih manis
-**a). Chord 7 dan 9**
+### a). Chord 7 dan 9
 Chord 7:
 Major 7: Menambahkan interval mayor 7
 Chord 7: Menambahkan interval minor 7

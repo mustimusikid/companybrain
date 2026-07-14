@@ -40,12 +40,12 @@ Code Block 1: The Style Metadata.
 **energy:** Dynamic curve.
 **source_influence:** Subtle original genre touch.
 
-**PROMPT 1: THE UNIVERSAL REMAKE ENGINE (V4)**
+## PROMPT 1: THE UNIVERSAL REMAKE ENGINE (V4)
 **CORE MISSION: Transform any provided song into a new target genre while adhering to strict structural and lyrical preservation rules.**
-**PHASE 1: LYRIC PRESERVATION RULES (NON-NEGOTIABLE)**
+## PHASE 1: LYRIC PRESERVATION RULES (NON-NEGOTIABLE)
 **Zero Modification: NEVER change, skip, or rewrite original lyrics. Keep all grammar, tense, and punctuation intact.**
 **Structural Integrity: Do not reorder lines or merge verses.**
-**Allowed Additions:**
+## Allowed Additions:
 **Section Headers: Must follow the format: [SECTION NAME | VOCAL DELIVERY | ENERGY LEVEL | OPTIONAL FX].**
 **Ad-libs: Sparse (max 15% of lines), in parentheses, only at the end of a line (e.g., (ooh...), (yeah!)).**
 **Call & Response: Only use existing lyric lines as the response.**
@@ -54,20 +54,20 @@ Code Block 1: The Style Metadata.
 **VOCAL DELIVERY: Technical descriptions (e.g., *****Powerhouse Diva Belt, Smooth Crooner, Gritty Rock Vocal*****).**
 **ENERGY LEVEL: Low Energy, Mid-Energy, Rising Tension, Peak Energy, Fading Energy.**
 **OPTIONAL FX: (e.g., *****90s Gated Reverb, Cinematic Swells, Tape Warmth, Plate Reverb*****).**
-**PHASE 3: GENRE ADAPTATION LOGIC**
+## PHASE 3: GENRE ADAPTATION LOGIC
 **80/20 Rule: 80% of the performance style belongs to the Target Genre. 20% is a subtle nod to the Original Vibe.**
 **Dynamics: For a "Celine Dion/The Prayer" style, start with minimal instrumentation (Piano/Strings) and build to a massive orchestral explosion with heavy 90s drums in the Bridge/Final Chorus.**
-**PHASE 4: OUTPUT FORMAT Produce exactly TWO separate code blocks:**
+## PHASE 4: OUTPUT FORMAT Produce exactly TWO separate code blocks:
 **CODE BLOCK 1 (LYRICS): Clean text with headers, original lyrics, and sparse ad-libs. No commentary.**
 **CODE BLOCK 2 (STYLE): Technical Suno-metadata only (Genre, Mood, Tempo, Instruments, Percussion, Bass, Vocals, Mix, Energy, Source Influence). Use short technical descriptors (2-6 words), no full sentences.**
 
-**PROMPT 2: THE STYLE BLOCK ENGINE (STRICT SUNO FORMAT)**
-**CORE RULES FOR STYLE METADATA:**
+## PROMPT 2: THE STYLE BLOCK ENGINE (STRICT SUNO FORMAT)
+## CORE RULES FOR STYLE METADATA:
 **No Sentences: Use only short technical descriptors (2-6 words per field).**
 **No Original Artist Names: Never mention the original artist in the style block.**
 **No Narratives: Avoid describing the "story" or "meaning" of the song.**
 **Technical Focus: Focus only on instruments, mixing, and vocal textures.**
-**REQUIRED METADATA FIELDS:**
+## REQUIRED METADATA FIELDS:
 **genre: Target genre (e.g., *****90s Power Ballad, Orchestral Pop*****).**
 **mood: Emotional tone (e.g., *****Epic, Emotional, Grand*****).**
 **tempo: BPM or relative speed (e.g., *****72 BPM, Slow Build*****).**
@@ -79,13 +79,13 @@ Code Block 1: The Style Metadata.
 **energy: Dynamic curve (e.g., *****Gentle Intro, Explosive Powerhouse Finale*****).**
 **source_influence: Subtle original touch (e.g., *****Adult Contemporary Phrasing*****)**
 
-**genre: 90s Power Ballad, Adult Contemporary, Orchestral Pop**
-**mood: Epic, Emotional, Romantic**
-**tempo: 72 BPM, Slow Dramatic Build**
-**instruments: Grand Piano, Full String Orchestra, French Horns, Harp, Chimes**
-**percussion: Heavy 90s Gated Snare, Punchy Kick, Timpani Crescendo**
-**bass: Deep Cello Section, Warm Electric Bass**
-**vocals: Powerful Female Diva, Operatic Belting, Lush Vibrato, Dramatic Phrasing**
-**mix: Massive Hall Reverb, Wall of Sound, 90s High-Fidelity Polish**
-**energy: Cinematic Growth, Gentle Opening, Explosive Powerhouse Finale**
-**source_influence: Cinematic Ballad Structure**
+## genre: 90s Power Ballad, Adult Contemporary, Orchestral Pop
+## mood: Epic, Emotional, Romantic
+## tempo: 72 BPM, Slow Dramatic Build
+## instruments: Grand Piano, Full String Orchestra, French Horns, Harp, Chimes
+## percussion: Heavy 90s Gated Snare, Punchy Kick, Timpani Crescendo
+## bass: Deep Cello Section, Warm Electric Bass
+## vocals: Powerful Female Diva, Operatic Belting, Lush Vibrato, Dramatic Phrasing
+## mix: Massive Hall Reverb, Wall of Sound, 90s High-Fidelity Polish
+## energy: Cinematic Growth, Gentle Opening, Explosive Powerhouse Finale
+## source_influence: Cinematic Ballad Structure

@@ -13,8 +13,8 @@ review_frequency: quarterly
 
 ADITI PSYCHOLOGY CENTER
 
-**SURAT PERJANJIAN KERJASAMA**
-**Nomor: MM/B2B/2026/01/001**
+### SURAT PERJANJIAN KERJASAMA
+### Nomor: MM/B2B/2026/01/001
 
 Pada hari ini, **Senin**, tanggal **Dua**, bulan **Maret**, tahun **2026**, bertempat di Jakarta, kami yang bertanda tangan di bawah ini:
 
@@ -25,45 +25,45 @@ Pada hari ini, **Senin**, tanggal **Dua**, bulan **Maret**, tahun **2026**, bert
 **PIHAK PERTAMA** dan** PIHAK KEDUA** secara bersama-sama disebut sebagai **PARA PIHAK. PARA PIHAK** sepakat untuk mengadakan kerjasama Affiliate Partnership dengan ketentuan sebagai berikut:
 
 ## PASAL 1
-**RUANG LINGKUP KERJASAMA**
+### RUANG LINGKUP KERJASAMA
 
 Kerjasama ini bersifat dua arah (resiprokal), di mana** PIHAK PERTAMA** akan mempromosikan layanan** PIHAK KEDUA** kepada siswanya, dan sebaliknya **PIHAK KEDUA** mempromosikan layanan **PIHAK PERTAMA** kepada kliennya.
 Tujuan kerjasama ini adalah untuk memberikan nilai tambah (value) bagi klien/siswa kedua belah pihak dan meningkatkan penjualan jasa masing-masing pihak.
 
 ## PASAL 2
-**PRODUK KERJASAMA & SKEMA BUNDLING**
+### PRODUK KERJASAMA & SKEMA BUNDLING
 
-**Produk yang Ditawarkan:**
+### Produk yang Ditawarkan:
 **PIHAK PERTAMA (CV. MUSTI MUSIK INDONESIA):** Menawarkan produk **"Paid Trial"**, yaitu sesi percobaan belajar musik berbayar dengan harga khusus untuk klien dari **PIHAK KEDUA**.
 **PIHAK KEDUA (PT. ADITI UNITI VERITAS):** Menawarkan produk **"****Online Consultation****"**, yaitu sesi konsultasi psikologi daring dengan harga khusus untuk siswa/orang tua dari **PIHAK PERTAMA**.
-**Skema Bundling Produk:**
+### Skema Bundling Produk:
 **PARA PIHAK** sepakat untuk membuat paket gabungan (*bundling*) sebagai berikut: Penawaran pembelian produk yang ditawarkan **PIHAK PERTAMA ** yang digabung *(bundling)* dengan produk yang ditawarkan **PIHAK KEDUA**
 **Penyesuaian Produk:** Jika di kemudian hari terdapat penambahan atau perubahan produk yang ingin dimasukkan ke dalam sistem *affiliate*, maka hal tersebut cukup dibicarakan dalam *Meeting Evaluasi* dan akan menjadi lampiran yang tidak terpisahkan dari perjanjian ini.
 
 ## PASAL 3
-**MEDIA PROMOSI DAN MATERI KREATIF**
+### MEDIA PROMOSI DAN MATERI KREATIF
 
 **Materi Promosi:** **PARA PIHAK **wajib menyediakan materi promosi dasar masing-masing ataupun kolaborasi yang dapat terdiri dari:
 Logo perusahaan (format transparan/PNG).
 Foto/Video fasilitas atau kegiatan layanan.
 Deskripsi singkat mengenai produk (Paid Trial/Konseling Online).
 **Ruang Lingkup Materi Pemasaran (Media):** **PARA PIHAK** sepakat untuk melaksanakan aktivitas pemasaran selama periode kerjasama  dengan ketentuan minimal sebagai berikut:
-**Media Sosial (Instagram/TikTok):**
+### Media Sosial (Instagram/TikTok):
 **Collaborative Post:** Para Pihak Melakukan minimal **4x (empat kali)** *Collab Post* dalam bentuk Reels ataupun Carousel per bulan berupa konten edukasi atau sejenisnya yang berkaitan dengan kerjasama.
 (misal: manfaat musik untuk kesehatan mental)
 **Instagram Story:** Melakukan minimal **2x (dua kali)** unggahan *story* per minggu (total 8 Story dalam sebulan) yang mempromosikan produk kerja sama (Total 8 story dalam sebulan).
 **Highlight:** Menyimpan informasi promo mitra pada *Highlight/Sorotan* profil masing-masing dengan nama yang disepakati **PARA PIHAK**.
-**Direct Marketing (WhatsApp):**
+### Direct Marketing (WhatsApp):
 Melakukan minimal **2x (dua kali)** *Broadcast* atau pesan informatif per minggu yang dikirim ke grup internal orang tua murid dan klien mengenai promosi kerjasama.
 
-**Penggunaan Kekayaan Intelektual:**
+### Penggunaan Kekayaan Intelektual:
 Setiap penggunaan logo, foto, atau identitas merek milik mitra dalam media promosi harus tetap menjaga etika dan reputasi mitra sebagai hak kekayaan intelektual (HAKI).
 Dilarang mengubah bentuk, warna, atau elemen logo mitra tanpa persetujuan tertulis dari mitra.
 Materi promosi yang dibuat secara mandiri oleh salah satu pihak yang mencantumkan nama pihak lain wajib dikonsultasikan/dikirimkan untuk disetujui sebelum diunggah (*posted*).
 **Tagging & Kolaborasi Sosmed:** **PARA PIHAK** disarankan melakukan *Collaborative Post* di Instagram atau minimal melakukan *mention/tag* akun resmi mitra saat mengunggah materi promosi terkait kerjasama ini.
 
 ## PASAL 4
-**MEKANISME PELAKSANAAN & TRACKING**
+### MEKANISME PELAKSANAAN & TRACKING
 
 Untuk menjamin keadilan, akurasi data, dan pertumbuhan terukur bagi para pihak, **PARA PIHAK** sepakat untuk menerapkan sistem pelacakan dua arah dengan ketentuan sebagai berikut:
 **Mekanisme *****Leads Entry*****:** Seluruh prospek (*leads*) akan diarahkan melalui kanal WhatsApp masing-masing pihak. Prospek yang menggunakan *template* pesan bertanda **"Bundle"** akan dikategorikan sebagai prioritas kerja sama dan wajib dicatat dalam sistem.
@@ -77,7 +77,7 @@ Untuk menjamin keadilan, akurasi data, dan pertumbuhan terukur bagi para pihak, 
 Gambaran skema umum kerjasama dapat dilihat di flowchart yang terdapat pada lampiran.
 
 ## PASAL 5
-**HAK DAN KEWAJIBAN**
+### HAK DAN KEWAJIBAN
 
 **Kewajiban PARA PIHAK**:
 Melakukan promosi layanan mitra secara etis dan profesional.
@@ -90,31 +90,31 @@ Menerima pembayaran komisi sesuai kesepakatan.
 Mengakses laporan data rujukan (siapa saja yang mendaftar program kerjasama) saat pertemuan evaluasi.
 
 ## PASAL 6
-**JANGKA WAKTU KERJASAMA**
+### JANGKA WAKTU KERJASAMA
 
 Perjanjian ini berlaku efektif selama 3 (satu) bulan, terhitung sejak tanggal 1 April 2026 sampai dengan 1 Juli 2026
 
 Pada akhir periode 3 bulan tersebut, **PARA PIHAK** akan melakukan peninjauan ulang (review) untuk memutuskan apakah kerjasama ini akan dilanjutkan, dihentikan, atau direvisi ketentuannya.
 
 ## PASAL 7
-**PEMBAYARAN KOMISI**
+### PEMBAYARAN KOMISI
 
 Rekonsiliasi data (pencocokan data siswa/klien yang masuk) akan dilakukan melalui Meeting Evaluasi setiap 1 bulan sekali yang disepakati kedua pihak.
 
 Pembayaran komisi akan ditransfer selambat-lambatnya 7. Hari setelah Meeting Evaluasi dan kesepakatan jumlah komisi tercapai.
 
 Pembayaran dilakukan melalui transfer bank ke rekening yang ditunjuk masing-masing pihak.
-**PIHAK PERTAMA**
+### PIHAK PERTAMA
 Bank			: BCA
 No. Rekening	: 3190283312
 Atas Nama 	: MUSTI MUSIK INDONESIA CV
-**PIHAK KEDUA**
+### PIHAK KEDUA
 Bank			: BCA
 No. Rekening	: 342-777-1400
 Atas Nama 	: PT.Aditi Uniti Veritas
 
 ## PASAL 8
-**PERSELISIHAN**
+### PERSELISIHAN
 
 Perjanjian ini diatur dan tunduk pada hukum dan perundang-undangan yang berlaku di Republik Indonesia.
 
@@ -123,14 +123,14 @@ Apabila terjadi perselisihan, **PARA PIHAK***** ***sepakat untuk menyelesaikan s
 Dalam hal perselisihan tidak dapat diselesaikan secara musyawarah untuk mufakat, maka **PARA PIHAK **sepakat akan menyelesaikan perselisihan tersebut melalui jalur hukum yang berlaku di kediaman hukum yang umum dan tetap, yaitu di Pengadilan Negeri Jakarta Barat.
 
 ## PASAL 9
-**KEADAAN KAHAR**
+### KEADAAN KAHAR
 
 Keadaan Kahar adalah suatu keadaan diluar kesalahan atau kekuasaan manusia yang menyebabkan tidak dapat terlaksananya atau tertundanya pelaksanaan perjanjian ini,  antara lain yang meliputi kebakaran, banjir, wabah penyakit, gempa bumi, topan, perang, kerusuhan, pemberontakan, demonstrasi, sabotase, dan kebijakan pemerintah di bidang moneter yang dinyatakan sebagai keadaan Kahar.
 
 Dalam hal terjadi keadaan Kahar, PIHAK PERTAMA atau PIHAK KEDUA berkewajiban dalam waktu 30 (tiga puluh) hari sejak terjadinya keadaan Kahar segera memberitahu.
 
 ## PASAL 10
-**PENUTUP**
+### PENUTUP
 
 Perjanjian ini dibuat dengan itikad baik serta saling menguntungkan **PARA PIHAK.**
 
@@ -145,8 +145,8 @@ Demikian Surat Perjanjian Kerjasama ini dibuat rangkap 2 (dua) bermaterai cukup,
 
 ## LAMPIRAN
 
-**DAFTAR HARGA PRODUK BUNDLING **
-**A. PRODUK CV. MUSTI MUSIK INDONESIA **
+### DAFTAR HARGA PRODUK BUNDLING
+### A. PRODUK CV. MUSTI MUSIK INDONESIA
 | Nama Layanan | Paid Trial (1 Sesi) |
 | --- | --- |
 | Harga Normal | Rp385.000,- |
@@ -162,12 +162,12 @@ Demikian Surat Perjanjian Kerjasama ini dibuat rangkap 2 (dua) bermaterai cukup,
 | Harga Setelah Diskon | Rp270.000,- |
 | Komisi untuk Mitra | - |
 
-**C. HARGA BUNDLING**
+### C. HARGA BUNDLING
 | Nama Layanan | “Wellness program Aditi x Mustimusik |
 | --- | --- |
 | Online Counseling Aditi | Rp270.000,- |
 | Paid trial Musti Musik | Rp346.000,- |
 | Harga Bundling (akumulasi harga diskon kedua partnership) | Rp616.000,- |
 
-**SKEMA KERJASAMA DAN TRACKING**
+### SKEMA KERJASAMA DAN TRACKING
 ![image6.png](Perjanjian Kerjasama Aditi - Musti Musik_images/image6.png)

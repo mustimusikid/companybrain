@@ -12,7 +12,7 @@ review_frequency: quarterly
 > Online academy product SOP or operational document for Musti Musik.
 
 FIX
-**ONBOARDING & TRACKING PRIVATE**
+## ONBOARDING & TRACKING PRIVATE
 Actionable:
 Private
 1. Lila kirim link presurvey dan bonus setiap closing murid baru
@@ -22,7 +22,7 @@ Akademi
 1. Lila buat QR dan link unlockables (modul latihan piano dari 0 pdf)
 2. Dave kasih bonus pas onboarding (QR dan link)
 
-**COMMUNITY HELPERS**
+## COMMUNITY HELPERS
 Actionable
 1. Lila cari member lifetime yang aktif (Sophie, Sharon)
 2. Lila chat member tsb bilang mau diangkat jadi community helpers
@@ -39,25 +39,25 @@ Kalau kakak berkenan jadi Community Helpers nantiii kakak berhak ikut Community 
 3. Benefit = Community Contributors Meetup (Private 30 menit 1x per bulan. online)
 4. Lila buat scope of work Community Helpers
 
-**WINS (FARHAZ)**
+## WINS (FARHAZ)
 Actionable
 1. Tentuin video bedah piano mana yg mau diforward di Public Community & VIP (izin dulu)
 2. Buat template message (Lila & Farhaz) & kirim ke public commun tiap minggu
 3. Untuk private, share video murid yg ikut pelayanan ke group sekolah musik
 
-**DISCOVERY (FARHAZ)**
+## DISCOVERY (FARHAZ)
 Actionable
 1. Community Helper oke pin pertanyaannya (Weekly)
 2. Farhaz summarize video YT ke Gemini (1 Video untuk 3 Hari), prompt langsung buat 30 hari kedepan (format Hook, Rangkuman, Link)
 3. Lila/Farhaz share ke group diskusi WA
 4. Farhaz train AI Gemini buat bahasanya bagus dan buat generate summary untuk kedepannya
 
-**PRICING ANNUAL PRIVATE**
+## PRICING ANNUAL PRIVATE
 Actionable
 1. Lila QC dulu harga yg dari kak tian ke kak dave
 2. Lila edit template message untuk org yg mau continue private (tawarin 12 vs 6 bln dulu, baru 3 vs 1 bln)
 
-**CANCELLATION CALL**
+## CANCELLATION CALL
 Actionable
 1. Lila edit quick replies untuk sesi ke-3 (DONE)
 →
@@ -66,7 +66,7 @@ berhubung minggu depan sudah pertemuan ke-4 (sesi terakhir) dari paket kakak saa
 
 2. Kak Dave kirim message/tanyain langsung pas private
 
-**INACTIVE MEMBER REACHOUT & EXIT INTERVIEW**
+## INACTIVE MEMBER REACHOUT & EXIT INTERVIEW
 Exit interview private → kak dave
 Exit interview member:
 Cancellation video → dikirim lewat WA ‘ada message dari Dave’
@@ -96,7 +96,7 @@ Baik kakk terimakasih banyak yaa sudah aktif belajar dengan Musti Musik! Aku pah
 ACTIONABLE (tugasnya apa, PIC, cadence, deadline implemented)
 Notes = highlight hijau → repeated task
 
-**AKTIVASI & ONBOARDING**
+## AKTIVASI & ONBOARDING
 Activation Point Private
 Actionable	:
 Onboarding tiap sesi 1 private + Presurvey (tracking goals sama source) (Dave)
@@ -125,7 +125,7 @@ Actionable	: Buat kolom checklist di spreadsheet data exp, kasih tgl bedah piano
 PIC		: Lila (CS/Akademi)
 Deadline	:
 
-**COMMUNITY & ENGAGEMENT**
+## COMMUNITY & ENGAGEMENT
 Perkenalan Member Baru (Already Applied)
 Actionable	: Welcoming member baru & introduce to community leader
 PIC		: Lila (CS/Akademi)
@@ -159,7 +159,7 @@ Bikin AI gemini (train bahasa yang bagus, generate buat 1 bulan dari video2 kita
 PIC		: 
 Deadline	:
 
-**PRICING, RETENTION, CHURN**
+## PRICING, RETENTION, CHURN
 Pricing Annual Private
 Actionable	:
 Tanya kak tian pricingnya brp (Lila, done)
@@ -201,7 +201,7 @@ Concern: levelnya unlimited ga
 PIC		: 
 Deadline	:
 
-**CUSTOMER JOURNEY**
+## CUSTOMER JOURNEY
 Aktivasi = Onboarding
 Testimonial
 Actionable	:
@@ -212,7 +212,7 @@ Deadline	:
 Referral (Already applied)
 Ascend/Upsell
 
-**PROGRAM BARU PRIVATE**
+## PROGRAM BARU PRIVATE
 Program Pelayanan 3 Bulan Untuk Ikut Pelayanan Worship
 Actionable	:
 Tentuin syarat → minimal beli paket 3 bulan, harus offline

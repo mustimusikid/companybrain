@@ -13,8 +13,8 @@ review_frequency: quarterly
 
 ADITI PSYCHOLOGY CENTER
 
-**SURAT PERJANJIAN KERJASAMA**
-**Nomor: MM/B2B/2026/01/001**
+### SURAT PERJANJIAN KERJASAMA
+### Nomor: MM/B2B/2026/01/001
 
 Pada hari ini, [Hari], tanggal [Tanggal], bulan [Bulan], tahun [Tahun], bertempat di [Kota], kami yang bertanda tangan di bawah ini:
 
@@ -25,15 +25,15 @@ Pada hari ini, [Hari], tanggal [Tanggal], bulan [Bulan], tahun [Tahun], bertempa
 **PIHAK PERTAMA** dan** PIHAK KEDUA** secara bersama-sama disebut sebagai **PARA PIHAK. PARA PIHAK** sepakat untuk mengadakan kerjasama Affiliate Partnership dengan ketentuan sebagai berikut:
 
 ## PASAL 1
-**RUANG LINGKUP KERJASAMA**
+### RUANG LINGKUP KERJASAMA
 
 Kerjasama ini bersifat dua arah (resiprokal), di mana** PIHAK PERTAMA** akan mempromosikan layanan** PIHAK KEDUA** kepada siswanya, dan sebaliknya **PIHAK KEDUA** mempromosikan layanan **PIHAK PERTAMA** kepada kliennya.
 Tujuan kerjasama ini adalah untuk memberikan nilai tambah (value) bagi klien/siswa kedua belah pihak dan meningkatkan penjualan jasa masing-masing pihak.
 
 ## PASAL 2
-**PRODUK KERJASAMA & SKEMA BUNDLING**
+### PRODUK KERJASAMA & SKEMA BUNDLING
 
-**Produk yang Ditawarkan:**
+### Produk yang Ditawarkan:
 **PIHAK PERTAMA (CV. MUSTI MUSIK INDONESIA):** Menawarkan produk **"Paid Trial"**, yaitu sesi percobaan belajar musik berbayar dengan harga khusus untuk klien dari **PIHAK KEDUA**.
 **PIHAK KEDUA (PT. ADITI UNITI VERITAS):** Menawarkan produk **"****Online Consultation****"**, yaitu sesi konsultasi psikologi daring dengan harga khusus untuk siswa/orang tua dari **PIHAK PERTAMA**.
 **Skema Bundling Produk:** **PARA PIHAK** sepakat untuk membuat paket gabungan (*bundling*) sebagai berikut:
@@ -43,7 +43,7 @@ Tujuan kerjasama ini adalah untuk memberikan nilai tambah (value) bagi klien/sis
 **Penyesuaian Produk:** Jika di kemudian hari terdapat penambahan atau perubahan produk yang ingin dimasukkan ke dalam sistem *affiliate*, maka hal tersebut cukup dibicarakan dalam *Meeting Evaluasi* dan akan menjadi lampiran yang tidak terpisahkan dari perjanjian ini.
 
 ## PASAL 3
-**MEDIA PROMOSI DAN MATERI KREATIF**
+### MEDIA PROMOSI DAN MATERI KREATIF
 
 **Materi Promosi:** **PARA PIHAK **wajib menyediakan materi promosi dasar masing-masing ataupun kolaborasi yang dapat terdiri dari:
 Logo perusahaan (format transparan/PNG).
@@ -53,13 +53,13 @@ Deskripsi singkat mengenai produk (Paid Trial/Konseling Online).
 **Media Digital:** Instagram (Feed/Story/Highlight), WhatsApp Status, dan Website.
 **Media Fisik:** Penempatan brosur/X-Banner di lokasi kantor/studio masing-masing (jika ada).
 **Direct Marketing:** Penawaran langsung kepada klien/orang tua murid melalui lisan maupun melalui grup WhatsApp komunitas internal.
-**Penggunaan Kekayaan Intelektual:**
+### Penggunaan Kekayaan Intelektual:
 Setiap penggunaan logo, foto, atau identitas merek milik mitra dalam media promosi harus tetap menjaga etika dan reputasi mitra sebagai hak kekayaan intelektual (HAKI).
 Dilarang mengubah bentuk, warna, atau elemen logo mitra tanpa persetujuan tertulis dari mitra.
 Materi promosi yang dibuat secara mandiri oleh salah satu pihak yang mencantumkan nama pihak lain wajib dikonsultasikan/dikirimkan untuk disetujui sebelum diunggah (*posted*).
 **Tagging & Kolaborasi Sosmed:** **PARA PIHAK** disarankan melakukan *Collaborative Post* di Instagram atau minimal melakukan *mention/tag* akun resmi mitra saat mengunggah materi promosi terkait kerjasama ini.
 ## PASAL 4
-**MEKANISME PELAKSANAAN & TRACKING**
+### MEKANISME PELAKSANAAN & TRACKING
 
 Paket gabungan (bundling) yang disetujui wajib disampaikan untuk setiap sesi promosi yang setara dan dilakukan **PARA PIHAK **dalam jangka waktu yang disepakati (yang akan dibahas di bab 7)
 
@@ -72,7 +72,7 @@ Pada formulir tersebut, klien/siswa wajib mencantumkan sumber referensi (misal: 
 Klaim komisi hanya dianggap sah (valid) apabila sumber referensi tercatat jelas dalam formulir pendaftaran tersebut
 
 ## PASAL 5
-**KOMISI DAN BENEFIT KONSUMEN**
+### KOMISI DAN BENEFIT KONSUMEN
 
 Benefit Konsumen: Konsumen yang datang dari referensi **PARA PIHAK** berhak mendapatkan potongan harga (Diskon) sebesar 10% dari biaya pembelian produk **Paid Trial Musti Musik** ataupun **Online Counseling Aditi Psychological Center**
 
@@ -83,7 +83,7 @@ Jika **PIHAK KEDUA** berhasil merujuk siswa ke** PIHAK PERTAMA, PIHAK KEDUA **be
 Komisi diberikan apabila terjadi transaksi pembayaran (Closing) oleh konsumen.
 
 ## PASAL 6
-**HAK DAN KEWAJIBAN**
+### HAK DAN KEWAJIBAN
 
 Kewajiban **PARA PIHAK**:
 Melakukan promosi layanan mitra secara etis dan profesional.
@@ -96,31 +96,31 @@ Menerima pembayaran komisi sesuai kesepakatan.
 Meminta laporan data rujukan (siapa saja yang mendaftar via affiliate) saat pertemuan evaluasi.
 
 ## PASAL 7
-**JANGKA WAKTU KERJASAMA**
+### JANGKA WAKTU KERJASAMA
 
 Perjanjian ini berlaku efektif selama 1 (satu) bulan, terhitung sejak tanggal [Tanggal Mulai] sampai dengan [Tanggal Berakhir].
 
 Pada akhir periode 1 bulan tersebut, **PARA PIHAK** akan melakukan peninjauan ulang (review) untuk memutuskan apakah kerjasama ini akan dilanjutkan, dihentikan, atau direvisi ketentuannya.
 
 ## PASAL 8
-**PEMBAYARAN KOMISI**
+### PEMBAYARAN KOMISI
 
 Rekonsiliasi data (pencocokan data siswa/klien yang masuk) akan dilakukan melalui Meeting Evaluasi yang disepakati kedua pihak setelah periode 1 bulan berakhir.
 
 Pembayaran komisi akan ditransfer selambat-lambatnya [... Hari] setelah Meeting Evaluasi dan kesepakatan jumlah komisi tercapai.
 
 Pembayaran dilakukan melalui transfer bank ke rekening yang ditunjuk masing-masing pihak.
-**PIHAK PERTAMA**
+### PIHAK PERTAMA
 Bank			: BCA
 No. Rekening	: 3190283312
 Atas Nama 	: MUSTI MUSIK INDONESIA CV
-**PIHAK KEDUA**
+### PIHAK KEDUA
 Bank			:
 No. Rekening	:
 Atas Nama 	:
 
 ## PASAL 9
-**PERSELISIHAN**
+### PERSELISIHAN
 
 Perjanjian ini diatur dan tunduk pada hukum dan perundang-undangan yang berlaku di Republik Indonesia.
 
@@ -129,14 +129,14 @@ Apabila terjadi perselisihan, **PARA PIHAK***** ***sepakat untuk menyelesaikan s
 Dalam hal perselisihan tidak dapat diselesaikan secara musyawarah untuk mufakat, maka **PARA PIHAK **sepakat akan menyelesaikan perselisihan tersebut melalui jalur hukum yang berlaku di kediaman hukum yang umum dan tetap, yaitu di Pengadilan Negeri Jakarta Barat.
 
 ## PASAL 10
-**KEADAAN KAHAR**
+### KEADAAN KAHAR
 
 Keadaan Kahar adalah suatu keadaan diluar kesalahan atau kekuasaan manusia yang menyebabkan tidak dapat terlaksananya atau tertundanya pelaksanaan perjanjian ini,  antara lain yang meliputi kebakaran, banjir, wabah penyakit, gempa bumi, topan, perang, kerusuhan, pemberontakan, demonstrasi, sabotase, dan kebijakan pemerintah di bidang moneter yang dinyatakan sebagai keadaan Kahar.
 
 Dalam hal terjadi keadaan Kahar, PIHAK PERTAMA atau PIHAK KEDUA berkewajiban dalam waktu 30 (tiga puluh) hari sejak terjadinya keadaan Kahar segera memberitahu.
 
 ## PASAL 11
-**PENUTUP**
+### PENUTUP
 
 Perjanjian ini dibuat dengan itikad baik serta saling menguntungkan **PARA PIHAK.**
 

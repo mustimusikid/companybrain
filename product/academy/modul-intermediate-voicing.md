@@ -22,7 +22,7 @@ YANG BAKAL DIBAHAS:
 MUSTI MUSIK.
 ![image9.png](Modul Intermediate Voicing_images/image9.png)
 Disclaimer !
-**Dari sini sampe akhir : **
+## Dari sini sampe akhir :
 Akan banyak main di **kunci C sebagai standar! **MUSTI MUSIK.
 ![image9.png](Modul Intermediate Voicing_images/image9.png)
 MUSTI MUSIK.
@@ -44,14 +44,14 @@ Major 7 7
 Mayor 7 (Penulisan = maj7 atau M7 atau Δ)
 Menambahkan **interval mayor 7 **dari root note pada  sebuah chord
 **Rumusnya: [Chord apapun] + ****maj7**** **
-**Biasanya dipakai chord I dan IV **
+## Biasanya dipakai chord I dan IV
 Cmaj7**→ **C E G B Cmmaj7?
 Cdimmaj7?
 1 2 3 4 5 6 7
 MUSTI MUSIK.
 ![image9.png](Modul Intermediate Voicing_images/image9.png)
 Miskonsepsi Orang-orang
-**CHORD MAYOR 7 ITU: **
+## CHORD MAYOR 7 ITU:
 ![image11.png](Modul Intermediate Voicing_images/image11.png)
 ![image7.png](Modul Intermediate Voicing_images/image7.png)
 **● **❌ **CHORD MAYOR + INTERVAL 7 ****● **✅ **CHORD APAPUN + INTERVAL MAYOR 7  **
@@ -72,21 +72,21 @@ F C G
 MUSTI MUSIK.
 ![image9.png](Modul Intermediate Voicing_images/image9.png)
  **C G Am F  **
-**'Cause if you like the way you look that much **
-** C G C **
-**Oh, baby, you should go and love yourself **
-** C G Am F **
+## 'Cause if you like the way you look that much
+## C G C
+## Oh, baby, you should go and love yourself
+## C G Am F
 **And if you think that I'm still holdin' on to somethin' **
-** C G C **
-**You should go and love yourself**
+## C G C
+## You should go and love yourself
 Love Yourself Chord **C****maj7**** ****G****7**** ****Am****7**** ****F****maj7****  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** C****maj7**** ****G****7**** ****C****maj7**** **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** C****maj7**** ****G****7**** ****Am****7**** ****F****maj7**** **
 **And if you think that I'm still holdin' on to somethin' **
 ** C****maj7**** ****G****7**** ****C****maj7**** **
-**You should go and love yourself **
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.
@@ -107,7 +107,7 @@ CHORD SUS
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 **1 2 5 ****1 4 5 **
-**C D G C F G **
+## C D G C F G
 **Rumus Sus 2 :**** 1 + 2 + 5**** Rumus Sus 4 : ****1 + 4 + 5**
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
@@ -120,21 +120,21 @@ a. I - IV - I --> 1sus2 - 1sus4 - 1
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **C G Am F  **
-**'Cause if you like the way you look that much **
-** C G C **
-**Oh, baby, you should go and love yourself **
-** C G Am F **
+## 'Cause if you like the way you look that much
+## C G C
+## Oh, baby, you should go and love yourself
+## C G Am F
 **And if you think that I'm still holdin' on to somethin' **
-** C G C **
-**You should go and love yourself**
+## C G C
+## You should go and love yourself
 Love Yourself Chord **C****sus2**** ****G Am F****sus2****  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** C****sus2**** ****G C****sus2**** **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** C****sus2**** ****G Am F****sus2**** **
 **And if you think that I'm still holdin' on to somethin' **
 ** C****sus2**** ****G C****sus2**** **
-**You should go and love yourself **
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.
@@ -146,14 +146,14 @@ Inversion merupakan salah satu teknik voicing chord dengan cara  **merubah susun
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Inversion
-**Contoh : **
+## Contoh :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 C E G E G C G C E Basic Chord 1st Inversion 2nd Inversion **C Major Chord **
 Dapat digunakan di **chord apapun : mayor/minor/diminished/augmented **MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Inversion
-**Contoh : **
+## Contoh :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
@@ -161,7 +161,7 @@ Inversion
 Dapat digunakan di **chord apapun : mayor/minor/diminished/augmented **MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Inversion
-**Contoh **
+## Contoh
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ** **B D F D F B F B D  Basic Chord 1st Inversion 2nd Inversion **B Diminished Chord **
@@ -180,7 +180,7 @@ Inversion berguna untuk mendapatkan sound note yang diinginkan Misalnya menjadik
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **C****2nd inv ****G Am F  **
 1 1 3 **3 **3 **2 **1 **3 **3 **2 **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** ****C****2nd inv**** ****G C **
 1 1 2 **3 **1 3 1 **2 **1 **1  ****Oh, baby, you should go and love yourself **
 G C E
@@ -197,7 +197,7 @@ Slash Chords
 Slash Chords
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Slash chord adalah gabungan dari chord + bass yang membentuk suatu  harmoni.
-**Contoh : **
+## Contoh :
 Chord D + Bass C = Chord D/C
 Karakteristik dan feel dari tiap slash chord itu berbeda !, tergantung dari  susunan chordnya
 MUSTI MUSIK.
@@ -225,92 +225,92 @@ MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Slash chord
 Slash chord sangat sering digunakan pada permainan lagu, salah satunya untuk  **menggantikan sebuah chord **atau sebagai **jembatan (passing) chord **
-**Contoh : **
+## Contoh :
 1. Yang sering dipakai **V/VII****, **contohnya **G/B **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Untuk gantiin chord **V**** **atau sebagai
 jembatan dari **I ke v****i****m**** **
 **I - V - vim **menjadi **I - V/VII - vim **
 **C- G - Am **menjadi **C - G/B - Am  **
-**G/B **
+## G/B
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Slash chord
 Slash chord sangat sering digunakan pada permainan lagu, salah satunya  untuk **menggantikan sebuah chord **atau sebagai **jembatan **
-**Contoh : **
+## Contoh :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 2. Yang sering dipakai **IV/V****, **contohnya **F/G **
 Untuk gantiin chord **V**** **atau sebagai
 jembatan dari **IV ke I **atau **V**** ke I**** **
 **IV - V - I **menjadi **IV - IV/V - I **
 **F - G - C **menjadi **F - F/G - C  **
-**F/G **
+## F/G
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Slash chord
 Slash chord sangat sering digunakan pada permainan lagu, salah satunya  untuk **menggantikan sebuah chord **atau sebagai **jembatan **
-**Contoh : **
+## Contoh :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 3. Yang sering dipakai **I/III****, **contohnya **C/E **
 Untuk gantiin chord **iiim **atau sebagai
 jembatan dari **I ke IV**** **
 **I - iiim - IV **menjadi **I - I/III - IV **
 **C- Em - F **menjadi **C - C/E - F  **
-**C/E **
+## C/E
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Slash chord
 Slash chord sangat sering digunakan pada permainan lagu, salah satunya  untuk **menggantikan sebuah chord **atau sebagai **jembatan **
-**Contoh : **
+## Contoh :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 4. Yang sering dipakai **II/IV#****, **contohnya **D/F# **
 Untuk gantiin chord **II**** **atau sebagai
 jembatan dari **iim ke V**** **
 **iim - II- V **menjadi **iim - II/IV# - V **
 **Dm - D - G **menjadi **Dm - D/F# - G  **
-**D/Gb **
+## D/Gb
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Slash chord
 Slash chord sangat sering digunakan pada permainan lagu, salah satunya  untuk **menggantikan sebuah chord **atau sebagai **jembatan **
-**Contoh : **
+## Contoh :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 5. Yang sering dipakai **III/V#****, **contohnya **E/G# **
 Untuk gantiin chord **III**** **atau sebagai
 jembatan **dari I ke vim **atau **IV ke vim**** **
 **I - III - vim **menjadi **I - III/V# - vim **
 **C - Em - Am **menjadi **C - E/G# - Am  **
-**E/G# **
+## E/G#
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Slash chord
 Slash chord sangat sering digunakan pada permainan lagu, salah satunya  untuk **menggantikan sebuah chord **atau sebagai **jembatan **
-**Contoh : **
+## Contoh :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 5. Yang sering dipakai **I/V****, **contohnya **C/G **
 Untuk gantiin chord **V **atau sebagai
 jembatan **dari vim ke IV **atau **IV ke vim**** **
 **IV - V - vim **menjadi **IV - I/V - vim **
 **F - G - Am **menjadi **F - C/G - Am  **
-**E/G# **
+## E/G#
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **C G Am F  **
-**'Cause if you like the way you look that much **
-** C G C **
-**Oh, baby, you should go and love yourself **
-** C G Am F **
+## 'Cause if you like the way you look that much
+## C G C
+## Oh, baby, you should go and love yourself
+## C G Am F
 **And if you think that I'm still holdin' on to somethin' **
-** C G C **
-**You should go and love yourself**
+## C G C
+## You should go and love yourself
 Love Yourself Chord **C ****G/B ****Am F  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** C ****F/G ****C **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** C ****G/B ****Am F **
 **And if you think that I'm still holdin' on to somethin' **
 ** C ****C/G ****G C **
-**You should go and love yourself **
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.
@@ -320,14 +320,14 @@ Power Chord (X5)
 Power Chord merupakan chord yang terdiri dari **root + note ke 5 **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
-**Rumus : **
+## Rumus :
 **1 + 5 **
  1 3 5 1 5  C Major Chord C Power Chord (C5)
 **3b **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 5Power Chord biasa  dipakai untuk
-**genre Rock **
+## genre Rock
  1 5 1 5  F Minor Chord F Power Chord (F5)
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
@@ -335,7 +335,7 @@ Fun fact about power chord
 Kalian kalau sadar, power chord dari C mayor dan C minor itu sama.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
-**Rumus : **
+## Rumus :
 **1 + 5 **
  1 3 5 1 5  C Major Chord C Power Chord (C5)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
@@ -347,7 +347,7 @@ MUSTI MUSIK.
 Power chord
 Power chord sering digunakan pada rock dan metal karena secara harmoni  sangat powerful, apalagi dengan efek-efek distortion atau overdrive kalau di gitar.
 Aplikasi di piano bisa digunakan di ending lagu untuk **mengirim powerful &  ambiguous statement. **
-**Contoh : **
+## Contoh :
 **I - V - I **menjadi **I - V - I5 **
 **C- G - C **menjadi **C - G - C5  **
 **Im - V - Im **menjadi **Im - V - I5 **
@@ -359,12 +359,12 @@ Love Yourself Chord
 **'Cause if you like the way you look that much  C G C **
 **Oh, baby, you should go and love yourself  C G Am F **
 **And if you think that I'm still holdin' on to somethin'  C G C **
-**You should go and love yourself **
+## You should go and love yourself
 ** ****C G Am F  **
 **'Cause if you like the way you look that much  C G C **
 **Oh, baby, you should go and love yourself  C G Am F **
 **And if you think that I'm still holdin' on to somethin'  C G ****C****5**** **
-**You should go and love yourself**
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.
@@ -374,14 +374,14 @@ Major 6 Chord (6)
 Major 6 chord merupakan chord Major yang ditambahkan **nada ke 6 **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
-**Rumus Major 6 : **
+## Rumus Major 6 :
 **1 +3 + 5 + 6 **
  1 3 5 1 3 5 6  C Major Chord CMaj6 Chord
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Majo Chord ini biasa dipakai
 dalam
-**genre Rag **
+## genre Rag
 ** **1 3 5 1 3 5 6 Bisa dipakai untuk
 substitusi **Major 7**
 F Major Chord FMaj6 Chord
@@ -391,12 +391,12 @@ Minor 6 merupakan chord minor yang ditambahkan **nada ke 6 **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
-**Rumus Minor 6 : **
-**1 + 3b + 5 + 6 **
+## Rumus Minor 6 :
+## 1 + 3b + 5 + 6
  1 3b 5 1 3b 5 6
 D minor Chord Dmin6 Chord 5Chord ini biasa dipakai
 dalam **genre Rag + spy  **
-**movie music **
+## movie music
  6
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
@@ -405,7 +405,7 @@ E minor Chord Emin6 Chord tidak selalu cocok
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  Chord 69 (Pemanis Chord Maj6) Gabungan antara chord **Major 6 + Major 9 **(nada ke-2)
-**Rumus Chord 69 : **
+## Rumus Chord 69 :
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 1 3 5 6 9  C69 Chord
 **1 + 3 + 5 + 6 + 9 **
@@ -413,39 +413,39 @@ MUSTI MUSIK.
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **C****maj7**** ****G****7**** ****Am****7**** ****F****maj7****  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** C****maj7**** ****G****7**** ****C****maj7**** **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** C****maj7**** ****G****7**** ****Am****7**** ****F****maj7**** **
 **And if you think that I'm still holdin' on to somethin' **
 ** C****maj7**** ****G****7**** ****C****maj7**** **
-**You should go and love yourself**
+## You should go and love yourself
 Love Yourself Chord **C****maj6**** ****G****7**** ****Am****7**** ****F****maj6****  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** ****C****maj6**** ****G****7**** ****C****maj6**** **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** ****C****maj6**** ****G****7**** ****Am****7**** ****F****maj6**** **
 **And if you think that I'm still holdin' on to somethin' **
 ** ****C****maj6**** ****G****7**** ****C****69**** **
-**You should go and love yourself **
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **Dm7  **
-**The falling leaves **
+## The falling leaves
 **G7 C****maj7****  **
-**Drift by the window **
-**Fmaj7 Bm7b5 **
-**The autumn leaves  **
-**E7 Am **
-**of red and gold**
+## Drift by the window
+## Fmaj7 Bm7b5
+## The autumn leaves
+## E7 Am
+## of red and gold
 Autumn Leaves Chord **Dm7  **
-**The falling leaves **
+## The falling leaves
 **G7 C****maj7****  **
-**Drift by the window **
-**Fmaj7 Bm7b5 **
-**The autumn leaves  **
+## Drift by the window
+## Fmaj7 Bm7b5
+## The autumn leaves
 **E7 ****Am****6**** **
-**of red and gold **
+## of red and gold
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.
@@ -460,8 +460,8 @@ Chord m7b5 sering disebut sebagai **Half Diminished **
 m7b5
 Rumus chord **half diminished : **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
-**1 + 3b + 5b + 7b **
-**Chord m7b5 **
+## 1 + 3b + 5b + 7b
+## Chord m7b5
 menciptakan rasa ketidakpastian dan ambiguitas, karena  menggunakan **nada disonan **
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
@@ -473,7 +473,7 @@ MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 m7b5 dan iim-V-I
 Jika dikembangan lagi, **m7b5 **dapat diaplikasikan ke chord-chord lain  dengan prinsip **iim - V - I **
-**Contoh :  **
+## Contoh :
 **C ke A****m ****→ C - Bm7b5 - E - A****m**** **
 ** **I IIm V I
 **G ke ****Dm ****→ G - F#m7b5 - A - ****Dm**** **
@@ -482,21 +482,21 @@ Jika dikembangan lagi, **m7b5 **dapat diaplikasikan ke chord-chord lain  dengan 
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **C ****G ****Am ****F  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** ****C ****G ****C **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** ****C ****G ****Am ****F **
 **And if you think that I'm still holdin' on to somethin' **
 ** ****C ****G ****C **
-**You should go and love yourself**
+## You should go and love yourself
 Love Yourself Chord **C ****Bm7b5 E ****Am ****F  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** ****C ****Dm7b5 G ****C **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** ****C ****Bm7b5 E ****Am ****F **
 **And if you think that I'm still holdin' on to somethin' **
 ** ****C ****Dm7b5 G ****C **
-**You should go and love yourself **
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.
@@ -514,12 +514,12 @@ MUSTI MUSIK.
 Extension Chords
 Seperti 7th Chords, Extension Chords terdiri dari Major dan Dominan **Extension Chords **
 **Major 9,11,13 ****Dominant 9,11,13 **
-** Minor 9,11,13 **
+## Minor 9,11,13
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Major 9, 11, 13
 Menambahkan interval **Mayor 9, Mayor 11, dan Mayor 13 **dari root note  pada sebuah chord **Mayor 7 **
-**CMaj 9, 11, 13 **
+## CMaj 9, 11, 13
 **Rumus Maj 9, 11, 13 **:
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 ** ****Major 7 **9 11 13 **DMaj 9, 11, 13 **
@@ -530,7 +530,7 @@ MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 9, 11, 13
 Menambahkan interval Mayor 9, Mayor 11, dan Mayor 13 dari root note  pada sebuah **chord Dominant 7 **
-**C 9, 11, 13 **
+## C 9, 11, 13
 **Rumus 9, 11, 13 **:
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 **Dominant 7 **9 11 13 **D 9, 11, 13 **
@@ -542,7 +542,7 @@ Menambahkan interval Mayor 9, Mayor 11, dan Mayor 13 dari root note  pada sebuah
 Extension Chords
 Secara teori, isian chord-chord extension (9,11,13) memang dimainkan,  tapi dalam prakteknya **ga harus semua dimainkan **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
-**Contoh **
+## Contoh
 Secara Teori CMaj13 → **C E G B D F A **Bisa juga CMajor13 → **C E G B A **
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 1 2 3 4 5 6 7 8 9 10 11 12 13
@@ -558,21 +558,21 @@ Contoh :
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **C G Am F  **
-**'Cause if you like the way you look that much **
-** C G C **
-**Oh, baby, you should go and love yourself **
-** C G Am F **
+## 'Cause if you like the way you look that much
+## C G C
+## Oh, baby, you should go and love yourself
+## C G Am F
 **And if you think that I'm still holdin' on to somethin' **
-** C G C **
-**You should go and love yourself**
+## C G C
+## You should go and love yourself
 Love Yourself Chord **C****maj9**** ****G****7**** ****Am****9**** ****F****maj9****  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** C****maj9**** ****G****9**** ****C****maj9**** **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** C****maj9**** ****G****11**** ****Am****9**** ****F****maj9**** **
 **And if you think that I'm still holdin' on to somethin' **
 ** C****maj9**** ****G****13**** ****C****maj9**** **
-**You should go and love yourself **
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.
@@ -583,7 +583,7 @@ Altered chord merupakan chord yang dimainkan dengan  menambahkan **nada ke-9, 11
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 1 2 3 4 5 6 7 8 9 10 11 12 13
 Mirip konsep extention chord !
-**Contoh Altered Chord : G7#9 **
+## Contoh Altered Chord : G7#9
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 Altered Chord
@@ -591,7 +591,7 @@ Altered Chord
 **Kenaikan nada (#) → not setelah nada tsb (½ interval) Penurunan nada (b) → not sebelum nada tsb **
 ** ****b #**** # b  **
 1 2 3 4 5 6 7 8 **9 **10 **11 **12 **13 **
-**Contoh do=C **
+## Contoh do=C
 ** **b9=**Db**** **#9=**D# **#11=**F# **b13=**A****b  **
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
@@ -662,21 +662,21 @@ Cotoh :
  Gambaran G13 - Gb13 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
  **C G Am F  **
-**'Cause if you like the way you look that much **
-** C G C **
-**Oh, baby, you should go and love yourself **
-** C G Am F **
+## 'Cause if you like the way you look that much
+## C G C
+## Oh, baby, you should go and love yourself
+## C G Am F
 **And if you think that I'm still holdin' on to somethin' **
-** C G C **
-**You should go and love yourself**
+## C G C
+## You should go and love yourself
 Love Yourself Chord **C****maj7#11**** ****G****9b13**** ****Am****7**** ****F****maj7****  **
-**'Cause if you like the way you look that much **
+## 'Cause if you like the way you look that much
 ** C****maj9**** ****G****13b9**** ****C****maj9**** **
-**Oh, baby, you should go and love yourself **
+## Oh, baby, you should go and love yourself
 ** C****maj9**** ****G****9#11**** ****Am****9**** ****F****maj9**** **
 **And if you think that I'm still holdin' on to somethin' **
 ** C****maj9**** ****G****9b13**** ****C****maj7#11**** **
-**You should go and love yourself **
+## You should go and love yourself
 MUSTI MUSIK.
 ![image5.png](Modul Intermediate Voicing_images/image5.png)
 MUSTI MUSIK.

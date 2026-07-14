@@ -26,12 +26,12 @@ Tujuanku sederhana, Biar kamu bisa main piano dengan lebih paham, lebih bebas, d
 # KATA MEREKA (5 dari 1000+ murid):
 ![image69.png](Buku Worship_images/image69.png)
 
-**dr. Kelvin **
+### dr. Kelvin
 (Spesialis Mata & Pemilik Klinik, Senior)  **   ****  **
 *“Belajar Piano dengan Dave sangat menyenangkan dan cepat berkembang dengan teori yang mudah dipraktekkan”  *
 ![image67.png](Buku Worship_images/image67.png)
 
-**Dr. Elly Moniyong**
+### Dr. Elly Moniyong
 (Gembala Gereja & Dosen, 73th)
 *“Dave mengajarkan teknik piano flowing yang bisa aku pakai langsung saat sedang pelayanan di gereja”*
 
@@ -41,7 +41,7 @@ Tujuanku sederhana, Biar kamu bisa main piano dengan lebih paham, lebih bebas, d
 *“Berkat ko Dave, Alf bisa belajar pelayanan worship lebih manis dengan variasi chord miring dan genre  lainnya”*
 
 ![image67.png](Buku Worship_images/image67.png)
-**Fenny**
+### Fenny
 (Pengarang Lagu)
 *“Belajar worship dengan Dave membuat saya lepas dari sheets musik dan mengenal chord manis untuk mengiring saat pelayanan”*
 
@@ -51,7 +51,7 @@ Tujuanku sederhana, Biar kamu bisa main piano dengan lebih paham, lebih bebas, d
 *“Di awal aku otodidak dan merasa stuck, berkat Dave dan ilmu dari buku ini, aku bisa main manis di lagu gereja dan ga C, F, G doang”*
 
 ***Dan Masih Ada Banyak Cerita Lainnya…***
-**CARA BUKU INI BISA MEMBANTUMU**
+### CARA BUKU INI BISA MEMBANTUMU
 Setiap minggu, pianis di gereja memainkan lagu yang sama. Tapi hanya sebagian kecil yang benar-benar tahu apa yang sedang mereka mainkan. Banyak yang hafal gaya ngiring, tahu chord, bisa ikut musik dengan baik, tapi ketika lagu berubah, atau ketika harus bermain spontan, semuanya berhenti. Jari masih bisa jalan, tapi telinga dan hati belum tahu mau ke mana.
 Aku tahu rasanya karena aku dulu juga begitu, dan itu bukan karena kita malas belajar, tapi karena nggak ada sistem belajar yang jelas buat pianis worship. Kebanyakan orang cuma diajar main lagu, bukan *mengerti musiknya*. Masalahnya, kalau kamu nggak ngerti dasarnya, kamu cuma akan bisa *meniru permainan*, bukan *bermain piano*. Dan dalam pelayanan musik, itu bikin kamu cepat mentok.
 
@@ -72,13 +72,13 @@ Chord adalah bagian inti dari harmoni. Kamu akan belajar berbagai jenis chord da
 Variasi & Improvisasi**
 **Di sini kamu mulai bermain lebih bebas. Kamu akan belajar teknik improvisasi, inner voice, arpeggio, fill in, hingga licks khas worship yang akan membuat  permainanmu terasa hidup dan ekspresif.
 Buku ini bisa dibaca dari awal sampai akhir, atau langsung ke bagian yang dibutuhkan.  Yang terpenting, jangan cuma dibaca, berlatihlah setiap contoh dan pattern yang ada di dalamnya.** **Untuk mendukung proses belajarmu, buku ini juga dilengkapi dengan QR code yang berisi video-video visual pembelajaran sehingga kamu bisa praktek langsung. Kalau kamu konsisten mengikuti langkah-langkah di buku ini, kamu akan melihat perubahan nyata dalam permainanmu dan lebih siap untuk melayani.
-**KAMU BUTUH DASAR ILMU PIANO**
+### KAMU BUTUH DASAR ILMU PIANO
 ![image53.png](Buku Worship_images/image53.png)
 Materi di buku ini membutuhkan ilmu dasar piano (sudah tau tuts, kenal dengan kunci C, bisa main chord mayor dan minor)** **untuk bisa diaplikasikan langsung ke permainanmu. Jika kamu belum pernah belajar piano, TENANG AJA! **Kamu bisa langsung scan QR video di bawah ini untuk belajar piano dasar dalam 7 hari!**
 ![image52.png](Buku Worship_images/image52.png)
 ![image55.png](Buku Worship_images/image55.png)
 Scan QR Code di di samping untuk strategi belajar piano dasar dalam 7 hari!
-**DAFTAR ISI**
+### DAFTAR ISI
 KATA PENULIS
 CARA BUKU INI BISA MEMBANTUMU
 BAB I    : Cara Mengiring Lagu Apapun di  Gereja
@@ -86,7 +86,7 @@ BAB II : Rahasia Bermain Worship dengan Chord Miring yang Enak
 BAB III: Strategi Belajar Variasi Piano Worship Yang Manis
 BAB IV : Yang Harus Kamu Lakukan Sekarang!
 
-**BAB I**
+### BAB I
 Cara Mengiring Lagu Apapun
 di Gereja
 
@@ -97,13 +97,13 @@ Dulu aku juga begitu. Waktu aku belajar piano sebelum pelayanan, aku hanya belaj
 ![image53.png](Buku Worship_images/image53.png)
 Mengiring atau *Comping *berasal dari kata *accompanying* (menemani) yang dalam konteks worship berarti mengiringi jemaat atau penyanyi secara harmonis dan ritmis. Seorang pianis tidak hanya menekan chord sesuai teks lagu, tetapi juga menjaga ritme, mendukung suasana, dan melengkapi vokal maupun instrumen lain.
 ![image54.png](Buku Worship_images/image54.png)
-**Lagu Gereja**
+### Lagu Gereja
 Kamu sangat disarankan scan QR
 di samping untuk belajar dengan contoh langsung di video.
 Kalau kamu sudah cukup lama melayani di gereja, kamu pasti sadar: tidak  semua lagu rohani punya “rasa” yang sama. Ada yang tenang dan mendalam, ada juga yang cepat dan penuh semangat. Itulah sebabnya mengapa dalam pelayanan musik gereja, lagu biasanya dibagi menjadi dua kelompok besar:
-**Lagu Praise**
+### Lagu Praise
 Lagu praise adalah lagu gereja yang memiliki memiliki karakteristik sukacita, semangat dengan tempo yang cepat. Lagu praise biasanya dimainkan dalam format band, dengan pembagian peran untuk masing-masing instrumen. Dalam lagu praise, pianis berperan dalam menentukan jenis chord yang digunakan dan menambah variasi. Maka dalam bermain piano di lagu praise, pianis harus memperhatikan prinsip bermain band.
-**Lagu Worship dan Injili**
+### Lagu Worship dan Injili
 
 Lagu worship dan injili memiliki karakteristik yang tenang dan lebih lambat, sehingga gaya ngiring yang digunakan untuk mengiring cenderung sama.
  Meskipun pattern lagu worship dan injili sama, namun format yang dimainkan sedikit berbeda. Lagu worship biasanya dimainkan dalam bentuk band atau piano. Sedangkan lagu injili (seperti lagu-lagu di  Kidung Jemaat) biasanya dalam bermain tangan kanan, pianis akan memainkan melodi lagunya, sedangkan tangan kiri tetap bermain pattern.
@@ -149,7 +149,7 @@ Tangan kiri = power chord (1 + 5) atau oktaf (1 + 1’)
 
 Kenapa kita tidak bermain chord di tangan kiri? Karena nada tangan kiri berada di posisi yang rendah, dan bermain chord di nada bawah akan membuat suara jadi tidak enak dan bertumpuk (coba deh main C mayor di bagian rendah piano, suaranya jadi jelek!)
 Kesimpulannya, dalam bermain pattern ngiring, tangan kanan akan main chord, tangan kiri bermain 1-5-1’ atau power chord atau oktaf yang disesuaikan dengan ketukan lagunya.
-**Pattern Ngiring Lagu Worship**
+### Pattern Ngiring Lagu Worship
 ![image53.png](Buku Worship_images/image53.png)
 Pada lagu *Worship*, iringan cenderung lambat, mengisi ritme dengan lembut. Pola dasarnya sederhana, tapi bisa dikembangkan menjadi lebih mengalir. Pattern ini juga yang bisa di pakai dalam gereja Injili (misalnya GKI, GKJ) dengan hanya fokus pada tangan kiri saja.
 ![image26.png](Buku Worship_images/image26.png)
@@ -170,7 +170,7 @@ LH     V
 → Pattern dimainkan dengan block chord di tiap ketukan pertama.
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**b. Pattern Ramai**
+### b. Pattern Ramai
            1     n      2     n     3      n     4     n
 RH     V            V	     V             V
 LH      1
@@ -183,7 +183,7 @@ RH     V    V     V     V     V     V     V     V
 LH      V
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**c. Pattern Menyatu**
+### c. Pattern Menyatu
            1      n      2     n      3      n     4      n
 RH     V                             V
 LH      1       5      1’     5      1       5     1’       5
@@ -196,12 +196,12 @@ LH      1       5      3’     5      1       5     3’     5
 → Pattern dimainkan dengan tangan kiri yang selalu berjalan.
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-** d. Pattern Mengalir Ke Atas**
+### d. Pattern Mengalir Ke Atas
            1        n        2       n        3       n       4     n
 RH                    2   3       5                        2 3     5
 LH      1    5   1’                           1   5   1’
 → Pattern dimainkan dengan tangan kiri dan kanan yang selalu berjalan.
-** e. Pattern Mengalir Konstan**
+### e. Pattern Mengalir Konstan
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
 RH    1      n      2     n      3      n      4     n
@@ -231,7 +231,7 @@ QR Code ini untuk belajar dengan
 contoh langsung di video.
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**a. Pattern Dasar**
+### a. Pattern Dasar
 LH      1      n      2     n     3     n     4     n
 RH     V
 LH     V
@@ -345,7 +345,7 @@ Contoh lagu worship:
 *        F7       C7*
 *ada kes'lamatan kekal*
 
-**d. Pattern Boogie Woogie**
+### d. Pattern Boogie Woogie
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
 Genre boogie woogie adalah turunan lain dari genre blues yang asik, juga menggunakan syncope.
@@ -422,18 +422,18 @@ Bila Roh Allah Ada (do = C)
 ### Cara Mengiringi
 Ketika bermain piano worship, salah satu hal terpenting untuk diperhatikan adalah cara memposisikan tangan kita dalam permainan. Umumnya pianis dapat membedakan posisi permainan menjadi 3 kondisi:
 ![image35.png](Buku Worship_images/image35.png)
-**Piano solo**
+### Piano solo
 Saat bermain piano solo, kamu boleh mengambil semua range di piano, mulai dari range paling rendah (low register), sampai range tertinggi (high register)
 Tangan kiri: Pattern (di low - medium register)
 Tangan kanan: Melodi (di medium - high register)
 ![image35.png](Buku Worship_images/image35.png)
-**Bermain piano dengan penyanyi**
+### Bermain piano dengan penyanyi
 Saat bermain dengan penyanyi, kamu harus mulai menghentikan penggunaan high register. Karena jika dipaksa dimainkan akan bertumpuk tindih dengan range suara vokal.
 Tangan kiri: Pattern (low - medium register)
 Tangan kanan: Full chord (medium register) atau sedikit fill in (high register)
 
 ![image35.png](Buku Worship_images/image35.png)
-**Bermain piano dengan band**
+### Bermain piano dengan band
 
 Saat bermain dengan band, kamu harus mulai menghentikan penggunaan low register. Karena akan bertumpuk tindih dengan instrumen lain (bass). Jika dalam band terdapat instrumen *lead *(seperti saxophone, biola, lead gitar) kamu juga bisa membatasi penggunaan high register, karena bisa bertabrakan dengan instrumen tersebut.
 Tangan kiri: Pattern (di medium register)
@@ -484,7 +484,7 @@ Sekarang kamu sudah tahu bahwa bermain piano di ibadah bukan sekadar menekan tut
 Kalau kamu sudah mulai terbiasa dengan berbagai gaya ngiring, langkah selanjutnya adalah memahami fondasi di balik semua itu, chord dan progresi. Karena pattern tanpa pemahaman harmoni akan membuat permainanmu tetap membosankan.
 **“Mainlah dengan telinga dan hati. Karena teori hanyalah alat, bukan tujuan bermain piano”**
 
-**BAB II**
+### BAB II
 Rahasia Bermain Worship dengan Chord yang Manis
 
 Waktu aku mulai belajar pelayanan di gereja, akhirnya tiba waktunya untuk aku mulai bertugas untuk mengiring. Bermodalkan gaya ngiring yang sudah aku ajarkan sebelumnya yang dimainkan bersama chord basic, aku pun mulai mengiring jemaat. Tapi aku sadar, kalau hanya mengandalkan gaya ngiring tanpa mengubah chordnya, permainanku justru terkesan *kaku dan membosankan*.
@@ -544,7 +544,7 @@ Cadd2 – G – Am – G – F
 Voicingnya tidak berubah, tapi progresinya berubah!
 ![image1.png](Buku Worship_images/image1.png)
 ![image53.png](Buku Worship_images/image53.png)
-**Bahasa Universal Progresi Chord**
+### Bahasa Universal Progresi Chord
 Kamu sangat disarankan scan
 QR di samping untuk belajar cara berpindah kunci lebih dalam lagi.
 Dalam musik, para musisi suka memberi nama kode untuk chord-chord agar lebih mudah diingat dan dipindahkan ke nada lain. Kode yang mereka pakai adalah angka Romawi. Kamu mungkin pernah lihat angka Romawi, seperti I, V, atau IV. Dalam musik, kita pakai angka Romawi untuk mewakili chord-chord yang ada dalam satu keluarga nada, yang kita sebut tangga nada (misalnya Do, Re, Mi, Fa, Sol, La, Si, Do).
@@ -568,7 +568,7 @@ Huruf kecil atau tanda “m” (ii, iii, vi atau IIm, IIIm, VIm): Dipakai untuk 
 Angka romawi khusus (VII° atau vii°): Angka tujuh dan ada tanda lingkaran di atasnya (disebut *diminished*), yang bunyinya tegang.
 Belajar progresi chord dan voicing chord adalah dua hal yang sangat berbeda. **Progresi menjawab pertanyaan "Chord apa selanjutnya?", dan voicing menjawab "Bagaimana cara chord itu disusun?".** Karena tujuannya berbeda, aku membagi bab ini menjadi 2 subbab berbeda, dimulai dari voicing!
 
-**BAB IIA**
+### BAB IIA
 Jenis Voicing Yang Sering Dipakai di Worship
 
 ![image53.png](Buku Worship_images/image53.png)
@@ -833,7 +833,7 @@ G13 (G + B + D + F + A + C) ke chord C
 Di chord minor (minor 9, 11, 13) untuk menggantikan chord minor agar lebih berwarna. Pakailah chord m9 untuk pemula. Contohnya:
 E  → Em9 (E + G + B + D + F#)
 Dm → Dm9 (D + F + A + C + E)
-**Teori ≠ Praktek**
+### Teori ≠ Praktek
 ![image176.png](Buku Worship_images/image176.png)
 Secara teori, isian chord-chord extension (9,11,13) harus dimainkan semua, tapi dalam prakteknya, tidak perlu.
 Contoh
@@ -890,7 +890,7 @@ Rumus:  dominant 7 + nada 9 + nada #11
 Bisa dipakai di chord II (jembatan ke-V) jadi manis
 Contohnya Dm-G-C  jadi D9(#11) - G - C
 
-**Tips Extension & Extension Altered Chord**
+### Tips Extension & Extension Altered Chord
 Jangan terlalu banyak menggunakan chord altered di sepanjang lagu, karena chord ini tegang dan suara nya unik (biasa disebut chord mahal).
 Bagi kamu yang berpikir bahwa extension & altered extension itu ada banyak tuts sehingga 1 tangan tidak cukup memainkan semua not nya, triknya adalah tangan kiri memainkan 1&7 nya, dan tangan kanan memainkan 3, 5, dan extensionnya (9,11,13).
 Contoh di lagu worship
@@ -905,7 +905,7 @@ Amazing Grace (do=C)
 *     G        **G9(#11)**  C*
 *Was blind, but now I see.*
 
-**BAB IIB**
+### BAB IIB
 Bertumbuh Bersama
 
 Kalau kamu sudah sampai di halaman ini, aku mau bilang satu hal: terima kasih,** **karena** **kamu sudah mengambil langkah untuk bertumbuh dalam bermain worship piano, dan itu sesuatu yang nggak semua orang pilih lakukan.
@@ -917,14 +917,14 @@ nggak tahu harus mulai dari mana. Caranya gimana? Tolong berikan ulasan jujur un
 melalui scan QR disamping:
 Testimoni dari kamu bisa membantu pianis lain menemukan arah lebih cepat dan melayani dengan lebih percaya diri. Dan sebagai ucapan terima kasih, kamu akan mendapatkan bonus materi latihan worship piano eksklusif setelah kamu memberi review (anggap saja hadiah kecil karena kamu sudah ikut menolong orang lain bertumbuh).
 
-**BAB IIC**
+### BAB IIC
 Jenis Progresi Yang Sering Dipakai di Worship
 
 ![image53.png](Buku Worship_images/image53.png)
 ![image123.png](Buku Worship_images/image123.png)
 Kamu sangat direkomendasikan scan QR di samping untuk belajar dengan contoh langsung di video
 
-**Chord Function Substitution**
+### Chord Function Substitution
 Chord function substitution adalah teknik untuk mengganti suatu chord dengan chord lain yang masih memiliki fungsi harmoni sama. Arti fungsi harmoni apa tuh? Jadi, dalam keluarga chord, sebuah chord akan dibedakan menjadi 3 fungsi: tonic, predominant dan dominant. Sesama jenis chord dapat digunakan untuk substitusi sesamanya.
 | Fungsi Chord | Anggota Chord | Contoh do=C |
 | --- | --- | --- |
@@ -1007,7 +1007,7 @@ Shout to the Lord (do=C)
 *         G    F**           ** G*
 *At the sound of Your name*
 
-**Modulation**
+### Modulation
 Modulation adalah teknik perpindahan dari satu nada dasar (kunci) ke nada dasar lainnya. Modulation sering digunakan untuk menciptakan puncak emosi, memberikan energi baru, atau menyesuaikan suasana musik sesuai kebutuhan.
 ![image126.png](Buku Worship_images/image126.png)
 Dalam praktiknya, modulation dapat digunakan untuk menaikkan maupun menurunkan suasana lagu. Modulation naik biasanya memberikan kesan lebih kuat, penuh, atau semakin menggebu, sedangkan modulation **turun** dapat memberi nuansa lebih lembut, tenang, atau reflektif.
@@ -1065,7 +1065,7 @@ How Great Thou Art (do=C)
 * **F/G   G** **            C       *
 *How great Thou art *
 
-**Line Cliché**
+### Line Cliché
 Line Cliché adalah progresi chord di mana nada tertinggi bergerak naik atau nada terendah turun secara bertahap (*naik satu-satu*) sementara bentuk chord utamanya tetap sama. Teknik ini menciptakan pergerakan melodi di dalam chord yang halus tanpa harus mengubah chord.
 ![image75.png](Buku Worship_images/image75.png)
 Contoh dimana nada tertinggi bergerak naik:
@@ -1146,7 +1146,7 @@ Contohnya:
 F           Em Am   Dm               G
 5434 . . 43  23  . .  176 . 5 .   12  →  [lirik]
 
-**Teknik Ending Worship**
+### Teknik Ending Worship
 Ada dua cara untuk mengakhiri sebuah lagu, yaitu dengan (1) pengulangan dan (2) membuat ending sendiri dengan licks (licks akan dibahas di Bab III). Pengulangan cenderung dilakukan di bait-bait terakhir. Teknik ini bisa kamu terapkan pada setiap ending di lagu worship apapun. Caranya adalah dengan memainkan chord progresi yang bisa membuat efek *loop* (berulang) pada permainan kita.
 Chord progresi untuk pengulangan bisa pilih dari sini (pilih salah satu aja yang kamu paling suka):
 1. I - IIm - IIIm
@@ -1233,14 +1233,14 @@ Sekarang kamu sudah tahu bahwa bermain chord bukan cuma sekedar menekan chord, t
 Langkah selanjutnya adalah belajar bagaimana cara memperkaya permainanmu, menambah warna, variasi, dan karakter tanpa kehilangan rasa worship-nya. Itulah yang akan kamu pelajari di bab berikutnya.
  *“Chord adalah seni untuk menghidupkan permainan dan menyenangkan semua orang”*
 
-**BAB III**
+### BAB III
 Strategi Belajar Variasi Piano Worship Yang Manis
 
 Dalam pengalamanku belajar melayani, setelah aku paham cara mengiringi dan juga tahu  jenis-jenis chord, tetap aja kadang waktu main lagu worship, aku masih merasa ada sesuatu yang kurang. Rasanya lagu yang aku mainkan masih monoton dan tak ada ekspresi, sampai suatu hari aku belajar cara bermain variasi.
 Bermain variasi bukan hanya sekedar menambahkan nada, tapi tentang membangun rasa dan dinamika, membuat permainan punya emosi dan terasa lebih manis. Menurut aku, ini salah satu teknik rahasia pianis worship yang bisa membuat  permainan terasa jauh lebih baik. Kamu wajib tahu teknik ini!
 Di bab ini, kamu akan belajar bagaimana teknik variasi yang aku pakai seperti inner voice, fill-in, arpeggio, sampai licks bisa membuat  permainanmu lebih hidup.
 
-**Inner Voice**
+### Inner Voice
 ![image81.png](Buku Worship_images/image81.png)
 ![image53.png](Buku Worship_images/image53.png)
 Sebelum lanjut, kamu bisa scan
@@ -1322,7 +1322,7 @@ Rumus  untuk 6th Interval adalah:
 **           **1&6            2&7                    3&1                   4&2
 
 **                     **5&3              6&4                   7&5
-**Cara Pakai 3rd & 6th Interval:**
+### Cara Pakai 3rd & 6th Interval:
 Kalau sudah belajar teorinya, cara pakai teknik ini adalah dengan membuang not untuk harmoni ke bawah sejauh intervalnya dari melodinya. Contoh:
 melodinya EFG, artinya 3rd intervalnya adalah CDE.
 ![image240.png](Buku Worship_images/image240.png)
@@ -1555,7 +1555,7 @@ Sbab Dia Hidup (do=C)
 
 ![image321.png](Buku Worship_images/image321.png)
 ![image53.png](Buku Worship_images/image53.png)
-**3. Passing Not**
+### 3. Passing Not
 kamu sangat disarankan scan QR di samping untuk belajar langsung melalui bentuk video.
 *Passing not* adalah nada penghubung antara dua nada. Tujuannya membuat permainan bass di tangan kiri memiliki perpindahan yang lebih mengalir dan tidak kaku.
 ![image318.png](Buku Worship_images/image318.png)
@@ -1587,10 +1587,10 @@ Amazing Grace (do=C)
 Di bab ini, kamu sudah belajar bagaimana variasi dan improvisasi bisa membuat permainanmu lebih hidup. Bukan untuk membuat permainan terdengar rumit, tapi untuk memberi rasa dan kedalaman di setiap lagu yang kamu mainkan. Karena musik bukan hanya soal bermain yang benar, tapi tentang menyampaikan sesuatu. Inner voice, passing not, fill-in, atau licks hanyalah alat, yang terpenting adalah bagaimana kamu menggunakannya untuk melayani, bukan hanya pamer skill, tapi untuk kemuliaan nama Tuhan.
 Di bab berikutnya, kita akan bahas bagaimana semua hal ini bisa kamu latih dengan cara yang praktikal, supaya bukan cuma tahu secara teori, tapi bisa benar-benar bisa kamu pakai langsung di permainanmu.
 
-**BAB IV**
+### BAB IV
 Yang Harus Kamu Lakukan Sekarang
 
-**Yang Harus Kamu Lakukan Sekarang**
+### Yang Harus Kamu Lakukan Sekarang
 
 ## Langkah Latihan Praktikal
 Setelah kamu belajar tentang pattern, chord, dan variasi, sekarang saatnya melangkah ke latihan nyata. Karena tanpa latihan yang terarah, semua teori hanya akan jadi pengetahuan di kepala. Banyak pemain berhenti berkembang bukan karena malas, tapi karena nggak tahu harus latihan dari mana. Bab ini akan bantu kamu menyusun latihan yang sederhana tapi efektif, supaya setiap kamu duduk di depan piano, kamu tahu apa yang harus dilakukan.
@@ -1709,7 +1709,7 @@ Online (via zoom)
 Scan atau hubungi +6283199414911
 Karena slot sangat terbatas!
 
-**Penutup**
+### Penutup
 	Terima kasih untuk diri kamu yang mau untuk terus maju dan berkembang dalam belajar piano.  Aku tahu kamu punya keinginan kuat untuk bisa mencapai goals piano worship mu, dan semoga kamu tetap dalam semangat yang membara itu. Aku harap buku ini bisa menjadi teman terbaikmu dalam belajar dan menjawab semua pertanyaan atau kesulitan belajarmu. Jangan ragu untuk terus mengulang belajar dan berlatih, karena hal-hal baik harus diperjuangkan.
 	Aku juga ingin meminta maaf apabila ada kekurangan atau kesalahan dalam penulisan buku ini, apabila kamu ingin memberi masukan, kritik ataupun saran, kamu bisa sampaikan lewat QR dibawah ini. Terima kasih atas antusiasme kamu, dan Tuhan memberkati!!
 ![image99.png](Buku Worship_images/image99.png)
@@ -1745,17 +1745,17 @@ Draf
 Potongan Bab 1
 ![image183.png](Buku Worship_images/image183.png)
 
-**Cara Mengiring Lagu Apapun di Gereja**
+### Cara Mengiring Lagu Apapun di Gereja
 
 ![image53.png](Buku Worship_images/image53.png)
-**Lagu Gereja**
+### Lagu Gereja
 Kamu sangat disarankan scan QR
 di samping untuk belajar
 dengan contoh langsung di video.
 Kalau kamu sudah cukup lama melayani di gereja, kamu pasti sadar: tidak  semua lagu rohani punya “rasa” yang sama. Ada yang tenang dan mendalam, ada juga yang cepat dan penuh semangat. Itulah sebabnya mengapa dalam pelayanan musik gereja, lagu biasanya dibagi menjadi dua kelompok besar:
-**Lagu Praise**
+### Lagu Praise
 Lagu praise adalah lagu gereja yang memiliki memiliki karakteristik sukacita, semangat dengan tempo yang cepat. Lagu praise biasanya dimainkan dalam format band, dengan pembagian peran untuk masing-masing instrumen. Dalam lagu praise, pianis berperan dalam menentukan jenis chord yang digunakan dan menambah variasi. Maka dalam bermain piano di lagu praise, pianis harus memperhatikan prinsip bermain band.
-**Lagu Worship dan Injili**
+### Lagu Worship dan Injili
 
 Lagu worship dan injili memiliki karakteristik yang tenang dan lebih lambat, sehingga gaya ngiring yang digunakan untuk mengiring cenderung sama.
  Meskipun pattern lagu worship dan injili sama, namun format yang dimainkan sedikit berbeda. Lagu worship biasanya dimainkan dalam bentuk band atau piano. Sedangkan lagu injili (seperti lagu-lagu di  Kidung Jemaat) biasanya dalam bermain tangan kanan, pianis akan memainkan melodi lagunya, sedangkan tangan kiri tetap bermain pattern.
@@ -1800,19 +1800,19 @@ Tangan kiri = power chord (1 + 5) atau oktaf (1 + 1’)
 Kenapa kita tidak bermain chord di tangan kiri? Karena nada tangan kiri berada di posisi yang rendah, dan bermain chord di nada bawah akan membuat suara jadi tidak enak dan bertumpuk (coba deh main C mayor di bagian rendah piano, suaranya jadi jelek!)
 Kesimpulannya, dalam bermain pattern ngiring, tangan kanan akan main chord, tangan kiri bermain 1-5-1’ atau power chord atau oktaf yang disesuaikan dengan ketukan lagunya.
 
-**Pattern Ngiring Lagu Worship**
+### Pattern Ngiring Lagu Worship
 ![image53.png](Buku Worship_images/image53.png)
 Pada lagu *Worship*, iringan cenderung lambat, mengisi ritme dengan lembut. Pola dasarnya sederhana, tapi bisa dikembangkan menjadi lebih mengalir. Pattern ini juga yang bisa di pakai dalam gereja Injili (misalnya GKI, GKJ) dengan hanya fokus pada tangan kiri saja.
 Kamu direkomendasikan scan
 QR code dibawah ini untuk
 belajar dalam bentuk video
-**Pattern Dasar**
+### Pattern Dasar
 *[akses terbatas]*
-**Pattern Ramai**
+### Pattern Ramai
 *[akses terbatas]*
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**Pattern Menyatu**
+### Pattern Menyatu
            1      n      2     n      3      n     4      n
 RH     V                             V
 LH      1       5      1’     5      1       5     1’       5
@@ -1835,9 +1835,9 @@ LH      1       5      3’     5      1       5     3’     5
 *                         Am       G         F*
 *What a wonderful Name it is, *the Name of Jesus
 
-**Pattern Mengalir ke Atas**
+### Pattern Mengalir ke Atas
 *[akses terbatas]*
-**Pattern Mengalir Konstan**
+### Pattern Mengalir Konstan
 *[akses terbatas]*
 
 ### Pattern Ngiring Lagu Praise
@@ -1847,11 +1847,11 @@ Kamu dianjurkan scan QR
 disamping untuk belajar
 dalam bentuk video
 
-**Pattern Dasar**
+### Pattern Dasar
 *[akses terbatas]*
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**Pattern Ramai**
+### Pattern Ramai
 RH     1     n     2     n      3     n     4      n
 RH     V           V             V            V
 LH      V                           V
@@ -1871,7 +1871,7 @@ Coba latihan di Lagu Praise:
 *     Dm          G          C*
 *Sukacita surga nyata penuhiku *
 
-**Pattern Syncope**
+### Pattern Syncope
 *	[akses terbatas]*
 
 Untuk pattern genre-genre Praise yang lebih variatif seperti blues, latin, dan genre lainnya akan dibahas pada bagian dibawah ini.
@@ -1906,7 +1906,7 @@ Contoh lagu worship:
 *        F7       C7*
 *ada kes'lamatan kekal*
 
-**d. Pattern Boogie Woogie**
+### d. Pattern Boogie Woogie
 *[akses terbatas]*
 
 #### e. Pattern Lagu Anak-anak (Ragtime)
@@ -1919,14 +1919,14 @@ Contoh lagu worship:
 
 ### Cara Mengiringi
 Ketika bermain piano worship, salah satu hal terpenting untuk diperhatikan adalah cara memposisikan tangan kita dalam permainan. Umumnya pianis dapat membedakan posisi permainan menjadi 3 kondisi:
-**Piano Solo**
+### Piano Solo
 *[akses terbatas]*
 ![image35.png](Buku Worship_images/image35.png)
-**Bermain piano dengan penyanyi**
+### Bermain piano dengan penyanyi
 Saat bermain dengan penyanyi, kamu harus mulai menghentikan penggunaan high register. Karena jika dipaksa dimainkan akan bertumpuk tindih dengan range suara vokal.
 Tangan kiri: Pattern (low - medium register)
 Tangan kanan: Full chord (medium register) atau sedikit fill in (high register)
-**Bermain Piano dengan Band**
+### Bermain Piano dengan Band
 *[akses terbatas]*
 
 ### 99% Pianis Lupa Dengan Prinsip Ini
@@ -1946,7 +1946,7 @@ Tangan kanan: Full chord (medium register) atau sedikit fill in (high register)
 Potongan Bab 2
 ![image183.png](Buku Worship_images/image183.png)
 
-**Rahasia Bermain Worship dengan Chord yang Manis**
+### Rahasia Bermain Worship dengan Chord yang Manis
 
 ![image53.png](Buku Worship_images/image53.png)
 Kamu sangat disarankan scan
@@ -1986,7 +1986,7 @@ Bejanamu (do=C)
 *Pikiranku, kehendakku, *
 *Fsus2 **     **Gsus2*
 *kuserahkan pada-Mu*
-**Slash Chord**
+### Slash Chord
 *[akses terbatas]*
 ### 7th Chords
 *[akses terbatas]*
@@ -2012,18 +2012,18 @@ Contoh di lagu worship:**
 *S'lamanya,*
 ### (ADVANCED) Extension Chord (9,11,13)
 
-**Teori ≠ Praktek**
+### Teori ≠ Praktek
 *[akses terbatas]*
 ### (ADVANCED) Extension Altered Chords
 *[akses terbatas]*
-**Tips: Extension Altered Chord**
+### Tips: Extension Altered Chord
 *[akses terbatas]*
 
-**Jenis Progresi Yang Sering Dipakai di Worship**
+### Jenis Progresi Yang Sering Dipakai di Worship
 
 ![image53.png](Buku Worship_images/image53.png)
 Kamu sangat direkomendasikan scan QR di samping untuk belajar  dengan contoh langsung di video
-**Chord Function Substitution**
+### Chord Function Substitution
 *[akses terbatas]*
 ### Secondary Dominant
 	​Secondary Dominant adalah salah satu teknik progresi chord untuk menambah "chord jembatan" yang menuju chord spesifik. Rumus dari Secondary Dominant adalah memainkan chord V7 sebelum mencapai chord tujuan yang sebenarnya. Chord Dominant 7 ini memiliki tegangan yang kuat dan secara alami ingin diselesaikan ke chord yang menjadi tujuan utamanya.
@@ -2056,7 +2056,7 @@ Goodness of God (do=C)
 ***secondary dominant*
 ### IIm–V Progresi
 *[akses terbatas]*
-**Modulation**
+### Modulation
 Modulation adalah teknik perpindahan dari satu nada dasar (kunci) ke nada dasar lainnya. Modulation sering digunakan untuk menciptakan puncak emosi, memberikan energi baru, atau menyesuaikan suasana musik sesuai kebutuhan.
 ![image12.png](Buku Worship_images/image12.png)
 ![image10.png](Buku Worship_images/image10.png)
@@ -2089,9 +2089,9 @@ How Great Thou Art (do=C ke do=D)
 *               D       *
 *How great Thou art *
 
-**Pedal Tones**
+### Pedal Tones
 **	***[akses terbatas]*
-**Line Cliché**
+### Line Cliché
 *[akses terbatas]*
 ### Progresi Untuk Opening & Open Worship
 *[akses terbatas]*
@@ -2121,7 +2121,7 @@ Contohnya:
 F           Em Am   Dm               G
 5434 . . 43  23  . .  176 . 5 .   12  →  [lirik]
 
-**Teknik Ending Worship**
+### Teknik Ending Worship
 *[akses terbatas]*
 #### Cara Cari Chord Lagu Worship Apapun
 *[akses terbatas]*
@@ -2169,7 +2169,7 @@ Pemberian feedback yang personal dan mendalam.
 Dan aku mau bagi semua hal ini ke kamu supaya kamu bisa lebih cepat capai goals kamu di piano, lewat:
 Buku Jazz
 
-**BAB I**
+### BAB I
 Cara Mengiring Lagu Jazz Apapun
 
 Banyak pianis bisa memainkan lagu jazz, tapi tidak semua bisa **bermain jazz dengan benar**. Mereka bisa membaca lead sheet, hafal chord, bahkan paham skala dan teori jazz. Tapi begitu harus bermain lepas dari partitur, improvisasi terasa kaku, ragu, dan tidak mengalir.
@@ -2177,13 +2177,13 @@ Sebenarnya, masalahnya bukan di kemampuan teknisnya, tapi di **cara berpikir saa
 Dulu aku juga begitu. Waktu pertama kali belajar jazz, aku selalu bergantung sama music sheet. Selama ada not, aku aman bisa main lagu apapun.. Tapi begitu harus bermain tanpa baca, aku langsung bingung harus ngapain. Dari situ aku sadar, bahwa jazz bukan tentang membaca apa yang tertulis, tapi tentang **memahami bahasa musiknya**.
 Setelah bertahun-tahun memberi kebebasan, tapi kebebasan itu bukan tanpa aturan. Ada konsep, pola, dan teknik tertentu yang menjadi pondasinya, mulai dari cara mengiring genre-genre jazz, memahami chord dan progresi dalam jazz, sampai cara mengembangkan ide saat improvisasi jazz.
 Di bab ini, kamu akan belajar melihat jazz bukan sebagai kumpulan not di kertas, tapi sebagai **cara yang bisa kamu pahami dan terapkan langsung,**, sehingga kamu bisa bermain lebih bebas di lagu jazz manapun.
-**Memahami Jazz Secara Singkat**
+### Memahami Jazz Secara Singkat
 Jazz lahir dari perjalanan panjang musik orang-orang Afrika-Amerika di awal abad ke-20. Berawal dari blues, ragtime, dan musik gereja, jazz berkembang menjadi musik yang menekankan kebebasan berekspresi dan interaksi antar pemain. Sejak awal, jazz tidak dimaksudkan untuk dimainkan persis seperti yang tertulis, melainkan sebagai ruang untuk berimprovisasi dan merespons satu sama lain.
 Seiring waktu, banyak lagu jazz yang terus dimainkan dari generasi ke generasi. Lagu-lagu inilah yang kemudian dikenal sebagai **jazz standards**. Bukan karena lagunya harus dimainkan sama persis, tetapi karena lagu-lagu tersebut menjadi dasar bersama untuk belajar, berimprovisasi, dan berkomunikasi dalam bahasa jazz.
 Untuk membantu musisi mempelajari lagu-lagu ini, dibuatlah **Real Book**, sebuah kumpulan lead sheet yang berisi melodi utama dan chord progression. Real Book bukan panduan bermain yang kaku, melainkan alat bantu agar pemain bisa mengembangkan gaya dan interpretasinya sendiri.
 Memahami sedikit sejarah ini akan membantu kamu melihat jazz bukan sebagai musik yang rumit, tapi sebagai tradisi yang hidup, terus berkembang lewat kreativitas para pemainnya.
 
-**Bermain Piano Jazz**
+### Bermain Piano Jazz
 Dalam Bermain Piano Jazz, seorang pianis Jazz dapat membagi permainan menjadi 2 kategori bermain.
 Ketika bermain Solo
 Ketika Mengiring Penyanyi
@@ -2237,11 +2237,11 @@ Tangan kiri = power chord (1 + 5) atau oktaf (1 + 1’)
 
 Kenapa kita tidak bermain chord di tangan kiri? Karena nada tangan kiri berada di posisi yang rendah, dan bermain chord di nada bawah akan membuat suara jadi tidak enak dan bertumpuk (coba deh main C mayor di bagian rendah piano, suaranya jadi jelek!)
 Kesimpulannya, dalam bermain pattern ngiring, tangan kanan akan main chord, tangan kiri bermain 1-5-1’ atau power chord atau oktaf yang disesuaikan dengan ketukan lagunya.
-**Pattern Bermain Solo Lagu Jazz**
+### Pattern Bermain Solo Lagu Jazz
 Dalam bermain solo, peran pianist jazz adalah sebagai performer utama, dimana setiap melodi, chord, dan rhythm bergabung menjadi satu dan dimainkan dalam piano. Oleh karena itu pattern bermain solo, selain bermain chord juga akan memainkan melodi lagunya juga.
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**a. Swing**
+### a. Swing
 LH      1     n     2      n     3      n      4     n
 RH      Melodi Lagu
 LH      Walking Bass
@@ -2305,7 +2305,7 @@ Fly me to the Moon (do=C)
 
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**b. Ballad**
+### b. Ballad
            1     n      2     n     3      n     4     n
 RH     Melodi  Lagu
 LH      1     5      3’    5      1      5       3’    5
@@ -2331,7 +2331,7 @@ Misty (do=C)
 *        Dm           G          C*
 *I get misty, just holding your hand.*
 
-**c. Bossa Nova**
+### c. Bossa Nova
 Bossa Nova adalah salah satu genre yang berasal dari perpaduan musik jazz dengan ritme(rhythm) dari musik dari Amerika Latin. Ritme dari Bossa Nova (Bossa Nova Rhythm) Menjadi cirikhas genre style ini
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
@@ -2374,7 +2374,7 @@ C
 *         C*
 *goes "A-a-a-h"*
 
-** d. Blues**
+### d. Blues
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
 Blues memiliki ciri khas menggunakan perpaduan syncope dan menggunakan perpaduan not 1, 5, dan 6 yang dipadukan dengan chord 7 (chord 7 akan dibahas di BAB II).
@@ -2399,7 +2399,7 @@ Fly me to the Moon (do=C)
 *      B       E         Am*
 *In other words, baby, kiss me*
 
-** e. Rag**
+### e. Rag
 Ragtime adalah genre Jazz yang populer pada awal abad ke-20 yang dipengaruhi oleh musik rakyat Afrika-Amerika dan musik Eropa. Ragtime ditandai permainan piano dengan pola dan ritme kompleks.
 
 ![image53.png](Buku Worship_images/image53.png)
@@ -2434,7 +2434,7 @@ L.O.V.E (do=C)
 *D                  G*
 *E is even more than anyone that you adore *
 
-**Pattern Bermain Mengiring Lagu Jazz dengan Penyanyi (Comping)**
+### Pattern Bermain Mengiring Lagu Jazz dengan Penyanyi (Comping)
 Dalam bermain dengan penyanyi (bermain comping), peran pianist jazz dapat dilengkapi dengan penyanyi yang akan membawakan melodi dan lirik lagu. Oleh karena itu pattern bermain dengan penyanyi akan berbeda dibanding bermain solo, terlebih pada pattern tangan kanan. Meskipun pattern akan cenderung berbeda, tapi konsep pattern rhythm mengiringnya akan tetap sama, terlebih jika berpindah kunci, maka patternnya tetap.
 ![image229.png](Buku Worship_images/image229.png)
 Dalam bermain comping, sebenarnya tangan kanan kita juga bebas untuk naik ataupun turun
@@ -2442,7 +2442,7 @@ Tangan Kiri		      Tangan Kanan
 Caranya dengan menggunakan arpeggio untuk bergerak keatas ataupun kebawah.
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
-**a. Swing**
+### a. Swing
 LH      1     n     2      n     3      n      4     n
 RH      V		     V
 LH      Walking Bass
@@ -2486,7 +2486,7 @@ Fly me to the Moon (do=C)
 *      B       E         Am*
 *In other words, baby, kiss me*
 
-**b. Ballad**
+### b. Ballad
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
 Ballad dengan ciri yang dimainkan lembut memiliki rhythm pattern untuk penyanyi yang juga sederhana
@@ -2513,7 +2513,7 @@ Misty (do=C)
 *        Dm           G          C*
 *I get misty, just holding your hand.*
 
-**c. Bossa Nova**
+### c. Bossa Nova
 Bossa Nova pada saat mengiring penyanyi juga menggunakan pattern syncop yang khas tangan kanan (RH).
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
@@ -2540,7 +2540,7 @@ C
 *And when she passes, each one she passes*
 *         C*
 *goes "A-a-a-h"*
-** d. Blues**
+### d. Blues
 ![image53.png](Buku Worship_images/image53.png)
 ![image53.png](Buku Worship_images/image53.png)
 	Saat mengiring penyanyi, genre blues dimainkan dengan lebih “penuh” menggunakan tangan kanan dan kiri dengan pattern berikut:
@@ -2570,7 +2570,7 @@ Fly me to the Moon (do=C)
 *In other words, hold my hand*
 *      B       E         Am*
 *In other words, baby, kiss me*
-** e. Rag**
+### e. Rag
 **	**Comping pada genre Rag juga menggunakan pattern syncop yang khas juga sebagai berikut:
 
 ![image53.png](Buku Worship_images/image53.png)
@@ -2866,7 +2866,7 @@ Aku nulis buku ini supaya kamu nggak perlu ngerasain ribetnya proses yang sama k
 Tujuanku sederhana, Biar kamu bisa main piano dengan lebih paham, lebih bebas, dan lebih percaya diri. Bukan cuma main lagu tapi benar-benar mengiringi penyembahan dengan pengertian. Selamat datang di perjalanan baru kamu. Sekarang saatnya bukan cuma belajar, tapi berkembang!
 
  Liong, Dave Henokh ALCM. DIPLCM.
-**STEP-BY-STEP BELAJAR PIANO WORSHIP DALAM 1 BULAN**
+### STEP-BY-STEP BELAJAR PIANO WORSHIP DALAM 1 BULAN
 Setiap minggu, pianis di gereja memainkan lagu yang sama. Tapi hanya sebagian kecil yang benar-benar tahu apa yang sedang mereka mainkan. Banyak yang hafal pattern, tahu chord, bisa ikut musik dengan baik, tapi ketika lagu berubah, atau ketika harus bermain spontan, semuanya berhenti. Jari masih bisa jalan, tapi telinga dan hati belum tahu mau ke mana.
 Aku tahu rasanya, karena aku dulu juga begitu. Dan itu bukan karena kita malas belajar, tapi karena nggak ada sistem belajar yang jelas buat pianis worship. Kebanyakan orang cuma diajar main lagu, bukan *mengerti musiknya*. Masalahnya, kalau kamu nggak ngerti dasarnya kamu cuma akan bisa *meniru permainan*, bukan *bermain piano*. Dan dalam pelayanan musik, itu bikin kamu cepat mentok.
 Buku ini lahir untuk mengubah itu. Bukan dengan teori yang rumit, tapi dengan langkah-langkah praktis yang bisa kamu pakai langsung di gereja: bagaimana cara membaca pattern, menyusun chord yang indah, memahami progresi, dan menambahkan variasi yang membuat permainanmu lebih hidup.
@@ -2895,16 +2895,16 @@ Belajar piano tanpa arah itu seperti nyetir tanpa GPS, kamu bisa terus jalan, ta
 ** Di sini kamu mulai bermain lebih bebas.
  Kamu akan belajar teknik improvisasi, inner voice, arpeggio, fill in, hingga licks khas worship yang bikin permainanmu terasa hidup dan ekspresif.
 Kamu bisa membaca buku ini dari awal sampai akhir, atau langsung ke bagian yang kamu butuhkan saat ini. Tapi saran aku, jangan cuma dibaca, berlatihlah setiap contoh dan pattern yang ada di dalamnya.** **Untuk mendukung proses belajarmu, buku ini juga dilengkapi dengan QR code yang berisi video-video visual pembelajaran sehingga kamu bisa praktek langsung. Karena skill musik tidak dibentuk dari teori, tapi dari pengulangan yang sadar dan terarah. Kalau kamu konsisten mengikuti langkah-langkah di buku ini, kamu akan melihat perubahan nyata dalam permainanmu. bukan cuma terdengar lebih bagus, tapi juga lebih mengalir, lebih peka, dan lebih siap untuk melayani.
-**DAFTAR ISI**
+### DAFTAR ISI
 
 BAB I	: Cara Mengiring Piano Praise and Worship di Gereja
 BAB II	: Rahasia Bermain Worship dengan Chord Miring yang enak
 BAB III	: Strategi Belajar Variasi Piano Worship Yang Manis
 BAB IV	: Yang Harus Kamu Lakukan Sekarang!
 
-**BAB I**
+### BAB I
 Cara Mengiring Piano Praise and Worship di Gereja
-**CARA MENGIRING PIANO PRAISE DAN WORSHIP DI GEREJA**
+### CARA MENGIRING PIANO PRAISE DAN WORSHIP DI GEREJA
 
 ### Mengiring Piano
 Banyak pianis bisa main lagu, tapi nggak semua bisa ngiring lagu dengan benar. Mereka tahu chord-nya, hafal lagunya, bahkan ngerti teori musiknya, tapi begitu disuruh ngiring ibadah, permainan mereka terdengar datar, kaku, atau malah nutup suara penyanyi.
@@ -2914,12 +2914,12 @@ Pada bab ini aku ini akan mengubah cara pandangmu tentang ngiring lagu yang bena
 ### Mengiring (Comping) di Piano
 Mengiring atau *Comping *berasal dari kata *accompanying* (menemani) yang dalam konteks worship berarti mengiringi jemaat atau penyanyi secara harmonis dan ritmis. Seorang pianis tidak hanya menekan chord sesuai teks lagu, tetapi juga menjaga ritme, mendukung suasana, dan melengkapi vokal maupun instrumen lain.
 Dalam praktiknya, Comping dapat dibedakan menjadi 2 jenis, comping piano dan penyanyi serta comping bersama band. Pattern yang dimainkan kedua jenis comping ini dapat dikatakan identik sama, hanya saja untuk mengiring band pianis harus memperhitungkan posisi permainan agar tidak terlalu rendah agar tidak bertabrakan dengan instrumen bass.
-**Lagu Gereja**
+### Lagu Gereja
 Kalau kamu sudah cukup lama main di gereja, kamu pasti sadar: nggak semua lagu rohani punya “rasa” yang sama. Ada yang tenang dan mendalam, ada juga yang cepat dan penuh semangat.Itulah kenapa dalam pelayanan musik gereja, lagu biasanya dibagi menjadi dua kelompok besar: Worship dan Praise (termasuk gaya Injili).
 Meskipun keduanya sama-sama berbicara tentang penyembahan, tapi suasana, dinamika, dan cara mengiringinya berbeda jauh.
-**Lagu Praise**
+### Lagu Praise
 Lagu Praise adalah lagu gereja yang memiliki memiliki karakteristik sukacita, semangat dan temponya cepat. Lagu praise biasanya dimainkan dalam format band, dengan pembagian peran untuk masing-masing instrumen. Dalam lagu prais, pianis berperan dalam menentukan jenis chord yang digunakan dan menambah variasi, untuk itu dalam bermain piano di lagu praise harus memperhatikan prinsip bermain band.
-**Lagu Worship dan Injili**
+### Lagu Worship dan Injili
 Lagu worship dan dan injili adalah lagu gereja yang memiliki karakteristik yang serupa. Lagu jenis ini memiliki karakteristik yang tenang, sedikit lebih lambat, dan syahdu sehingga pattern yang digunakan untuk mengiring cenderung sama.
 Namun, meskipun pattern nya sama, karena format yang dimainkan sedikit berbeda, dalam bentuk band (worship) dan piano dan penyanyi melalui kidung jemaat (injili) maka biasanya tangan kanan pada lagu injili akan memainkan melodi lagunya, sedangkan di tangan kiri tetap bermain pattern.
 ### Cara Mengiringi Dengan Pattern
@@ -2944,7 +2944,7 @@ Tangan kiri = power chord (1 + 5) atau oktaf (1 + 1’)
 Pada lagu *Worship*, iringan cenderung lambat, mengisi ritme dengan lembut. Pola dasarnya sederhana, tapi bisa dikembangkan menjadi lebih ngalir. Pattern ini juga yang bisa di pakai dalam gereja Injili (misalnya GKI, GKJ) dengan hanya melihat tangan kirinya saja.
 Scan QR Code ini untuk
 belajar dengan Video:
-**a. Pattern Dasar**
+### a. Pattern Dasar
 |   1     n     2      n     3      n      4     n    |
 |   V                         	  	                 |
 |   1                    		                 |
@@ -2953,7 +2953,7 @@ belajar dengan Video:
 |   V                                                          |
 |   V                                                          |
 → Pattern dimainkan dengan Block chord tiap ketukan pertama.
-**b. Pattern Pengembangan 1**
+### b. Pattern Pengembangan 1
 |   1     n      2     n     3      n     4     n   |
 |   V           	         V     		  |
 |   1              				  |
@@ -2962,17 +2962,17 @@ belajar dengan Video:
 |   V                            V                           |
 |   V                                                          |
 
-**c. Pattern Pengembangan 2 - Bass Berjalan**
+### c. Pattern Pengembangan 2 - Bass Berjalan
 |   1      n      2     n      3      n     4       n    |
 |   V                             V     		       |
 |   1       5       1’    5       1      5     1’        5   |
 → pattern dimainkan dengan tangan kiri yang selalu berjalan
-** d. Pattern 5 – Bass Jalan chord sus**
+### d. Pattern 5 – Bass Jalan chord sus
 |  1        n        2       n        3       n       4       n      |
 |                 2   3       5                          2  3    5      |
 |  1    5   1’                             1  5  1’                         |
 → pattern dimainkan dengan tangan kiri dan kanan yang selalu berjalan
-** e. Pattern 6 – flowing**
+### e. Pattern 6 – flowing
 |  1      n      2     n      3     n      4     n     |
 |  3  5  1  2  3  5  1  2  3 5  1  2  3  5  1  2   |
 |  1               1             1              1                |
@@ -2999,27 +2999,27 @@ Pada lagu *praise*, iringan cenderung energik, mengisi ritme dengan kuat. Pola d
 Scan QR Code ini untuk
 belajar video
 
-**a. Pattern Dasar**
+### a. Pattern Dasar
 |   1      n      2     n     3     n     4     n   |
 |   V                    			   |
 |   V                      			   |
 → Chord ditekan di ketukan 1 yang membuat dasar kuat.
-**b. Pattern Pengembangan 1**
+### b. Pattern Pengembangan 1
 |   1      n      2     n      3     n     4     n   |
 |   V                   	V		   |
 |   V                      	V		   |
 → pattern ini dimainkan setiap ketukan 1 dan 3 yang memberi kesan sedikit semangat .
-**c. Pattern Pengembangan 2**
+### c. Pattern Pengembangan 2
 |   1     n     2     n      3     n     4      n  |
 |   V           V             V            V          |
 |   V                           V                         |
 → pattern ini dimainkan setiap ketukannya yang memberi kesan sedikit semangat .
-**c. Pattern Pengembangan 4 (syncop)**
+### c. Pattern Pengembangan 4 (syncop)
 |   1     n     2     n     3     n     4     n     |
 |   V                   V                                  |
 |   V                   V          	               |
 → Pattern syncop ditekan ketika ditengah ketukan
-**d. Pattern Pengembangan 5 (syncop)**
+### d. Pattern Pengembangan 5 (syncop)
 |   1       n      2     n     3     n     4     n     |
 |   V      V      V              		      |
 |   V      V      V              	 	      |
@@ -3066,8 +3066,8 @@ Pakailah Aku  (do=C)
 
 #### b. Pattern 12/8
 **|  1   n n  2  n n  3  n n  4  n n     |**
-**|  V                      V                        |                         **
-**|  V       1  1       1  V       1  1      1     |**
+### |  V                      V                        |
+### |  V       1  1       1  V       1  1      1     |
 
 Atau
 
@@ -3105,7 +3105,7 @@ Contoh lagu worship:
 *        F7       C7*
 *ada kes'lamatan kekaL*
 
-**d. Worship Boogie Woogie**
+### d. Worship Boogie Woogie
 Genre boogie woogie adalah turunan lain dari genre blues yang asik yang menggunakan syncop juga
 
 Ketukan   1’    n    n     2’     n    n     3’     n    n     4’   n    n
@@ -3249,14 +3249,14 @@ Menggunakan pattern latin
 |   V           V                     V	          V    |
 |   1                    5       5	            1    |
 
-**Penutup**
+### Penutup
 Sekarang kamu sudah tahu bahwa bermain piano di ibadah bukan sekadar menekan tuts, tapi mengatur flow dan energi lagu. Setiap pattern, setiap perubahan dinamika, punya peran untuk membawa jemaat masuk lebih dalam dalam penyembahan.
 Kalau kamu sudah mulai terbiasa dengan berbagai gaya ngiring, langkah selanjutnya adalah memahami fondasi di balik semua itu — chord dan progresi. Karena pattern tanpa pemahaman harmoni akan membuat permainanmu tetap membosankan.
 “Mainlah dengan telinga dan hati. Karena teori hanya jadi alat, bukan tujuan”
 
-**BAB II**
+### BAB II
 Rahasia Bermain Worship dengan Chord Miring yang enak
-**Rahasia Bermain Worship Dengan Chord Miring Yang Enak**
+### Rahasia Bermain Worship Dengan Chord Miring Yang Enak
 
 **Kenapa lagu sama bisa terasa berbeda?**
 Pernah nggak kamu dengar dua orang main lagu yang sama, tapi rasanya beda banget? Yang satu terdengar biasa, sementara yang lain bisa bikin suasana penyembahan terasa dalam dan menyentuh..
@@ -3363,7 +3363,7 @@ That saved a wretch like me
 #### Voicing vs Progresi
 Voicing hanya mengubah *cara* kamu menyusun isi chord warna, posisi, dan rasa nadanya. Sedangkan progresi berbicara tentang *urutan perjalanannya.*Kamu bisa memainkan progresi yang sama, misalnya:   C – G – Am – F,
 dengan berbagai voicing: Cadd9, G/B, Am7, Fmaj7. Warnanya berubah, tapi arah dan strukturnya tetap sama. Voicing mempercantik perjalanan, bukan mengubah tujuannya. Jadi jangan bingung yaa.
-**Jenis Voicing yang sering dipakai di Worship:**
+### Jenis Voicing yang sering dipakai di Worship:
 ### Power Chord
 Power Chord merupakan chord yang terdiri dari root + note ke 5. Chord ini biasa dipakai di lagu-lagu yang punya bunyi kokoh dan jelas, karena menegaskan suara chord.
 ![image121.png](Buku Worship_images/image121.png)
@@ -3372,7 +3372,7 @@ Power Chord merupakan chord yang terdiri dari root + note ke 5. Chord ini biasa 
 
 Rumus: 1 + 5 atau bisa juga 1 + 5 + 1
 Power chord juga biasanya dipakai di tangan kiri sebagai chord  yang menegaskan base chord. Baik chord major dan minor, bentuk power chordnya akan sama karena tidak memiliki nada ke-3
-**Contoh Lagu Worship:**
+### Contoh Lagu Worship:
 Way Maker (do=C)
 **                               **
 F
@@ -3681,7 +3681,7 @@ Amazing Grace (do=C)
 *Was blind, but now I see.*
 ## Jenis progresi penting di Worship:
 Dalam permainan worship, beberapa teknik progresi chord ini sering dipakai dan mudah diterapkan di semua lagu worship apapun sehingga permainan menjadi lebih manis dan bervariasi.
-**Chord Function Substitution**
+### Chord Function Substitution
 Chord function substitution adalah teknik untuk mengganti progresi chord sebuah lagu menjadi bentuk progresi baru yang masih enak didengar. Chord function bekerja dengan mengganti sesama jenis chord yang masih berada di keluarga chord yang sama
 Misalnya ada suatu progresi C - Am - Dm - G	bisa kita ubah menjadi     C - Em - F - G
 Sebelum menggunakan teknik ini, kamu harus tahu bahwa dalam keluarga chord, sebuah chord akan dibedakan menjadi 3 jenis
@@ -3778,7 +3778,7 @@ Contoh di lagu worship
 *         G    F**           ** G*
 *At the sound of Your name*
 
-**Modulation**
+### Modulation
 ![image43.png](Buku Worship_images/image43.png)
 Modulation adalah teknik perpindahan dari satu nada dasar ke nada dasar berikutnya. Biasanya modulation digunakan untuk menaikkan atau menurunkan suasana lagu
 Modulasi dapat dilakukan dengan beberapa cara:
@@ -3813,7 +3813,7 @@ How Great Thou Art (do=C ke do=D)
 *               D       *
 *How great Thou art *
 
-**Pedal Tones**
+### Pedal Tones
 **	**Pedal tones adalah teknik penerapan dan pengembangan dari konsep slash chord yang sudah anda pelajari di awal. Konsepnya menahan nada/bass dalam suatu progresi chord berjalan. Teknik ini akan membuat permainan piano worship jadi lebih megah.
 	Pedal tones dapat digunakan baik di chord major ataupun minor
 	(G/C)				(Fm/C)
@@ -3842,7 +3842,7 @@ How Great Thou Art (do=C)
 *How great Thou art, *
 *  F/G             C       *
 *How great Thou art *
-**Line Cliché**
+### Line Cliché
 Line Cliche adalah progresi chord yang dimana root, fifth, atau last notenya bergerak naik atau turun secara bertahap (stepwise) yang bergerak melawan satu chord tetap.
 ![image46.png](Buku Worship_images/image46.png)
 Contoh progresi: C - CM7 - C7 - C6
@@ -3938,7 +3938,7 @@ Contohnya:
 F           Em Am   Dm               G
 5434 . . 43  23  . .  176 . 5 .   12  →  [lirik]
 
-**Worship Ending Technique**
+### Worship Ending Technique
 Biasanya di akhir lagu, Ada 2 cara untuk mengakhiri, yaitu dengan pengulangan, dan membuat ending sendiri dengan licks (licks akan dibahas di Bab III. Pengulangan cenderung dilakukan di bait-bait terakhir. Cara ini bisa kamu terapkan pada setiap ending di lagu worship apapun. Caranya adalah dengan memainkan chord progresi yang bisa membuat efek *loop* (berulang) pada permainan kita.
 Chord progresi dapat dipilih berdasarkan chord tujuan pengulangan kita:
 Pengulangan di chord IIm
@@ -4008,17 +4008,17 @@ Tuhan Kau Gembala Kami
 Sekarang kamu sudah tahu bahwa bermain chord bukan cuma sekedar menekan chord, tapi tentang memahami hubungan antar chord dan arah perjalanannya. Kalau kamu sampai di titik ini, kamu sudah punya fondasi yang kuat. Karena pemain yang paham chord dan progresi bisa membuat musik apa pun terasa hidup, bahkan dengan progresi yang sederhana.
 Langkah selanjutnya adalah belajar bagaimana cara memperkaya permainanmu, menambah warna, variasi, dan karakter tanpa kehilangan rasa worship-nya. Itulah yang akan kamu pelajari di bab berikutnya.
 
-**BAB III**
+### BAB III
 Strategi Belajar Variasi Piano Worship Yang Manis
 
-**Strategi Belajar Variasi Piano Worship Yang Manis**
+### Strategi Belajar Variasi Piano Worship Yang Manis
 
-**Bermain Variasi di Worship**
+### Bermain Variasi di Worship
 
 Setelah kamu bisa mengiring dengan baik dan paham penggunaan struktur chord dan progresi, tahap berikutnya adalah membuat permainanmu terdengar hidup dan indah. Bukan dengan bermain yang berlebihan, tapi dengan memainkan not yang tepat, di waktu yang tepat.
 Banyak pemain berhenti di tahap “bisa main chord”, padahal musik worship yang menyentuh itu lahir dari *variasi, warna, dan gerak harmoni yang manis. *Bagian ini akan membahas strategi untuk memperkaya permainanmu dengan cara yang sederhana tapi efektif dan sering digunakan pianis worship lainnya!
 
-**Inner Voice**
+### Inner Voice
 
 Inner Voice Standard
 Inner Voice adalah cara memainkan melodi yang diimbangi dengan permainan isian chord di tangan kanan. Tujuannya adalah membuat melodi memiliki harmoni yang lebih manis. Chord yang dimainkan bukan asal, tetapi sama dengan chord yang sedang dimainkan di bagian lagu tersebut.
@@ -4294,7 +4294,7 @@ Contoh di lagu worship
 *        C     Am    Dm   G      C      *
 *Hidup jadi berarti s'bab Dia hidup*
 
-**Passing Notes**
+### Passing Notes
 *Passing note* adalah nada penghubung antara dua not utama dalam melodi atau harmoni. Tujuannya membuat permainan bass di tangan kiri memiliki perpindahan yang lebih mengalir dan tidak kaku.
 Contoh: dari C ke D kita bisa kasih Db
 ![image356.png](Buku Worship_images/image356.png)
@@ -4320,7 +4320,7 @@ Amazing Grace (do=C)
 * A-Ab-G        G       C*
 *Was blind, but now I see.*
 
-**Penutup**
+### Penutup
 Di bab ini, kamu sudah belajar bagaimana variasi dan improvisasi bisa membuat permainanmu lebih hidup. Bukan untuk membuat permainan terdengar rumit, tapi untuk memberi rasa dan kedalaman di setiap lagu yang kamu mainkan. Karena musik bukan hanya soal bermain yang benar, tapi tentang menyampaikan sesuatu. Inner voice, passing note, fill-in, atau licks hanyalah alat, yang terpenting adalah bagaimana kamu menggunakannya untuk melayani, bukan hanya pamer skill, tapi untuk kemuliaan nama Tuhan.
 Beranilah bereksperimen, tapi tetap sadar arah. Tambahkan warna, ubah sedikit nuansa, tapi jangan hilangkan maknanya. Kamu bukan hanya memainkan musik, kamu sedang membawa suasana penyembahan.
 Di bab berikutnya, kita akan bahas bagaimana semua hal ini bisa kamu latih dengan cara yang praktikal, supaya bukan cuma tahu secara teori, tapi bisa benar-benar bisa kamu pakai langsung di permainanmu.
@@ -4337,7 +4337,7 @@ Tujuanku sederhana, Biar kamu bisa main piano dengan lebih paham, lebih bebas, d
 
  Liong, Dave Henokh ALCM. DIPLCM.
 
-**STEP-BY-STEP BELAJAR PIANO WORSHIP **
+### STEP-BY-STEP BELAJAR PIANO WORSHIP
 # DALAM 1 BULAN
 Setiap minggu, pianis di gereja memainkan lagu yang sama. Tapi hanya sebagian kecil yang benar-benar tahu apa yang sedang mereka mainkan. Banyak yang hafal pattern, tahu chord, bisa ikut musik dengan baik, tapi ketika lagu berubah, atau ketika harus bermain spontan, semuanya berhenti. Jari masih bisa jalan, tapi telinga dan hati belum tahu mau ke mana.
 Aku tahu rasanya, karena aku dulu juga begitu. Dan itu bukan karena kita malas belajar, tapi karena nggak ada sistem belajar yang jelas buat pianis worship. Kebanyakan orang cuma diajar main lagu, bukan *mengerti musiknya*. Masalahnya, kalau kamu nggak ngerti dasarnya kamu cuma akan bisa *meniru permainan*, bukan *bermain piano*. Dan dalam pelayanan musik, itu bikin kamu cepat mentok.
@@ -4367,16 +4367,16 @@ Belajar piano tanpa arah itu seperti nyetir tanpa GPS, kamu bisa terus jalan, ta
 ** Di sini kamu mulai bermain lebih bebas.
  Kamu akan belajar teknik improvisasi, inner voice, arpeggio, fill in, hingga licks khas worship yang bikin permainanmu terasa hidup dan ekspresif.
 Kamu bisa membaca buku ini dari awal sampai akhir, atau langsung ke bagian yang kamu butuhkan saat ini. Tapi saran aku, jangan cuma dibaca, berlatihlah setiap contoh dan pattern yang ada di dalamnya.** **Untuk mendukung proses belajarmu, buku ini juga dilengkapi dengan QR code yang berisi video-video visual pembelajaran sehingga kamu bisa praktek langsung. Karena skill musik tidak dibentuk dari teori, tapi dari pengulangan yang sadar dan terarah. Kalau kamu konsisten mengikuti langkah-langkah di buku ini, kamu akan melihat perubahan nyata dalam permainanmu. bukan cuma terdengar lebih bagus, tapi juga lebih mengalir, lebih peka, dan lebih siap untuk melayani.
-**DAFTAR ISI**
+### DAFTAR ISI
 
 BAB I	: Cara Mengiring Piano Praise and Worship di Gereja
 BAB II	: Rahasia Bermain Worship dengan Chord Miring yang enak
 BAB III	: Strategi Belajar Variasi Piano Worship Yang Manis
 BAB IV	: Yang Harus Kamu Lakukan Sekarang!
 
-**BAB I**
+### BAB I
 Cara Mengiring Piano Praise and Worship di Gereja
-**CARA MENGIRING PIANO PRAISE DAN WORSHIP DI GEREJA**
+### CARA MENGIRING PIANO PRAISE DAN WORSHIP DI GEREJA
 
 ### Mengiring Piano
 Banyak pianis bisa main lagu, tapi nggak semua bisa ngiring lagu dengan benar. Mereka tahu chord-nya, hafal lagunya, bahkan ngerti teori musiknya, tapi begitu disuruh ngiring ibadah, permainan mereka terdengar datar, kaku, atau malah nutup suara penyanyi.
@@ -4386,12 +4386,12 @@ Pada bab ini aku ini akan mengubah cara pandangmu tentang ngiring lagu yang bena
 ### Mengiring (Comping) di Piano
 Mengiring atau *Comping *berasal dari kata *accompanying* (menemani) yang dalam konteks worship berarti mengiringi jemaat atau penyanyi secara harmonis dan ritmis. Seorang pianis tidak hanya menekan chord sesuai teks lagu, tetapi juga menjaga ritme, mendukung suasana, dan melengkapi vokal maupun instrumen lain.
 Dalam praktiknya, Comping dapat dibedakan menjadi 2 jenis, comping piano dan penyanyi serta comping bersama band. Pattern yang dimainkan kedua jenis comping ini dapat dikatakan identik sama, hanya saja untuk mengiring band pianis harus memperhitungkan posisi permainan agar tidak terlalu rendah agar tidak bertabrakan dengan instrumen bass.
-**Lagu Gereja**
+### Lagu Gereja
 Kalau kamu sudah cukup lama main di gereja, kamu pasti sadar: nggak semua lagu rohani punya “rasa” yang sama. Ada yang tenang dan mendalam, ada juga yang cepat dan penuh semangat.Itulah kenapa dalam pelayanan musik gereja, lagu biasanya dibagi menjadi dua kelompok besar: Worship dan Praise (termasuk gaya Injili).
 Meskipun keduanya sama-sama berbicara tentang penyembahan, tapi suasana, dinamika, dan cara mengiringinya berbeda jauh.
-**Lagu Praise**
+### Lagu Praise
 Lagu Praise adalah lagu gereja yang memiliki memiliki karakteristik sukacita, semangat dan temponya cepat. Lagu praise biasanya dimainkan dalam format band, dengan pembagian peran untuk masing-masing instrumen. Dalam lagu prais, pianis berperan dalam menentukan jenis chord yang digunakan dan menambah variasi, untuk itu dalam bermain piano di lagu praise harus memperhatikan prinsip bermain band.
-**Lagu Worship dan Injili**
+### Lagu Worship dan Injili
 Lagu worship dan dan injili adalah lagu gereja yang memiliki karakteristik yang serupa. Lagu jenis ini memiliki karakteristik yang tenang, sedikit lebih lambat, dan syahdu sehingga pattern yang digunakan untuk mengiring cenderung sama.
 Namun, meskipun pattern nya sama, karena format yang dimainkan sedikit berbeda, dalam bentuk band (worship) dan piano dan penyanyi melalui kidung jemaat (injili) maka biasanya tangan kanan pada lagu injili akan memainkan melodi lagunya, sedangkan di tangan kiri tetap bermain pattern.
 ### 4. Cara Mengiringi Dengan Pattern
@@ -4416,7 +4416,7 @@ Tangan kiri = power chord (1 + 5) atau oktaf (1 + 1’)
 Pada lagu *Worship*, iringan cenderung lambat, mengisi ritme dengan lembut. Pola dasarnya sederhana, tapi bisa dikembangkan menjadi lebih ngalir. Pattern ini juga yang bisa di pakai dalam gereja Injili (misalnya GKI, GKJ) dengan hanya melihat tangan kirinya saja.
 Scan QR Code ini untuk
 belajar dengan Video:
-**a. Pattern Dasar**
+### a. Pattern Dasar
 |   1     n     2      n     3      n      4     n    |
 |   V                         	  	                 |
 |   1                    		                 |
@@ -4425,7 +4425,7 @@ belajar dengan Video:
 |   V                                                          |
 |   V                                                          |
 → Pattern dimainkan dengan Block chord tiap ketukan pertama.
-**b. Pattern Pengembangan 1**
+### b. Pattern Pengembangan 1
 |   1     n      2     n     3      n     4     n   |
 |   V           	         V     		  |
 |   1              				  |
@@ -4434,17 +4434,17 @@ belajar dengan Video:
 |   V                            V                           |
 |   V                                                          |
 
-**c. Pattern Pengembangan 2 - Bass Berjalan**
+### c. Pattern Pengembangan 2 - Bass Berjalan
 |   1      n      2     n      3      n     4       n    |
 |   V                             V     		       |
 |   1       5       1’    5       1      5     1’        5   |
 → pattern dimainkan dengan tangan kiri yang selalu berjalan
-** d. Pattern 5 – Bass Jalan chord sus**
+### d. Pattern 5 – Bass Jalan chord sus
 |  1        n        2       n        3       n       4       n      |
 |                 2   3       5                          2  3    5      |
 |  1    5   1’                             1  5  1’                         |
 → pattern dimainkan dengan tangan kiri dan kanan yang selalu berjalan
-** e. Pattern 6 – flowing**
+### e. Pattern 6 – flowing
 |  1      n       2     n      3     n      4     n     |
 |  3  5  1  2  3  5  1  2  3 5  1  2  3  5  1  2   |
 |  1               1             1              1                |
@@ -4471,27 +4471,27 @@ Pada lagu *praise*, iringan cenderung energik, mengisi ritme dengan kuat. Pola d
 Scan QR Code ini untuk
 belajar video
 
-**a. Pattern Dasar**
+### a. Pattern Dasar
 |   1      n      2     n     3     n     4     n   |
 |   V                    			   |
 |   V                      			   |
 → Chord ditekan di ketukan 1 yang membuat dasar kuat.
-**b. Pattern Pengembangan 1**
+### b. Pattern Pengembangan 1
 |   1      n      2     n      3     n     4     n   |
 |   V                   	V		   |
 |   V                      	V		   |
 → pattern ini dimainkan setiap ketukan 1 dan 3 yang memberi kesan sedikit semangat .
-**c. Pattern Pengembangan 2**
+### c. Pattern Pengembangan 2
 |   1     n     2     n      3     n     4      n  |
 |   V           V             V            V          |
 |   V                           V                         |
 → pattern ini dimainkan setiap ketukannya yang memberi kesan sedikit semangat .
-**c. Pattern Pengembangan 4 (syncop)**
+### c. Pattern Pengembangan 4 (syncop)
 |   1     n     2     n     3     n     4     n     |
 |   V                   V                                  |
 |   V                   V          	               |
 → Pattern syncop ditekan ketika ditengah ketukan
-**d. Pattern Pengembangan 5 (syncop)**
+### d. Pattern Pengembangan 5 (syncop)
 |   1       n      2     n     3     n     4     n     |
 |   V      V      V              		      |
 |   V      V      V              	 	      |
@@ -4538,8 +4538,8 @@ Pakailah Aku  (do=C)
 
 #### b. Pattern 12/8
 **|  1   n n  2  n n  3  n n  4  n n     |**
-**|  V                      V                        |                         **
-**|  V       1  1       1  V       1  1      1     |**
+### |  V                      V                        |
+### |  V       1  1       1  V       1  1      1     |
 
 Atau
 
@@ -4577,7 +4577,7 @@ Contoh lagu worship:
 *        F7       C7*
 *ada kes'lamatan kekaL*
 
-**d. Worship Boogie Woogie**
+### d. Worship Boogie Woogie
 Genre boogie woogie adalah turunan lain dari genre blues yang asik yang menggunakan syncop juga
 
 Ketukan   1’    n    n     2’     n    n     3’     n    n     4’   n    n
@@ -4729,7 +4729,7 @@ Kalau kamu sudah mulai terbiasa dengan berbagai gaya ngiring, langkah selanjutny
 
 BUKU
 
-**HALAMAN COVER BUKU **
+### HALAMAN COVER BUKU
 **MUSTI MUSIK.**
 # PENGANTAR
 Buku ini hadir sebagai panduan belajar piano yang dirancang untuk membantu pembaca dari berbagai latar belakang—baik yang baru mulai mengenal tuts piano, maupun yang sudah lama bermain namun ingin memperdalam pemahaman musik, khususnya dalam konteks fundamental, jazz, worship, serta pengembangan aransemen dan lagu.
@@ -4747,8 +4747,8 @@ BAB II: Step-by-Step Belajar Jazz dari Nol untuk Pemula
 BAB III: Strategi Belajar Pelayanan Piano di Gereja Yang Manis
 BAB IV: Belajar Pendukung Musik Lainnya
 
-**BAB I **
-**Fundamental Belajar Piano Dari Dasar**
+### BAB I
+### Fundamental Belajar Piano Dari Dasar
 
 Draft 4
 ![image280.png](Buku Worship_images/image280.png)
@@ -4763,7 +4763,7 @@ Tujuanku sederhana, Biar kamu bisa main piano dengan lebih paham, lebih bebas, d
 
  Liong, Dave Henokh ALCM. DIPLCM.
 
-**STEP-BY-STEP BELAJAR PIANO WORSHIP **
+### STEP-BY-STEP BELAJAR PIANO WORSHIP
 # DALAM 1 BULAN
 Setiap minggu, pianis di gereja memainkan lagu yang sama. Tapi hanya sebagian kecil yang benar-benar tahu apa yang sedang mereka mainkan. Banyak yang hafal pattern, tahu chord, bisa ikut musik dengan baik, tapi ketika lagu berubah, atau ketika harus bermain spontan, semuanya berhenti. Jari masih bisa jalan, tapi telinga dan hati belum tahu mau ke mana.
 Aku tahu rasanya, karena aku dulu juga begitu. Dan itu bukan karena kita malas belajar, tapi karena nggak ada sistem belajar yang jelas buat pianis worship. Kebanyakan orang cuma diajar main lagu, bukan *mengerti musiknya*. Masalahnya, kalau kamu nggak ngerti dasarnya kamu cuma akan bisa *meniru permainan*, bukan *bermain piano*. Dan dalam pelayanan musik, itu bikin kamu cepat mentok.
@@ -4793,33 +4793,33 @@ Belajar piano tanpa arah itu seperti nyetir tanpa GPS, kamu bisa terus jalan, ta
 ** Di sini kamu mulai bermain lebih bebas.
  Kamu akan belajar teknik improvisasi, inner voice, arpeggio, fill in, hingga licks khas worship yang bikin permainanmu terasa hidup dan ekspresif.
 Kamu bisa membaca buku ini dari awal sampai akhir, atau langsung ke bagian yang kamu butuhkan saat ini. Tapi saran aku, jangan cuma dibaca, berlatihlah setiap contoh dan pattern yang ada di dalamnya.** **Untuk mendukung proses belajarmu, buku ini juga dilengkapi dengan QR code yang berisi video-video visual pembelajaran sehingga kamu bisa praktek langsung. Karena skill musik tidak dibentuk dari teori, tapi dari pengulangan yang sadar dan terarah. Kalau kamu konsisten mengikuti langkah-langkah di buku ini, kamu akan melihat perubahan nyata dalam permainanmu. bukan cuma terdengar lebih bagus, tapi juga lebih mengalir, lebih peka, dan lebih siap untuk melayani.
-**DAFTAR ISI**
+### DAFTAR ISI
 
 BAB I	: Cara Mengiring Piano Praise and Worship di Gereja
 BAB II	: Rahasia Bermain Worship dengan Chord Miring yang enak
 BAB III	: Strategi Belajar Variasi Piano Worship Yang Manis
 BAB IV	: Yang Harus Kamu Lakukan Sekarang!
 
-**BAB I**
+### BAB I
 Cara Mengiring Piano Praise and Worship di Gereja
-**CARA MENGIRING PIANO PRAISE DAN WORSHIP DI GEREJA**
+### CARA MENGIRING PIANO PRAISE DAN WORSHIP DI GEREJA
 
 ### Mengiring Piano
 Banyak pianis bisa main lagu, tapi nggak semua bisa ngiring lagu dengan benar. Mereka tahu chord-nya, hafal lagunya, bahkan ngerti teori musiknya, tapi begitu disuruh ngiring ibadah, permainan mereka terdengar datar, kaku, atau malah nutup suara penyanyi.
 Masalahnya bukan di teknik, tapi di cara berpikir.
 Dulu aku juga begitu. Waktu aku belajar piano sebelum pelayanan, aku hanya belajar cara bermain sebuah lagu, bukan belajar mengiring sebuah lagu. Akibatnya, ketika lagunya berubah aku jadi ga tahu harus main apa. Sampai aku sadar, bahwa setiap lagu punya pattern, dan setiap pattern kita bisa pakai di lagu, dari sini aku mulai belajar bagaimana cara mengiring yang benar dan memainkan pattern yang sesuai yang membantuku bisa bermain lagu apapun. Pada bab ini aku ini akan mengubah cara pandangmu tentang cara ngiring lagu yang benar, yang bisa kamu praktekkan di lagu worship apapun.
-**Mengiring (Comping) di Piano**
+### Mengiring (Comping) di Piano
 Mengiring atau *Comping *berasal dari kata *accompanying* (menemani) yang dalam konteks worship berarti mengiringi jemaat atau penyanyi secara harmonis dan ritmis. Seorang pianis tidak hanya menekan chord sesuai teks lagu, tetapi juga menjaga ritme, mendukung suasana, dan melengkapi vokal maupun instrumen lain.
 Dalam praktiknya, Comping dapat dibedakan menjadi 2 jenis, comping piano dan penyanyi serta comping bersama band. Pattern yang dimainkan kedua jenis comping ini dapat dikatakan identik sama, hanya saja untuk mengiring band pianis harus memperhitungkan posisi permainan agar tidak terlalu rendah agar tidak bertabrakan dengan instrumen bass.
 
 ![image54.png](Buku Worship_images/image54.png)
-**Lagu Gereja**
+### Lagu Gereja
 Scan QR di samping untuk belajar dengan contoh langsung di video
 Kalau kamu sudah cukup lama main di gereja, kamu pasti sadar: nggak semua lagu rohani punya “rasa” yang sama. Ada yang tenang dan mendalam, ada juga yang cepat dan penuh semangat.Itulah kenapa dalam pelayanan musik gereja, lagu biasanya dibagi menjadi dua kelompok besar: Worship dan Praise (termasuk gaya Injili).
 Meskipun keduanya sama-sama berbicara tentang penyembahan, tapi suasana, dinamika, dan cara mengiringinya berbeda jauh.
-**Lagu Praise**
+### Lagu Praise
 Lagu Praise adalah lagu gereja yang memiliki memiliki karakteristik sukacita, semangat dan temponya cepat. Lagu praise biasanya dimainkan dalam format band, dengan pembagian peran untuk masing-masing instrumen. Dalam lagu prais, pianis berperan dalam menentukan jenis chord yang digunakan dan menambah variasi, untuk itu dalam bermain piano di lagu praise harus memperhatikan prinsip bermain band.
-**Lagu Worship dan Injili**
+### Lagu Worship dan Injili
 Lagu worship dan dan injili adalah lagu gereja yang memiliki karakteristik yang serupa. Lagu jenis ini memiliki karakteristik yang tenang, sedikit lebih lambat, dan syahdu sehingga pattern yang digunakan untuk mengiring cenderung sama.
 Namun, meskipun pattern nya sama, karena format yang dimainkan sedikit berbeda, dalam bentuk band (worship) dan piano dan penyanyi melalui kidung jemaat (injili) maka biasanya tangan kanan pada lagu injili akan memainkan melodi lagunya, sedangkan di tangan kiri tetap bermain pattern.
 ### Cara Mengiringi Dengan Pattern
@@ -4844,7 +4844,7 @@ Tangan kiri = power chord (1 + 5) atau oktaf (1 + 1’)
 Pada lagu *Worship*, iringan cenderung lambat, mengisi ritme dengan lembut. Pola dasarnya sederhana, tapi bisa dikembangkan menjadi lebih ngalir. Pattern ini juga yang bisa di pakai dalam gereja Injili (misalnya GKI, GKJ) dengan hanya melihat tangan kirinya saja.
 Scan QR di samping untuk belajar dengan contoh langsung di video:
 
-**a. Pattern Dasar**
+### a. Pattern Dasar
 LH |   1     n     2      n     3      n      4     n    |
 RH |   V                         	  	           |
 LH |   1                    		                       |
@@ -4853,7 +4853,7 @@ RH |   1      n      2     n     3     n      4      n   |
 RH |   V                                                          |
 LH |   V                                                          |
 → Pattern dimainkan dengan Block chord tiap ketukan pertama.
-**b. Pattern Pengembangan 1**
+### b. Pattern Pengembangan 1
        |   1     n      2     n     3      n     4     n       |
 RH |   V           	     V     		  |
 LH  |   1              				  |
@@ -4861,17 +4861,17 @@ Atau
        |   1     n      2      n     3      n      4     n   |
 RH |   V                            V                           |
 LH |   V                                                          |
-**c. Pattern Pengembangan 2 - Bass Berjalan**
+### c. Pattern Pengembangan 2 - Bass Berjalan
        |   1      n      2     n      3      n     4      n    |
 RH |   V                             V     	              |
 LH  |   1       5       1’    5       1      5     1’       5   |
 → pattern dimainkan dengan tangan kiri yang selalu berjalan
-** d. Pattern 5 – Bass Jalan chord sus**
+### d. Pattern 5 – Bass Jalan chord sus
        |  1        n        2       n        3       n       4     n   |
 RH |                 2   3       5                        2  3    5    |
 LH |  1    5   1’                             1  5  1’                     |
 → pattern dimainkan dengan tangan kiri dan kanan yang selalu berjalan
-** e. Pattern 6 – flowing**
+### e. Pattern 6 – flowing
 RH |  1      n       2     n      3     n      4     n      |
 RH |  3  5  1  2  3  5  1  2  3  5  1  2  3  5  1  2   |
 LH  |  1               1              1              1                |
@@ -4898,28 +4898,28 @@ Pada lagu *praise*, iringan cenderung energik, mengisi ritme dengan kuat. Pola d
 Scan QR Code ini untuk
 belajar video
 
-**a. Pattern Dasar**
+### a. Pattern Dasar
 LH  |   1      n      2     n     3     n     4     n   |
 RH |   V                    			          |
 LH |   V                      			          |
 → Chord ditekan di ketukan 1 yang membuat dasar kuat.
-**b. Pattern Pengembangan 1**
+### b. Pattern Pengembangan 1
        |   1      n      2     n      3     n     4     n   |
 RH |   V                      	      V		          |
 LH |   V                      	      V		          |
 → pattern ini dimainkan setiap ketukan 1 dan 3 yang memberi kesan sedikit semangat .
-**c. Pattern Pengembangan 2**
+### c. Pattern Pengembangan 2
 
 RH |   1     n     2     n      3     n     4      n  |
 RH |   V           V             V            V          |
 LH |   V                           V                         |
 → pattern ini dimainkan setiap ketukannya yang memberi kesan sedikit semangat .
-**c. Pattern Pengembangan 4 (syncop)**
+### c. Pattern Pengembangan 4 (syncop)
 LH |   1     n     2     n     3     n     4     n     |
 RH |   V                  V                                  |
 LH |   V                   V          	                     |
 → Pattern syncop ditekan ketika ditengah ketukan
-**d. Pattern Pengembangan 5 (syncop)**
+### d. Pattern Pengembangan 5 (syncop)
 RH |   1       n      2     n     3     n     4     n     |
 RH |   V      V      V              		            |
 LH |   V      V      V              	 	            |
@@ -5004,7 +5004,7 @@ Contoh lagu worship:
 *        F7       C7*
 *ada kes'lamatan kekaL*
 
-**d. Worship Boogie Woogie**
+### d. Worship Boogie Woogie
 Genre boogie woogie adalah turunan lain dari genre blues yang asik yang menggunakan syncop juga
 
 Ketukan|   1’    n    n     2’     n    n     3’     n    n     4’   n    n
@@ -5148,9 +5148,9 @@ Sekarang kamu sudah tahu bahwa bermain piano di ibadah bukan sekadar menekan tut
 Kalau kamu sudah mulai terbiasa dengan berbagai gaya ngiring, langkah selanjutnya adalah memahami fondasi di balik semua itu — chord dan progresi. Karena pattern tanpa pemahaman harmoni akan membuat permainanmu tetap membosankan.
 “Mainlah dengan telinga dan hati. Karena teori hanya jadi alat, bukan tujuan”
 
-**BAB II**
+### BAB II
 Rahasia Bermain Worship dengan Chord Miring yang enak
-**Rahasia Bermain Worship Dengan Chord Miring Yang Enak**
+### Rahasia Bermain Worship Dengan Chord Miring Yang Enak
 
 **Kenapa lagu sama bisa terasa berbeda?**
 Waktu aku mulai belajar pelayanan di gereja, akhirnya tiba waktunya untuk aku mulai bertugas untuk mengiring. Bermodalkan teknik ngiring yang sudah aku ajarkan sebelumnya yang dimainkan bersama chord basic, aku pun mulai mengiring jemaat. Tapi aku sadar, kalau hanya mengandalkan teknik ngiring, permainanku justru terkesan seperti robot yang terdengar sama setiap berpindah chord.
@@ -5258,7 +5258,7 @@ That saved a wretch like me
 Voicing hanya mengubah *cara* kamu menyusun isi chord warna, posisi, dan rasa nadanya. Sedangkan progresi berbicara tentang *urutan perjalanannya.*Kamu bisa memainkan progresi yang sama, misalnya:   C – G – Am – F,
 dengan berbagai voicing: Cadd9, G/B, Am7, Fmaj7. Warnanya berubah, tapi arah dan strukturnya tetap sama. Voicing mempercantik perjalanan, bukan mengubah tujuannya. Jadi jangan bingung yaa.
 ![image5.png](Buku Worship_images/image5.png)
-**Jenis Voicing yang sering dipakai di Worship:**
+### Jenis Voicing yang sering dipakai di Worship:
 Scan QR di samping untuk belajar dengan contoh langsung di video.
 ### Power Chord
 Power Chord merupakan chord yang terdiri dari root + note ke 5. Chord ini biasa dipakai di lagu-lagu yang punya bunyi kokoh dan jelas, karena menegaskan suara chord.
@@ -5268,7 +5268,7 @@ Power Chord merupakan chord yang terdiri dari root + note ke 5. Chord ini biasa 
 
 Rumus: 1 + 5 atau bisa juga 1 + 5 + 1
 Power chord juga biasanya dipakai di tangan kiri sebagai chord  yang menegaskan base chord. Baik chord mayor dan minor, bentuk power chordnya akan sama karena tidak memiliki nada ke-3
-**Contoh Lagu Worship:**
+### Contoh Lagu Worship:
 Way Maker (do=C)
 **                               **
 F
@@ -5579,7 +5579,7 @@ Amazing Grace (do=C)
 ![image123.png](Buku Worship_images/image123.png)
 Dalam permainan worship, beberapa teknik progresi chord ini sering dipakai dan mudah diterapkan di semua lagu worship apapun sehingga permainan menjadi lebih manis dan bervariasi.
 Scan QR di samping untuk belajar dengan contoh langsung di video
-**Chord Function Substitution**
+### Chord Function Substitution
 Chord function substitution adalah teknik untuk mengganti progresi chord sebuah lagu menjadi bentuk progresi baru yang masih enak didengar. Chord function bekerja dengan mengganti sesama jenis chord yang masih berada di keluarga chord yang sama
 Misalnya ada suatu progresi C - Am - Dm - G	bisa kita ubah menjadi     C - Em - F - G
 Sebelum menggunakan teknik ini, kamu harus tahu bahwa dalam keluarga chord, sebuah chord akan dibedakan menjadi 3 jenis
@@ -5675,7 +5675,7 @@ Contoh di lagu worship
 *         G    F**           ** G*
 *At the sound of Your name*
 
-**Modulation**
+### Modulation
 ![image43.png](Buku Worship_images/image43.png)
 Modulation adalah teknik perpindahan dari satu nada dasar ke nada dasar berikutnya. Biasanya modulation digunakan untuk menaikkan atau menurunkan suasana lagu
 Modulasi dapat dilakukan dengan beberapa cara:
@@ -5709,7 +5709,7 @@ How Great Thou Art (do=C ke do=D)
 *               D       *
 *How great Thou art *
 
-**Pedal Tones**
+### Pedal Tones
 **	**Pedal tones adalah teknik penerapan dan pengembangan dari konsep slash chord yang sudah anda pelajari di awal. Konsepnya menahan nada/bass dalam suatu progresi chord berjalan. Teknik ini akan membuat permainan piano worship jadi lebih megah.
 	Pedal tones dapat digunakan baik di chord mayor ataupun minor
 	(G/C)				(Fm/C)
@@ -5738,7 +5738,7 @@ How Great Thou Art (do=C)
 *How great Thou art, *
 *  F/G             C       *
 *How great Thou art *
-**Line Cliché**
+### Line Cliché
 Line Cliche adalah progresi chord yang dimana root, fifth, atau last notenya bergerak naik atau turun secara bertahap (stepwise) yang bergerak melawan satu chord tetap.
 ![image46.png](Buku Worship_images/image46.png)
 Contoh progresi: C - CM7 - C7 - C6
@@ -5834,7 +5834,7 @@ Contohnya:
 F           Em Am   Dm               G
 5434 . . 43  23  . .  176 . 5 .   12  →  [lirik]
 
-**Worship Ending Technique**
+### Worship Ending Technique
 Biasanya di akhir lagu, Ada 2 cara untuk mengakhiri, yaitu dengan pengulangan, dan membuat ending sendiri dengan licks (licks akan dibahas di Bab III. Pengulangan cenderung dilakukan di bait-bait terakhir. Cara ini bisa kamu terapkan pada setiap ending di lagu worship apapun. Caranya adalah dengan memainkan chord progresi yang bisa membuat efek *loop* (berulang) pada permainan kita.
 Chord progresi dapat dipilih berdasarkan chord tujuan pengulangan kita:
 Pengulangan di chord IIm
@@ -5910,17 +5910,17 @@ Langkah selanjutnya adalah belajar bagaimana cara memperkaya permainanmu, menamb
 
  *“Chord adalah seni untuk menghidupkan permainan dan menyenangkan semua orang”*
 
-**BAB III**
+### BAB III
 Strategi Belajar Variasi Piano Worship Yang Manis
 
-**Strategi Belajar Variasi Piano Worship Yang Manis**
+### Strategi Belajar Variasi Piano Worship Yang Manis
 
-**Bermain Variasi di Worship**
+### Bermain Variasi di Worship
 Setelah aku paham cara ngiring dan tahu jenis-jenis chord, tapi terkadang waktu main lagu worship aku masih ngerasa ada sesuatu yang kurang. Rasanya lagu yang aku mainin masih monoton dan ga berekspresi, sampai suatu hari aku belajar cara bermain variasi dari pianis gereja lainnya.
 Bermain variasi bukan hanya sekedar nambah-nambahin nada, tapi tentang membangun rasa dan dinamika, membuat permainan punya emosi dan terasa lebih manis. Menurut aku ini salah satu teknik rahasia pianis worship yang bisa bikin permainan terasa jauh lebih baik, dan kamu wajib tahu teknik ini!
 Di bab ini, kamu akan belajar bagaimana teknik variasi yang aku pakai seperti inner voice, fill-in, arpeggio, sampai licks bisa bikin permainanmu lebih hidup
 ![image81.png](Buku Worship_images/image81.png)
-**Inner Voice**
+### Inner Voice
 Sebelum lanjut, kamu bisa scan QR disamping jika ingin belajar melalui bentuk video.
 Inner Voice Standard
 Inner Voice adalah cara memainkan melodi yang diimbangi dengan permainan isian chord di tangan kanan. Tujuannya adalah membuat melodi memiliki harmoni yang lebih manis. Chord yang dimainkan bukan asal, tetapi sama dengan chord yang sedang dimainkan di bagian lagu tersebut
@@ -6198,7 +6198,7 @@ Contoh di lagu worship
 *Hidup jadi berarti s'bab Dia hidup*
 
 ![image321.png](Buku Worship_images/image321.png)
-**3. Passing Notes**
+### 3. Passing Notes
 Sebelum lanjut, kamu bisa scan QR disamping jika ingin belajar melalui bentuk video.
 *Passing note* adalah nada penghubung antara dua not utama dalam melodi atau harmoni. Tujuannya membuat permainan bass di tangan kiri memiliki perpindahan yang lebih mengalir dan tidak kaku.
 Contoh: dari C ke D kita bisa kasih Db
@@ -6228,9 +6228,9 @@ Amazing Grace (do=C)
 Di bab ini, kamu sudah belajar bagaimana variasi dan improvisasi bisa membuat permainanmu lebih hidup. Bukan untuk membuat permainan terdengar rumit, tapi untuk memberi rasa dan kedalaman di setiap lagu yang kamu mainkan. Karena musik bukan hanya soal bermain yang benar, tapi tentang menyampaikan sesuatu. Inner voice, passing note, fill-in, atau licks hanyalah alat, yang terpenting adalah bagaimana kamu menggunakannya untuk melayani, bukan hanya pamer skill, tapi untuk kemuliaan nama Tuhan.
 Di bab berikutnya, kita akan bahas bagaimana semua hal ini bisa kamu latih dengan cara yang praktikal, supaya bukan cuma tahu secara teori, tapi bisa benar-benar bisa kamu pakai langsung di permainanmu.
 
-**BAB IV**
+### BAB IV
 Yang Harus Kamu Lakukan Sekarang
-**Yang Harus Kamu Lakukan Sekarang**
+### Yang Harus Kamu Lakukan Sekarang
 
 ## Langkah Latihan Praktikal
 Setelah kamu belajar tentang pattern, chord, dan variasi, sekarang saatnya melangkah ke latihan nyata. Karena tanpa latihan yang terarah, semua teori hanya akan jadi pengetahuan di kepala. Banyak pemain berhenti berkembang bukan karena malas, tapi karena nggak tahu harus latihan dari mana. Bab ini akan bantu kamu menyusun latihan yang sederhana tapi efektif, supaya setiap kamu duduk di depan piano, kamu tahu apa yang harus dilakukan.
@@ -6274,7 +6274,7 @@ Latihan yang baik bukan soal berapa lama kamu duduk di depan piano, tapi seberap
 **Latih lagu atau pattern dengan tempo rendah sampai benar-benar bersih. Gunakan metronome, dan naikkan pelan-pelan. Kalau kamu bisa main pelan dengan rapi, kamu akan bisa main cepat dengan tenang.
 **Catat progres latihanmu.
 ** Tuliskan apa yang kamu latih dan bagian mana yang masih sulit. Dengan begitu kamu tahu arah latihanmu.
-**Gunakan Metronome**
+### Gunakan Metronome
 Metronome bisa bantu kamu bermain lebih stabil. Kamu bisa bermain di tempo lambat dan tingkatkan perlahan. Cara ini cocok sekali untuk membantu belajar permainan piano yang cepat/sulit.
 
 ## Aku dulu vs Aku sekarang
@@ -6309,7 +6309,7 @@ Transfer ilmu yang pas dengan permainan kamu
 Guru yang bisa membuatmu accountable
 Pemberian feedback yang personal dan mendalam.
 Dan aku mau bagiin ini semua ke kamu supaya kamu bisa lebih cepat berproses di piano untuk capai goals kamu lewat
-**Sekolah Musti Musik**
+### Sekolah Musti Musik
 ![image154.png](Buku Worship_images/image154.png)
 Dimana kamu bisa belajar Private / semi private (>1 orang) langsung dengan aku. Kamu bisa sesuaikan dengan minat dan *passion *permainan pianomu
 Worship Class
@@ -6327,9 +6327,9 @@ Scan atau hubungi +6283199414911
 Karena slot sangat terbatas
 
 ![image151.jpg](Buku Worship_images/image151.jpg)
-**Kata Mereka**
+### Kata Mereka
 90% murid puas dan memberi nilai sempurna!
-**Penutup**
+### Penutup
 	Terimakasih untuk diri kamu yang mau untuk terus maju dan berkembang dalam belajar piano.  Aku tahu kamu punya keinginan kuat untuk bisa mencapai goals piano worship mu, dan semoga kamu tetap dalam semangat yang membara itu. Aku harap buku ini bisa menjadi teman terbaikmu dalam belajar dan menjawab semua pertanyaan atau kesulitan belajarmu. Jangan ragu untuk terus mengulang belajar dan berlatih, karena hal-hal baik harus diperjuangkan.
 	Aku juga ingin meminta maaf apabila ada kekurangan atau kesalahan dalam penulisan buku ini, apabila kamu ingin memberi masukan, kritik ataupun  saran, kamu bisa sampaikan lewat QR dibawah ini, dan aku akan sangat berterimakasih.
 ![image148.png](Buku Worship_images/image148.png)

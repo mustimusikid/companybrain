@@ -29,9 +29,9 @@ Menentukan produk yang tepat sasaran dengan kebutuhan dan keinginan member
 FGD Bulanan
 Testimony Produk
 ## Pelaksana
-**PIC Academy Team**
+### PIC Academy Team
 Mencari topik dan tema serta menjadi moderator FGD
-**Academy Team**
+### Academy Team
 Memfasilitasi seluruh rangkaian FGD
-**Dave Henokh**
+### Dave Henokh
 Pengawas dan pendamping FGD

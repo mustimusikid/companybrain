@@ -37,7 +37,7 @@ Modul
 
 Filler
 ### I. Pendahuluan: Peran Instrumen dalam Worship (10 Menit)
-**Komposisi Band & Fungsi:**
+### Komposisi Band & Fungsi:
 **Drum:** *Rhythm & Timekeeper.*
 **Bass:** *Foundation (Rhythm & Melody).*
 **Piano:** *Core Harmony (Chord & Melody).*
@@ -146,7 +146,7 @@ Belajar Cara Main Lagu Apapun Dari Nol
 ### 1. Dengarkan Lagu Secara Utuh
 🎯 Tujuan: biar familier & punya gambaran besar.
 *“Jangan main sesuatu yang belum pernah didengar!”*
-**Yang diperhatikan saat mendengar:**
+### Yang diperhatikan saat mendengar:
 Bagian tenang atau kuat?
 Apa lagu pelan, cepat, naik, turun?
 📝 *Catatan saat mengajar:
@@ -180,7 +180,7 @@ Ending
 
 ### 4. Belajar Isi Setiap Bagian (Melodi + Chord)
 🎯 Tujuan: mengenali isi lagu, bukan sekadar hafal.
-**Cara cari chord:**
+### Cara cari chord:
 Pemula → pakai Google
 Advance → cari sendiri
 🔎 **Penting untuk ditekankan:**
@@ -464,7 +464,7 @@ Bisa ngembangin Pakai 5W 1 H
 Misal pakai when → summer time : in summertime kepikiran apa aja?
 Night time: sleep? Call night? Drive night? Dsb
 
-**PATTERN SONG**
+### PATTERN SONG
 1 CHORUS: yang diulang2, idea utama song
 Many people sing together: harus easy to sing and easy to remember
 Doesnt mean memperibet lagu, tapi ide utama
@@ -582,13 +582,13 @@ GUIDELINE SCRIPT FOR NEW MODUL BUAT LAGU UNTUK PEMULA
 
 LINK PPT :
 
-**S1: Sebelum kamu membuat lagu(Tittle 1)**
+### S1: Sebelum kamu membuat lagu(Tittle 1)
 S2: Definisi lagu + sebenarnya kita sendiri juga bisa membuat lagu loh…
 S3: Dalam membuat lagu ada 3 hal yang harus diperhatikan + 1. Lirik + 2. Melodi + 3. Chord. (ini pake konsep kotak2 mind konsep, trus yang dimerahin yang chord dan melodi)
 S4: Disclaimer: Sebenarnya dalam proses pembuatan lagu tidak ada teori yang pasti + yang ada hanya Alat untuk membantu anda menemukan ide dan konsep lebih mudah + kebanyakan orang lebih menggunakan “Rasa” / “Feeling” dalam membuat lagu
-**S5: Cara Membuat Chord Lagu (Tittle 1)**
+### S5: Cara Membuat Chord Lagu (Tittle 1)
 S6: Ketika Membuat lagu, permainan chord perlu diperhatikan + Biasanya Chord tidak akan berdiri sendiri, tetapi akan bersama  dengan Progresi, dan juga Rhythm + Ada beberapa tips untuk menciptakan chord yang sesuai dengan lagu buatanmu + Yuk kita bahas satu per satu!
-**S7: Triad Chord dan Family Chord (Tittle 1)**
+### S7: Triad Chord dan Family Chord (Tittle 1)
 S8: Chord Triad + Adalah Chord yang terdiri dari 3 nada 1st (root), 3rd, dan 5th + ilustrasi triad C, G, A + Chord triad dalam sebuah tangga nada akan memunculkan Family Chord → chord diatonic
 S9: C Family Chord (buat semua triad C family chord - copas aja udah pernah ada) + cara pakainya gimana?
 S10: Chord yang beda akan berbeda pula rasanya,
@@ -627,7 +627,7 @@ I - V - VIm - IV
 S15: COMMON CHORD PROGRESSION + Sebagai referensi kalian bisa juga belajar dari progresi chord umum yang ada di lagu lainnya
 VIm - IV  - I - V
 [Sky full of stars + chord n progresi + merahin progressinya yang dimaksud]
-**S16: Buat lagu Sedih Dengan Natural Minor (tittle1)**
+### S16: Buat lagu Sedih Dengan Natural Minor (tittle1)
 S17: Kamu mau nuansa chord yang lebih sedih lagi untuk lagumu? + Pakai Natural Minor Chord + Ngebuat lagu jadi sedih! + [ambil materi natural minor di basic harmony]
 S18: Contoh Progresi Sedih
 VIm - V
@@ -637,7 +637,7 @@ With you, I fear no more
 We’ll walk through every open door
 You and I, a melody
 Playing love in perfect harmony
-**S20: Buat lagu unik dengan Non Diatonic Chord (tittle1)**
+### S20: Buat lagu unik dengan Non Diatonic Chord (tittle1)
 S21:** **Kepikiran buat lagu yang sedikit unik? Kamu wajib paham Non Diatonic Chord + Chord yang berada di luar family chord sebuah kunci + Maksudnya gimana?
 S22: Non Diatonic Chord: kasih ilustrasi family chord C kecil (ss aja gpp) trus kanannya kasih chord Fm
 S23: Chord-chord non-diatonic yang sering dipakai
@@ -651,16 +651,16 @@ We’ll walk through every open door
 You and I, a melody
 Playing love in perfect harmony
 
-**S25: Pakai Voicing Chord untuk Mempermanis Lagu (tittle 1)**
+### S25: Pakai Voicing Chord untuk Mempermanis Lagu (tittle 1)
 S26: Voicing chord itu apa sih?: Voicing chord adalah bagaimana cara menyuarakan suatu chord + → Tujuannya membuat chord lebih manis + Voicing Chord ada banyak, kita bahas beberapa
-**S27: 1. 7th Chord (tittle 2)**
+### S27: 1. 7th Chord (tittle 2)
 S28: [Copas brapa slide gmasalah ttg 7th]
 S29: Coba Praktek: [kasih lisik aja] *contoh lagu buatan aku
 With you, I fear no more
 We’ll walk through every open door
 You and I, a melody
 Playing love in perfect harmony
-**S30: 9th Chord (tittle 2)**
+### S30: 9th Chord (tittle 2)
 S31: [Copas brapa slide gmasalah ttg 7th]
 S32: Coba Praktek: [kasih lisik aja] *contoh lagu buatan aku
 With you, I fear no more
@@ -668,13 +668,13 @@ We’ll walk through every open door
 You and I, a melody
 Playing love in perfect harmony
 S33: [CTA ke modul voicing chord] + mau belajar voicing chord lebih dalam lagi?
-**S34: Bermain Feel dengan Rhythm (tittle1)**
+### S34: Bermain Feel dengan Rhythm (tittle1)
 S35: Dalam membuat lagu, cara menciptakan rasa juga bisa dari Rhythm yang kita mainkan
 → Bisa digunakan untuk story telling juga
 Tempo
 Pattern
 Dinamika
-**S36: 1. Tempo (tittle 2)**
+### S36: 1. Tempo (tittle 2)
 S37: (buat semi tabel garis tengah aja pembatasnya)
 Lambat: (tempo +- 60 bpm) Membuat lagu terasa lebih sedih / kelam / terharu
 Sedang: (tempo +- 90 bpm) Membuat lagu terasa lebih tenan / senang
@@ -686,7 +686,7 @@ We’ll walk through every open door
 You and I, a melody
 Playing love in perfect harmony
 
-**S39: 2. Pattern (tittle 2)**
+### S39: 2. Pattern (tittle 2)
 S40: Suasana berbeda juga bisa diciptakan dari pemilihan pattern bermain yang berbeda juga + Perbedaan pattern inilah yang nantinya akan menjurus kepada pemilihan genre lagu
 S41: Pattern 1:  1 2 3 4
 		  V  v v v
@@ -720,16 +720,16 @@ With you, I fear no more
 We’ll walk through every open door
 You and I, a melody
 Playing love in perfect harmony
-**S45: Menegaskan Lirik dengan Chord (tittle 1)**
+### S45: Menegaskan Lirik dengan Chord (tittle 1)
 **S46: salah satu cara untuk mengembangkan perasaan di dalam lagu adalah dengan menegaskan liriknya + caranya gimana? + dengan membuat jeda pada lirik yang ingin di tegaskam**
 
 S47: Coba Praktek: [kasih lisik aja] *contoh lagu buatan aku
 With you, I fear no more
 We’ll walk through every open door
-**You and I, a melody**
+### You and I, a melody
 Playing love in perfect harmony
 
-**S48: Memilih ketukan lagu (tittle 1)**
+### S48: Memilih ketukan lagu (tittle 1)
 S49: Memilih “feel” atau “rasa” pada lagu adalah dapat ditentukan dari ketukan + ketukan (time signature) dalam dunia musik ada banyak jenisnya. _+ Tapi umumnya ada 3 yang sering dipakai
 S50: ilustrasi tempo 4/4, 6/8, 3/4 + arti masing2 tempo
 
@@ -739,7 +739,7 @@ We’ll walk through every open door
 You and I, a melody
 Playing love in perfect harmony
 
-**S52: Memilih Melodi Lagu (tittle 1)**
+### S52: Memilih Melodi Lagu (tittle 1)
 S53: Pemilihan melodi juga menjadi faktor penting indahnya sebuah lagu + Sama seperti chord, melodi berperan penting dalam menciptakan suasana. + Disclaimer: Tidak ada teori pasti, yang ada hanya tool untuk memudahkan
 S54: Karakteristik melodi: Tiap nada akan memiliki rasanya tersendiri, oleh karena itu kita harus tahu cara pakainya
 1 STABIL		4 little unstable
@@ -756,7 +756,7 @@ S55: Static: memainkan melodi yang cenderung flat dengan minim perpindahan + con
 S56: Move by Step: memainkan melodi naik turun 1 langkah dan kembali ke melodi awal kita + contohnya 1 2 1 7 1 atau 3 4 3 2 3 + [With you, I fear no more (kasih melodi ini buat contoh, nada tulis di atasnya)]
 S57: Jump in Third: memainkan melodi yang melompat pada nada ke-3 + cpntoh 1 3 1 3 + [With you, I fear no more (kasih melodi ini buat contoh, nada tulis di atasnya)]
 S58: Jump that leap: memainkan melodi yang melompat ke nada ke-4 sampai oktaf + contoh 1 1 5 1 5 15 atau 1 4 1 4 + [With you, I fear no more (kasih melodi ini buat contoh, nada tulis di atasnya)]
-**S58: Cara Buat Melodi yang cathcy (tittle 1)**
+### S58: Cara Buat Melodi yang cathcy (tittle 1)
 Kita bisa membuat melodi agar bisa terngiang-ngiang ketika didengar + → dengan teknik REPETITIF + VARIATION
 Yuk kita lihat!
 
@@ -778,20 +778,20 @@ You and I, a melody
 Playing love in perfect harmony
 **Kalian juga bisa padukan dengan teori chord yang telah kita pelajari sebelumnya**
 
-**S61: Developing Melodies**
+### S61: Developing Melodies
 Kalau kamu bingung untuk mengembangkan melodi, kamu bisa pakai teknik ini
 → Motive Development
 Maksudnya apa?
 S62: Copy motive dev dari modul improvisasi
 
-**S63: Setting Lyric and Story telling**
+### S63: Setting Lyric and Story telling
 Keselaran dalam membuat lagu itu juga penting
 Kita harus mempertimbangkan kecocokan lirik, melodi, dan juga chord yang dimainkan
 Kalian bisa coba untuk menyelaraskan
 Pemenggalan lirik, melodi, dan chord
 Story telling lirik, melodi, dan chord
 
-**S64: 1. Pemenggalan Lirik, Melodi, dan chord (tittle 2)**
+### S64: 1. Pemenggalan Lirik, Melodi, dan chord (tittle 2)
 S65: Lirik harus disesuaikan dengan panjang pendeknya melodi dan chord
 → tujuannya agar tidak terdengar memaksa
 “We’ll - walk through - every open door” “We’ll walk - through every - open door”
@@ -799,10 +799,10 @@ S65: Lirik harus disesuaikan dengan panjang pendeknya melodi dan chord
 S66: Coba Praktek: [kasih lisik aja] *contoh lagu buatan aku
 With you, I fear no more
 We’ll walk through every open door
-**You and I, a melody**
+### You and I, a melody
 Playing love in perfect harmony
 
-**S67: 2. Story Telling Lirik, Melodi, dan Chord (tittle 2)**
+### S67: 2. Story Telling Lirik, Melodi, dan Chord (tittle 2)
 S68: Story telling tidak boleh berdisi sendiri, tetapi harus selaras antara lirik, melodi, dan chord
 Ketika lirik bahagia → melodi dan chord bahagia
 Ketika lirik sedih → melodi dan chord sedih
@@ -811,10 +811,10 @@ Ketika lirik bimbang → melodi dan chord bimbang
 S69: Coba Praktek: [kasih lisik aja] *contoh lagu buatan aku
 With you, I fear no more
 We’ll walk through every open door
-**You and I, a melody**
+### You and I, a melody
 Playing love in perfect harmony
 
-**S70: Finding the right key (tittle 1)**
+### S70: Finding the right key (tittle 1)
 S71: Memilih nada dasar juga menjadi hal terpenting agar lagu kita cocok dinyanyikan semua orang + kalian bisa ikuti cara aku
 S72: Copas yang cara nyari nada dasar di modul band
 
@@ -1192,7 +1192,7 @@ Innver voice (IV dan II 177b dan VIm 177b dan I 55b6) + arppegio extend
 
 Ngiring Band
 # Materi
-**CARA MENGIRING DALAM BAND**
+### CARA MENGIRING DALAM BAND
 bahas secara general
 pakai contoh lagu pop macem2 + Penerapan beberapa di worship
 contoh bisa coba pake minus one
@@ -1227,10 +1227,10 @@ Penerapan ke lagu worship pake teknik2 yang tadi
 Piano Position in a Band
 **INTRO:** Dalam bermain piano, kita pasti akan bermain dalam Band + Gimana caranya? + ilustrasi
 **Piano Role:** Sebelum bermain, harus tahu ESENSI Piano dalam Band + 1. Menghubungkan antar instrumen + 2. Fill dalam lagu + Karena itu kalian wajib paham 2 Hal ini!
-**Sub Judul: Band Rhythm and Tempo**
+### Sub Judul: Band Rhythm and Tempo
 **Band Rhythm: **(Penjelasan rhythm singkat) + Biasanya peran ini diambil oleh **Drum**
 **Tips Rhythm: **1. Selalu ikuti rhythm drum 2. Mainkan pattern comping yang berbeda untuk rhythm yang berbeda
-**Sub Judul: Piano Sounding**
+### Sub Judul: Piano Sounding
 **Piano Sounding: **Dalam bermain band kita akan bermain bersama intrumen-instrumen lain + Karena itu kita harus BLEND dengan instrumen lain + caranya gimana? + paham Piano Register waktu kita main
 **Piano Register: **(pengertian sound register) + [kasih ilustrasi  ] kasih keterangan
 **Low Register: **[ilustrasi yang termasuk low register] + Hindari main di arena ini karena biasanya akan bertabrakan dengan instrumen Bass + [contoh]
@@ -1240,16 +1240,16 @@ Piano Position in a Band
 
 Mengiring Band + Penyanyi
 **Intro: **Ketika sebuah band mengiringi seorang penyanyi, maka kita harus memperhatikan hal-hal berikut + 1. Nada Dasar + 2. Fill in Melodi + 3. Komunikasi dalam tim + kita bahas satu per satu!
-**Sub Judul: Nada Dasar**
+### Sub Judul: Nada Dasar
 **Nada Dasar: **Dalam mengiring penyanyi kita WAJIB mengikuti range nada penyanyi + karena setiap orang memiliki suara yang berbeda + oleh karena itu wajib menguasai FAMILY CHORD
 **Contoh: **(2 video dengan lagu sama penyanyi beda, dimainkan dengan nada dasar yang beda juga)
 **Family Chord: **[kasih SS modul Belajar Harmony dari 0] Mau belajar Family Chord Lebih Dalam lagi?
-**Sub Judul: Melodi**
+### Sub Judul: Melodi
 **Melodi:** Dalam mengiring penyanyi, hendaknya penggunaan melodi DIBATASI + melodi dapat digunakan pada saat tertentu seperti: + 1. Memainkan Intro + 2. Mengisi Bagian Kosong + 3. Menegaskan sebuah frasa dalam lagu +
-**Melodi: 1. Memainkan Intro. (Kasih Contoh Video)**
-**Melodi: 2. Mengisi Bagian Kosong. (Kasih Contoh Video)  **
-**Melodi: 3. Menegaskan Sebuah Frasa dalam lagu (kasih contoh video)**
-**Subjudul: Komunikasi Pemain**
+### Melodi: 1. Memainkan Intro. (Kasih Contoh Video)
+### Melodi: 2. Mengisi Bagian Kosong. (Kasih Contoh Video)
+### Melodi: 3. Menegaskan Sebuah Frasa dalam lagu (kasih contoh video)
+### Subjudul: Komunikasi Pemain
 **Komunikasi Pemain: **Ketika bermain dalam sebuah Band, salah satu hal yang paling penting adalah HARMONISASI + yang bisa didukung lewat KOMUNIKASI + untuk menyamakan tempo/ urutan lagu/ kunci/ syncop
 
 Pattern Umum Mengiring Band
@@ -1429,7 +1429,7 @@ Ada b natural jadinya lydian.
 ![image79.png](CATATAN MATERI AKADEMI BIG DOCUMENT_images/image79.png)
 
 Licks
-**JAZZ**
+### JAZZ
 Bill Evans Lick
 
  (mirip)
@@ -1443,13 +1443,13 @@ Cocok di vim bisa juga iim bisa juga iv (nada ambil di vi)
 Blues:
  (rekomen) (ini beberapa masuk worship aja si)
 
-**Worship**
+### Worship
 
  6:32 (ala2 korea)
  (ala korea jg)
  (gospel abis)
 
-**Modify Lick**
+### Modify Lick
 
 Change rhythm
 Repeat
@@ -1458,19 +1458,19 @@ Repeat the note
 Add a note
 
 Jazz for Beginner
-**PM blues : C blues**
+### PM blues : C blues
 Intinya imitate by ears jangan baca
-**C 12 bar blues (3 chord) isinya C7 F7 G7**
+### C 12 bar blues (3 chord) isinya C7 F7 G7
 Bar tiap chordnya = ?
-**Kanan Main melody (mainin minor-majornya) - latian pake 3 nada**
+### Kanan Main melody (mainin minor-majornya) - latian pake 3 nada
 **Kiri chord / voicing (root + dominant 7 (7b)) - latina 1 chord 1 bar**
 **Kuncinya independent hands → latian kiri + kanan ( sederhana )**
 Tangan kiri dan kanan dalam blues dasarnya membentuk shells voicing (kanannya dominant 7 (7b) + 3 atau sebaliknya
 Ada 3 - (I: root+7b+3)(IV: root+3+7b)(V: root+3+7b) → untuk voicing/improv/dll
 Blues rhythm  1’ 2up beat
 
-**PM blues : Improvisation**
-**Improv = telling story**
+### PM blues : Improvisation
+### Improv = telling story
 **Melody, selain melody, rhythm melodynya jg ngaruh (meskipun melody sama), arah/order melodynya**
 **Blues scale → unik scale, works semua chord blues (ga usah ganti do meskipun ganti chord ke IV atau V gitu,,) 122#44#567b**
 Main yg simple dulu dari scale itu (pake 4 not)
@@ -1481,7 +1481,7 @@ Take time
 Tangan kiri seperti biasa, comping dn rhthm
 Bisa dikembangin lagi
 
-**Swing**
+### Swing
 Swing itu bukan teori, tapi sebuah feeling -> Belajar swing dengan teknik *listen and imitate*
 Swing itu seperti aksen berbicara, bahasa yang diucapkan sama, tetapi terdengar berbeda tergantung aksen pembicara (bahasa=melody, aksen=swing)
 Seiring perkembangan jazz, swing juga mengalami perkembangan sehingga terdapat banyak sekali suara swing yang berbeda-beda
@@ -1498,7 +1498,7 @@ Syncopation bukan hanya bermain di upbeat, tetapi perpaduan antara upbeats dan d
 Untuk melatih syncopation, kita harus coba” sendiri kombinasi upbeats dan downbeats
 Cara untuk memulai berlatih swing: menyanyi, kita lebih mudah untuk membuat melodi dengan bernyanyi daripada bermain alat musik, jadi setelah menyanyikan melodi kita baru mainin di piano
 
-**Wrong notes**
+### Wrong notes
 Nada yang berada diluar aturan umum dalam bermain
 Salah? Bukan, tergantung konteks dan penggunaannya
 Mengapa main wrong notes? Hanya memainkan right notes itu boring, playing against the rules is interesting
@@ -1512,7 +1512,7 @@ Chromaticism
 Passing notes: nada” diantara 2 note utama
 Chromatic scale
 
-**Jazz theory**
+### Jazz theory
 Teori” musik dalam permainan jazz
 Jazz theory bukan patokan dalam bermain, tetapi hanya alat untuk meng guide kita dalam bermain jazz dan dalam expand kemampuan bermain kita
 Salah satu teori jazz paling krusial adalah scales/tangga nada
@@ -1529,7 +1529,7 @@ Bonus: Bebop
 Major scale + 7b
 Banyak digunakan dalam genre bebop
 
-**Triads and Arpeggios**
+### Triads and Arpeggios
 Triads adalah Akord yang berisi 3 nada, Akord terdiri dari Mayor, Minor, Augmented, Diminished
 Mayor 1 - 2 - 1,5
 Minor 1 - 1,5 - 2
@@ -1542,7 +1542,7 @@ Cmin7 CminMaj7
 Arpeggios susunan nada akord yang dimainkan satu per satu secara berurutan
 Contoh arpeggio
 
-**2 - 5 - 1 s**
+### 2 - 5 - 1 s
 
 Progression yang paling sering digunakan
 Contoh 2 - 5 - 1
@@ -1550,7 +1550,7 @@ Contoh 2 - 5 - 1 with shell
 Charleston Rhytmn
 Other Rhytmn
 
-**Bebop**
+### Bebop
 Scale yang biasa digunakan dalam improvisasi musik jazz
 Major Bebop Scale
 Minor Bebop Scale
@@ -1586,7 +1586,7 @@ Licks for worship
 
 Batch 9 14/3/2025
 **Judul Bootcamp: ****Rahasia Ubah Lagu Pop Favoritmu Jadi Manis & Jazzy**
-**TARGET 60 HALAMAN PER PPT**
+### TARGET 60 HALAMAN PER PPT
  (WORKING PAPER SESI 1)
 
  (Sesi 2)
@@ -1612,7 +1612,7 @@ Jazz Ballad + copas dari jazz 101 yang atas (kanan masih melodi)+ contoh
 Jazz Swing + Copas dari jazz 101 yang atas (kanan masih melodi) + contoh
 Jazz Blues + Copas dari jazz 101 yang atas (kanan masih melodi) + contoh
 Jazz Bossa Nova + Copas dari jazz 101 yang atas (kanan masih melodi) + Contoh
-**Jazz Fill in**
+### Jazz Fill in
 3rd and 6th interval + copas
 
 Sesi 3: (16 Maret 2025): Bedah Piano
@@ -1695,7 +1695,7 @@ Meski ku pura-pura bahagia
 
 S16: **Voicing Chord Lagu Glenn (tittle 1)**
 S17: Voicing Chord Lagu Glenn: Lagu glenn juga punya voicing chord yang khas loh + voicing chord → cara menyuarakan suatu chord + apa aja? Yuk kita bahas!
-**S18: Slash Chord (tittle 2)**
+### S18: Slash Chord (tittle 2)
 S19: Copas Slash Chord 1 slide
 S20: Kasih Putih (verse kucurahkan + lirik chord + tandain)
 S21: Akhir Cerita Cinta (verse yang yang slalu aku banggakan di depan mereka + lirik chord + tandain)
@@ -1706,7 +1706,7 @@ Hidupku tak pernah biasa
 Setiap detik terasa hampa
 Meski ku pura-pura bahagia
 
-**S24: Progresi Lagu Glenn (tittle 1)**
+### S24: Progresi Lagu Glenn (tittle 1)
 S25: Progresi Lagu Glenn: progresi chord adalah jalannya sebuah chord dalam sebuah lagu + glenn juga punya cirikhas di setiap lagunya loh + penasaran?
 **S26: Suka pakai progresi ke chord IIIm dan VIm (tittle 2)**
 **S27: **di lagunya, glenn sering banget pakai progresi ke chord IIIm terus VIm? + tampilih tabel karakter chord → chord IV itu punya feel yang sad dan ambigu, cocok untuk glenn yang terkenal akan lagu galau
@@ -1725,7 +1725,7 @@ Hidupku tak pernah biasa
 Setiap detik terasa hampa
 Meski ku pura-pura bahagia
 
-**S38: Modulasi tak terduga (tittle 2)**
+### S38: Modulasi tak terduga (tittle 2)
 S39: Glenn juga suka banget buat pakai teknik modulasi yang ga ketebak di lagunya loh! + Modulasi → Perpindahan kunci di suatu lagu + yuk coba kita simak!
 S40: akhir cerita cinta (peralihan verse ke reff) G ke A
 S41: Kasih Putih (Dari intro ke verse) Bb ke Eb
@@ -1736,7 +1736,7 @@ Hidupku tak pernah biasa
 Setiap detik terasa hampa
 Meski ku pura-pura bahagia
 
-**S43: Pemilihan Tempo dan Rhythm (Tittle 1)**
+### S43: Pemilihan Tempo dan Rhythm (Tittle 1)
 S43: Tempo dan rhythm akan mendukung suasana lagu, begitu juga dengan lagu-lagu glenn. Kenapa sih bisa kedengeran galau banget? Yuk kita bahas
 S44: Glenn sering menggunakan tempo lagu lambat untuk lagu2nya + tabel rhythm + sekitar 60 + Ini mendukung suasana galau yang ingin diciptakan glenn coba kita cek
 S45: Kasih putih reff (tempo sekitar 60-61 bpm)

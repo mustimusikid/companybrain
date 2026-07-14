@@ -47,12 +47,12 @@ Tonton video aslinya di sini:
 
 5 Iringan Piano Untuk 5 Genre | Belajar Piano
 
-**Kekuatan 3 Kord Primer (I-IV-V)**
+### Kekuatan 3 Kord Primer (I-IV-V)
 Mitos atau Fakta: Cuma modal 3 kord, kamu bisa main Ratusan lagu Worship? Jawabannya: FAKTA! 🔥
 Untuk kamu yang baru mulai belajar piano atau keyboard, fokuslah dulu pada kord-kord yang disebut Primary Chords. Dalam kunci C, kord-kord utamanya adalah C (I), F (IV), dan G (V). Tiga kord ini adalah fondasi harmonis yang paling sering muncul di hampir semua progresi lagu, terutama lagu worship. Dengan menguasai C-F-G saja, kamu sudah bisa mulai mengiringi dan memainkan lagu-lagu sederhana! Jangan pusing dulu dengan kord minor, kuasai 1-4-5 ini dulu ya.
 Penjelasan tentang Primary Chords dimulai di video:
  👉 [00:48]
-**Fungsi Rahasia di Balik 3 Kord Utama**
+### Fungsi Rahasia di Balik 3 Kord Utama
 Kenapa cuma C-F-G aja bisa main banyak lagu? Ternyata kuncinya ada di 'Peran' unik yang wajib ada di setiap lagu lho! 🎭
 Lagu yang baik itu seperti cerita yang punya alur: tenang, sedikit tegang, lalu klimaks. Tiga kord utama tadi sudah memenuhi semua peran ini!
 Tonic (C): Kord yang Stabil (restful), ini adalah 'rumah' atau tempat kita memulai dan mengakhiri lagu.
@@ -61,14 +61,14 @@ Dominant (G): Kord yang Tegang (klimaks), kord ini 'ingin' sekali kembali ke kor
 Mengenal fungsi kord (Tonic, Predominant, Dominant) di:
  👉 [01:35]
 
-**3 Kord BONUS: Jurus Rahasia Bikin Lagu Lebih Manis**
+### 3 Kord BONUS: Jurus Rahasia Bikin Lagu Lebih Manis
 Permainan kamu sudah oke dengan 3 kord primer, tapi kok terasa 'biasa' aja? Saatnya kenalan dengan jurus Substitution untuk 'memaniskan' permainan! 🍯
 Rangkuman Materi: Setelah menguasai C-F-G, kamu bisa tambahkan Secondary Chords sebagai bonus yaitu kord 2 minor, 3 minor, dan 6 minor (D minor, E minor, dan A minor di kunci C). Tujuannya adalah untuk memberikan variasi suara tanpa merusak fungsi harmonis lagu. Aturan Utama Penggantian: Kord sekunder bisa menggantikan kord primer yang memiliki tingkat ketegangan yang sama:
 Tonic (Stabil): C bisa diganti dengan E minor atau A minor.
 Predominant (Semi-Stabil): F bisa diganti dengan D minor. Dengan rumus ini, palette kord kamu langsung bertambah 3 kali lipat dan permainan kamu akan terdengar lebih kaya!
 Perkenalan Secondary Chords dan Rumus Substitution di:
  👉 [03:32]
-**Aplikasi Substitution untuk Variasi yang Syahdu**
+### Aplikasi Substitution untuk Variasi yang Syahdu
 Coba ganti kord C di lagu favoritmu jadi A minor! Berani coba? Ini trick termudah untuk bikin musik kamu jadi lebih syahdu dan soulful! ✨
 Rumus penggantian kord (Substitution) ini sangat powerful. Coba perhatikan lagu 'Ku Berbahagia', yang aslinya hanya C-F-G. Dengan ilmu ini, kamu bisa mengganti kord C (yang bahagia/stabil) menjadi A minor (yang sedih/stabil) atau E minor. Hasilnya? Lagu akan terdengar lebih bervariasi, lebih smooth, dan lebih 'enak' di telinga karena ada feel Minor yang lembut, tanpa menghilangkan struktur dasarnya. Ini adalah langkah termudah untuk membuat improvisasi pertamamu dan membuat iringan kamu tidak membosankan!
 Contoh praktis penerapan Substitution pada lagu dimulai di:
@@ -161,7 +161,7 @@ Cara pakai jembatan Diminish yang asik ada di:
 https://youtu.be/6zSr4bXtWow?si=qV344wOcKB4vnIrL
 
 Semoga sharing 5 hari ini bermanfaat ya! Jangan lupa dipraktekin di pianonya masing-masing. Kalau mau lihat tutorial lengkapnya biar makin paham, langsung aja meluncur ke YouTube kita!
-**Link Full Video:**
+### Link Full Video:
 Halo, Sobat Komunitas! 👋✨
 Minggu ini kita bakal bedah rahasia di balik lagu-lagu Disney yang kedengarannya *super manis* dan *dreamy*. Kita bagi jadi 5 hari sharing ilmu ya, supaya jemari kita pelan-pelan makin jago! 🎹🏰
 Berikut adalah potongan ilmu untuk beberapa hari ke depan:

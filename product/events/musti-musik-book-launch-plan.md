@@ -295,7 +295,7 @@ Simple:
 # 4. AFTER THE EVENT (Your Cart-Close Sequence)
 Hormozi sends emails + reminders
  → You’ll send IG/WhatsApp/email reminders.
-**Reminder Timeline (simplified):**
+### Reminder Timeline (simplified):
 +0 hours: “Thank you for joining — here’s the pre-order link.”
 +24 hours: “Masterclass bonus ends tonight.”
 +48 hours: “Last chance.”
@@ -531,7 +531,7 @@ Mark “APPROVED”
 Hai Kak {{name}},
  Terima kasih sudah pre-order Worship Piano Module 🎹✨
 Berikut akses bonus Masterclass kakak:
-**📌 [Zoom Link Masterclass]**
+### 📌 [Zoom Link Masterclass]
 **🗓 Tanggal:** {{date}}
  **⏰ Waktu:** {{time}}
 Pastikan join yaa — biasanya ini masterclass berbayar,
@@ -638,55 +638,55 @@ You plan to ship on Dec 10
 Set processing time = 14 days
 So Tokopedia won’t auto-cancel your orders early
 Rough Ideas
-**PRE LAUNCH**
+### PRE LAUNCH
 Teaser → organic + ads
 Sneak peeks → organic + ads (showing book content)
 Sneak peeks → organic + ads (showing the QR code included)
 Countdown
 
-**LAUNCH**
+### LAUNCH
 Reminder
 Freeclass
 Tokped link
 Gform link
 
-**POST LAUNCH**
+### POST LAUNCH
 Follup
 Closing reminder
 Bonus delivery
 Collect testimonials (tokped review, buat mandatory → yg review dapat bonus x)
 
-**TOKPED + PREORDER SYSTEM**
+### TOKPED + PREORDER SYSTEM
 Pikirin cara delivery (dari kita atau dari tempat cetak buku)
 Turn on pre order mode di Tokped, set process time 7-14 days
 Set note “bonus bisa diklaim setelah upload bukti pembayaran di google form”
 Perlu foto produk (cover, foto real book)
 
-**GOOGLE FORM**
+### GOOGLE FORM
 SS Bukti Pembayaran
 Data diri (Nama, WA, Email)
 
-**BONUS LISTING**
+### BONUS LISTING
 Orang datang freeclass → cheatsheet
 Orang beli buku → masterclass
 Orang beli >1 buku → exclusive video modules
 
 Bundle book → charity
 MEETING 25/11/25
-**MUSTI MUSIK BOOK LAUNCH PLAN**
+### MUSTI MUSIK BOOK LAUNCH PLAN
 
 **BOOK LAUNCH EVENT (FREECLASS) TITLE - **STRATEGI STEP BY STEP BELAJAR PIANO WORSHIP DALAM 1 BULAN
 **BOOK TITLE - **STRATEGI STEP BY STEP BELAJAR PIANO WORSHIP DALAM 1 BULAN
 **WHEN - **16 JANUARY 2025
 **TARGET AUDIENCE** Pemula, Jemaat Gereja, Mau ningkatin skill worship piano
 **PRICE** - 77,777
-**USP**
+### USP
 Harga terjangkau
 Branding kak dave
 Step by step dalam 1 bulan
 Ada QR Video
 
-**DETAILED TIMELINE**
+### DETAILED TIMELINE
 
 WEEK 6 (2-7 DES)
 WA Internal Community
@@ -731,20 +731,20 @@ H+2 - H+7
 Announcement Sold Out
 Announcement total sales
 
-**PROJECT RESOURCES**
-**Project Owner**
+### PROJECT RESOURCES
+### Project Owner
 Anglila Siddha Paramarthastri (Marketing Team)
 Oversee the entire project
 Manage timelines
 Coordinate between teams
-**Sales Support**
+### Sales Support
 Halo AI Whatsapp
 Set Knoledge Base untuk buku, detail:
 Harga Rp77,777
 Buku worship untuk orang belajar worship ada QR code video yang bisa ditonton juga untuk mempermudah memahami buku
 Cocok untuk siapa aja?
 Ditawarkan ke orang yang memang pengen beli buku + orang yang belum bisa beli akademi/privat karena kendala uang
-**eCommerce StoreOwner & Book Logistics**
+### eCommerce StoreOwner & Book Logistics
 Cetak ke mana?
 Set-up, CPAS = Farhaz > Masukin seluruh keperluan di shopee dan tokped sblm buku launch
 Shopee
@@ -753,32 +753,32 @@ Pre-order
 Tokopedia
 Nama Toko:
 Pre-order
-**Media Manager**
+### Media Manager
 Plan, create, and schedule organic social content
 YT Announcements leading up to the launch
 Ads creative
-**Marketing Manager**
+### Marketing Manager
 Direct WhatsApp Message to Public Community and Previous Group
 Landing Pages (Shopee, Tokped)
 Affiliate launch
-**Customer Support Lead**
+### Customer Support Lead
 Halo AI WhatsApp
 Set Knowledge Base untuk buku
 Private > Akademi > Bootcamp > Masterclass > Buku
-**On Site Launch Day Facilities**
+### On Site Launch Day Facilities
 Freeclass Januari
-**Tech Infrastructure**
+### Tech Infrastructure
 Farhaz
 Prepare checkout page ecommerce
 Siapin link order
 
-**Ad Spend**
+### Ad Spend
 Budget Rp5,000,000 di Meta spending per hari minimal Rp100,000
 
-**Ad Overview**
+### Ad Overview
 Increased daily spend each time there’s a new purchase
 
-**How The Launch Will Work**
+### How The Launch Will Work
 6 Weeks Out - Blast Message WA ke Public Community, VIP Community, dan Group Sebelumnya
 6 Weeks Out - Affiliate Member (member diajak jadi affiliate untuk ajak orang ke book launc nanti dapat bonus, perlu ladder board)
 4 Weeks Out - Announcement (sosial media)
@@ -788,18 +788,18 @@ H+1 - Replay/cart close mini event
 Announcement total sales, make it available on ecommerce
 Kick off PR campaign
 
-**Virtual Live Steam**
+### Virtual Live Steam
 Hosted on Zoom
 Comment will be enabled to enhance viewer experience
 QnA sesh
 
-**PHASE 1: PREPARATION**
+### PHASE 1: PREPARATION
 Funnel
 Regis funnel → webpage freeclass
 Book launch pre-order → eCommerce
 WA Message pre-built
 
-**Ads**
+### Ads
 1000+ ads variations + 1-2 light hero ads that are cross-platform functional
 Light hero means:
 Celan, simple, universal creative
@@ -809,21 +809,21 @@ Simple framing: just you talking, direct to camera
 Clear value statement of your book
 1 minutes max
 
-**Organic**
+### Organic
 1 “Whisper” Post Teaser
 1 YT Announcement Video
 5 Conceptual organic videos with concepts from the book
 1 Week out video showing the BTS prep of the launch
 
-**Tech Prep**
+### Tech Prep
 eCommerce
 CPAS
 Webpage book launch
 
-**Follow Up Sequences**
+### Follow Up Sequences
 WA List dari orang yang daftar
 
-**Funnels**
+### Funnels
 Registration Opt-In
 Pendaftaran ke Live Virtual Event Book Launch FREE
 VIP Sales Page (VSL)
@@ -843,14 +843,14 @@ Timer
 Add to Calendar Buttons
 Reminder untuk Register jika belum
 
-**PLAN FUNNEL REAL**
+### PLAN FUNNEL REAL
 Buka web freeclass → Isi data diri → VSL (mau upgrade ke VIP? Yes or No)
 Yes VIP → checkout page shopee/tokped → konfirmasi ke WA  buat dapet bonus→ upsell WA → mau affiliate (Yes or No)
 Yes Affiliate → kirim link pendaftaran affiliate & inv group affiliate
 No Affiliate → inv group VIP
 No → group umum
 
-**Pre-Order Offer**
+### Pre-Order Offer
 Lost Chapters (modul/cheatsheet pdf yang ga ada di buku):
 Modul Worship/Jazz/Pop
 Video Modul Eksklusif
@@ -861,7 +861,7 @@ Lifetime Replay Book Launch
 Special price (misal setelah book launch harga bukunya naik 10K, org yg preorder dapet kesan lebih murah)
 Early access (preorder bisa dapet bukunya duluan)
 
-**PHASE 2: AFFILIATE KICKOFF**
+### PHASE 2: AFFILIATE KICKOFF
 WA ke VIP Community
 
 Konsep: Member yang berhasil ngajak orang ke Book Launch akan dapat bonus
@@ -885,15 +885,15 @@ Registration Page
 Affiliate Signup (mereka bisa detect brp org yg udah daftar atas nama mereka)
 Affiliate Referral Link (buat customized link referral sesuai nama depan mereka buat utm, misal )
 
-**PLAN FUNNEL AFFILIATE REAL**
+### PLAN FUNNEL AFFILIATE REAL
 Web affiliate → isi data diri → kasih link booklaunch regis utm nama depan mereka → inv ke grup affiliate
 
-**RANKING DAN BONUS AFFILIATE**
+### RANKING DAN BONUS AFFILIATE
 TOP 10 → Gratis 1 Bulan Akademi Online/Diskon 30% untuk perpanjang membership/Potongan 10% Paid Trial
 ALL AFFILIATE YANG AJAK >5 ORANG → Modul Video Eksklusif
 ALL AFFILIATE → Cheatsheet
 
-**PHASE 3: THE PITCH**
+### PHASE 3: THE PITCH
 WA Zoom Link ke grup Freeclass
 Kak Dave jelasin materi Freeclass - Buku
 
@@ -916,25 +916,25 @@ Perlu buat full breakdown di sini
 
 ORDER LINK DI PINNED DI CHAT ZOOM DAN GROUP WA
 
-**PHASE 4: EVENT RUN OF SHOW**
+### PHASE 4: EVENT RUN OF SHOW
 BLOCK 1 - 45 MINS FREECLASS
 BLOCK 2 - 30 MINS Q&A
 
 WHATSAPP
 Update semua orang di group selama event, post event, leading up to the live again, and cart close
 
-**PHASE 5: SALES FACILITATION**
+### PHASE 5: SALES FACILITATION
 Halo AI + Monitor Human Agent
 Support kalau kesulitan checkout
 Manual tf harus ada + resend link shopee & tokped
 Opsi cicil, maks cicil 3x
 Makesure minta data diri
 
-**PHASE 6: CART CLOSE**
+### PHASE 6: CART CLOSE
 Send WA counting down to the final cart close
 Bundles ???
 
-**PHASE 7: DELIVERY**
+### PHASE 7: DELIVERY
 Dikirim via Tokped
 
 PRE ORDER shipment goes first
@@ -976,7 +976,7 @@ Desember tgl 22 atau 23 survey monthly
 
 FGD lgsg NPS (nps di grup VIP, ga perlu gform)
 
-**ROUGH RUNDOWN BOOK LAUNCH**
+### ROUGH RUNDOWN BOOK LAUNCH
 Hari H = Kamis, 15 Jan 2025
 
 Set up, masukin buku ke Shopee dan Tokped = 5 Des 2025
@@ -989,7 +989,7 @@ Shoot Ads Maksimal = 18 Des 2025
 Ads Siap = 20 Des 2025
 Running Ads = 22 Des - 15 Jan 2025
 
-**THE BONUS**
+### THE BONUS
 Join event book launch → 1 Free Chapter from the book
 Upgrade ke VIP (pre-order/beli buku) → Masterclass Tgl 27
 Beli buku 5 → Masterclass Tgl 27 + 1x sesi Privat 30 menit
@@ -1000,7 +1000,7 @@ Top 10 Affiliate → Gratis Akademi 1 Bulan
 
 Harga buku buat member dan buat umum apakah mau dibedakan? (if I’m a member I’d ask: why I have to buy the book if public could get it? What’s the exclusive point as a member?)
 ROUGH PLAN 1
-**ROUGH RUNDOWN BOOK LAUNCH**
+### ROUGH RUNDOWN BOOK LAUNCH
 Hari H = Kamis, 15 Jan 2025
 Set up, masukin buku ke Shopee dan Tokped = 5 Des 2025
 Testing beli buku di Shopee = 5 Des 2025
@@ -1013,12 +1013,12 @@ Ads Siap = 20 Des 2025
 Running Ads = 22 Des - 15 Jan 2025
 PPT (PPT Freeclass jualan Book Launch) → yang diajarin di Freeclass sebenernya 1% dari Buku
 
-**BOOK DETAILS**
+### BOOK DETAILS
 Price Pre & Launching = Rp77,777
 Price After Launching =
 Adakah perbedaan harga untuk member dan non member? Kalau aku jadi member, aku bakal tanya ‘kenapa aku harus beli kalo non member bisa beli? Apa eksklusifnya buat member?’
 
-**ALUR/FUNNEL**
+### ALUR/FUNNEL
 Non Member
 Webpage Book Launch (isi data diri)
 Submit Data Diri
@@ -1035,7 +1035,7 @@ Atau buat webpage khusus buat member daftar book launch????
 
 Daftar book launch (web) → pre order buku atau engga → preorder ke shopee (external) → kalo engga lgsg dpt link grup wa
 
-**BONUS FUNNEL**
+### BONUS FUNNEL
 Daftar Book Launch saja = Bonus 1 Free Chapter dari Buku (atau potongan trs nanti di endingnya kasih ‘selengkapnya ada di buku’ biar mereka mau beli
 Pre Order Buku = Bonus 1 Tiket Masterclass Tgl 27 + Lost Chapters (chapter yang ga ada di buku)
 Join Zoom Book Launch = Bonus Cheatsheet A
@@ -1052,7 +1052,7 @@ Mitigasi spam affiliate → apakah kirim ke email/wa trs org baru bisa klik link
 
 JAZZ
  JUDUL FREE CLASS & BUKU
-**Step-by-step Belajar Jazz Piano dalam 1 Bulan**
+### Step-by-step Belajar Jazz Piano dalam 1 Bulan
 
 KURIKULUM
 
@@ -1097,7 +1097,7 @@ GROUP WA
 Free Class Non PO
 Free Class PO
 
-**BOOK ETALASE**
+### BOOK ETALASE
 SLIDE 1
 APA ISI BUKU INI?
 Jazz Genre & Rhythm, Chord Voicing & Progression, Variasi & Improvisasi Jazz
@@ -1130,28 +1130,28 @@ Belajar perlahan, terstruktur, dan step-by-step lewat buku ini
 SLIDE 5
 PAKET BUNDLE BUKU JAZZ DAN WORSHIP
 
-**DESKRIPSI FORMULIR**
+### DESKRIPSI FORMULIR
 **Buku ini cocok untuk:
 ✅Kamu yang baru mulai belajar**
-**✅Kamu yang ingin upgrade skill**
-**✅Kamu yang ingin lebih bebas dan ekspresif bermain piano jazz**
+### ✅Kamu yang ingin upgrade skill
+### ✅Kamu yang ingin lebih bebas dan ekspresif bermain piano jazz
 
 **Apa Isi Buku Ini?**
 **1️⃣Jazz Genre & Rhythm, Chord Voicing & Progression, Variasi & Improvisasi Jazz**
 **2️⃣Step-By-Step Belajar Piano Jazz Dalam 30 Hari dari Dasar Sampai Mahir**
-**3️⃣QR Video Visual Pembelajaran**
+### 3️⃣QR Video Visual Pembelajaran
 
 Buku ini hadir sebagai panduan lengkap untuk kamu yang ingin berkembang dalam piano jazz, serta ingin bisa lebih bebas bermain piano jazz tanpa terikat partiture music.
 
 Ditulis oleh Dave Henokh, founder Musti Musik dan alumni London College of Music, buku ini merupakan rangkuman pengalamannya mendalami piano Jazz secara akademis di London College of Music, dipadukan dengan teori musik praktis yang bisa langsung kamu terapkan.
-**FREE CLASS INI COCOK UNTUK:**
+### FREE CLASS INI COCOK UNTUK:
 Kamu yang mau berkembang dalam piano jazz
 Kamu yang merasa permainanmu terbatas karena selalu baca music sheet
 Kamu ibu/bapak yang sibuk cari waktu belajar piano jazz
 Kamu orangtua yang ingin anaknya bisa main piano jazz
 Kamu yang pernah les klasik/otodidak dan ingin bisa main piano jazz
 
-**BONUS**
+### BONUS
 TIDAK BELI BUKU
 Cheatsheet dari Bab 1 Buku Jazz
 
@@ -1165,7 +1165,7 @@ Recording & Materi Lifetime Free Class
 PRE-ORDER BUKU JAZZ & MODUL VIDEO CHORD MANIS (Rp89,999 + Rp149,999 = Rp239,999 → Rp229,999)
 BonusPO Buku Jazz + modul video lain link yt?
 
-**COPYWRITING WEB - FREE CLASS BOOK LAUNCH LANDING PAGE**
+### COPYWRITING WEB - FREE CLASS BOOK LAUNCH LANDING PAGE
 
 Mau bisa main Piano Jazz?
 Daftar FREE CLASS Musti Musik Sekarang!
@@ -1244,7 +1244,7 @@ Tidak bisa. Bonus Modul Chord Manis hanya berlaku jika kamu PRE ORDER Bundle Buk
 
 (tanggal jangan lupa diubah)
 
-**SCRIPT ADS FREE CLASS**
+### SCRIPT ADS FREE CLASS
 
 W1 1
 Ada 1 Rahasia yang bisa bikin kamu jago main jazz pianonya dalam 1 bulan aja! *[RE-RECORD HOOK]*
@@ -1385,7 +1385,7 @@ Tapi kalo belajar dari Youtube bingungin, kalo les takut ga sempat waktunya?
 Makanya aku bakal ajarin strateginya di free class ini dimana 10,000 orang telah puas melewatinya
 Jadi klik tombol di bawah buat daftar dan juga pre order bukunya buat dapat 4 bonus spesial lainnya *[Re-edit Cover Buku]*
 
-**SCRIPT ADS BUKU**
+### SCRIPT ADS BUKU
 W1 1 BUKU JAZZ
 Buku ini bakal bikin kamu jago piano jazz dalam 1 bulan
 
@@ -1439,7 +1439,7 @@ Kalo strateginya salah Latihan bertahun-tahun juga percuma, tapi kalau strategin
 [CTA BUKU] *[RE-RECORD]*
 Makanya aku bakal ajarin strateginya step by step di buku ini. Udah 1000 orang loh yang pernah belajar strateginya dan ratusan murid akhirnya bisa main piano jazz dengan manis. Jadi klik link di Bawah untuk PRE ORDER langsung!
 
-**ADS TIKTOK**
+### ADS TIKTOK
 
 ADS 1 (perlu gak perlu versi jazz)
 (ini perlu ga perlunya ikut kak dave)

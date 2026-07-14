@@ -30,26 +30,26 @@ It would be iconic to continue the $100M series with a $100M Money Models launch
 Post launch, we kick off aggressive PR about the record breaking launch to reinforce and memorialize the brand moment.
 ### Project Resources:
 
-**Project Owner (Name, Contract)**
+### Project Owner (Name, Contract)
 **Key Responsibilities**: Oversee the entire project, manage timelines, coordinate between teams (tech, affiliates, ads, media, shipping, PR), and ensure all phases are executed on time to facilitate a record breaking launch.
-**Sales Support Lead (Name, Contract)**
+### Sales Support Lead (Name, Contract)
 **Key Responsibilities**: Facilitate and oversee the day of launch sales and ensure adequate staffing to handle and maximize sales volume. Source and stand up surge sales support staff of 300 reps at peak volume and 125+ during no peak sales hours.
-**eCommerce StoreOwner (Name)**
+### eCommerce StoreOwner (Name)
 **Key Responsibilities**: Oversee all technical aspects of the eCommerce Storestore setup, integration with ShipBob, Affirm, and payment gateways. Load testing for traffic surges, and optimized checkout experience.
-**Media Manager (Name)**
+### Media Manager (Name)
 **Key Responsibilities**: Plan, create, and schedule organic social content, BTS videos, & YouTube announcements leading up to the launch. Oversee the facilitation of YT live set up and ensure accuracy and time for day of Launch and work with the Video team to complete Launch venue set up. Facilitate 1,000+ Ad creative edits and light hero ads.
-**Marketing Manager (Name)**
+### Marketing Manager (Name)
 
 **Key Responsibilities:** Ensure all email, SMS, Direct Mail & VM campaigns are launched on time, with correct links, and copy. Complete all landing pages and ensure they are tested and taken live on set due dates. Oversee paid traffic throughout the launch and ensure effective campaigns driving 1,000,000m registrations. Own and execute Affiliate launch.
-**Book Logistics Manager (Name)**
+### Book Logistics Manager (Name)
 **Key Responsibilities:** Manage inventory, coordinate with ShipBob for 3PL prep, ensure on-time delivery with editors and printers, handle shipping logistics for books, playbooks and all printed material, and facilitate Amazon book launch.
-**Customer Support Lead (Name)**
+### Customer Support Lead (Name)
 **Key Responsibilities**: Hire & manage a team of surge support reps for the checkout hotline, handle inquiries, resolve issues, and provide post-purchase assistance. Implement a self service help desk with chat support and ticketing to facilitate quick resolution times for customers and triages to reps as needed.
-**Studio Build and Setup (Name, Name)**
+### Studio Build and Setup (Name, Name)
 **Key Responsibilities**: Ensure LED Wall set up is set up to code and all needed power for the launch is set up to a generator.
-**On Site Launch Day Facilities (Name, Events Team)**
+### On Site Launch Day Facilities (Name, Events Team)
 **Key Responsibilities**: During launch day the facilities are adequately staffed for guest speaker and vendor set up check in, food and beverage are secured during the launch for all staff and team members, guest speaker green room set up, live stream set up of the event for on site staff to watch.
-**Tech Infrastructure -(Name, Name)**
+### Tech Infrastructure -(Name, Name)
 **Key Responsibilities**: Complete load testing for all customer entry points on funnels, offer pages and YT link to ensure nothing breaks. Ensure back up power and wifi is set up for launch day. Email and SMS deliverability strategy is compliant and set up for deliverability success and reputation management.
 ### Ad Spend:
 We plan to spend $3M in advertising across Meta, YT, TikTok, and LinkedIn over the course of 5 weeks leading up to launch. We will ramp up spending to $250,000/per day. .
@@ -73,7 +73,7 @@ The virtual live stream will be hosted on three different links on two different
 **VIP YT Live. **Comments will be enabled and this will be monitored by Alex to pull VIP questions for the mystery guest speakers. This will also be the chat shown on the screen.
 Zoom. So that we can mimic a crowded group behind Alex, we’ll invite L2 and L3 people to the zoom link. A manageable number of people we know are “friendlys” and can account for some fall off to showcase the number of faces we want live on the screen.
 
-**LED Wall / Studio Setup ≈ Timeline**
+### LED Wall / Studio Setup ≈ Timeline
 **Vendor **will receive the wall in PHX on {Date}
 **Vendor **will load into their warehouse and inspect the product and then load our wall, the ground support and processors into a truck and drive up on {Date}
 **Vendor **will load the wall into our studio and assemble it on {Date}
@@ -203,7 +203,7 @@ We advertise the launch and event. We have PR firms ready to go prior. We would 
 
 We make sure we focus on the total books sold, not the amount of money made. And how Influencers are the new age celebrities.
 💲 $100M Launch Webinar
-**Alex's $100M Launch Webinar**
+### Alex's $100M Launch Webinar
 
 📃 Launch Bible
 This sheet is the **master “Run of Show / Blackbook” for the $100M Money Models book launch**.
@@ -225,8 +225,8 @@ Direct mail pieces including 42-day "Save the Date" mailer with magnet and QR co
 Exclusive early access campaign for VAM clients. Limited 150 seats with urgency messaging and registration links.
 
 ✉️ Email & SMS Copy
-**$100M® Money Models Emails & SMS**
-**Registration**
+### $100M® Money Models Emails & SMS
+### Registration
 ### b1) You're registered. (Save this email)
 | List | All Registrants (All Book Launch Opt-ins) |
 | --- | --- |
@@ -272,7 +272,7 @@ Hubspot Email - HubSpot Workflow. Same list as before, no abandoned cart, no pur
 | Subject #1: | Free Audiobook + Book Launch Event |
 | Email copy: | Thousands of people have registered to win prizes just for bringing friends.  Here’s why: the prizes are sick + many of them were going to come with friends, tell their audiences or teams to come a... |
 
-**Pre Order Post-Purchase**
+### Pre Order Post-Purchase
 ### ($29.99) Pre-Order VIP Confirmation VIP ONLY
 | List | Purchased: Anyone who bought the $29.99 VIP (and nothing else) |
 | --- | --- |
@@ -299,7 +299,7 @@ Triggered by eCommerce Store
 | Subject line: | Pre-Order Confirmation: $100M Money Models + ACQ Closer Handbook + ACQ Ads Handbook |
 | Email copy: | FNAME - Congratulations—By pre-ordering, you are now a VIP! Your freshly minted VIP status automatically includes these perks & products A chance to win a day with me in Vegas (you and 9 others). →... |
 
-**Abandoned Cart**
+### Abandoned Cart
 ### Pre-order checkout failed
 | List | Registered: Yes Purchased: No Abandoned Cart: Yes + 20 minutes |
 | --- | --- |
@@ -317,7 +317,7 @@ Triggered by eCommerce Store
 | Subject line: | Pre-order checkout failed x 2 |
 | Email copy: | FNAME - If you’re coming to the book launch, you have two options.  Option 1: You can wait until the launch and…  ❌Miss your chance at a trip to vegas with me  ❌Get your book later  ❌Not get a priv... |
 
-**Pre-Launch**
+### Pre-Launch
 ### 1) 45d: New book
 | List | Full list + Make sure people who opt-in, even if it’s like 2 weeks before launch, still sees this email. Make sure people don’t somehow get this email twice for some reason. |
 | --- | --- |
@@ -420,7 +420,7 @@ Hubspot Email - HubSpot Workflow
 | Preview text: | Only 24 hours away… [Sneak peek] |
 | Email copy: | Mozination… 24 hours from now…we’re going live. Tap and save this link.  …and the brand new $100M Money Models book will be yours…and other special surprises—but only if you show up LIVE… Here's wh... |
 
-**Launch Day**
+### Launch Day
 ### 13) 3 Hrs Before
 
 | List | Full list (no VIP) excluding anyone who did not engage in the last 3 emails |
@@ -636,7 +636,7 @@ Hubspot Email - HubSpot Workflow
 | Subject line: | Your VIP Experience is Ready |
 | Email copy: | Hey [First Name],  Congratulations. You are one of the 10 VIP Giveaway Winners for the $100M Money Models launch.  You have earned your spot at the on-site Affiliate Workshop Day on Tuesday, Octobe... |
 
-**Book Abandon Cart**
+### Book Abandon Cart
 ### 1 Book Abandon Cart Email 1
 | List | Abandoned |
 | --- | --- |
@@ -772,7 +772,7 @@ Hubspot Email - HubSpot Workflow
 | Subject line: | Last Call: 2 hours left. You in? |
 | Email copy: | [Name], 2 hours. That's all that's left. At midnight, this opportunity disappears forever. I could write a long email about everything you're missing, but you already know what this is worth. You'v... |
 
-**Post-Event (Purchase)**
+### Post-Event (Purchase)
 ### $1.1) Pre-Order Purchases VIP Only
 | List | This goes to all VIPs only (no upsells) |
 | --- | --- |
@@ -833,7 +833,7 @@ Triggered from Shopify
 | Subject line: | Welcome to the ACQ Scale Advisory - Your Access Details Inside |
 | Email copy: | Hey [Name], Welcome to the ACQ Scale Advisory! Great decision. I'm excited to help you scale over the next 6 months. Here's What Happens Next: Your Community Access You now have exclusive access to... |
 
-**Redemption Code Emails**
+### Redemption Code Emails
 ### 1) 15 Redemption Code
 | List | This goes to all 15 book buyers |
 | --- | --- |
@@ -870,7 +870,7 @@ Triggered from Shopify
 | Subject line: | YOUR 800 BOOK REDEMPTION CODE. PLEASE SAVE. |
 | Email copy: | Hey [First Name], Here’s the deal: As part of your $100M Money Models bundle, you’ve got a code that lets you give away free copies of $100M Money Models. You can share it with your team, clients, ... |
 
-**Post Event Skool Email/SMS **
+### Post Event Skool Email/SMS
 ## Skool SMS 1
 | List | US & CA  List excluding 200 book buyers |
 | --- | --- |
@@ -889,7 +889,7 @@ Triggered from Shopify
 | 📆 Date | Saturday 8/23 6pm PST |
 | SMS Copy | Final hours. After 11:59pm PST tonight. Grab your 90 days free on Skool + Lifetime $9/mo: {insert link} |
 
-**Affiliates Launch**
+### Affiliates Launch
 ## Skool Cart Close 1
 | List | SEND ONLY TO NON 200+ Buyers |
 | --- | --- |
@@ -938,7 +938,7 @@ Triggered from Shopify
 | Subject line: | [2 HRS LEFT] Ends 11:59pm PST |
 | Email Copy | 2 hours. At 11:59pm PST tonight, the holy mother of free offers disappears forever. 90 days free becomes 14 days with credit card required. Plus you lock in a lifetime lower rate of $9 per month. L... |
 
-**Affiliates Launch**
+### Affiliates Launch
 ### #1: Full List Blast
 | List | Anyone who was a $100M Leads affiliate excluding $100MM Affiliates |
 | --- | --- |
@@ -983,7 +983,7 @@ Triggered from Shopify
 | Subject #1: | My private affiliate black book |
 | Email copy: | I try to make helping me the most valuable thing I can do for someone.   I’m doing this in 3 ways: Prizes (for you and your audience) Education (showing you the play by play of what’s working so yo... |
 
-**Post Affiliate Sign-Up**
+### Post Affiliate Sign-Up
 ### #1: Your first goodie (for affiliates only)
 | 📆 Date | First email after affiliates register to become $100M Money Models Affiliate |
 | --- | --- |
@@ -1027,7 +1027,7 @@ Triggered from Shopify
 | Subject line: | SHH it's a SURPRISE!! |
 | Email copy: | Hey it's Leila!   It’s Alex’s birthday weekend!   I’d love to surprise him with a flood of social media posts wishing him a happy birthday + good luck for the 100M Money Models live event tomorrow ... |
 
-**Post Launch Affiliate Emails**
+### Post Launch Affiliate Emails
 ### Affiliate Email Event Wrapup
 | List | All Affiliates who referred 10+ referrals |
 | --- | --- |
@@ -1078,7 +1078,7 @@ Triggered from Shopify
 Magnet included
 CTA - Register & Add to Calendar QR codes
 
-**The Greatest Free Event Ever**
+### The Greatest Free Event Ever
 So…I’m having a book launch. And you’re invited because you trusted me enough to give me your address. So, giving you a formal, hard copy, real world, old school invitation was *the **least I could** do*.
 The book launch is for my next book,  **$100M Money Models**. It’s the book you never knew you needed. Most businesses lose money advertising because they spend more money getting customers than they make. The reason is - they don’t know how to get people to *spend* *more money faster*. This book reveals the trade secrets only the pros know - in *gritty* detail. You’ll be able to grab a copy at the launch and see the models used in real life. After all, *the objective for all business owners is to  make money*, not just read about it.
 That being said, I wanted to give you a few reasons to register early (free) and preorder the book (optional and $29.99)…
@@ -1104,8 +1104,8 @@ Alex
 1 Week out delivery
 CTA - Register & Add to Calendar QR codes
 
-** 5 Reasons You Should Come To The **
-**$100M Money Models Live Launch Event…**
+### 5 Reasons You Should Come To The
+### $100M Money Models Live Launch Event…
 **First**, there’s the book I’m launching, **$100M Money Models**. The book you never knew you needed. This is because most businesses lose money advertising. Bad. Then they spend more money getting customers than they make from them. Worse. The reason is - they don’t know how to get people to *spend* *more money more effectively*. This book reveals the trade secrets only the pros know. Some of them, only I know…in *gritty* detail. After all, *the objective for all *entrepreneurs* is to* * make money*, not just read about it.
 **Second**, I’ll be revealing the money models responsible for the vast majority of my material success. You’ll be able to see them used in real life. Just like the value equation, this will become a core concept across the business world. If you own a business, you will want to know this. It will be worth your time. That’s a promise.
 **Third**,  I have *at least* five mystery headliners coming to deliver tactical value. Some of the best business people don't have business brands. They just do business. These five have never appeared on the same stage together, and likely won’t again. You will want to hear them.
@@ -1144,7 +1144,7 @@ But the hardest part isn't the theory: it's executing in the real world. That's 
 **Run everything in one place** — calendar events, calls, content, posts, emails, membership statuses, sales pages.
 **Host unlimited watermark-free, ad-free videos — for free** (first ever)
 **Livestream to up to 10,000 **people at once
-**The Skool Games & Discovery Engine**
+### The Skool Games & Discovery Engine
 **Compete for prizes — **Quarterly competitions with all-expenses-paid trips to spend a day with Alex Hormozi and other top winners*
 **Get discovered by 15M+ users **spending over $1B/year on communities like yours. Skool’s on platform discovery is so good it sends 24% of all customers to communities. For free.
 ![image158.png]($100M Launch_images/image158.png)
@@ -1176,30 +1176,30 @@ All while…*hopping on and off meetings, endless notifications, new emails, pho
 It makes what should be simple, into a near impossible feat. There’s a reason 95% of businesses in the US are <$1M in annual revenue. And only .4% (1 in 250) make it past $10M. And only ~.2% make it over $50M (1 in 500)**...*****it’s hard.***
 So no,** ***I have no magic pill for you,*** **but I do have a process that’s helped Leila and I scale our companies (and get some big exits) over the last 13 years. And I’m gonna show you how it works, and how to use it, **on one piece of paper.**
 
-**How It Works**
+### How It Works
 It’s based on a single premise: *every business grows until it hits a constraint, then it will grow no further*. Once you relieve the constraint, the business grows again until it hits the next constraint.
 
-**Think About It Like This…**
+### Think About It Like This…
 ![image42.png]($100M Launch_images/image42.png)
 Let’s say you have a four-lane highway that narrows down to one lane. What happens? A traffic jam. If you add lanes before the bottleneck, what happens? A bigger traffic jam. What happens if you add lanes after the bottleneck? Traffic still moves at the one-lane speed. In other words, you add potential to the system, but not throughput. This is what most business owners do. They add capacity before or after the bottleneck. They work. But nothing grows.
 The only way to get rid of the traffic jam—aka—scale the business—is to add lanes to the one-lane section. Once you do that, the traffic flows at the “four-lane speed”—think max revenue growth—until you hit the next bottleneck.
 So, the obvious question becomes—*how do you make sure what you’re working on is the “one-lane problem” - aka - **the constraint**?*
 
-**How To Figure Out Your Constraint (Your One-Lane Problem)**
+### How To Figure Out Your Constraint (Your One-Lane Problem)
 1. Ask: “What’s the one thing you do that makes the most money?”
 2. Then ask: “What if I just did 50X more of that?”
 3. When you say you can’t, ask yourself: “Why not?”
 →The answer to that question is the constraint that’s limiting the business.
 
-**Easy To Say, Hard To Do**
+### Easy To Say, Hard To Do
 Let’s say “scaling ads” is the thing that would make you money - BUT - the one thing that happens is you are no longer profitable when you scale them. That’s the clear symptom, but the root cause could be: you don’t make enough per customer - or - it costs you too much to get them.
 To figure out which, you’d look at benchmarks for the industry. Let’s say you find out you’re getting customers for the same price as everyone else…then you’d need to make them worth more: raise prices, decrease churn, add an upsell/cross sell, or some combination of them all. Alternatively, let’s say you find it’s costing you *too much* to get customers. Then you’d need to: fix targeting, make more ads, make better ads, split test your offer/lead magnet, optimize your click journey for your customers…or some combination. That’s a lot. **So, where do you start?**
 
-**Where To Start**
+### Where To Start
 *“A fool never learns from his mistakes. A smart man **learns **from his mistakes. A wise man learns from the mistakes of others” *- Some wise philosopher
 This leads us to the only two ways you can solve the problem: 1) trial and error 2) learn from someone else. To be clear, you’ll figure it out either way. The question is only how much you value *getting there faster*.
 
-**How I’d Like To Help**
+### How I’d Like To Help
 At Acquisition.com all we do is scale companies. We literally look at thousands of companies every year. We see what works. Where they get stuck. And most importantly, how they get unstuck. If you’d like to have my team spend two days helping you figure out the constraint to your business *and *the most efficient path to solve it…I’d like to invite you to come out to my office in Las Vegas to have my team of functional experts work on it with you.
 Here are the main points: the cost is $7,500. We’ll only invite you to come if we think we can help you. The room is limited to 70–80 good businesses. It’s not a huge event. It’s at my office. You’ll get personalized attention from my actual team that does this across our portfolio. And I’ll be there too.
 
@@ -1227,17 +1227,17 @@ Inside this book are 4 simple systems, broken down into 12 actionable playbooks.
 
 Here’s what you just unlocked:
 
-**1. THE LEAD SYSTEM — 4 PLAYBOOKS**
+### 1. THE LEAD SYSTEM — 4 PLAYBOOKS
 Get more people to raise their hand, show interest, and walk through your digital (or real-life) doors. This includes the: Goated Ads, Branding, Hooks, and Marketing Machine playbooks.
-**2. THE SALES SYSTEM — 3 PLAYBOOKS**
+### 2. THE SALES SYSTEM — 3 PLAYBOOKS
 Turn conversations into conversions, scale acquisition without scaling ad costs, and create “easy yes” offers. This includes the: Lead Nurture, Closing, and Proof playbooks.
-**3. THE DELIVERY SYSTEM — 2 PLAYBOOKS**
+### 3. THE DELIVERY SYSTEM — 2 PLAYBOOKS
 Consistently deliver the value you promised—without it falling apart behind the scenes. This includes the: Lifetime Value, Closing, and Churn playbooks.
-**4. THE PROFIT SYSTEM — 3 PLAYBOOKS**
+### 4. THE PROFIT SYSTEM — 3 PLAYBOOKS
 Keep what you make, and turn revenue into profit. (Spoiler: most people screw this part up.) This includes the: Fast Cash, Pricing, and Price Raise playbooks.
 **5. ACQ Implementation Workshop — Your confirmation email has dates and details.**
 Figure out which playbook is right for you right now. And use it to unlock your growth.
-**6. ACQ GPT— Access in your email**
+### 6. ACQ GPT— Access in your email
 To provide fast and personalized tactics to your specific industry/business type. I trained the GPT on all 3 $100M Series Books + Loss Chapters + 12 Playbooks + Notes from the 1026+ businesses we advised. It’s also yours.
 
 If you do nothing but read and apply the ideas in these 12 playbooks, you’ll grow. Fast.
@@ -1252,7 +1252,7 @@ Alex
 
 ✉️ VAM Zoom Invite
 ### Money Models Zoom Invite Emails for VAM Clients
-**Exclusive early registration offer emails**
+### Exclusive early registration offer emails
 ### Email #1/SMS: Exclusive Access - First Email invite
 
 | List | Select list of VAM clients (200-300) |
@@ -1331,23 +1331,23 @@ Alternative thank you page for non-VIP customers. Contains page PDF, VSL video, 
 # Registration Page
 
 
-**Registration Video**
+### Registration Video
 
-**Script**
+### Script
 
 📹 VIP VSL + OTO
-**VSL (PRE-ORDER)**
+### VSL (PRE-ORDER)
 
-**VIP VSL Video**
+### VIP VSL Video
 
-**VIP VSL Script**
+### VIP VSL Script
 
 📹 VIP TY Page
-**Landing Page**
+### Landing Page
 
-**TY Page Video**
+### TY Page Video
 
-**TY Page video script**
+### TY Page video script
 
 # Calendar Invite Copy - VIP
 
@@ -1364,11 +1364,11 @@ Here’s what you get when you show up LIVE:
 Legal: My results aren't typical. This is to get you excited, not a promise of income or guaranteed results. All business involves risk.
 
 📹 VIP No TY Page
-**Landing Page**
+### Landing Page
 
 
 
-**No TY VSL Video**
+### No TY VSL Video
 
 **No TY VSL Script
 **
@@ -1397,19 +1397,19 @@ High-level overview of the affiliate program structure. Includes email list stra
 Comprehensive playbook with advanced affiliate strategies, best practices, and insider tactics for maximizing conversions.
 
 🖤 Affiliate VSL
-**Landing Page**
+### Landing Page
 
-**Sign Up Page**
+### Sign Up Page
 
-**Affiliate VSL Video**
+### Affiliate VSL Video
  - NEED FILE
 
-**Affiliate VSL Script**
+### Affiliate VSL Script
 
 🖤 Affiliate Ads
-**$100M Money Models Top Ads  **
+### $100M Money Models Top Ads
 
-**Access all the Ads & Related Assets Here:**
+### Access all the Ads & Related Assets Here:
 
 🖤 Affiliates Launch Breakdown
 ## Affiliates Launch — High-Level Breakdown
@@ -1424,7 +1424,7 @@ Email the ~**29,000 affiliates** from the previous $100M Leads launch.
 Public video announcing the affiliate program to drive more sign ups.
 Usage: Embed on the opt in page and share widely.
 ### 3. Define and Promote Prizes
-**Details:**
+### Details:
 **Top 50 affiliates:** Get an in-person workshop with Alex (Vegas).
 **Top 10 affiliates:** Get the workshop plus an exclusive in-person dinner with Alex.
 **Bonus:** Anyone who brings **10 sign-ups** gets an automatic chance to win one of 50 extra workshop spots.
@@ -1523,7 +1523,7 @@ Alex Hormozi is teaching all of them live on August 16th 9am PT/12PM ET Free eve
 #### Email 1: 21 Days Out
 **Subject:** The biggest entrepreneur event of the year
 **Preview:** August 16th at 9am PT / 12pm ET - don't miss this
-**Body:**
+### Body:
 Hey [Name],
 Something big is happening August 16th at 9am PT / 12pm ET.
 Alex Hormozi is launching his new book $100M Money Models. But this isn't just any book launch.
@@ -1535,7 +1535,7 @@ Over 1 million people have already registered. This will be the biggest entrepre
 Chance to win a day at Alex's Vegas HQ (when we hit 10+ referrals)
 If we make top 50, I get to go to their HQ for the day and **ask** **whatever questions you want me to.**
 If we make top 10, we’ll get to do a 30min fireside chat with Alex **(which I’ll stream live to everyone)** where we can ask whatever questions I want on all our behalf **(and everyone gets the recording)**
-**Event Details:**
+### Event Details:
 Date: August 16th, 2025
 Time: 9am PT / 12pm ET / 1pm MT / 2pm CT / 3pm ET
 Where: Live on YouTube
@@ -1547,7 +1547,7 @@ We both win when you use my link. Plus you get Alex's secret project and the Mon
 #### Email 2: 14 Days Out
 **Subject:** 2 weeks until the secret is revealed
 **Preview:** Alex's 4-year project + we're climbing the leaderboard
-**Body:**
+### Body:
 [Name],
 Two weeks from today, Alex Hormozi reveals his secret project.
 He's been working on it for 4 years. And he's giving it away FREE to everyone who shows up live to his $100M Money Models book launch.
@@ -1568,7 +1568,7 @@ Thanks for helping us both win!
 #### Email 3: 7 Days Out
 **Subject:** One week left + prize update
 **Preview:** The countdown is on
-**Body:**
+### Body:
 [Name],
 One week until Alex Hormozi's $100M Money Models book launch.
 **August 16th at 9am PT / 12pm ET** - mark your calendar now.
@@ -1590,7 +1590,7 @@ Let's win this together!
 #### Email 4: 4 Days Out
 **Subject:** 4 days until the big reveal
 **Preview:** Saturday 9am PT / 12pm ET - you ready?
-**Body:**
+### Body:
 [Name],
 4 days until Alex Hormozi's $100M Money Models launch.
 **Saturday, August 16th at 9am PT / 12pm ET** - set your alarm now.
@@ -1611,7 +1611,7 @@ And if we make top 10, we’ll get to do a 30min fireside chat with Alex **(whic
 #### Email 5: 24 Hours Out
 **Subject:** Tomorrow at 9am PT / 12pm ET
 **Preview:** Set your alarm - the big day is here
-**Body:**
+### Body:
 [Name],
 Tomorrow is the day.
 **Alex Hormozi's $100M Money Models book launch. Saturday, August 16th at 9am PT / 12pm ET.**
@@ -1629,7 +1629,7 @@ When we hit our milestones, everyone who used my link gets the bonus content too
 #### Email 6: Live/Reminder
 **Subject:** LIVE NOW - 9am PT / 12pm ET
 **Preview:** Alex is going live right now
-**Body:**
+### Body:
 [Name],
 We're live RIGHT NOW.
 Alex Hormozi's $100M Money Models book launch is happening at 9am PT / 12pm ET.
@@ -1668,7 +1668,7 @@ Tickets are free. Link in bio.
 
 ### Slack Channel Messages (2 Versions)
 #### Version 1: Team Benefit
-**Message:**
+### Message:
 Hey team! 👋
 Found something that could help our revenue goals. Alex Hormozi is doing a live event August 16th teaching "Money Models" - basically how to get customers to spend more money with us.
 It's free and he's giving away some secret project to everyone who shows up live. Figured our sales/marketing folks might want to check it out.
@@ -1696,7 +1696,7 @@ Plus he's giving away a secret project (4 years in the making) to everyone who s
 I'm registered. Anyone else joining? Link in comments 👇
 
 ### YouTube Video Script Outlines (2 Versions)
-**Visual Elements for Both Videos:**
+### Visual Elements for Both Videos:
 Screen share of Alex's social media posts (greenscreen style)
 Your own business results/screenshots if applicable
 Calendar reminder setup
@@ -1705,22 +1705,22 @@ Link to register prominently displayed throughout the video and in the video des
 "Why Most Businesses Fail at Making Money (And How to Fix It)"
 **Length:** 8-12 minutes
 **Hook:** "95% of businesses are leaving money on the table every single day. Here's why."
-**Talking Points:**
+### Talking Points:
 **Opening Problem (0-30 seconds):** Most business owners focus on getting customers but ignore how much those customers spend
 **Personal Story (:30 seconds-2:00 minutes):** Share your own experience of struggling with customer value or a business that improved when they focused on this
-**The Money Model Concept (2:00-4:00 minutes):**
+### The Money Model Concept (2:00-4:00 minutes):
 Explain what a Money Model is in simple terms
 Give 1-2 basic examples (restaurant upselling dessert, gym membership tiers)
 Why most businesses only use 1 of the 4 types
-**The Big Reveal (4:00-6:00 minutes):**
+### The Big Reveal (4:00-6:00 minutes):
 Alex Hormozi has spent years perfecting these 4 Money Models
 His companies use all 4 together (that's the secret)
 He's teaching all of them live August 16th
-**The Secret Project Tease (6:00-8:00 minutes):**
+### The Secret Project Tease (6:00-8:00 minutes):
 Mention he's giving away something worth more than an NFT, less than a Bitcoin
 Only available to people who show up live
 This took him 4 years to create
-**Call to Action (8:00-10:00 minutes):**
+### Call to Action (8:00-10:00 minutes):
 Event details: August 16th, 9am PT / 12pm ET
 Why they should register through your link (affiliate benefits)
 What they'll learn that can change their business
@@ -1729,64 +1729,64 @@ What they'll learn that can change their business
 "I'm Going to Alex Hormozi's Biggest Event Ever (You Should Come)"
 **Length:** 6-10 minutes
  **Hook:** "Over 1 million people registered for this event. Here's why I'm going and why you should too."
-**Talking Points:**
+### Talking Points:
 **Opening Authority (0-30 seconds):** Share your credibility - why people should listen to your business advice
-**Event Announcement (30 seconds-1:00 minute):**
+### Event Announcement (30 seconds-1:00 minute):
 Alex Hormozi's biggest book launch ever
 August 16th, 9am PT / 12pm ET
 Completely free
-**Why I'm Excited (1:00-3:00 minutes):**
+### Why I'm Excited (1:00-3:00 minutes):
 Share what you've learned from Alex's previous content
 Specific results you've gotten from his teachings
 Why this book launch is different (4 years in the making)
-**What We'll Learn Together (3:00-5:00 minutes):**
+### What We'll Learn Together (3:00-5:00 minutes):
 The 4 Money Models that get customers to spend more
 Real tactics from someone who built multiple companies
 5 mystery speakers (some billionaires)
-**The Secret Bonus (5:00-7:00 minutes):**
+### The Secret Bonus (5:00-7:00 minutes):
 Alex worked on something for 4 years
 He's giving it away free but ONLY to people live
 Worth more than an NFT, less than a Bitcoin
 You literally can't get it any other way
-**Affiliate Benefits (7:00-9:00 minutes):**
+### Affiliate Benefits (7:00-9:00 minutes):
 Explain you're an affiliate and what that means for viewers
 When they use your link, you both get bonus content
 70 Profit Tactics audiobook when you hit 10 referrals
 Chance for Vegas HQ visit
-**Call to Action (9:00-10:00 minutes):**
+### Call to Action (9:00-10:00 minutes):
 Register through your link in description / in the lower 3rd
 Set calendar reminder for August 16th
 Ask them to comment if they're going so you can build community
 
 **Alex Hormozi Writing Guideliness
 **
-**Keep Everything Below 3rd Grade Reading Level **
+### Keep Everything Below 3rd Grade Reading Level
 We utilize leverage to gain higher returns on our equity checks ❌
 We borrow money so we can buy bigger stuff (and make more) than we could with our cash alone. ✅
-**Present Voice **
+### Present Voice
 When you’re creating your sales page ❌
 When you create your sales page ✅
-**Active Not Passive **
+### Active Not Passive
 The body was carried out of the room ❌
 We carried the body out of the room ✅
 **Avoid Adverbs Whenever Possible **(adverbs usually mean lame verbs)
 We shut the door really hard ❌
 We slammed the door ✅
 Avoid words like “very, super, way, actually, etc”
-**Simple/Short Sentences **
+### Simple/Short Sentences
 Usually one comma
 If two commas - cut the middle or make 2 sentences
 We tried to escape but the man, with the red mask, chased us until we lost our breath. ❌
 The red-masked man chased us until we lost our breath. We were trapped. ✅
-**Positive Language **
+### Positive Language
 Don’t Stop ❌
 Keep Going ✅
 Don’t leave the facility ❌
 Stay inside ✅
-**Remove Redundant Words **
+### Remove Redundant Words
 We simultaneously left the building at the same time ❌
 We left the building at the same time ✅
-**Remove Unnecessary Words **
+### Remove Unnecessary Words
 If they don’t change the meaning or add to the meaning of the sentence. 8 Guidelines For Writing I Live By ❌
 8 Writing Guidelines I Live By ✅
 He was able to get out of his car. ❌
@@ -1854,7 +1854,7 @@ Link here
 # The $100M Money Models Advanced Implementation Playbooks
 **My Most Insane Offer of All Time - Ends Monday Forever**
 *Can literally pay for itself, is a complete tax write-off, and helps 200 other entrepreneurs with their business... for free by donating 200 books.*
-**Dear Business Owner,**
+### Dear Business Owner,
 I'm going to tell you about my most insane offer of all time - that ends on Monday forever - that can literally pay for itself, is a complete tax write off, and helps 200 other entrepreneurs with their business…for free by donating 200 books. And business owners, you will like it, so keep reading.
 **If you're starting out** - don't worry. I already got you covered with the greatest free starter kit anyone's ever given. If you missed the webinar, you'll get all the goodies via email Tuesday with money models course, money models audiobook, and 90 days of Skool free then a lifetime lower $9/mo rate to give you the tech stack to turn the money models into reality.
 **NOW for all the actual business owners**, you only have a short window to get this - so let's get to it.
@@ -1866,10 +1866,10 @@ Asking people to fly in, 50 people at a time, using my actual advisors is a wild
 So I could collect first party data mapping every constraint businesses struggled with. Then, spent that entire time period codifying not only the problems - but more importantly - the solutions.
 ### The 4 Problems That Keep Every Business Stuck
 Wanna know the problems that kept businesses stuck: after analyzing everything, it boiled down to four categories:
-**Not enough leads**
-**Not enough conversions**
-**Delivery bottlenecks**
-**Doing 1-3, but still not profitable enough**
+### Not enough leads
+### Not enough conversions
+### Delivery bottlenecks
+### Doing 1-3, but still not profitable enough
 Then, I spent basically 2 years writing down and testing the solutions with the team to figure out which things, when broken down into their most basic checklist form, could actually solve these problems.
 And - I called it - **the $100M Money Models Advanced Implementation Playbooks.**
 
@@ -1879,7 +1879,7 @@ So these playbooks divide into four systems that match the problems:
 ### System #1: The Complete Leads System
 **4 playbooks that solve the leads constraint** we saw businesses encounter over the last 18 months. It'll show you how we scale ad spend profitably, fix your content to get sales not just views, build premium brand authority, and remove yourself from marketing entirely.
 These are the exact systems that grew my audience to **13 million people** and let me spend **$250,000 a day on ads**. Not a promise that you'll do this and have anything happen at all. It takes time and skill to use these. I've had both. So your results will differ.
-**That said, it's how:**
+### That said, it's how:
 **Chris Howell** - a commercial architect - tripled his business growth
 **Jorge** - a local business owner - was able to scale lead flow to his brick & mortar pharmacy - he had to hire more staff the first month just to keep up with the growth
 **Ava** - who's 19 years old - took her content agency from 10-15 new deals a month to 40-60 new B2B high ticket recurring deals a month
@@ -1887,13 +1887,13 @@ All using the Leads Systems Playbooks. Some needed ads scaling. Others content s
 ### System #2: The Sales System
 **3 playbooks that solve every sales constraint.** Including how we get way more appointments to show, our proven frameworks to close more deals, and how to use proof to make selling easier.
 Today, it's led to **89% show rates and 46% close rate** for our advisory practice.
-**And it:**
+### And it:
 Took one of my portfolio companies - **Well Oiled Operations** - a B2B operations consulting business - from 27% close rate to **45% close rate** using the same playbooks
 Helped one of my other portfolio companies - **IBC Global** - an insurance brokerage - go from converting 20% of appointments to **61%**...a 3x
 So yea, it's what we use, and that's how we know it works.
 ### System #3: The Delivery System
 **2 playbooks that solve profitability constraints.** Multiply customer value and eliminate churn through scientific methods.
-**It's what we used for:**
+### It's what we used for:
 **WeWhiten** - a teeth whitening chain - another one of my portfolio companies - to **7.5x profit per location** - not a typo...across 28 stores
 Helped **Erik and Amanda** - an advisory client - double their AOV
 Made **Skool's retention graph look incredible**…on our way from 1M users to over 15M users
@@ -2056,7 +2056,7 @@ Link needed
 # (Scripts) 800 Book Offer VSL
 # Alex's $18K Offer - Script
 [Opening/Congratulations section]
-**Holding the book and bonuses**
+### Holding the book and bonuses
 First off, congratulations and thank you.
 Congratulations on what you just got - the 12 advanced implementation playbooks, the ACQ implementation virtual workshop, and the ACQ AI.
 We put so many hours into making this exceptional, I can't wait to hear about your business's growth and success. You'll have an email with more order details momentarily. It'll give you dates and links and all that good stuff plus your order confirmation.
@@ -2070,7 +2070,7 @@ That's only important for you to know because it'll explain why I'm doing someth
 ## [Offer setup section]
 So here's what I want to do...
 I want to incentivize you to buy/donate 800 more books. That's $24k. BUT - I'll credit your first $6k - towards it though, so that takes you to $18k. And you can grab them for only $3k more today (which is less than what you just paid for the playbooks), then five more monthly installments of $3k after that.
-**Here's what you get:**
+### Here's what you get:
 ## [Value section 1 - Direct Access & Community]
 First and most important thing you get: Direct access to me and my advisory team through my first ever online community, the ACQ Scale Advisory hosted on Skool.
 You’ll be able to get valuable insights from my Director of Sales, Director of Recruiting, Director of Marketing, Director of Investments to help with sales, sales process, ads, funnels, content, offer, strategy, people and operations, wealth finance and tax…directly applicable to your business.
@@ -2105,7 +2105,7 @@ So when you click the button you’ll get 3k and then there will be 5 more insta
 So this isn’t a forever subscription this is a one time thing
 If you want in, click the button now. I'll see you inside. Look forward to meeting you.
 Alex
-**[Call to action button]**
+### [Call to action button]
 *CLICK HERE TO JOIN THE ACQ SCALE ADVISORY - $3,000 x 6 months*
 *This offer disappears forever Monday night at midnight.*
 
@@ -2145,7 +2145,7 @@ $100M Money Models training
 90 day trial of Skool (cancel with a click)
 **Skool Exclusive Training** on how to turn models into reality
 Lifetime lower rate of $9/mo after the trial ends
-**BUTTON**
+### BUTTON
 
 **PS - **You don't need to get a trial of Skool to get the free stuff. It’ll be live after 8/20 on my site. This is just a little incentive + keeps it clean all in one place.
 💻 $100M® Bundle TY Page
@@ -2198,7 +2198,7 @@ While other people are trying to figure things out from YouTube videos, you have
 **You have what you need. Now use it.**
 I'll see you in the workshop.
 
-**[ACCESS YOUR WORKSHOP NOW]**
+### [ACCESS YOUR WORKSHOP NOW]
 Start here.
 
 💻 ACQ Scale TY Page
@@ -2248,7 +2248,7 @@ Welcome to the ACQ Scale Advisory.
 The rest of your stuff is in your email.
 Hit the button and let's get started.
 
-**[ACCESS YOUR COMMUNITY NOW]**
+### [ACCESS YOUR COMMUNITY NOW]
 *Your login details are waiting in your email inbox.*
 
 📹 ACQ Scale Advisory Onboarding Video
@@ -2859,7 +2859,7 @@ Grab your free ticket here: register.acq.com
 PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and get 4 amazing free bonuses :)
 PPS - Expect fireworks.
 ## Ad #14: A Lot of People Ask Me Hook
-**Primary Text:**
+### Primary Text:
 A lot of people ask me what's better: getting more customers or getting more money from the customers you already have.
 Here's what I tell them:
 Getting more customers is like filling a bucket with holes in it. You pour water in the top, but it keeps leaking out the bottom.
@@ -2879,7 +2879,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #15: This Book Will Teach You More Hook
-**Primary Text:**
+### Primary Text:
 This book will teach you more about making money from customers than all these famous business books combined:
 📚 Good to Great
  📚 The Lean Startup 📚 Built to Last 📚 The E-Myth 📚 Blue Ocean Strategy
@@ -2899,7 +2899,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #16: 100K vs. 1M Business Owner Hook
-**Primary Text:**
+### Primary Text:
 $100K business owner: "I need more customers." $1M business owner: "I need better systems."
 Same problems. Different thinking.
 The $100K owner works IN the business. The $1M owner works ON the business.
@@ -2923,7 +2923,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #17: Only Books You Need Hook
-**Primary Text:**
+### Primary Text:
 These are the only 3 books you need if you want to build a real business:
 "$100M Offers" - What to sell
 "$100M Leads" - How to find people to buy it
@@ -2943,7 +2943,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #18: Does Your Business Look Like This Hook
-**Primary Text:**
+### Primary Text:
 Does your customer journey look like this: ❌ Ad → Landing Page → One Offer → Cross Your Fingers
 And you want it to look like this: ✅ Ad → Value → More Value → Sale → More Sales → Happy Customer
 Here's the thing - most businesses do the first one because it's easier. But easy doesn't make money.
@@ -2959,7 +2959,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #19: This Is Your Business Hook
-**Primary Text:**
+### Primary Text:
 This is your business when you make one offer: 📉 Small, stuck, struggling
 This is your business when you make smart offers: 📈 Big, growing, winning
 Same owner. Same market. Different approach.
@@ -2983,7 +2983,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #21: Did You Know Hook
-**Primary Text:**
+### Primary Text:
 Did you know that if you could get just 50% more money from each customer, you could spend 50% more to get them?
 And if everyone else can only spend $100 to get a customer, but you can spend $150, who wins?
 You do. Every time.
@@ -3002,7 +3002,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #22: X vs X What's The Difference Hook
-**Primary Text:**
+### Primary Text:
 Small business vs. Big business - what's the difference?
 Small business:
 Make one offer
@@ -3031,7 +3031,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #23: If You Could Only Read 1 Book Hook
-**Primary Text:**
+### Primary Text:
 If you could only read 1 business book in 2025, it should be this one.
 Not because it's the longest book. Not because it has the biggest words. Not because it makes you sound smart at parties.
 But because it solves the ONE problem that kills most businesses:
@@ -3050,7 +3050,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #24: More Knowledge Than a Degree Hook
-**Primary Text:**
+### Primary Text:
 This book will teach you more about making money in business than a $200,000 MBA.
 Here's why:
 MBA programs teach you how to analyze businesses that already work. This book teaches you how to build a business that works.
@@ -3068,7 +3068,7 @@ PS - Preorder a book on the way in and you'll get instantly upgraded to VIP and 
 PPS - Expect fireworks.
 
 ## Ad #25: If You Want Results Hook
-**Primary Text:**
+### Primary Text:
 If you want to fix one thing about your business every week for the next 12 weeks without getting overwhelmed, listen up.
 Most people try to change everything at once. Then they get overwhelmed, quit, and nothing changes.
 But what if you just fixed one small thing each week?

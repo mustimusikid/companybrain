@@ -66,21 +66,21 @@ a. **Internal/external circumstances before that caused them to move.
 **Name and where they live (or business).**
 **External Question:
 ***How was your situation before (brief 1–2 short statements)?*
-**Internal Leading Question:**
+### Internal Leading Question:
 *How did that make you feel?*
 *What were you unable to do that you wished you could?*
 *What negative impact did that have on others around you?*
-**Bridge Leading Questions:**
+### Bridge Leading Questions:
 *How did you find us? (or find out about) our company?*
 *What were your thoughts going through the process?*
 *What were your doubts and fears about this?*
 *What made you say yes anyway?*
-**External Question:**
+### External Question:
 *Where are you at now?*
 *How does that make you feel?*
 *What are you able to do now that you couldn’t before?*
 *What positive impact did that have on others around you?*
-**Call To Action:**
+### Call To Action:
 *What would you tell someone who is watching this right now and is unsure about taking the next step?*
 
 **Then make your video have the call to action steps 1, 2, 3**

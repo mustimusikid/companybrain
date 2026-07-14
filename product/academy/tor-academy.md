@@ -36,15 +36,15 @@ PPT pembelajaran (modul / freeclass / bootcamp / special event / cheat sheet)
 Video penjelasan modul
 PR untuk tiap modul
 ## Pelaksana
-**PIC Academy Team**
+### PIC Academy Team
  Mencari ide materi dan checking materi jadi
-**Academy Team**
+### Academy Team
 Membuat materi PPT berdasarkan Ide dan membuat PR berdasarkan PPT
-**Video Editor Team**
+### Video Editor Team
  Mengedit video footage menjadi video utuh
-**Tech Team**
+### Tech Team
  Posting modul pembelajaran dan PR pada website
-**Team Account Management**
+### Team Account Management
  Mengumumkan modul tambahan ke group Premium Community di WhatsApp dan Telegram
-**Dave Henokh**
+### Dave Henokh
  Melakukan perekaman modul dan checking hasil video jadi

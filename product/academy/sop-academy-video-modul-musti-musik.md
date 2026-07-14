@@ -11,8 +11,8 @@ review_frequency: annually
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
-**[SOP] Standard Operating Procedure**
-**Academy Video Modul **
+### [SOP] Standard Operating Procedure
+### Academy Video Modul
 
 ## Workflow
 **Academy Team** bersama** PIC** berkolaborasi mencari ide-ide modul yang akan diterbitkan tiap bulannya.

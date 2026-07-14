@@ -11,7 +11,7 @@ review_frequency: evergreen
 
 > Online academy product SOP or operational document for Musti Musik.
 
-**Testimonial and Feedback**
+### Testimonial and Feedback
 
 # Focus Group Discussion
 ## Tanggal: 23/05/24
@@ -34,7 +34,7 @@ Anggota FGD
 6. Sheila lukito, semarang, 41 tahun, guru
 7. Agnes, palenmbang, 23 taun, guru
 
-**Pertanyaan 1**
+### Pertanyaan 1
 Sharon, terkendala di licks. Dulu les di sekolah musik, gurunya suruh suka2 (jazz ga ada yang salah), terlalu bebas, tanpa guide. (Cuma diajarin swing ryhtm sama pola ryhtm aja dulu). Di MM dijelasin detail, dijabarin
 
 Budi, dulu licks (terutama licks) sama progresi kurang didapat. Karena lagu2 gereja tuh banyak bagian kosong perlu isian, scale2 lain udah banyak, cuma di licksnya
@@ -47,7 +47,7 @@ Noel, kurang memperhatikan pattern dan voicing chord. Dulu dari youtube, variasi
 
 Sheila, ga berkembang. Basic di electone, dulu banyak baca daripada improve. Kalau improvepun dulu yang dasar. Ketika di hadapkan lagu jadi bosen, itu lagi itu lagi…, Ketika ketemu MM, ternyata chord bisa dikembangkan lagi, pingin belajar lebih lagi.
 
-**Pertanyaan 2**
+### Pertanyaan 2
 
 Sharon, search by youtube/partitur/temen. Dulu nonton youtube chanelnya tergantung kebutuhan, misal cari disney/Jimi dorothy (search). Tapi kurang jelas asal muasal permainannya, ka sharon suka yang detail
 Feri. senam jarinya mainin lick
@@ -56,7 +56,7 @@ Sheila, lebih suke eksperimen sendiri. Penggemar tiktok dan dengerin spotify, se
 Noel, referensi youtubenya random, kalau scroll ig yang muncul di follow, kalau youtube sama kaya ka sharon, tergantung kebutuhan
 Sovie, random juga referensinya sebelum MM, tergantung kebutuhan.
 
-**Pertanyaan 3**
+### Pertanyaan 3
 
 Sharon agustina (tambahan). Dulu gurunya kasih contoh, dia sibuk videoin. Trus gurunya suruh buat, variasinya suruh bikin sendiri, dengan lagu yang sama bisa, kalau di lagu lain bingung karena dia main ka sharon cuma videoin dan suruh ikutin, kalau pindah pasti ga bisa.
 Ferry. Prakteknya belum banyak, Paling inget kalau dari I ke vim, kasih ii-v dari vi nya
@@ -72,26 +72,26 @@ Noell : berguna, biar bisa flashback dulu, coba2 dulu. Kalau misal udah manteb b
 
 Ka Noel + ka sovie fokus di worship karena jazz lebih rumit dan butuh intens.
 
-**Pertanyaan ke 4**
+### Pertanyaan ke 4
 Noel, belum ada tambahan, karena sudah lengkap, ntaps
 Sharon, yang terutama licks. Untuk gabungin licks dengan permainan piano agar lebih baik. Dulu waktu batch 2 selalu disinggung ttg story telling, jadi biar lebih enak permainannya
 Budi, dalam lagu lambat, ex: How Great is thou art, biasanya mainnya cuma ikutin drum (pakai sus) perlu vocab baru biar lebih asik. Butuh story telling di permainan sebuah lagu, misal ada saat dimana drum main / berhenti (berarti dalam band)
 Sovie, ingin pattern ngiring latin seperti di bossa, chacha, dll (pola rhythm)
 
-**Pertanyaan 5 **
+### Pertanyaan 5
 **(list fitur : academy online, komunitas (diskusi public, bedah piano, materi ekslusif, dll), **
 Sharon : saran : kasih tips untuk genre2 jazz. (by chat : Dave, kyknya blh deh dibahas pattern berbagai genre spt yg Sovie blg. Kyk latin, salsa, dll. Krn kan beda cara mainnya. Wkt itu sy prnh usulkan jg kyknya y?)
 Sofie : Diskusi harian itu berguna, karena bisa dapat hal baru dan detail dijelasinnya.
 
-**Tanya Random ko dave**
-**Menurut kalian web kita gimana ? cepat lambat tampilan dll**
+### Tanya Random ko dave
+### Menurut kalian web kita gimana ? cepat lambat tampilan dll
 Noel : bagus, praktis, bisa dipercepat diperlambat
 Budi : ga ada masalah
 Ferri : aman (Ada 1 video di materi ekslusif video ke 2 tidak bisa diputar (natal kayaknya)
 Sovie : aman, tapi dulu pernah tidak bisa login, sekarang masih bagus
 Sharon : Waktu awal2 iya karena pwnya dulu harus beda. Saran apakah bisa ada shortcut untuk member langsung masuk gitu tanpa masukin username dll… (dulu punya temen punya shortcut yang bisa login suatu app)
 Sheila
-** Jadwal (nyaman ga jam 8-9 malam)**
+### Jadwal (nyaman ga jam 8-9 malam)
 Sheila : oke, karena selesai kerja jam 7
 Ferri : oke
 Lainnya oke

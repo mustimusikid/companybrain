@@ -11,21 +11,21 @@ review_frequency: evergreen
 
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.
 
-**Analisis dari hasil kuisioner:**
-**Minat Pendaftaran Bootcamp:**
+### Analisis dari hasil kuisioner:
+### Minat Pendaftaran Bootcamp:
 Sebagian besar responden menunjukkan ketertarikan dengan berbagai tingkat minat. Sebanyak 40% responden "Sangat Tertarik," 25% "Tertarik," dan 20% "Cukup Tertarik." Sisanya "Tidak Terlalu Tertarik" atau "Tidak Tertarik Sama Sekali."
 Banyaknya minat positif menunjukkan potensi besar dalam menawarkan bootcamp berbayar kepada mereka yang telah mengikuti kelas gratis.
-**Jadwal Favorit:**
+### Jadwal Favorit:
 Sabtu dan Minggu adalah hari yang paling cocok untuk sebagian besar responden, diikuti dengan Jumat. Hal ini menunjukkan preferensi untuk jadwal akhir pekan, yang cocok dengan waktu luang kebanyakan orang.
-**Persepsi Harga:**
+### Persepsi Harga:
 **Harga Meragukan**: Responden mulai meragukan kualitas bootcamp jika harga berada di bawah Rp50.000 - Rp100.000. Harga di bawah angka tersebut dianggap terlalu murah sehingga menurunkan persepsi kualitas.
 **Harga Penawaran Bagus**: Harga bootcamp yang dianggap sebagai "penawaran bagus" berkisar antara Rp150.000 hingga Rp500.000. Ini adalah kisaran harga yang dapat dipertimbangkan dalam strategi pemasaran untuk menarik lebih banyak peserta.
 **Harga Terasa Mahal**: Mulai dari Rp500.000 hingga Rp1.000.000, beberapa responden merasa bootcamp ini mulai terasa mahal.
 **Harga Terlalu Mahal**: Harga di atas Rp1.500.000 dianggap terlalu mahal oleh sebagian besar responden.
-**Kemungkinan Membeli dalam 6 Bulan:**
+### Kemungkinan Membeli dalam 6 Bulan:
 **Pada Harga Penawaran Bagus**: Sebagian besar responden memberikan nilai antara 4 hingga 5, yang berarti kemungkinan mereka akan membeli bootcamp cukup tinggi jika berada di kisaran harga "penawaran bagus."
 **Pada Harga Terasa Mahal**: Nilai yang diberikan menurun ke rentang antara 1 hingga 3, menunjukkan bahwa harga yang dianggap mahal membuat kemungkinan pembelian menjadi lebih rendah.
-**Strategi yang Direkomendasikan:**
+### Strategi yang Direkomendasikan:
 **Harga Penawaran Awal**: Pertimbangkan untuk mematok harga antara Rp150.000 hingga Rp500.000 untuk menarik peserta baru. Harga ini cenderung dianggap masuk akal dan memberikan nilai yang baik oleh sebagian besar responden.
 
 **Strategi pricing untuk bootcamp menggunakan model Van Westendorp berdasarkan hasil analisis dari kuesioner MUSTI MUSIK**

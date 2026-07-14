@@ -15,7 +15,7 @@ review_frequency: annually
 
 # KURIKULUM JAZZ MUSTIMUSIK.
 
-**JAZZ FUNDAMENTAL STEP 1**
+### JAZZ FUNDAMENTAL STEP 1
 
 Fokus: *Pondasi Awal*. Tahap ini dirancang untuk membangun kepercayaan diri dalam memainkan lagu jazz yang akrab melalui latihan teknis dasar dan pengenalan notasi fundamental.
 Song List & Ekspektasi Permainan:
@@ -59,7 +59,7 @@ Menentukan jenis not (misal: "Apakah ini *Quarter Note*?") dan menyebutkan nilai
 C. Tanda Istirahat:
 Mengidentifikasi simbol tanda diam (*rest*) dan menjelaskan berapa lama kandidat harus berhenti/diam saat menemukannya.
 
-**JAZZ FUNDAMENTAL STEP 2**
+### JAZZ FUNDAMENTAL STEP 2
 
 Fokus: *Pengembangan Teknik & Pemahaman Simbol*. Tahap ini memperluas materi Step 1 dengan fokus pada akord minor, pengenalan tanda mula (Key Signature), serta pemahaman ekspresi melalui dinamika dan aksidental.
 Song List & Ekspektasi Permainan:
@@ -96,7 +96,7 @@ C. Ekspresi & Dinamika:
 "Apa arti simbol p dalam musik?"
 "Sebutkan perbedaan antara f dan mf dalam hal volume suara."
 
-**GRADE 1**
+### GRADE 1
 
 Fokus: Memperkenalkan elemen fundamental jazz melalui irama *swing*, pengenalan tangga nada pentatonik sebagai alat improvisasi awal, serta membangun pemahaman *groove* dasar (Downbeat vs Backbeat).
 Song List & Ekspektasi Permainan (LCM Standards):
@@ -131,7 +131,7 @@ Mengenali secara auditif perbedaan antara interval Major 3rd dan Perfect 5th.
 Aural 3 – Pitch Echo:
 Menyanyikan kembali nada yang diminta atau dimainkan oleh penguji dengan tepat.
 
-**GRADE 2**
+### GRADE 2
 
 Fokus: Memperkuat akurasi teknik dan "feel" terhadap gaya musik Jazz yang lebih spesifik. Penekanan utama ada pada pengenalan *Jazz Modes* (Dorian), perluasan kosakata tangga nada melalui Pentatonik, serta pengembangan kemampuan improvisasi responsif 4-birama.
 Song List & Ekspektasi Permainan (LCM Repertoire):
@@ -171,7 +171,7 @@ Aural 3 – Chord Tone Identification:
 Dalam sebuah triad, murid harus mampu mengidentifikasi posisi nada yang dimainkan penguji sebagai nada Bottom (bawah), Middle (tengah), atau Top (atas).
 Aural 4 – Scale Pitch Recognition:
 Mendengar nada dalam tangga nada Major (C, F, G, D) dan menyebutkan nama huruf nadanya atau derajat tangga nadanya (misal: "Degree 3" atau "E").
-**GRADE 3**
+### GRADE 3
 
 Fokus: Memperluas kosakata improvisasi melalui penggunaan tangga nada *Blues* dan mode *Aeolian* (Natural Minor). Pada level ini, siswa dituntut untuk melakukan improvisasi yang lebih panjang serta mulai menerapkan *embellishment* (hiasan nada) dan *fills* (isian) untuk memperkaya permainan.
 Song List & Ekspektasi Permainan (LCM Repertoire):
@@ -209,7 +209,7 @@ Menepuk pola ritme yang diminta dan memberikan respon frase improvisasi singkat 
 Aural 2 – Interval Recognition:
 Mengidentifikasi jenis interval yang dimainkan baik secara berturutan (*melodic*) maupun bersamaan (*harmonic*).
 Interval yang diujikan: Major 2nd, Major 3rd, Perfect 4th, dan Perfect 5th.
-**GRADE 4**
+### GRADE 4
 
 Fokus: Mengembangkan performa yang lebih ekspresif melalui penggunaan *embellishment* dan *fills* yang lebih padat. Fokus utama pada pengenalan mode *Mixolydian* (esensial untuk akord dominan), pengenalan *Rock Groove*, serta kesadaran terhadap figur *turnaround* dalam struktur lagu Jazz.
 Song List & Ekspektasi Permainan (LCM Repertoire):
@@ -245,7 +245,7 @@ Mengidentifikasi pola ritme gaya Rock dari contoh yang diberikan.
 Menepuk pola tersebut dan memainkan/menyanyikan frase improvisasi berdasarkan pola ritme tersebut.
 Aural 2 – Advanced Interval Recognition:
 Mengenali dan menyebutkan nilai numerik serta tipe interval (Major, Minor, atau Perfect) hingga rentang satu oktaf.
-**GRADE 5**
+### GRADE 5
 
 Fokus: Memperluas cakrawala improvisasi dengan rasa ingin tahu yang lebih besar dan keamanan teknis yang meningkat. Fokus utama pada pengenalan gaya musik Latin (Bossa Nova/Samba), mode *Lydian*, serta pemahaman struktur lagu yang lebih kompleks termasuk modulasi dan berbagai jenis kadens.
 Song List & Ekspektasi Permainan (LCM Repertoire):
@@ -285,7 +285,7 @@ Aural 2 – Intervals & Cadences:
 Interval Recognition: Mengidentifikasi interval yang dimainkan bersamaan (*harmonic*), termasuk *Augmented 4th* atau *Diminished 5th* (Tritone).
 Cadence Identification: Mengenali jenis kadens di akhir frasa:authentic (typically perfect authentic or imperfect authentic), half, plagal, and deceptive
 
-**GRADE 6**
+### GRADE 6
 
 Fokus: Transisi menuju performa profesional. Pada level ini, standar ujian meningkat signifikan di mana siswa harus mampu membawakan *Head* (tema) diikuti dengan minimal dua *chorus* improvisasi yang matang. Siswa mulai diperkenalkan dengan penggunaan *Real Book* dan dituntut memiliki kesadaran kritis terhadap interpretasi gaya musiknya sendiri.
 Song List & Ekspektasi Permainan (LCM & Real Book):
@@ -325,7 +325,7 @@ Mengidentifikasi interval spesifik yang terdapat dalam *Blues Scale* (berdasarka
 Aural 3 – Cadence Identification (Conventional Name):
 Mendengar progresi harmoni dan menentukan jenis kadensnya: Perfect, Imperfect, atau Interrupted menggunakan istilah musik standar.
 
-**GRADE 7**
+### GRADE 7
 
 Fokus: Penguasaan harmoni tingkat lanjut, dengan penekanan khusus pada progresi ii-V-I dan penggunaan teknik Block Chords (George Shearing style). Siswa diharapkan mampu berimprovisasi secara artistik dengan kesadaran penuh terhadap hubungan antara *Circle of Fifths*, Mode, dan struktur harmoni yang kompleks.
 Song List & Ekspektasi Permainan (LCM & Real Book):
@@ -366,7 +366,7 @@ Menyebutkan nada-nada dalam akord tersebut setelah nada dasar diberikan oleh pen
 Aural 3 – Cadence Identification:
 Mengidentifikasi jenis kadens secara spesifik: Perfect, Imperfect, Plagal, atau Interrupted baik dalam kunci Mayor maupun Minor.
 
-**GRADE 8**
+### GRADE 8
 
 Fokus: Kematangan artistik dan penguasaan harmoni "Advanced". Fokus utama terletak pada penggunaan substitusi harmoni yang kompleks (*Tritone Substitution*), eksplorasi tangga nada modern (*Whole Tone* & *Diminished*), serta kemampuan menganalisis skor musik jazz secara komprehensif.
 Song List & Ekspektasi Permainan (LCM & Real Book):
@@ -827,14 +827,14 @@ memahami struktur lagu
 memainkan dengan swing feel
 menjaga tempo dan dinamika
 
-**Improvisasi (Creative Response)**
+### Improvisasi (Creative Response)
 ### Tujuan
 Mengembangkan kreativitas musikal dalam jazz.
 ## Tahap 1 – Improvisasi Berbasis Scale
 Improvisasi menggunakan: pentatonic scale, dorian mode
 ## Tahap 2 – Improvisasi Frase Pendek
 Murid membuat frase: 2 bar improvisation
-**Tahap 3 – Improvisasi Respons**
+### Tahap 3 – Improvisasi Respons
 Format latihan: guru memainkan 2 bar murid improvisasi 2 bar berikutnya
 
 # Musical Awareness
@@ -999,15 +999,15 @@ Latihan: mendengar interval, menyebut jenis interval.
 **Pada Grade 4, kurikulum menuntut performa yang lebih ekspresif dengan penggunaan *****embellishment***** dan *****fills***** yang semakin banyak, serta kesadaran terhadap figur *****turnaround*****.**
 ### Komponen 1: Technical Work (15 Markah)
 Kandidat harus menyiapkan **Opsi 1** (Tangga Nada & Arpeggio) atau **Opsi 2** (Tangga Nada & Studi):
-**Tangga Nada (Memory & Legato):**
+### Tangga Nada (Memory & Legato):
 **E, B, dan Ab Major:** Dua oktaf, kedua tangan, *straight*.
 **B dan F Minor (Melodik/Harmonik):** Dua oktaf, kedua tangan, *straight*.
 **C Minor Pentatonic:** Dua oktaf, kedua tangan, *swing*.
 **C Blues Scale:** Satu oktaf, tangan sendiri-sendiri, *swing*.
-**Mode & Kromatik:**
+### Mode & Kromatik:
 **Mixolydian:** Dimulai dari G dan C, dua oktaf, kedua tangan, *straight*.
 **Kromatik:** Dimulai dari D, dua oktaf, kedua tangan, *straight*.
-**Arpeggio & Akord:**
+### Arpeggio & Akord:
 **A dan Eb Major serta B Minor:** Dua oktaf, tangan sendiri-sendiri atau bersamaan, *straight*.
 **Dominant 7th Broken Chords:** C7 dan G7, tangan sendiri-sendiri, diselesaikan ke tonik, *swing*.
 **Opsi Studi:** Jika memilih Opsi 2, kandidat memainkan tangga nada A♭  Major dan lagu
@@ -1032,7 +1032,7 @@ Memastikan murid memahami elemen teori yang muncul dalam repertoire dan improvis
 ### Materi
 Review dari level sebelumnya:
 stave dan clef, note values dan dotted notes, key signature, time signature, accidentals, dynamics
-**Tambahan fokus:**
+### Tambahan fokus:
 membaca ritme dengan sinkopasi, mengenali simbol akord dasar.
 ### Latihan
 membaca ritme dari contoh lagu, mengidentifikasi tanda mula dan dinamika dalam partitur.
@@ -1123,14 +1123,14 @@ Materi:
 interval hingga satu oktaf, simbol akord dasar, pengetahuan tentang musisi atau komposer jazz.
 Contoh topik:
 siapa komposer lagu, asal negara komposer, karakter musik yang dimainkan.
-**Diskusi Teknis**
+### Diskusi Teknis
 Murid juga belajar menjelaskan:
 bagian sulit dalam lagu, teknik yang diperlukan untuk memainkannya.
 
 # Aural Training
 ### Tujuan
 Mengembangkan kemampuan mendengar ritme dan harmoni.
-**Aural 1 – Rhythm Recognition**
+### Aural 1 – Rhythm Recognition
 Murid mendengar contoh musik dan menentukan:
 pola ritme **rock style**.
 Latihan: menepuk pola ritme, membuat improvisasi mengikuti pola tersebut.
@@ -1143,13 +1143,13 @@ Latihan, mendengar intervalmenyebut nilai interval secara numerik.
 **Pada Grade 5, kandidat diharapkan mulai merangkul elemen improvisasi dengan rasa ingin tahu yang lebih besar dan keamanan teknis yang meningkat. Kurikulum di tingkat ini memperkenalkan gaya *****Latin***** serta *****Lydian mode*****.**
 ### Komponen 1: Technical Work (15 Markah)
 Kandidat harus memilih antara **Opsi 1** (Tangga Nada & Arpeggio) atau **Opsi 2** (Tangga Nada & Studi):
-**Tangga Nada (Memory, Piano/Forte):**
+### Tangga Nada (Memory, Piano/Forte):
 **F Major:** Dua oktaf, kedua tangan, *straight*, legato.
 **F dan F# Minor (Melodik/Harmonik):** Dua oktaf, kedua tangan, *straight*, legato.
 **G dan F# Blues Scales:** Satu oktaf, tangan sendiri-sendiri, *swing*.
-**Modes (Legato, Memory):**
+### Modes (Legato, Memory):
 **Dorian (F), Mixolydian (Bb), Aeolian (C), dan Lydian (Ab):** Dua oktaf, tangan sendiri-sendiri atau bersamaan, *straight* atau *swing*.
-**Kromatik, Arpeggio & Akord:**
+### Kromatik, Arpeggio & Akord:
 **Kromatik:** Dimulai dari nada apa saja, dua oktaf, kedua tangan (*similar motion*), *straight*.
 **C dan B Major serta B dan F Minor Arpeggio:** Dua oktaf, kedua tangan, *straight*.
 **Dominant 7th Broken Chords:** D7, F7, dan Bb7, tangan sendiri-sendiri, diselesaikan ke tonik, *swing*.
@@ -1288,22 +1288,22 @@ Materi yang dipelajari:
 interval termasuk: augmented 4th, diminished 5th.
 Kadens yang dikenali: Perfect cadence, Imperfect cadence, Plagal cadence, Interrupted cadence.
 
-**Grade 6**
+### Grade 6
 **Pada Grade 6, standar ujian meningkat secara signifikan. Performa kini harus mencakup *****head***** (tema) dan umumnya dua *****chorus***** improvisasi. Kandidat juga mulai diperbolehkan menggunakan materi dari *****Real Book*****.**
 ### Komponen 1: Technical Work (15 Markah)
 Kandidat memilih antara **Opsi 1** (Tangga Nada & Arpeggio) atau **Opsi 2** (Tangga Nada & Studi):
-**Tangga Nada & Mode (Memory, Legato & Forte):**
+### Tangga Nada & Mode (Memory, Legato & Forte):
 **Similar Motion:** F, Bb, Ab, E, dan B Major; serta B, F#, C#, dan Bb Minor (tiga oktaf, *straight*).
 **Pilihan Tambahan:** Kandidat memilih satu dari: Tangga nada Kromatik (mulai dari E), Tangga nada Blues (mulai dari B, F, dan F#), atau Latihan Mode dari tangga nada C, G, dan F Major.
-**Arpeggio (Dua Oktaf, Straight atau swing):**
+### Arpeggio (Dua Oktaf, Straight atau swing):
 Major, Minor, Augmented, dan Diminished dari nada dasar G, E, dan Bb.
 **Opsi Studi:** Jika memilih Opsi 2, kandidat memainkan tangga nada Kromatik dan dua lagu studi: *Plus Nine Blues* DAN *Latin Sundae*.
 ### Komponen 2: Performa (60 Markah)
 Kandidat memainkan **tiga lagu**. Maksimal dua lagu boleh diambil dari pilihan *Real Book*. Minimal satu lagu harus berasal dari *Jazz Piano Handbook 2*.
-**My Favorite Things**
-**Laura**
-**Cantaloupe Island**
-**Round Midnight**
+### My Favorite Things
+### Laura
+### Cantaloupe Island
+### Round Midnight
 
 ### Komponen 3 & 4: Musical Awareness & Creative Response
 **Musical Awareness (7 Markah):** Mencakup pengetahuan tentang struktur blues, struktur akord, mode dalam tangga nada major, serta pemahaman gaya dan pengaruh musikal. Kandidat juga harus menunjukkan kesadaran kritis terhadap performanya sendiri.
@@ -1323,7 +1323,7 @@ struktur **12-bar blues, **simbol akord dalam lead sheet, fungsi akord dalam pro
 ## Latihan
 membaca simbol akord dari lead sheet, mengidentifikasi progresi akord dalam lagu, mengenali struktur blues dalam repertoire jazz.
 
-**Penguatan Groove dan Style Jazz**
+### Penguatan Groove dan Style Jazz
 ## Tujuan
 Mengembangkan kemampuan memainkan berbagai gaya jazz dengan groove yang stabil.
 ## Materi
@@ -1428,7 +1428,7 @@ mendengar progresi akord, mengidentifikasi jenis kadens yang dimainkan.
 Kandidat dapat memilih antara **Opsi 1** (Tangga Nada, Arpeggio & Akord) atau **Opsi 2** (Tangga Nada & Studi):
 Tangga Nada (Memory, Legato & Forte):
 **Similar Motion:** F#, Db, dan Eb Major; serta F, Eb, dan G Minor (melodik atau harmonik) sebanyak tiga oktaf, kedua tangan, *straight*.
-**Pilihan Tambahan (Pilih satu):**
+### Pilihan Tambahan (Pilih satu):
 **Kromatik:** Mulai dari C, dua oktaf, kedua tangan, *straight*.
 **Modes:** Mixolydian (pada D, E, C, Eb) dan Phrygian (pada A, F, C, A) sebanyak tiga oktaf, kedua tangan, *swing* atau *straight*.
 **Blues Scales:** Mulai dari C dan Eb, dua oktaf, tangan sendiri-sendiri, *swing*.
@@ -1437,10 +1437,10 @@ Tangga Nada (Memory, Legato & Forte):
 
 ### Komponen 2: Performa (60 Markah)
 Kandidat memainkan **tiga lagu**, dengan minimal satu lagu dari *Jazz Piano Handbook 2*. Maksimal dua lagu boleh diambil dari pilihan *Real Book*.
-**Confirmation**
-**Donna Lee**
-**Night Train**
-**Desafinado**
+### Confirmation
+### Donna Lee
+### Night Train
+### Desafinado
 
 ### Komponen 3 & 4: Musical Awareness & Creative Response
 **Musical Awareness (7 Markah):** Mencakup pengetahuan tentang pola **II-V-I** (pada kunci G, C, dan F Major), *circle of fifths*, konteks sejarah dan gaya musik, serta informasi biografis komposer.
@@ -1468,7 +1468,7 @@ Mengembangkan kemampuan memainkan berbagai gaya jazz dengan groove yang stabil d
 ## Materi
 Style yang dipelajari:
 swing jazz, jazz waltz (3/4), latin jazz.
-**Latihan**
+### Latihan
 memainkan groove dengan metronom, menjaga stabilitas tempo dalam berbagai gaya, melakukan comping sederhana mengikuti progresi akord.
 
 # Pengembangan Teknik Tangga Nada
@@ -1552,7 +1552,7 @@ Latihan: improvisasi pada progresi II–V–I dalam kunci: G Major, C Major, F M
 ## Tahap 3 – Improvisasi Respons
 Format latihan: guru memainkan pembuka frase, murid membuat respon improvisasi berdasarkan simbol akord yang diberikan.
 
-**Musical Awareness**
+### Musical Awareness
 ## Tujuan
 Mengembangkan pemahaman mendalam tentang gaya, sejarah, dan struktur musik jazz.
 ## Materi
@@ -1592,9 +1592,9 @@ Kandidat dapat memilih salah satu dari dua opsi berikut:
 
 ### Komponen 2: Performa (60 Markah)
 Kandidat memainkan **tiga lagu**. Satu lagu harus berasal dari *Jazz Piano Handbook 2*, dan maksimal dua lagu boleh dari *Real Book*.
-**Giant Steps**
-**Spain**
-**Birdland**
+### Giant Steps
+### Spain
+### Birdland
 **Peri’s Scope
 **
 ### Komponen 3 & 4: Musical Awareness & Creative Response
@@ -1609,7 +1609,7 @@ Kandidat memainkan **tiga lagu**. Satu lagu harus berasal dari *Jazz Piano Handb
 # Review Teori Musik dan Harmoni Jazz Lanjutan
 ## Tujuan
 Memastikan murid memahami konsep harmoni jazz tingkat lanjut yang digunakan dalam repertoire dan improvisasi.
-**Materi**
+### Materi
 Review dari level sebelumnya:
 circle of fifths, progresi II–V–I, struktur blues, simbol akord jazz, fungsi harmoni dalam improvisasi.
 Tambahan fokus:
@@ -1632,7 +1632,7 @@ Meningkatkan fleksibilitas teknik dalam berbagai tonalitas serta artikulasi.
 ## Tangga Nada Mayor dan Minor
 Murid memilih satu grup dari tiga grup kunci yang tersedia.
 Contoh grup: C Major, C# Major, B♭ Major, G Major
-**Latihan**
+### Latihan
 tiga oktaf, kedua tangan (similar motion), dimainkan **straight atau swing, **artikulasi **legato atau staccato**.
 ## Tujuan
 memperkuat kontrol teknik serta fleksibilitas improvisasi dalam berbagai kunci.
@@ -1694,12 +1694,12 @@ Mengembangkan pemahaman analisis musik jazz yang lebih mendalam.
 ## Diskusi Musikal
 Murid belajar menjelaskan:
 struktur harmoni lagu, pendekatan improvisasi, gaya musik yang digunakan dalam repertoire.
-**Aural Training**
+### Aural Training
 ## Tujuan
 Mengembangkan kemampuan mendengar harmoni jazz secara lebih mendalam.
 ## Aural 1 – Harmonic Identification
 Murid mendengar progresi akord dan mengidentifikasi apakah terdapat: **tritone substitution, sus chord**.
-**Aural 2 – Mode Recognition**
+### Aural 2 – Mode Recognition
 Mode yang dikenali: Aeolian, Dorian, Mixolydian,
 Latihan tambahan:menyebutkan **urutan interval dalam mode tersebut**.
 ## Aural 3 – Musical Analysis
@@ -1760,33 +1760,33 @@ Kandidat memainkan **tiga lagu**, dengan minimal satu lagu dari *Jazz Piano Hand
 
 ### Komponen 2: Performa (60 Markah)
 Kandidat memainkan **tiga lagu**. Maksimal dua lagu boleh diambil dari pilihan *Real Book*. Minimal satu lagu harus berasal dari *Jazz Piano Handbook 2*.
-**My Favorite Things**
-**Laura**
-**Cantaloupe Island**
-**Round Midnight**
+### My Favorite Things
+### Laura
+### Cantaloupe Island
+### Round Midnight
 
 ### Komponen 2: Performa (60 Markah)
 Kandidat memainkan **tiga lagu**, dengan minimal satu lagu dari *Jazz Piano Handbook 2*. Maksimal dua lagu boleh diambil dari pilihan *Real Book*.
-**Confirmation**
-**Donna Lee**
-**Night Train**
-**Desafinado**
+### Confirmation
+### Donna Lee
+### Night Train
+### Desafinado
 
 ### Komponen 2: Performa (60 Markah)
 Kandidat memainkan **tiga lagu**. Satu lagu harus berasal dari *Jazz Piano Handbook 2*, dan maksimal dua lagu boleh dari *Real Book*.
-**Giant Steps**
-**Spain**
-**Birdland**
-**Peri’s Scope**
+### Giant Steps
+### Spain
+### Birdland
+### Peri’s Scope
 Guideline
 Berdasarkan dokumen silabus tersebut, berikut adalah rincian spesifik untuk tahap awal yaitu **Step 1** dan **Step 2**:
 ## Step 1: Pondasi Awal
 Tahap ini dirancang untuk mendorong permainan lagu yang akrab secara percaya diri dengan latihan yang membangun dasar teknis yang kokoh.
 ### Komponen 1: Akord (Hafalan)
 Kandidat diminta memainkan akord berikut dengan tangan kanan secara hafalan:
-**C major**
-**G major**
-**F major**
+### C major
+### G major
+### F major
 ### Komponen 2: Performa
 Kandidat memainkan **4 lagu** (atau 3 lagu dari daftar ditambah 1 lagu pilihan sendiri). Pilihan lagunya meliputi:
 *House of the Rising Sun*
@@ -1824,12 +1824,12 @@ Apakah Anda ingin saya melanjutkan rincian spesifik untuk **Grade 1**, di mana m
 Pada **Grade 1**, kurikulum mulai memperkenalkan elemen teknis yang lebih spesifik untuk jazz, seperti penggunaan irama *swing* dan percobaan improvisasi sederhana.
 ### Komponen 1: Technical Work (15 Markah)
 Kandidat harus memilih antara **Opsi 1** (Tangga Nada & Arpeggio) atau **Opsi 2** (Tangga Nada & Studi):
-**Tangga Nada (Memory & Legato):**
+### Tangga Nada (Memory & Legato):
 **C dan G Major:** Satu oktaf, dua tangan, dimainkan secara *straight*.
 **F Major:** Satu oktaf, tangan sendiri-sendiri, dimainkan secara *straight*.
 **A Melodik atau Harmonik Minor:** Satu oktaf, dua tangan, dimainkan secara *straight*.
 **C Major Pentatonic:** Satu oktaf, tangan sendiri-sendiri, dimainkan secara **swing**.
-**Arpeggio (Memory & Legato):**
+### Arpeggio (Memory & Legato):
 **G dan F Major:** Satu oktaf, tangan sendiri-sendiri, dimainkan secara *straight*.
 **A Minor:** Satu oktaf, tangan sendiri-sendiri, dimainkan secara *straight*.
 **Opsi Studi:** Jika memilih Opsi 2, kandidat memainkan tangga nada C Major dan sebuah lagu studi berjudul *Rambler*.
@@ -1912,15 +1912,15 @@ Kandidat memainkan **tiga lagu** dengan minimal satu lagu dari *Jazz Piano Handb
 Pada **Grade 4**, kurikulum menuntut performa yang lebih ekspresif dengan penggunaan *embellishment* dan *fills* yang semakin banyak, serta kesadaran terhadap figur *turnaround*.
 ### Komponen 1: Technical Work (15 Markah)
 Kandidat harus menyiapkan **Opsi 1** (Tangga Nada & Arpeggio) atau **Opsi 2** (Tangga Nada & Studi):
-**Tangga Nada (Memory & Legato):**
+### Tangga Nada (Memory & Legato):
 **E, B, dan Ab Major:** Dua oktaf, kedua tangan, *straight*.
 **B dan F Minor (Melodik/Harmonik):** Dua oktaf, kedua tangan, *straight*.
 **C Minor Pentatonic:** Dua oktaf, kedua tangan, *swing*.
 **C Blues Scale:** Satu oktaf, tangan sendiri-sendiri, *swing*.
-**Mode & Kromatik:**
+### Mode & Kromatik:
 **Mixolydian:** Dimulai dari G dan C, dua oktaf, kedua tangan, *straight*.
 **Kromatik:** Dimulai dari D, dua oktaf, kedua tangan, *straight*.
-**Arpeggio & Akord:**
+### Arpeggio & Akord:
 **A dan Eb Major serta B Minor:** Dua oktaf, tangan sendiri-sendiri atau bersamaan, *straight*.
 **Dominant 7th Broken Chords:** C7 dan G7, tangan sendiri-sendiri, diselesaikan ke tonik, *swing*.
 **Opsi Studi:** Jika memilih Opsi 2, kandidat memainkan tangga nada Ab Major dan lagu studi berjudul *Summer Stroll*.
@@ -1945,13 +1945,13 @@ Apakah Anda ingin saya melanjutkan ke **Grade 5**, di mana kandidat mulai diperk
 Pada **Grade 5**, kandidat diharapkan mulai merangkul elemen improvisasi dengan rasa ingin tahu yang lebih besar dan keamanan teknis yang meningkat. Kurikulum di tingkat ini memperkenalkan gaya *Latin* serta *Lydian mode*.
 ### Komponen 1: Technical Work (15 Markah)
 Kandidat harus memilih antara **Opsi 1** (Tangga Nada & Arpeggio) atau **Opsi 2** (Tangga Nada & Studi):
-**Tangga Nada (Memory, Piano/Forte):**
+### Tangga Nada (Memory, Piano/Forte):
 **F Major:** Dua oktaf, kedua tangan, *straight*, legato.
 **F dan F# Minor (Melodik/Harmonik):** Dua oktaf, kedua tangan, *straight*, legato.
 **G dan F# Blues Scales:** Satu oktaf, tangan sendiri-sendiri, *swing*.
-**Modes (Legato, Memory):**
+### Modes (Legato, Memory):
 **Dorian (F), Mixolydian (Bb), Aeolian (C), dan Lydian (Ab):** Dua oktaf, tangan sendiri-sendiri atau bersamaan, *straight* atau *swing*.
-**Kromatik, Arpeggio & Akord:**
+### Kromatik, Arpeggio & Akord:
 **Kromatik:** Dimulai dari nada apa saja, dua oktaf, kedua tangan (*similar motion*), *straight*.
 **C dan B Major serta B dan F Minor Arpeggio:** Dua oktaf, kedua tangan, *straight*.
 **Dominant 7th Broken Chords:** D7, F7, dan Bb7, tangan sendiri-sendiri, diselesaikan ke tonik, *swing*.
@@ -1977,10 +1977,10 @@ Kandidat memainkan **tiga lagu**, dengan minimal satu lagu dari *Jazz Piano Hand
 Pada **Grade 6**, standar ujian meningkat secara signifikan. Performa kini harus mencakup *head* (tema) dan umumnya dua *chorus* improvisasi. Kandidat juga mulai diperbolehkan menggunakan materi dari *Real Book*.
 ### Komponen 1: Technical Work (15 Markah)
 Kandidat memilih antara **Opsi 1** (Tangga Nada & Arpeggio) atau **Opsi 2** (Tangga Nada & Studi):
-**Tangga Nada & Mode (Memory, Legato & Forte):**
+### Tangga Nada & Mode (Memory, Legato & Forte):
 **Similar Motion:** F, Bb, Ab, E, dan B Major; serta B, F#, C#, dan Bb Minor (tiga oktaf, *straight*).
 **Pilihan Tambahan:** Kandidat memilih satu dari: Tangga nada Kromatik (mulai dari E), Tangga nada Blues (mulai dari B, F, dan F#), atau Latihan Mode dari tangga nada C, G, dan F Major.
-**Arpeggio (Dua Oktaf, Straight atau swing):**
+### Arpeggio (Dua Oktaf, Straight atau swing):
 Major, Minor, Augmented, dan Diminished dari nada dasar G, E, dan Bb.
 **Opsi Studi:** Jika memilih Opsi 2, kandidat memainkan tangga nada Kromatik dan dua lagu studi: *Plus Nine Blues* DAN *Latin Sundae*.
 
@@ -2003,7 +2003,7 @@ Pada **Grade 10**, kurikulum berfokus pada penguasaan harmoni yang lebih komplek
 Kandidat dapat memilih antara **Opsi 1** (Tangga Nada, Arpeggio & Akord) atau **Opsi 2** (Tangga Nada & Studi):
 Tangga Nada (Memory, Legato & Forte):
 **Similar Motion:** F#, Db, dan Eb Major; serta F, Eb, dan G Minor (melodik atau harmonik) sebanyak tiga oktaf, kedua tangan, *straight*.
-**Pilihan Tambahan (Pilih satu):**
+### Pilihan Tambahan (Pilih satu):
 **Kromatik:** Mulai dari C, dua oktaf, kedua tangan, *straight*.
 **Modes:** Mixolydian (pada D, E, C, Eb) dan Phrygian (pada A, F, C, A) sebanyak tiga oktaf, kedua tangan, *swing* atau *straight*.
 **Blues Scales:** Mulai dari C dan Eb, dua oktaf, tangan sendiri-sendiri, *swing*.
@@ -2058,7 +2058,7 @@ Kandidat memainkan **tiga lagu**. Satu lagu harus berasal dari *Jazz Piano Handb
 🟩 REVISI WORSHIP
 
 **KURIKULUM WORSHIP **MUSTIMUSIK.
-**GRADE 0**
+### GRADE 0
 
 Fokus: Membangun kemandirian jari dalam posisi 5 jari (*five-finger position*), koordinasi tangan terpisah, serta pengenalan dinamika dasar dan artikulasi (*legato* & *staccato*).
 Song List:
@@ -2086,7 +2086,7 @@ Dinamika keras f (forte) dan lembut p (piano) dalam permainan dan partitur.
 Membaca melodi pendek (sekitar 4 birama) secara langsung.
 Fokus pada pengenalan nilai nada dasar (not penuh, setengah, dan seperempat) dalam sukat 4/4 atau 2/4
 
-**REPERTOIRE STUDY 0A**
+### REPERTOIRE STUDY 0A
 ### 1. Teknik & Layout (The Map)
 Tuts Putih & Hitam: Mengenali pola 2 & 3 tuts hitam untuk menemukan nada C dan F.
 Scale C Mayor: Latihan penjarian 1 oktaf (tangan kanan & kiri) dengan teknik menyeberangkan jempol.
@@ -2105,7 +2105,7 @@ Fill-in Super Sederhana: Menggunakan Main Oktaf (nada yang sama di posisi tinggi
 ### 4. Literasi (Reading)
 Not Angka Dasar: Mengenal angka 1-7 sebagai Do-Si.
 
-**REPERTOIRE STUDY 0B**
+### REPERTOIRE STUDY 0B
 Fokus: Mengenal warna nada sedih (Minor), memperluas jangkauan ke tuts hitam, dan sinkronisasi ketukan yang lebih rapat.
 ### 1. Teknik & Penjarian (The Expansion)
 Scale F & G Mayor: Mengenal tuts hitam pertama (Bb pada scale F dan F# pada scale G). Fokus pada posisi jari agar tidak terpeleset saat mengenai tuts hitam.
@@ -2137,7 +2137,7 @@ Mengidentifikasi melodi diluar tangga nada C Mayor yang dimainkan penguji.
 Merasakan suasana atau karakter lagu (apakah lagu tersebut terdengar "senang" atau "sedih").
 Mengidentifikasi sebuah chord berbentuk mayor atau minor.
 
-**GRADE 1**
+### GRADE 1
 Fokus: Pengembangan kemandirian tangan kiri dan kanan, penguasaan perpindahan jari (*finger crossing*) pada tangga nada 2 oktaf, serta pengenalan kontras dinamika yang lebih spesifik.
 Song List:
 K.A.S.I.H
@@ -2164,7 +2164,7 @@ Parameter: Kunci C, G, atau F mayor, serta A atau D minor.
 Ekspresi: memahami tanda dinamika mf (mezzo forte), dan mezzo piano) serta simbol *crescendo* dan *diminuendo* secara langsung saat membaca.
 3. Artikulasi Dasar
 
-**REPERTOIRE STUDY **
+### REPERTOIRE STUDY
 ### 1. Teknik Jari & Koordinasi (The Muscle Memory)
 Tangan Kiri (LH) Expansion: Melatih jangkauan jari untuk pola iringan yang lebih lebar:
 Pola 1-5-1': (Contoh C: C-G-C tinggi).
@@ -2194,7 +2194,7 @@ Sectioning: Mampu membagi lagu menjadi bagian-bagian (Intro, Verse, Chorus) dan 
 **Mengidentifikasi dan menyanyikan kembali pola fill in yang dikenali. ** Frasa dua bar dalam tangga nada mayor. Penguji memainkan frasa; pada permainan kedua ada diselipkan satu teknik fill in. Kandidat harus mengatakan apakah ada teknik fill in yang dikenali dan terjadi di awal atau di akhir.
 **Menjawab pertanyaan tentang dua unsur dari musik yang dimainkan oleh penguji**: Dinamika (keras/lembut atau perubahan mendadak/bertahap), Artikulasi (halus/terputus), perpindahan chord yang dimainkan dalam posisi Root (kokoh) atau inversion (ringan), bagian lagu mana yang sedang dimainkan (Verse/Reff).
 
-**GRADE 2**
+### GRADE 2
 
 Fokus: Pemantapan koordinasi tangan kanan dan kiri yang bermain bersamaan (*hands together*), pengenalan tangga nada kromatis dasar, serta pengendalian artikulasi yang lebih kontras antara tangan kanan dan kiri.
 Song List:
@@ -2257,7 +2257,7 @@ Fill-in Template (Level 2): Menghafal pola melodi yang lebih kompleks menggunaka
 **Mengidentifikasi perubahan nada atau ritme dalam frasa yang dimainkan oleh penguji.** Frasa tersebut sepanjang dua bar dalam tangga nada mayor. Penguji akan memainkan frasa dua kali; pada permainan kedua terdapat satu perubahan, baik pada nada atau ritme. Kandidat harus menunjukkan di mana perubahan tersebut terjadi. penguji dapat menyisipkan perubahan warna harmoni dari akord *Triad* biasa menjadi **Sus2** atau **Sus4** untuk menguji apakah kandidat merasakan munculnya ketegangan manis (*tension*) pada perubahan tersebut.
 **Menjawab pertanyaan tentang dua unsur dari musik yang dimainkan oleh penguji: **Dinamika (volume keras/pelan) atau artikulasi (lembut/terpatah), Tempo (lebih cepat, lebih lambat, atau tetap sama). Kandidat dapat diminta menganalisa tekstur permainan untuk menentukan apakah gaya tersebut lebih cocok untuk **Solo Piano** (penggunaan oktaf bass dan arpeggio lebar) atau gaya **Band** (penggunaan *register* tinggi untuk mengisi celah instrumen lain).
 
-**GRADE 3**
+### GRADE 3
 
 Fokus: Pemantapan kemandirian tangan pada sukat (time signature) yang lebih variatif, pengenalan teknik pedal dasar, serta kemampuan menyampaikan emosi/karakter lagu yang kontras.
 Songlist
@@ -2311,7 +2311,7 @@ Worship Ending Technique (Ritardando): Cara memperlambat tempo secara halus di a
 ** Frasa tersebut sepanjang dua bar, dalam tangga nada mayor atau minor, dan dalam jangkauan satu oktaf. Penguji akan memainkan akor kunci dan nada awal, lalu menghitung dua bar. Setelah penguji memainkan setiap frasa, kandidat harus menyanyikan kembali sebagai “gema” tanpa jeda, tetap dalam tempo. Penguji dapat memainkan melodi menggunakan tekstur **Interval 3rd atau 6th** untuk menguji apakah kandidat mampu menangkap inti melodi di tengah isian yang lebih tebal dan manis.
 **Mengidentifikasi perubahan nada atau ritme dalam frasa yang dimainkan oleh penguji.** Frasa tersebut hingga empat bar dalam tangga nada mayor atau minor. Penguji akan memainkan frasa dua kali; pada permainan kedua terdapat satu perubahan, baik pada nada atau ritme. Kandidat harus menunjukkan di mana perubahan tersebut terjadi. Perubahan nada yang diberikan dapat berupa perubahan jalur bass pada **Slash Chord** (misalnya perubahan dari *Root Bass* menjadi *Bass Walking* menanjak/menurun) untuk menguji kepekaan kandidat terhadap transisi harmoni yang *smooth*.
 **Menjawab pertanyaan tentang dua unsur dari musik yang dimainkan oleh penguji**: Dinamika (keras/lembut, atau perubahan mendadak/bertahap), Artikulasi (halus/terpisah), Tempo (menjadi lebih lambat/lebih cepat, atau tetap sama), Tonalitas (nada mayor/minor). Kandidat juga diminta mengenali karakteristik harmoni modern, seperti nuansa "mengambang" dari **Non-Inversion Slash Chord** (contoh: F/G atau Bb/C). Selain itu, kandidat diharapkan mampu mengidentifikasi fungsi struktural dari potongan musik tersebut, apakah terdengar sebagai **Intro** (membangun suasana) atau **Outro** (kesan tuntas/selesai).
-**GRADE 4**
+### GRADE 4
 Fokus: Pengembangan ketangkasan jari melalui tempo cepat, penguasaan gaya musik yang lebih spesifik (seperti Jazz/Blues), serta pengenalan awal *sight-singing* (menyanyi dari partitur).
 Song List:
 Mukjizat itu Nyata
@@ -2369,7 +2369,7 @@ Solfege Integration: Menghubungkan melodi yang didengar dengan angka (1-7) dan l
 **(iv) Mengidentifikasi perubahan tangga nada. **Penguji akan memainkan beberapa bagian lagu tersebut dua kali (dengan dan tanpa modulasi),** **kandidat diminta mendeteksi momen Modulasi (naik kunci). Kandidat harus membedakan apakah perpindahan kunci tersebut terjadi secara Direct (langsung) atau melalui Dominant Chord Transition (halus/persiapan).
 **(v) Play by Ear Training. **Penguji memainkan progresi pendek. Kandidat diminta menebak arah melodi bass atau tujuan chord berikutnya. Contoh: "Apakah progresi ini berpindah ke chord vi (Minor) atau chord IV (Mayor)?" Ini bertujuan menguji kemampuan spontanitas kandidat dalam menghubungkan melodi bass dengan angka (*Solfege*).
 
-**Grade 5**
+### Grade 5
 
 Fokus: Kematangan interpretasi gaya (Jazz, Klasik, Modern), penguasaan akor yang lebih kompleks, serta kemampuan menjaga keseimbangan antara melodi yang ekspresif dengan iringan yang teknis.
 Songlist:
@@ -2398,7 +2398,7 @@ Detail: Penguji mencari pemahaman langsung terhadap tanda dinamika, tanda tempo,
 3. Syarat Lanjut (Prerequisite)
 Penting: Untuk lanjut ke ujian Grade 6, kandidat harus sudah lulus Grade 5 Music Theory atau Practical Musicianship. Ini adalah poin krusial untuk memastikan dasar pemahaman notasi dan harmoni sudah sangat kuat.
 
-**Repertoire Study**
+### Repertoire Study
 ### 1. Advanced Harmonic Movement (Progresi "Mahal")
 Murid belajar menggunakan chord di luar tangga nada dasar untuk memberikan kejutan harmoni yang indah:
 Secondary Dominant: Teknik menyisipkan chord Dominan 7 sebelum chord tujuan (Contoh: Menggunakan A7 sebelum masuk ke Dm, atau E7 sebelum ke Am) untuk dorongan emosional yang kuat.
@@ -2426,7 +2426,7 @@ Atmosfer Doa: Mampu merespons suasana secara spontan (saat pendeta berdoa atau t
 **(iii) mengidentifikasi karakteristik genre Latin (Monotuno atau Bossa Nova).** Kandidat harus mampu mengidentifikasi karakteristik ritme Latin Groove (Montuno) atau Bossa Nova. Penguji akan menanyakan apa yang menciptakan "nuansa" tersebut, dan kandidat diharapkan dapat menjelaskan penggunaan Sinkopasi atau interaksi antara tangan kanan dan kiri (independensi tangan) yang menjadi ciri khas genre tersebut.
 **(iv)  Memahami Atmosfer Worship. **Penguji memainkan potongan musik bertema meditasi. Kandidat diminta mengidentifikasi penggunaan teknik Pedal Tones (nada bass yang tertahan/statis di tengah perubahan chord). Kandidat juga diuji untuk merasakan perubahan intensitas musik; apakah pilihan chord yang dimainkan bersifat "dominan" (resolusi kuat) atau "transparan/mengambang" (seperti *Sus* atau *Add9* pada register tinggi) untuk membangun Atmosfer Doa.
 
-**Grade 6**
+### Grade 6
 
 Fokus: Transisi ke tingkat mahir (*Advanced*). Pengembangan stamina melalui tangga nada 4 oktaf, penguasaan teknik *voicing* (memisahkan suara melodi dan iringan), serta kontrol pedal yang lebih presisi.
 Songlist:
@@ -2479,7 +2479,7 @@ Motif Development: Belajar mengambil potongan melodi lagu dan mengembangkannya m
 **(iii) membedakan ritme dasar dan ritme swing feel.** Penguji akan memainkan kutipan tersebut dua kali (tanpa harmoni), setelah itu kandidat harus mampu mengidentifikasi apakah ritme tersebut dimainkan secara **Straight** (rata) atau memiliki **Swing Feel** (ketukan pendek-panjang yang elastis). Ini sangat krusial untuk membedakan lagu standar dengan lagu bertema *jazzy/piano bar*.
 **(iv) mengidentifikasi genre swing, blues dan boogie woogie serta tenik improvisasi motif development yang dimainkan penguji. **Kandidat diminta mengenali tekstur Walking Bass dalam gaya Boogie Woogie atau tekstur "ayun" dalam Swing. Secara struktur, kandidat harus mampu mendeteksi adanya Motif Development—di mana potongan melodi awal diulang dan dikembangkan menjadi isian yang logis.
 
-**GRADE 7**
+### GRADE 7
 
 Fokus: Kemandirian teknis tingkat tinggi (interval terts), penguasaan gaya musik spesifik (seperti *Rubato* pada Chopin), serta kemampuan membaca partitur dengan navigasi pedal yang kompleks.
 Song List:
@@ -2505,7 +2505,7 @@ Navigasi Notasi: Membaca tanda *8va* (oktaf lebih tinggi) dan *8vb* (oktaf lebih
 Pedal Control: Penggunaan pedal *una corda* (pedal kiri/soft pedal) mulai diuji untuk memberikan warna suara yang berbeda saat membaca partitur baru.
 Tempo Variations: Mampu mengikuti instruksi perubahan tempo seperti *accelerando* (makin cepat) atau *ritardando* (makin lambat) secara spontan.
 
-**Repertoire Study**
+### Repertoire Study
 ### 1. Modern Harmony & Texture (The Deep Sound)
 Materi ini akan mengubah "warna" piano kamu menjadi sangat modern dan berkelas, seperti musisi profesional internasional:
 Quartal Voicing: * Teknik: Menyusun chord berdasarkan interval nada ke-4 (Contoh: E-A-D bukannya E-G-B).
@@ -2538,7 +2538,7 @@ Polyrhythm Dasar: Berlatih koordinasi ritme yang berbeda antara tangan kanan dan
 **Identifikasi Warna Chord (9, 11, 13). **Penguji akan memainkan sebuah akord *Triad* standar diikuti dengan akord *Extension* (9th, 11th, atau 13th). Kandidat harus mampu mengidentifikasi akord mana yang memiliki warna 'mewah' atau 'modern' tersebut. Selanjutnya, kandidat diminta menjelaskan karakter suaranya—apakah terdengar 'terbuka' (9th), 'mengambang/suspensi' (11th), atau 'sangat tebal/jazz' (13th)."
 **Deteksi Substitusi Harmoni**. Penguji memainkan sebuah progresi pendek dua kali. Pada permainan kedua, penguji akan mengganti salah satu akord standar dengan **Chord Substitution** (misalnya, mengganti chord V dengan *Tritone Substitution*, atau mengganti chord ii dengan chord IV yang dimodifikasi). Kandidat harus menunjukkan di mana substitusi itu terjadi dan mendeskripsikan bagaimana perubahan tersebut mempengaruhi 'rasa' atau resolusi melodi bassnya."
 
-**Grade 8**
+### Grade 8
 Fokus: *Mastery & Virtuosity*. Penguasaan teknik tingkat tinggi (tangga nada *Whole-tone*), kemampuan memisahkan tekstur polifonik yang kompleks (Fugue), serta kematangan interpretasi dalam karya-karya berdurasi panjang.
 Song List:
 Sbab Tuhan Maha Besar
@@ -2933,7 +2933,7 @@ Atmospheric Mastery: Mampu menciptakan "perjalanan spiritual" selama 10-15 menit
 ⬜ revisi
 
 **KURIKULUM WORSHIP **MUSTIMUSIK.
-**GRADE 0**
+### GRADE 0
 
 Fokus: Membangun kemandirian jari dalam posisi 5 jari (*five-finger position*), koordinasi tangan terpisah, serta pengenalan dinamika dasar dan artikulasi (*legato* & *staccato*).
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3007,7 +3007,7 @@ Stabilitas: Melatih perpindahan antar chord Mayor dan Minor tanpa merusak tempo 
 Not Balok Dasar: Mulai membaca G-Clef (Treble Clef) untuk tangan kanan. Fokus pada nada-nada di area Tengah C (*Middle C*).
 Not Angka: Memahami tanda titik di atas/bawah angka sebagai tanda oktaf.
 
-**GRADE 1**
+### GRADE 1
 Fokus: Pengembangan kemandirian tangan kiri dan kanan, penguasaan perpindahan jari (*finger crossing*) pada tangga nada 2 oktaf, serta pengenalan kontras dinamika yang lebih spesifik.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3071,7 +3071,7 @@ Not Angka & Ritme: Membaca ritme yang lebih kompleks (ketukan setengah, tanda ik
 Not Balok: Kelancaran membaca G-Clef (Treble Clef) dalam jangkauan 2 oktaf.
 Sectioning: Mampu membagi lagu menjadi bagian-bagian (Intro, Verse, Chorus) dan menentukan *pattern* yang berbeda untuk setiap bagian.
 
-**GRADE 2**
+### GRADE 2
 
 Fokus: Pemantapan koordinasi tangan kanan dan kiri yang bermain bersamaan (*hands together*), pengenalan tangga nada kromatis dasar, serta pengendalian artikulasi yang lebih kontras antara tangan kanan dan kiri.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3141,7 +3141,7 @@ Band: Pianis adalah "pengisi celah" (tangan kiri naik oktaf agar tidak bertabrak
 Scale-run Fill-in: Menggunakan tangga nada (Scale) untuk "berlari" dari satu bar ke bar berikutnya.
 Fill-in Template (Level 2): Menghafal pola melodi yang lebih kompleks menggunakan kombinasi nada *Pentatonic* (1-2-3-5-6).
 
-**GRADE 3**
+### GRADE 3
 Fokus: Pemantapan kemandirian tangan pada sukat (time signature) yang lebih variatif, pengenalan teknik pedal dasar, serta kemampuan menyampaikan emosi/karakter lagu yang kontras.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3200,7 +3200,7 @@ Murid mulai belajar bagaimana membuka dan menutup sebuah lagu secara mandiri.
 Creating Intro & Outro: Teknik membangun suasana sebelum lagu dimulai dan memberikan kesan tuntas saat lagu berakhir tanpa harus melihat teks.
 Praise Upbeat Pattern: Mengembangkan pola iringan untuk lagu pujian tempo cepat yang lebih ritmis dan bertenaga (menggunakan teknik *octave jumping* di bass).
 Worship Ending Technique (Ritardando): Cara memperlambat tempo secara halus di akhir lagu untuk transisi ke suasana doa atau pengumuman.
-**GRADE 4**
+### GRADE 4
 Fokus: Pengembangan ketangkasan jari melalui tempo cepat, penguasaan gaya musik yang lebih spesifik (seperti Jazz/Blues), serta pengenalan awal *sight-singing* (menyanyi dari partitur).
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3257,7 +3257,7 @@ Dominant Chord Transition: Menggunakan chord ke-5 dari kunci baru sebagai jembat
 Murid mulai dilatih untuk lepas dari buku atau teks lagu.
 Chord Family Recognition: Mampu menebak progres chord hanya dengan mendengar arah melodi bass (Contoh: Mengetahui bahwa lagu berpindah ke chord vi atau chord IV hanya dari bunyinya).
 Solfege Integration: Menghubungkan melodi yang didengar dengan angka (1-7) dan langsung menemukan chord-nya secara spontan.
-**Grade 5**
+### Grade 5
 
 Fokus: Kematangan interpretasi gaya (Jazz, Klasik, Modern), penguasaan akor yang lebih kompleks, serta kemampuan menjaga keseimbangan antara melodi yang ekspresif dengan iringan yang teknis.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3314,7 +3314,7 @@ Ini adalah puncak kemampuan seorang pianis worship dalam mendukung suasana medit
 Pedal Tones: Menahan satu nada bass yang sama (biasanya nada 1 atau 5) sementara chord di tangan kanan terus berubah-ubah. Ini menciptakan nuansa yang mengambang dan transparan.
 Atmosfer Doa: Mampu merespons suasana secara spontan (saat pendeta berdoa atau tantangan altar call) dengan pilihan chord yang tidak dominan namun menyentuh perasaan.
 
-**Grade 6**
+### Grade 6
 Fokus: Transisi ke tingkat mahir (*Advanced*). Pengembangan stamina melalui tangga nada 4 oktaf, penguasaan teknik *voicing* (memisahkan suara melodi dan iringan), serta kontrol pedal yang lebih presisi.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3365,7 +3365,7 @@ Line Cliché: Teknik menggerakkan satu nada secara internal di dalam sebuah chor
 Intro Improvisasi: Murid tidak lagi hanya memainkan chord lagu untuk intro, tetapi mampu menciptakan melodi pembuka sendiri yang menangkap "roh" dari lagu tersebut.
 Motif Development: Belajar mengambil potongan melodi lagu dan mengembangkannya menjadi isian yang logis dan enak didengar, bukan sekadar lari di tangga nada.
 
-**GRADE 7**
+### GRADE 7
 Fokus: Kemandirian teknis tingkat tinggi (interval terts), penguasaan gaya musik spesifik (seperti *Rubato* pada Chopin), serta kemampuan membaca partitur dengan navigasi pedal yang kompleks.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3421,7 +3421,7 @@ Advanced Line Cliché: Pergerakan nada internal yang lebih kompleks, diaplikasik
 Pentatonic Manipulation: Mengolah tangga nada pentatonik menggunakan interval-interval yang tidak umum agar isian (*fill-in*) terdengar segar dan tidak membosankan.
 Polyrhythm Dasar: Berlatih koordinasi ritme yang berbeda antara tangan kanan dan kiri (misal pola 3 lawan 4) untuk menciptakan isian yang sangat dinamis.
 
-**Grade 8**
+### Grade 8
 Fokus: *Mastery & Virtuosity*. Penguasaan teknik tingkat tinggi (tangga nada *Whole-tone*), kemampuan memisahkan tekstur polifonik yang kompleks (Fugue), serta kematangan interpretasi dalam karya-karya berdurasi panjang.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3477,7 +3477,7 @@ Atmospheric Mastery: Mampu menciptakan "perjalanan spiritual" selama 10-15 menit
 🟩 REVISI POP
 
 **KURIKULUM POP **MUSTIMUSIK.
-**GRADE 0**
+### GRADE 0
 
 Fokus: Membangun kemandirian jari dalam posisi 5 jari (*five-finger position*), koordinasi tangan terpisah, serta pengenalan dinamika dasar dan artikulasi (*legato* & *staccato*).
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3506,7 +3506,7 @@ Dinamika keras f (forte) dan lembut p (piano) dalam permainan dan partitur.
 Membaca melodi pendek (sekitar 4 birama) secara langsung.
 Fokus pada pengenalan nilai nada dasar (not penuh, setengah, dan seperempat) dalam sukat 4/4 atau 2/4
 
-**REPERTOIRE STUDY 0A**
+### REPERTOIRE STUDY 0A
 ### 1. Teknik & Layout (The Map)
 Tuts Putih & Hitam: Mengenali pola 2 & 3 tuts hitam untuk menemukan nada C dan F.
 Scale C Mayor: Latihan penjarian 1 oktaf (tangan kanan & kiri) dengan teknik menyeberangkan jempol.
@@ -3525,7 +3525,7 @@ Fill-in Super Sederhana: Menggunakan Main Oktaf (nada yang sama di posisi tinggi
 ### 4. Literasi (Reading)
 Not Angka Dasar: Mengenal angka 1-7 sebagai Do-Si.
 
-**REPERTOIRE STUDY 0B**
+### REPERTOIRE STUDY 0B
 Fokus: Mengenal warna nada sedih (Minor), memperluas jangkauan ke tuts hitam, dan sinkronisasi ketukan yang lebih rapat.
 ### 1. Teknik & Penjarian (The Expansion)
 Scale F & G Mayor: Mengenal tuts hitam pertama (Bb pada scale F dan F# pada scale G). Fokus pada posisi jari agar tidak terpeleset saat mengenai tuts hitam.
@@ -3557,7 +3557,7 @@ Mengidentifikasi melodi diluar tangga nada C Mayor yang dimainkan penguji.
 Merasakan suasana atau karakter lagu (apakah lagu tersebut terdengar "senang" atau "sedih").
 Mengidentifikasi sebuah chord berbentuk mayor atau minor.
 
-**GRADE 1**
+### GRADE 1
 Fokus: Pengembangan kemandirian tangan kiri dan kanan, penguasaan perpindahan jari (*finger crossing*) pada tangga nada 2 oktaf, serta pengenalan kontras dinamika yang lebih spesifik.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3585,7 +3585,7 @@ Parameter: Kunci C, G, atau F mayor, serta A atau D minor.
 Ekspresi: memahami tanda dinamika mf (mezzo forte), dan mezzo piano) serta simbol *crescendo* dan *diminuendo* secara langsung saat membaca.
 3. Artikulasi Dasar
 
-**REPERTOIRE STUDY **
+### REPERTOIRE STUDY
 ### 1. Teknik Jari & Koordinasi (The Muscle Memory)
 Tangan Kiri (LH) Expansion: Melatih jangkauan jari untuk pola iringan yang lebih lebar:
 Pola 1-5-1': (Contoh C: C-G-C tinggi).
@@ -3615,7 +3615,7 @@ Sectioning: Mampu membagi lagu menjadi bagian-bagian (Intro, Verse, Chorus) dan 
 **Mengidentifikasi dan menyanyikan kembali pola fill in yang dikenali. ** Frasa dua bar dalam tangga nada mayor. Penguji memainkan frasa; pada permainan kedua ada diselipkan satu teknik fill in. Kandidat harus mengatakan apakah ada teknik fill in yang dikenali dan terjadi di awal atau di akhir.
 **Menjawab pertanyaan tentang dua unsur dari musik yang dimainkan oleh penguji**: Dinamika (keras/lembut atau perubahan mendadak/bertahap), Artikulasi (halus/terputus), perpindahan chord yang dimainkan dalam posisi Root (kokoh) atau inversion (ringan), bagian lagu mana yang sedang dimainkan (Verse/Reff).
 
-**GRADE 2**
+### GRADE 2
 
 Fokus: Pemantapan koordinasi tangan kanan dan kiri yang bermain bersamaan (*hands together*), pengenalan tangga nada kromatis dasar, serta pengendalian artikulasi yang lebih kontras antara tangan kanan dan kiri.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3681,7 +3681,7 @@ Fill-in Template (Level 2): Menghafal pola melodi yang lebih kompleks menggunaka
 **Mengidentifikasi perubahan nada atau ritme dalam frasa yang dimainkan oleh penguji.** Frasa tersebut sepanjang dua bar dalam tangga nada mayor. Penguji akan memainkan frasa dua kali; pada permainan kedua terdapat satu perubahan, baik pada nada atau ritme. Kandidat harus menunjukkan di mana perubahan tersebut terjadi. penguji dapat menyisipkan perubahan warna harmoni dari akord *Triad* biasa menjadi **Sus2** atau **Sus4** untuk menguji apakah kandidat merasakan munculnya ketegangan manis (*tension*) pada perubahan tersebut.
 **Menjawab pertanyaan tentang dua unsur dari musik yang dimainkan oleh penguji: **Dinamika (volume keras/pelan) atau artikulasi (lembut/terpatah), Tempo (lebih cepat, lebih lambat, atau tetap sama). Kandidat dapat diminta menganalisa tekstur permainan untuk menentukan apakah gaya tersebut lebih cocok untuk **Solo Piano** (penggunaan oktaf bass dan arpeggio lebar) atau gaya **Band** (penggunaan *register* tinggi untuk mengisi celah instrumen lain).
 
-**GRADE 3**
+### GRADE 3
 
 Fokus: Pemantapan kemandirian tangan pada sukat (time signature) yang lebih variatif, pengenalan teknik pedal dasar, serta kemampuan menyampaikan emosi/karakter lagu yang kontras.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3739,7 +3739,7 @@ Worship Ending Technique (Ritardando): Cara memperlambat tempo secara halus di a
 ** Frasa tersebut sepanjang dua bar, dalam tangga nada mayor atau minor, dan dalam jangkauan satu oktaf. Penguji akan memainkan akor kunci dan nada awal, lalu menghitung dua bar. Setelah penguji memainkan setiap frasa, kandidat harus menyanyikan kembali sebagai “gema” tanpa jeda, tetap dalam tempo. Penguji dapat memainkan melodi menggunakan tekstur **Interval 3rd atau 6th** untuk menguji apakah kandidat mampu menangkap inti melodi di tengah isian yang lebih tebal dan manis.
 **Mengidentifikasi perubahan nada atau ritme dalam frasa yang dimainkan oleh penguji.** Frasa tersebut hingga empat bar dalam tangga nada mayor atau minor. Penguji akan memainkan frasa dua kali; pada permainan kedua terdapat satu perubahan, baik pada nada atau ritme. Kandidat harus menunjukkan di mana perubahan tersebut terjadi. Perubahan nada yang diberikan dapat berupa perubahan jalur bass pada **Slash Chord** (misalnya perubahan dari *Root Bass* menjadi *Bass Walking* menanjak/menurun) untuk menguji kepekaan kandidat terhadap transisi harmoni yang *smooth*.
 **Menjawab pertanyaan tentang dua unsur dari musik yang dimainkan oleh penguji**: Dinamika (keras/lembut, atau perubahan mendadak/bertahap), Artikulasi (halus/terpisah), Tempo (menjadi lebih lambat/lebih cepat, atau tetap sama), Tonalitas (nada mayor/minor). Kandidat juga diminta mengenali karakteristik harmoni modern, seperti nuansa "mengambang" dari **Non-Inversion Slash Chord** (contoh: F/G atau Bb/C). Selain itu, kandidat diharapkan mampu mengidentifikasi fungsi struktural dari potongan musik tersebut, apakah terdengar sebagai **Intro** (membangun suasana) atau **Outro** (kesan tuntas/selesai).
-**GRADE 4**
+### GRADE 4
 Fokus: Pengembangan ketangkasan jari melalui tempo cepat, penguasaan gaya musik yang lebih spesifik (seperti Jazz/Blues), serta pengenalan awal *sight-singing* (menyanyi dari partitur).
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 
@@ -3801,7 +3801,7 @@ Solfege Integration: Menghubungkan melodi yang didengar dengan angka (1-7) dan l
 **(iv) Mengidentifikasi perubahan tangga nada. **Penguji akan memainkan beberapa bagian lagu tersebut dua kali (dengan dan tanpa modulasi),** **kandidat diminta mendeteksi momen Modulasi (naik kunci). Kandidat harus membedakan apakah perpindahan kunci tersebut terjadi secara Direct (langsung) atau melalui Dominant Chord Transition (halus/persiapan).
 **(v) Play by Ear Training. **Penguji memainkan progresi pendek. Kandidat diminta menebak arah melodi bass atau tujuan chord berikutnya. Contoh: "Apakah progresi ini berpindah ke chord vi (Minor) atau chord IV (Mayor)?" Ini bertujuan menguji kemampuan spontanitas kandidat dalam menghubungkan melodi bass dengan angka (*Solfege*).
 
-**Grade 5**
+### Grade 5
 
 Fokus: Kematangan interpretasi gaya (Jazz, Klasik, Modern), penguasaan akor yang lebih kompleks, serta kemampuan menjaga keseimbangan antara melodi yang ekspresif dengan iringan yang teknis.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3833,7 +3833,7 @@ Detail: Penguji mencari pemahaman langsung terhadap tanda dinamika, tanda tempo,
 3. Syarat Lanjut (Prerequisite)
 Penting: Untuk lanjut ke ujian Grade 6, kandidat harus sudah lulus Grade 5 Music Theory atau Practical Musicianship. Ini adalah poin krusial untuk memastikan dasar pemahaman notasi dan harmoni sudah sangat kuat.
 
-**Repertoire Study**
+### Repertoire Study
 ### 1. Advanced Harmonic Movement (Progresi "Mahal")
 Murid belajar menggunakan chord di luar tangga nada dasar untuk memberikan kejutan harmoni yang indah:
 Secondary Dominant: Teknik menyisipkan chord Dominan 7 sebelum chord tujuan (Contoh: Menggunakan A7 sebelum masuk ke Dm, atau E7 sebelum ke Am) untuk dorongan emosional yang kuat.
@@ -3856,7 +3856,7 @@ Advanced Modulation: Teknik naik kunci yang lebih kompleks, tidak hanya naik set
 **(ii) Menepuk ritme dari nada-nada dalam sebuah kutipan dari musik yang sama, dan mengidentifikasi apakah musik tersebut dalam dua ketukan, tiga ketukan, atau empat ketukan.** Penguji akan memainkan kutipan tersebut dua kali (tanpa harmoni), setelah itu kandidat harus menepuk kembali ritmenya. Penguji kemudian akan menanyakan apakah musik tersebut dalam dua ketukan, tiga ketukan, atau empat ketukan. Kandidat tidak perlu menyebutkan tanda birama. kandidat juga harus membedakan secara auditori antara *Simple Time* (4/4) dan Compound Time (6/8, 9/8, 12/8). Kandidat diminta menjelaskan perbedaan "feel" antara ketukan yang bersifat *straight* dengan *swing/rolling feel* yang ada pada birama majemuk tersebut.
 **(iii) mengidentifikasi karakteristik genre Latin (Monotuno atau Bossa Nova).** Kandidat harus mampu mengidentifikasi karakteristik ritme Latin Groove (Montuno) atau Bossa Nova. Penguji akan menanyakan apa yang menciptakan "nuansa" tersebut, dan kandidat diharapkan dapat menjelaskan penggunaan Sinkopasi atau interaksi antara tangan kanan dan kiri (independensi tangan) yang menjadi ciri khas genre tersebut.
 
-**Grade 6**
+### Grade 6
 
 Fokus: Transisi ke tingkat mahir (*Advanced*). Pengembangan stamina melalui tangga nada 4 oktaf, penguasaan teknik *voicing* (memisahkan suara melodi dan iringan), serta kontrol pedal yang lebih presisi.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3912,7 +3912,7 @@ Motif Development: Belajar mengambil potongan melodi lagu dan mengembangkannya m
 **(iii) membedakan ritme dasar dan ritme swing feel.** Penguji akan memainkan kutipan tersebut dua kali (tanpa harmoni), setelah itu kandidat harus mampu mengidentifikasi apakah ritme tersebut dimainkan secara **Straight** (rata) atau memiliki **Swing Feel** (ketukan pendek-panjang yang elastis). Ini sangat krusial untuk membedakan lagu standar dengan lagu bertema *jazzy/piano bar*.
 **(iv) mengidentifikasi genre swing, blues dan boogie woogie serta tenik improvisasi motif development yang dimainkan penguji. **Kandidat diminta mengenali tekstur Walking Bass dalam gaya Boogie Woogie atau tekstur "ayun" dalam Swing. Secara struktur, kandidat harus mampu mendeteksi adanya Motif Development—di mana potongan melodi awal diulang dan dikembangkan menjadi isian yang logis.
 
-**GRADE 7**
+### GRADE 7
 
 Fokus: Kemandirian teknis tingkat tinggi (interval terts), penguasaan gaya musik spesifik (seperti *Rubato* pada Chopin), serta kemampuan membaca partitur dengan navigasi pedal yang kompleks.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
@@ -3942,7 +3942,7 @@ Navigasi Notasi: Membaca tanda *8va* (oktaf lebih tinggi) dan *8vb* (oktaf lebih
 Pedal Control: Penggunaan pedal *una corda* (pedal kiri/soft pedal) mulai diuji untuk memberikan warna suara yang berbeda saat membaca partitur baru.
 Tempo Variations: Mampu mengikuti instruksi perubahan tempo seperti *accelerando* (makin cepat) atau *ritardando* (makin lambat) secara spontan.
 
-**Repertoire Study**
+### Repertoire Study
 ### 1. Modern Harmony & Texture (The Deep Sound)
 Materi ini akan mengubah "warna" piano kamu menjadi sangat modern dan berkelas, seperti musisi profesional internasional:
 Quartal Voicing: * Teknik: Menyusun chord berdasarkan interval nada ke-4 (Contoh: E-A-D bukannya E-G-B).
@@ -3975,7 +3975,7 @@ Polyrhythm Dasar: Berlatih koordinasi ritme yang berbeda antara tangan kanan dan
 **Identifikasi Warna Chord (9, 11, 13). **Penguji akan memainkan sebuah akord *Triad* standar diikuti dengan akord *Extension* (9th, 11th, atau 13th). Kandidat harus mampu mengidentifikasi akord mana yang memiliki warna 'mewah' atau 'modern' tersebut. Selanjutnya, kandidat diminta menjelaskan karakter suaranya—apakah terdengar 'terbuka' (9th), 'mengambang/suspensi' (11th), atau 'sangat tebal/jazz' (13th)."
 **Deteksi Substitusi Harmoni**. Penguji memainkan sebuah progresi pendek dua kali. Pada permainan kedua, penguji akan mengganti salah satu akord standar dengan **Chord Substitution** (misalnya, mengganti chord V dengan *Tritone Substitution*, atau mengganti chord ii dengan chord IV yang dimodifikasi). Kandidat harus menunjukkan di mana substitusi itu terjadi dan mendeskripsikan bagaimana perubahan tersebut mempengaruhi 'rasa' atau resolusi melodi bassnya."
 
-**Grade 8**
+### Grade 8
 Fokus: *Mastery & Virtuosity*. Penguasaan teknik tingkat tinggi (tangga nada *Whole-tone*), kemampuan memisahkan tekstur polifonik yang kompleks (Fugue), serta kematangan interpretasi dalam karya-karya berdurasi panjang.
 Kandidat memainkan **dua belas lagu pop** dari daftar repertoire berikut:
 **Pelangi** - HIVI! (Indo)
@@ -4152,7 +4152,7 @@ siswa memainkan nada dari tangga nada C Major secara bebas.
 Tahap 2 – Improvisasi Ritme
 siswa mencoba membuat variasi ritme sederhana pada melodi.
 
-**Musical Awareness**
+### Musical Awareness
 Tujuan
  Murid mulai memahami konsep musikal dasar.
 Materi
@@ -4202,18 +4202,18 @@ artikulasi legato yang jelas
 # Komponen 2: Performa (90 Mark)
 Kandidat memainkan **tiga lagu pop** dari daftar repertoar yang disediakan.
 Contoh:
-**You Are My Everything**
-**Always**
-**How Have You Been**
-**Dreams, Books, Power and Walls**
-**Spring Snow**
-**Dan**
-**Rumah ke Rumah**
-**Satu Bulan**
-**Zona Nyaman**
-**Bang Bang**
-**Havana**
-**Memories**
+### You Are My Everything
+### Always
+### How Have You Been
+### Dreams, Books, Power and Walls
+### Spring Snow
+### Dan
+### Rumah ke Rumah
+### Satu Bulan
+### Zona Nyaman
+### Bang Bang
+### Havana
+### Memories
 
 Dalam penampilan ini siswa mulai menunjukkan:
 phrasing melodi yang lebih jelas
@@ -4258,7 +4258,7 @@ kemampuan mengikuti tempo
 ketepatan pitch relatif
 respons musikal terhadap contoh yang diberikan
 
-**Review Notasi dan Teori Musik**
+### Review Notasi dan Teori Musik
 Tujuan
  Memastikan siswa memahami konsep teori yang digunakan dalam membaca musik pop pada level dasar.
 Materi
@@ -4420,7 +4420,7 @@ kemampuan mengikuti tempo
 ketepatan pitch relatif
 respons musikal terhadap contoh yang diberikan
 
-**Review Notasi dan Teori Musik**
+### Review Notasi dan Teori Musik
 Tujuan
  Memastikan siswa memahami teori dasar yang digunakan dalam repertoire.
 Materi
@@ -4649,7 +4649,7 @@ interval hingga satu oktaf, perbedaan karakter major dan minor, struktur lagu se
 Diskusi
 bagian yang sulit dalam lagu, cara menjaga groove saat bermain, bagaimana memainkan phrasing dengan lebih musikal
 
-**Aural Training**
+### Aural Training
 Tujuan
  Mengembangkan kemampuan mendengar ritme dan tonalitas.
 Aural 1 – Rhythm Recognition
@@ -4744,7 +4744,7 @@ ketepatan ritme
 kemampuan mengikuti tempo
 kemampuan mengenali karakter penyelesaian harmoni
 
-**Review Notasi dan Teori Musik**
+### Review Notasi dan Teori Musik
 Tujuan
  Memastikan siswa memahami elemen teori yang muncul dalam repertoire dan latihan teknik.
 Materi
@@ -5357,7 +5357,7 @@ siswa mendengarkan progression chord dan mencoba mengenali pola progression ters
 Aural 3 – Inner Voice Singing
 siswa menyanyikan suara tengah dalam tekstur musik yang dimainkan guru.
 
-**Review Notasi dan Teori Musik**
+### Review Notasi dan Teori Musik
 Tujuan
  Memperdalam pemahaman teori yang muncul dalam repertoire tingkat lanjut.
 Materi
@@ -5627,21 +5627,21 @@ Aural 3 – Melody and Harmony Singing
 siswa menyanyikan melodi serta harmoni sederhana terhadap melodi yang dimainkan guru.
 
 Revisi
-**GRADE 0**
+### GRADE 0
 
 **Fokus:** Membangun kemandirian jari dalam posisi 5 jari (*five-finger position*), koordinasi tangan terpisah, serta pengenalan dinamika dasar dan artikulasi (*legato* & *staccato*).
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **Peter Gritton - *****Haunted House***
 **Ekspektasi:** Melatih kontrol dinamika untuk menciptakan suasana misterius. Fokus pada kontras antara suara lembut (*piano*) dan aksen mendadak untuk efek "kejutan".
 **Diane Hidy - *****Jinx***
 **Ekspektasi:** Melatih ketangkasan jari dalam tempo yang lebih cepat. Lagu ini menekankan pada ketepatan ritme dan artikulasi yang bersih (*crisp*).
 **Heather Hammond - *****Action Stations***
 **Ekspektasi:** Melatih kekuatan dan ketegasan ketukan. Fokus pada karakter permainan yang enerjik dengan koordinasi tangan yang stabil saat bergantian melodi.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Tangga Nada (Scales):** C mayor dan D minor (1 oktaf) dimainkan dengan tangan terpisah.
 **Contrary-Motion Scale:** C mayor dimulai dari nada yang sama namun bergerak berlawanan arah.
 **Broken Chords:** Pengenalan pola akor dasar C mayor dan D minor untuk kelenturan pergelangan tangan.
-**2. Membaca Partitur (Sight-Reading)**
+### 2. Membaca Partitur (Sight-Reading)
 Membaca melodi pendek (sekitar 4 birama) secara langsung.
 Fokus pada pengenalan nilai nada dasar (not penuh, setengah, dan seperempat) dalam sukat 4/4 atau 3/4.
 
@@ -5659,35 +5659,35 @@ Merasakan suasana atau karakter lagu (apakah lagu tersebut terdengar "senang" at
 
 GRADE 1
 **Fokus:** Pengembangan kemandirian tangan kiri dan kanan, penguasaan perpindahan jari (*finger crossing*) pada tangga nada 2 oktaf, serta pengenalan kontras dinamika yang lebih spesifik.
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **Anton Diabelli - *****Allegretto in C***** (List A)**
 **Ekspektasi:** Melatih kejernihan artikulasi. Fokus pada keseimbangan melodi di tangan kanan agar terdengar lebih menonjol dibandingkan iringan tangan kiri yang bersifat repetitif.
 **Andrew Eales - *****Fresh Air***** (List B)**
 **Ekspektasi:** Melatih teknik *legato* yang mengalir. Fokus pada pembentukan frasa (*phrasing*) seperti tarikan napas, memastikan transisi antar nada terasa halus dan tidak terputus.
 **Shruthi Rajasekar - *****Virginia Hall***** (List C)**
 **Ekspektasi:** Melatih ketepatan ritme dan karakter lagu yang bersemangat. Fokus pada aksen-aksen nada dan menjaga tempo tetap stabil meskipun ada variasi pola ritme.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Tangga Nada (Scales):** Mempelajari G, F mayor, serta A, D minor (2 oktaf) dengan tangan terpisah.
 **Koordinasi Dua Tangan:** Memainkan tangga nada C mayor (1 oktaf) dengan kedua tangan bersamaan (*hands together*).
 **Contrary-Motion Scale:** C mayor (1 oktaf) dimulai dari nada yang sama namun bergerak berlawanan arah.
 **Broken Chords:** C mayor dan A minor (2 oktaf) dengan tangan terpisah, menggunakan pola lompatan jari yang konsisten.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 Membaca partitur pendek sepanjang 4-6 birama dalam sukat 2/4, 3/4, atau 4/4.
 **Parameter:** Kunci C, G, atau F mayor, serta A atau D minor.
 **Ekspresi:** Mulai menerapkan tanda dinamika *f* (keras), *p* (lembut), serta simbol *crescendo* dan *diminuendo* secara langsung saat membaca.
-**3. Artikulasi Dasar**
+### 3. Artikulasi Dasar
 Mampu membedakan dengan jelas antara *legato* (bermain tersambung) dan *staccato* (bermain terputus/pendek) sesuai instruksi pada partitur.
 
 ### SECTION: AURAL TESTS (Ujian Pendengaran)
 *Pada Grade 1, fokus tes adalah melatih kepekaan terhadap ritme dasar dan kemampuan menirukan melodi secara akurat.*
-**A. Pulse & Beat (Ketukan):**
+### A. Pulse & Beat (Ketukan):
 Bertepuk tangan mengikuti ketukan musik yang dimainkan penguji.
 Kandidat harus mampu menjawab apakah lagu tersebut memiliki sukat 2 ketuk (seperti baris berbaris) atau 3 ketuk (seperti *waltz*).
-**B. Echoes (Gema Melodi):**
+### B. Echoes (Gema Melodi):
 Menyanyikan kembali frasa melodi pendek (biasanya 3 birama) setelah didengarkan dari permainan penguji. Fokus pada ketepatan nada dan ritme.
-**C. Pitch Change (Perubahan Nada):**
+### C. Pitch Change (Perubahan Nada):
 Mengenali perubahan satu nada pada sebuah melodi pendek yang diulang. Kandidat harus bisa menyebutkan apakah perubahan tersebut terjadi di bagian awal atau akhir melodi.
-**D. Musical Features (Analisa Sederhana):**
+### D. Musical Features (Analisa Sederhana):
 Menjawab pertanyaan tentang aspek tertentu dari musik yang baru saja didengar, seperti:
 Apakah lagunya dimainkan semakin keras atau semakin lembut?
 Apakah cara bermainnya halus (*smooth*) atau terputus-putus (*detached*)?
@@ -5695,22 +5695,22 @@ Apakah cara bermainnya halus (*smooth*) atau terputus-putus (*detached*)?
 GRADE 2:
 
 **Fokus:** Pemantapan koordinasi tangan kanan dan kiri yang bermain bersamaan (*hands together*), pengenalan tangga nada kromatis dasar, serta pengendalian artikulasi yang lebih kontras antara tangan kanan dan kiri.
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **Beethoven - *****Écossaise in G***** (List A)**
 **Ekspektasi:** Melatih ketepatan ritme dan artikulasi *staccato* yang tajam dan ceria. Fokus pada koordinasi tangan saat melakukan lompatan melodi yang energetik.
 **Julian Mott - *****Lullaby***** (List B)**
 **Ekspektasi:** Melatih teknik *cantabile* (bermain dengan nada seperti bernyanyi). Fokus pada kehalusan *legato* dan keseimbangan volume suara agar melodi di tangan kanan tidak tertutup oleh iringan tangan kiri.
 **David Blackwell - *****Railroad Blues***** (List C)**
 **Ekspektasi:** Memperkenalkan gaya *swing* dan ritme *syncopated*. Fokus pada rasa ritme (*groove*) dan karakter permainan yang santai namun tetap presisi pada ketukan.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Tangga Nada (Scales):** G, F mayor, serta A, D minor (2 oktaf). Kini harus dimainkan dengan **kedua tangan bersamaan** (*hands together*).
 **Tangga Nada Kromatis:** Dimulai dari nada D (1 oktaf) dengan tangan terpisah. Ini melatih pergeseran jari pada tuts hitam secara berurutan.
 **Arpeggios:** G, F mayor, serta A, D minor (2 oktaf) dengan tangan terpisah. Melatih jangkauan jari yang lebih lebar dari posisi 5 jari biasa.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 Membaca partitur baru sepanjang 8 birama dengan tingkat kesulitan yang meningkat.
 **Parameter Baru:** Pengenalan kunci D mayor, E minor, dan G minor.
 **Notasi:** Mulai muncul nada yang ditahan (*tied notes*) dan jangkauan nada yang meluas hingga satu oktaf di satu tangan.
-**3. Kontrol Dinamika & Artikulasi**
+### 3. Kontrol Dinamika & Artikulasi
 Penerapan tanda *crescendo* (makin keras) dan *diminuendo* (makin lembut) secara lebih halus.
 Kemampuan membedakan *staccato* (pendek) di satu tangan sementara tangan lainnya bermain *legato* (nyambung).
 
@@ -5729,68 +5729,68 @@ Menjawab pertanyaan tentang karakter lagu yang didengar.
 
 GRADE 3
 **Fokus:** Pemantapan kemandirian tangan pada sukat (time signature) yang lebih variatif, pengenalan teknik pedal dasar, serta kemampuan menyampaikan emosi/karakter lagu yang kontras.
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **Clementi - *****Vivace***** (List A)**
 **Ekspektasi:** Melatih teknik jari yang "sparkling" (jernih dan lincah). Fokus pada presisi tangga nada klasik dan artikulasi yang ringan namun tegas, khas zaman Klasik.
 **Nancy Litten - *****The Sad Ghost***** (List B)**
 **Ekspektasi:** Melatih kontrol pedal dan *phrasing* (kalimat lagu). Fokus pada penciptaan atmosfer "hantu" yang sedih melalui permainan yang sangat *legato* dan kontrol volume suara yang melayang/halus.
 **Sonny Chua - *****T-Rex Hungry***** (List C)**
 **Ekspektasi:** Melatih kekuatan jari dan keberanian ekspresi. Fokus pada aksen yang kasar dan kuat untuk menggambarkan dinosaurus, serta penguasaan ritme yang tidak teratur (*irregular*) dan penuh kejutan.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Tangga Nada (Scales):** D, A mayor, serta E, G minor (2 oktaf). Dimainkan dengan kedua tangan bersamaan secara lancar.
 **Contrary-Motion Scale:** Tangga nada kromatis (jarak setengah nada) yang bergerak berlawanan arah, dimulai dari nada D. Ini melatih kemandirian otak kanan dan kiri.
 **Arpeggios:** D, A mayor, serta E, G minor (2 oktaf). Fokus pada kelenturan pergelangan tangan saat melakukan perpindahan posisi tangan yang lebih lebar.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 **Parameter Baru:** Pengenalan sukat **3/8** (tiga ketuk dengan satuan not seperdelapan) yang terasa lebih cepat dari 3/4.
 **Tekstur:** Mulai membaca akor 2 nada di salah satu tangan sambil tangan lainnya memainkan melodi.
 **Panjang Lagu:** Sekitar 8 birama dengan tanda-tanda ekspresi yang lebih detail.
-**3. Interpretasi & Pedal**
+### 3. Interpretasi & Pedal
 **Pengenalan Pedal:** Mulai belajar menggunakan pedal kanan (*sustain*) untuk menyambung nada atau memberikan warna suara yang lebih tebal pada lagu-lagu tertentu.
 **Kontrol Suara:** Mampu menjaga keseimbangan suara agar melodi tetap terdengar jelas meskipun iringan tangan kiri mulai memiliki variasi ritme yang lebih sibuk.
 
 ### SECTION: AURAL TESTS (Ujian Pendengaran)
 *Pada Grade 3, kandidat mulai dituntut untuk memahami teori musik melalui pendengaran, terutama perbedaan antara Mayor dan Minor.*
-**A. Pulse & Beat (Ketukan):**
+### A. Pulse & Beat (Ketukan):
 Bertepuk mengikuti ketukan musik.
 Mampu membedakan dengan cepat apakah lagu tersebut memiliki sukat 2, 3, atau 4 ketuk.
-**B. Melodic Memory (Gema):**
+### B. Melodic Memory (Gema):
 Menyanyikan kembali frasa melodi yang lebih panjang dan kompleks dari penguji. Fokus pada ketepatan interval nada.
-**C. Pitch Change Recognition:**
+### C. Pitch Change Recognition:
 Mengenali perubahan nada pada melodi yang diulang. Kandidat harus bisa menjelaskan apakah nada tersebut naik atau turun di permainan kedua.
-**D. Musical Features & Tonality:**
+### D. Musical Features & Tonality:
 **Analisa Lagu:** Menjawab pertanyaan tentang dinamika (keras/lembut) dan tempo.
 **Identifikasi Tonalitas:** Ini bagian penting—kandidat harus bisa menebak apakah lagu yang dimainkan penguji berakhir dengan nuansa **Mayor** (ceria) atau **Minor** (sedih/gelap).
 
 GRADE 4
 **Fokus:** Pengembangan ketangkasan jari melalui tempo cepat, penguasaan gaya musik yang lebih spesifik (seperti Jazz/Blues), serta pengenalan awal *sight-singing* (menyanyi dari partitur).
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **Pescetti - *****Presto***** (List A)**
 **Ekspektasi:** Melatih kecepatan (*velocity*) dan kejernihan jari. Fokus pada permainan tangan kanan yang lincah tanpa kehilangan detak ritme yang presisi.
 **Valerie Capers - *****Billie’s Song***** (List B)**
 **Ekspektasi:** Melatih nuansa Jazz dan ekspresi *lyrical*. Fokus pada cara membuat piano "bernyanyi" dengan melodi yang penuh perasaan, serta penguasaan ritme yang sedikit santai namun tetap pada ketukan (*swing feel*).
 **Bartók - *****Pentatonic Tune***** (List C)**
 **Ekspektasi:** Melatih kemandirian tangan pada skala pentatonik dan ritme modern. Fokus pada artikulasi yang tajam, perubahan posisi tangan yang cepat, dan menjaga energi lagu agar tetap dinamis.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Tangga Nada (Scales):** B-flat, E-flat mayor, serta B, C minor (2 oktaf). Harus dimainkan dengan kedua tangan bersamaan secara lancar dan berimbang.
 **Tangga Nada Kromatis:** Dimulai dari nada F# (2 oktaf). Kali ini tantangannya adalah memainkannya dengan **kedua tangan bersamaan**, yang menuntut sinkronisasi jari yang sangat tinggi.
 **Arpeggios:** B-flat, E-flat mayor, serta B, C minor (2 oktaf). Fokus pada gerakan jempol yang mulus saat berpindah posisi tangan.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 **Parameter Baru:** Pengenalan sukat **6/8** dan penggunaan *anacrusis* (lagu yang dimulai bukan pada ketukan pertama).
 **Notasi:** Mulai muncul nada-nada kromatis (tanda kres/mol yang tidak ada di tanda mula) dan tanda *pause* (fermata).
 **Panjang:** Sekitar 8 birama dengan tekstur yang lebih padat di kedua tangan.
-**3. Artikulasi & Ekspresi**
+### 3. Artikulasi & Ekspresi
 Mulai menerapkan variasi dinamika yang lebih halus di dalam satu kalimat lagu (*phrasing*).
 Kemampuan mempertahankan tempo yang stabil meskipun lagu memiliki pola ritme yang terputus-putus (*syncopation*).
 
 ### SECTION: AURAL TESTS (Ujian Pendengaran)
 *Pada Grade 4, ada komponen baru yang cukup menantang: kandidat diminta untuk menyanyikan nada langsung dari partitur.*
-**A. Melodic Memory (Ingatan Melodi):**
+### A. Melodic Memory (Ingatan Melodi):
 Mendengarkan frasa pendek (sekitar 4 birama), lalu menyanyikan atau memainkannya kembali dari ingatan.
-**B. Sight-Singing (Menyanyi dari Partitur):**
+### B. Sight-Singing (Menyanyi dari Partitur):
 Kandidat diberikan partitur pendek berisi 5 nada. Tanpa iringan piano, kandidat harus mampu menyanyikan nada-nada tersebut dengan interval yang tepat.
-**C. Rhythm Recognition (Ritme):**
+### C. Rhythm Recognition (Ritme):
 Melihat partitur pendek, lalu bertepuk tangan mengikuti ritme yang tertulis di sana sambil tetap menjaga ketukan stabil.
-**D. Musical Features & Character:**
+### D. Musical Features & Character:
 Menjelaskan secara lisan fitur-fitur musik yang didengar (dinamika, tempo, artikulasi).
 **Fokus Tambahan:** Menjelaskan **karakter atau gaya** lagu (misal: apakah ini lagu dansa? lagu sedih? atau lagu yang heroik?).
 Grade 5
@@ -5799,124 +5799,124 @@ Di **GRADE 5**, kita mencapai puncak dari level *Intermediate*. Ini adalah "gerb
 Berikut adalah susunan kurikulumnya:
 ### GRADE 5
 **Fokus:** Kematangan interpretasi gaya (Jazz, Klasik, Modern), penguasaan akor yang lebih kompleks, serta kemampuan menjaga keseimbangan antara melodi yang ekspresif dengan iringan yang teknis.
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **Mike Cornick - *****In the Groove***** (List A)**
 **Ekspektasi:** Melatih rasa ritme *Swing/Jazz* yang kuat. Fokus pada sinkopasi yang akurat dan *articulation* yang "berisi" namun tetap santai. Permainan harus terasa lincah dan konsisten secara tempo.
 **David Önaç - *****A Distant Star in the Stillness***** (List B)**
 **Ekspektasi:** Melatih kontrol suara yang sangat halus (*pianissimo*). Fokus pada penggunaan pedal untuk menciptakan atmosfer yang "luas" dan kemampuan menonjolkan melodi tunggal di tengah harmoni yang tenang.
 **Martha Mier - *****Tuxedo Jazz***** (List C)**
 **Ekspektasi:** Melatih karakter *Showmanship*. Fokus pada kontras dinamika yang berani dan aksen-aksen nada yang tajam untuk memberikan kesan elegan namun enerjik khas musik Broadway.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Tangga Nada (Scales):** A, E, B, F#, Db mayor; serta F#, C#, G#, B, Bb minor (2 oktaf). Dimainkan **kedua tangan bersamaan** (*hands together*) dengan artikulasi *legato* yang jernih.
 **Contrary-Motion:** A mayor dan A minor harmonic (2 oktaf). Melatih sinkronisasi otak kiri dan kanan dalam pola yang berbeda.
 **Chromatic Scales:** Dimulai dari tuts hitam mana saja (2 oktaf) dengan tangan terpisah. Ini melatih fleksibilitas jari pada tuts hitam.
 **Arpeggios:** Sama dengan kunci tangga nada di atas (2 oktaf). Fokus pada kekuatan jari kelingking dan jempol saat melakukan perpindahan posisi akor yang melebar.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 **Parameter:** Membaca partitur baru hingga 12 birama.
 **Tantangan Baru:** Sukat **6/8** dan **9/8** mulai sering muncul. Penggunaan tanda mula hingga 3 kres atau 3 mol.
 **Detail:** Penguji mencari pemahaman langsung terhadap tanda dinamika, tanda tempo, dan artikulasi dalam sekali baca.
-**3. Syarat Lanjut (Prerequisite)**
+### 3. Syarat Lanjut (Prerequisite)
 **Penting:** Untuk lanjut ke ujian Grade 6, kandidat **harus** sudah lulus **Grade 5 Music Theory** atau **Practical Musicianship**. Ini adalah poin krusial untuk memastikan dasar pemahaman notasi dan harmoni sudah sangat kuat.
 
 ### SECTION: AURAL TESTS (Ujian Pendengaran)
 *Pada Grade 5, tes pendengaran melibatkan interaksi aktif antara vokal dan pendengaran untuk memastikan kandidat benar-benar "mendengar" apa yang akan dimainkan.*
-**A. Melodic Memory (Gema Melodi):**
+### A. Melodic Memory (Gema Melodi):
 Mendengarkan melodi sepanjang 4 birama (dalam kunci mayor atau minor hingga 3 kres/mol). Kandidat harus menyanyikan atau memainkannya kembali secara akurat.
-**B. Sight-Singing (Menyanyi dari Partitur):**
+### B. Sight-Singing (Menyanyi dari Partitur):
 Kandidat diminta menyanyikan **6 nada** langsung dari partitur. Ini menguji kemampuan kandidat dalam membayangkan tinggi nada (*inner hearing*) sebelum suara dikeluarkan.
-**C. Musical Features (Analisis Lanjutan):**
+### C. Musical Features (Analisis Lanjutan):
 **Identifikasi:** Menjawab pertanyaan tentang fitur musik (dinamika, artikulasi, tempo, tonality/nada dasar).
 **Rhythm & Time:** Bertepuk tangan mengikuti ritme dari potongan lagu dan menentukan apakah lagu tersebut dalam hitungan 2, 3, atau 4 ketuk.
 
 Grade 6
 **Fokus:** Transisi ke tingkat mahir (*Advanced*). Pengembangan stamina melalui tangga nada 4 oktaf, penguasaan teknik *voicing* (memisahkan suara melodi dan iringan), serta kontrol pedal yang lebih presisi.
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **S. Heller - *****Prelude in C# minor***** (List A)**
 **Ekspektasi:** Melatih kontrol nuansa Romantik yang melankolis. Fokus pada *cantabile* (bermain dengan kualitas suara bernyanyi) dan keseimbangan tangan kiri yang harus mendukung melodi tanpa mendominasi.
 **Dett - *****Honey (Humoresque)***** (List B)**
 **Ekspektasi:** Melatih kelincahan dan keceriaan. Fokus pada kejelasan artikulasi dalam tempo cepat dan kemampuan menjaga karakter lagu yang lincah namun tetap elegan.
 **R. R. Bennett - *****The Child that Is Born on the Sabbath Day***** (List C)**
 **Ekspektasi:** Melatih interpretasi musik kontemporer yang liris. Fokus pada *phrasing* (kalimat lagu) yang sangat panjang dan penggunaan pedal yang bersih untuk menjaga kejernihan harmoni di tengah perubahan akor yang modern.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Stamina 4 Oktaf:** Tangga nada mayor dan minor (D, F, Ab, B) kini dimainkan sepanjang 4 oktaf dengan kecepatan yang lebih tinggi dan kontrol dinamika yang stabil.
 **Akor Dominan 7ths:** Memainkan akor Dominan 7 dalam bentuk *broken* (4 oktaf) yang berakhir dengan resolusi ke nada *tonic*.
 **Artikulasi Kontras:** Mampu memainkan tangga nada secara *legato* maupun *staccato* dengan kedua tangan bersamaan secara presisi.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 **Tekstur Padat:** Membaca partitur baru sepanjang 12-16 birama dengan ritme *triplet* dan sinkopasi yang lebih kompleks.
 **Navigasi:** Mampu beradaptasi dengan perubahan kunci (*clef*) di tengah lagu dan menggunakan pedal kanan secara mandiri untuk memperindah hasil bacaan.
-**3. Syarat Akademis (Prerequisite)**
+### 3. Syarat Akademis (Prerequisite)
 Kandidat **harus** sudah lulus **Grade 5 Theory** (atau Practical Musicianship/Jazz Solo) untuk bisa mengambil ujian praktek di level ini.
 
 ### SECTION: AURAL TESTS (Ujian Pendengaran)
 *Pada Grade 6, tes pendengaran mulai menguji kemampuan kandidat dalam mengenali bagian-bagian spesifik dalam sebuah harmoni.*
-**A. Melodic Memory (Dua Suara):**
+### A. Melodic Memory (Dua Suara):
 Penguji memainkan frasa pendek dengan dua jalur melodi sekaligus (tangan kanan dan kiri). Kandidat harus mampu mengingat dan menyanyikan kembali hanya **melodi suara atas** saja.
-**B. Sight-Singing (Menyanyi dengan Iringan):**
+### B. Sight-Singing (Menyanyi dengan Iringan):
 Kandidat diberikan partitur pendek. Penguji akan memainkan iringan piano, dan kandidat harus menyanyikan melodi yang tertulis di partitur tersebut tepat pada waktunya.
-**C. Cadences (Akhir Lagu):**
+### C. Cadences (Akhir Lagu):
 Mengenali jenis akhir lagu atau kalimat musik. Kandidat harus bisa membedakan antara **Perfect Cadence** (terasa selesai/final) dan **Imperfect Cadence** (terasa menggantung).
-**D. Musical Features & Analysis:**
+### D. Musical Features & Analysis:
 Menjelaskan secara detail fitur musik yang didengar (tekstur, struktur, dan ritme).
 Mulai memberikan opini teoritis tentang gaya dan periode musik (misal: "Lagu ini bergaya Baroque karena teksturnya polifonik").
 
 GRADE 7
 **Fokus:** Kemandirian teknis tingkat tinggi (interval terts), penguasaan gaya musik spesifik (seperti *Rubato* pada Chopin), serta kemampuan membaca partitur dengan navigasi pedal yang kompleks.
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **Haydn - *****Allegro moderato***** (List A)**
 **Ekspektasi:** Melatih presisi zaman Klasik. Fokus pada kejernihan artikulasi dan kontrol ornamen (seperti *trills* dan *turns*) yang harus terdengar rapi dan tidak terburu-buru.
 **Chopin - *****Mazurka in A minor***** (List B)**
 **Ekspektasi:** Melatih teknik *Rubato* (fleksibilitas tempo). Fokus pada kemampuan "mencuri" waktu untuk ekspresi tanpa merusak struktur dasar lagu, serta keseimbangan melodi yang puitis.
 **Christopher Norton - *****New Kid***** (List C)**
 **Ekspektasi:** Melatih gaya kontemporer dengan nuansa Jazz/Rock. Fokus pada *groove* yang solid, aksen sinkopasi yang tajam, dan pembawaan yang santai namun tetap presisi pada ketukan.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Interval Terts (Thirds Apart):** Memainkan tangga nada dengan jarak interval terts (misal: tangan kanan mulai dari E, tangan kiri mulai dari C). Ini menuntut independensi otak kiri-kanan yang sangat tinggi.
 **Complex Keys:** Penguasaan penuh pada kunci-kunci berat seperti Db, E, G, Bb mayor dan minor sepanjang **4 oktaf**.
 **Legato & Staccato:** Penguji akan meminta variasi artikulasi pada tangga nada untuk memastikan kontrol jari tetap stabil dalam berbagai kondisi.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 **Navigasi Notasi:** Membaca tanda *8va* (oktaf lebih tinggi) dan *8vb* (oktaf lebih rendah) secara instan.
 **Pedal Control:** Penggunaan pedal *una corda* (pedal kiri/soft pedal) mulai diuji untuk memberikan warna suara yang berbeda saat membaca partitur baru.
 **Tempo Variations:** Mampu mengikuti instruksi perubahan tempo seperti *accelerando* (makin cepat) atau *ritardando* (makin lambat) secara spontan.
 
 ### SECTION: AURAL TESTS (Ujian Pendengaran)
 *Pada Grade 7, tes pendengaran berpindah fokus ke suara bawah (bass) dan pengenalan perpindahan kunci nada dasar.*
-**A. Melodic Memory (Lower Part):**
+### A. Melodic Memory (Lower Part):
 Penguji memainkan frasa dua suara (kanan dan kiri). Berbeda dengan Grade 6, di level ini kandidat harus mampu mengingat dan menyanyikan kembali **suara bawahnya (bass)**.
-**B. Sight-Singing (Harmoni):**
+### B. Sight-Singing (Harmoni):
 Kandidat diminta menyanyikan nada atas dari sebuah partitur pendek, sementara penguji memainkan suara bawahnya di piano sebagai iringan harmoni.
-**C. Cadences & Chords:**
+### C. Cadences & Chords:
 Mengidentifikasi 3 jenis akhir lagu: **Perfect** (Selesai), **Imperfect** (Menggantung), dan **Interrupted** (Kejutan/Pindah ke akor tidak terduga).
 Kandidat juga harus bisa menyebutkan akor penyusun kadens tersebut (misal: "V to I").
-**D. Modulations (Perpindahan Kunci):**
+### D. Modulations (Perpindahan Kunci):
 Mendengarkan sebuah lagu yang berpindah nada dasar. Kandidat harus bisa menentukan apakah lagu tersebut pindah ke kunci **Dominant** (nada ke-5), **Subdominant** (nada ke-4), atau **Relative Minor**-nya.
 
 Grade 8
 **Fokus:** *Mastery & Virtuosity*. Penguasaan teknik tingkat tinggi (tangga nada *Whole-tone*), kemampuan memisahkan tekstur polifonik yang kompleks (Fugue), serta kematangan interpretasi dalam karya-karya berdurasi panjang.
-**Song List & Ekspektasi Permainan:**
+### Song List & Ekspektasi Permainan:
 **J. S. Bach - *****Prelude and Fugue in Bb***** (List A)**
 **Ekspektasi:** Puncak dari kemandirian jari. Fokus pada *voicing* (memisahkan 3 atau 4 jalur melodi yang berjalan bersamaan) agar setiap suara terdengar mandiri namun harmonis. Memerlukan disiplin jari yang sangat tinggi tanpa bantuan pedal.
 **S. Coleridge-Taylor - *****Impromptu in B minor***** (List B)**
 **Ekspektasi:** Melatih kekuatan proyeksi suara piano (*grandeur*). Fokus pada kontras antara bagian yang sangat enerjik/virtuoso dengan bagian yang sangat puitis, serta penguasaan harmoni Romantik yang megah.
 **Isaac Albéniz - *****Rumores de La Caleta***** (List C)**
 **Ekspektasi:** Melatih teknik kecepatan tinggi dengan karakter tarian Spanyol. Fokus pada artikulasi yang tajam, koordinasi tangan yang lincah (lompatan akor), dan kemampuan membangun ketegangan ritme yang *passionate*.
-**1. Teknik (Scales & Arpeggios)**
+### 1. Teknik (Scales & Arpeggios)
 **Whole-Tone Scales:** Mempelajari tangga nada dengan jarak satu nada penuh (dimulai dari E dan C) sepanjang 4 oktaf. Memberikan warna suara "impian/mistis" yang memerlukan kepekaan telinga.
 **Legato & Staccato 4 Oktaf:** Penguasaan seluruh tangga nada mayor dan minor dalam berbagai gaya artikulasi dengan kecepatan maksimum yang tetap jernih.
 **Arpeggios Lanjutan:** Semua kunci dimainkan dalam posisi akar (*root*) maupun balikan (*inversions*), termasuk akor *Dominant 7th* dan *Diminished 7th* dengan jangkauan 4 oktaf.
-**2. Reading Mastery (Sight-Reading)**
+### 2. Reading Mastery (Sight-Reading)
 **Complex Scores:** Membaca partitur yang setara dengan karya konser (sekitar 1 halaman penuh).
 **Tantangan:** Menghadapi perubahan sukat yang tidak beraturan, akor yang lebar (*spread chords*), ornamen yang rumit, dan tekstur yang sangat sibuk di kedua tangan secara spontan.
 **Interpretasi:** Penguji mengekspektasi kandidat langsung memberikan "jiwa" pada lagu saat membaca pertama kali, bukan sekadar menekan nada yang benar.
 
 ### SECTION: AURAL TESTS (Ujian Pendengaran)
 *Pada level tertinggi ini, kandidat harus mampu menganalisa musik secara holistik, baik dari sisi harmoni, melodi, maupun sejarah.*
-**A. Melodic Memory (3-Part Texture):**
+### A. Melodic Memory (3-Part Texture):
 Penguji memainkan sebuah frasa yang terdiri dari tiga jalur suara (atas, tengah, bawah). Kandidat harus mampu mengisolasi pendengarannya dan menyanyikan kembali hanya **suara paling bawah (bass)**.
-**B. Cadences, Chords & Inversions:**
+### B. Cadences, Chords & Inversions:
 Mengidentifikasi semua jenis kadens: **Perfect, Imperfect, Interrupted,** dan **Plagal**.
 **Tantangan Ekstra:** Menyebutkan setiap akor penyusunnya beserta posisinya (apakah posisi akar atau balikan/inversi).
-**C. Modulations (Perpindahan Kunci Lanjutan):**
+### C. Modulations (Perpindahan Kunci Lanjutan):
 Mendeteksi perpindahan kunci ke area yang lebih luas, seperti ke kunci **Supertonic** (nada ke-2) atau kunci-kunci lain yang lebih jauh hubungannya.
-**D. Musical Discussion (Analisis Kritis):**
+### D. Musical Discussion (Analisis Kritis):
 Berdiskusi dengan penguji mengenai karya yang didengar. Kandidat harus mampu menjelaskan karakteristik periode musik, struktur bentuk (seperti *Sonata form* atau *Ternary*), serta penggunaan harmoni dan ritme dengan istilah musik yang profesional.
 
 Guide
@@ -6725,7 +6725,7 @@ Bab ini adalah fondasi utama. Kamu akan belajar cara mengenali "peta" di atas pi
 Sebelum bermain, kita harus tahu nama-nama "penghuni" di atas keyboard.
 **Sistem Huruf:** Piano menggunakan abjad **A sampai G** (bukan Do-Re-Mi). Urutan ini akan terus berulang dari ujung kiri ke ujung kanan keyboard.
 **Titik Mulai:** Meskipun abjad dimulai dari A, pembelajaran piano hampir selalu dimulai dari nada **C** (Urutan: C - D - E - F - G - A - B).
-**Sharp (#) dan Flat (b):**
+### Sharp (#) dan Flat (b):
 **Sharp (#):** Naik setengah nada (tuts hitam di sebelah **kanan** tuts putih).
 **Flat (b):** Turun setengah nada (tuts hitam di sebelah **kiri** tuts putih).
 ### Landmark System (Cara Cepat Menghafal Tuts)
@@ -6744,22 +6744,22 @@ Memahami perbedaan ini akan sangat membantumu saat membaca teks lagu (*chord she
 
 ## III. Rumus Pembentuk Chord (Triad)
 Chord dibentuk dengan menghitung jarak antar nada (termasuk tuts hitam). Dua karakter utama yang wajib diketahui:
-**Mayor (Ceria/Bahagia) → Rumus: 4 + 3**
+### Mayor (Ceria/Bahagia) → Rumus: 4 + 3
 *Contoh C Mayor:* Mulai di **C**, hitung ke kanan **4** langkah ke **E**, lalu hitung lagi **3** langkah ke **G**. (Hasil: C-E-G)
-**Minor (Sedih/Melankolis) → Rumus: 3 + 4**
+### Minor (Sedih/Melankolis) → Rumus: 3 + 4
 *Contoh C Minor:* Mulai di **C**, hitung ke kanan **3** langkah ke **Eb**, lalu hitung lagi **4** langkah ke **G**. (Hasil: C-Eb-G)
 ![image142.png](Kurikulum Music School_images/image142.png)
 
 ## IV. Cara Membaca Chord Sheet
 **Posisi Huruf:** Huruf kapital (Chord) diletakkan di atas lirik. Kamu harus menekan chord tersebut tepat saat menyanyikan suku kata di bawahnya.
-**Simbol Huruf:**
+### Simbol Huruf:
 Huruf Kapital saja (**C, F, G**) = Chord Mayor.
 Huruf dengan 'm' kecil (**Cm, Am, Dm**) = Chord Minor.
 
 ## V. Aplikasi: Lagu Pertama di Kunci C
 Mari praktekkan "keluarga" inti di Kunci C, yaitu chord **C, F, dan G**.
 **Pilihan Lagu:** *"Goodness of God"*, *"huci"*, atau *"Happy Birthday"*.
-**Teknik Penempatan Tangan:**
+### Teknik Penempatan Tangan:
 **Tangan Kanan (Harmoni):** Memainkan **Full Chord** (3 nada sekaligus sesuai rumus).
 **Tangan Kiri (Bass):** Memainkan **Root** saja (not pertama/nama chord-nya).
 **Contoh:** Jika pada kertas lagu tertulis chord **C**, maka:
@@ -6807,9 +6807,9 @@ Digunakan untuk bagian Reff agar terasa penuh, megah, dan bertenaga.
 ![image140.png](Kurikulum Music School_images/image140.png)
 # Bab 3: Main Pedal & Fill In
 
-**Bab 4: Main Chord**
+### Bab 4: Main Chord
 
-**Bab 5: **
+### Bab 5:
 
 ### 4. Mengenal Slash Chord
 **Definisi:** *Chord* yang ditulis dengan tanda garis miring, misalnya **G/F** atau **G/B**.

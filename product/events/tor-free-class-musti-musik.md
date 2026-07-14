@@ -11,18 +11,18 @@ review_frequency: quarterly
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
-**[TOR] Term of Reference**
-**Free Class**
+## [TOR] Term of Reference
+## Free Class
 *Musti Musik*
 
-**Deskripsi Acara**
+## Deskripsi Acara
 **Musti Musik** merupakan akun belajar, kolaborasi, dan pendampingan untuk pianis jazz, pop, dan gospel Indonesia. Dengan tagline *“Setiap orang berhak bermain musik secara bagus” *yang* *diinisiasi oleh** Dave Henokh**, yang memiliki passion dalam musik. Musti Musik berkomitmen membantu pianis indonesia dalam mengembangkan permainan mereka dengan *expertise* berkompeten dan berpengalaman.
 
 Musti Musik memiliki program yang mempromosikan brand **Musti Musik** dan **Dave Henokh**, salah satunya adalah acara ***free class***.
 
 Acara dilakukan dalam platform Zoom, dan dilakukan dengan komunitas di  Musti Musik.
 
-**Steps Free Class**
+## Steps Free Class
 Sesi bersama **Dave Henokh **akan dilakukan dengan format ***Zoom ***selama 60 menit dalam konsep ***online webinar.***
 Pembawaan materi tentang cara ngiring lagu worship jadi enak:
 Untuk pemain pemula: 3 pattern cara ngiring
@@ -33,7 +33,7 @@ Sesi giveaway dengan pembagian berupa *e-saldo* kepada 2 orang yang membuat Inst
 Sesi QnA dimana 4-5 orang akan dipilih untuk menanyakan materi apapun
 **    **
 
-**Rundown Acara**
+## Rundown Acara
 
 Dengan detail session sebagai berikut:
 

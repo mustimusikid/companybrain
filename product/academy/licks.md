@@ -11,7 +11,7 @@ review_frequency: annually
 
 > Online academy product SOP or operational document for Musti Musik.
 
-**JAZZ**
+## JAZZ
 Bill Evans Lick
 
  (mirip)
@@ -25,13 +25,13 @@ Cocok di vim bisa juga iim bisa juga iv (nada ambil di vi)
 Blues:
  (rekomen) (ini beberapa masuk worship aja si)
 
-**Worship**
+## Worship
 
  6:32 (ala2 korea)
  (ala korea jg)
  (gospel abis)
 
-**Modify Lick**
+## Modify Lick
 
 Change rhythm
 Repeat

@@ -189,46 +189,46 @@ S40: LINE CLICHE IN WISE MAN SAY
 Innver voice (IV dan II 177b dan VIm 177b dan I 55b6) + arppegio extend
 
 Tab 2
-**                  G         G#dim7**
+## G         G#dim7
 **5     6   5    6      5 6 5 6**
-**So this is love,    hmm**
-**  	     Am7   D7**
+## So this is love,    hmm
+## Am7   D7
 **5    6    5    6**
-**So this is love**
-**     G                             B7     C     E7**
+## So this is love
+## G                             B7     C     E7
 **5    3’   2’  1’       7         2’   1’ 6**
-**So this is what makes life divine**
-**              D7        Bdim7**
+## So this is what makes life divine
+## D7        Bdim7
 **6     7   6 7     6 7 67 **
-**I'm all aglow, hmm**
+## I'm all aglow, hmm
 **                   D7**
 **  6     7   6    7**
-**And now I know**
-**        D7                            G         Am7  (D13b9 = B/D)**
-**  6     5   7  2’   4’  5’  3b’  3’**
-**The key to all heaven is mine**
+## And now I know
+## D7                            G         Am7  (D13b9 = B/D)
+## 6     5   7  2’   4’  5’  3b’  3’
+## The key to all heaven is mine
 
-**                          G        G#dim7**
+## G        G#dim7
 ** 5     6      5       6      5 6 5 6**
-**My heart has wings, hmm**
-**               Am7    D7**
+## My heart has wings, hmm
+## Am7    D7
 **5     6  5    6**
-**And I can fly**
-**      G7                G7           C   C7**
+## And I can fly
+## G7                G7           C   C7
 **5   5’       5’ 5’     5’  4’  3’  6**
-**I'll touch every star in the sky**
-**     Am7            Cm6**
-**6    6    7   1’   3’3b’2’**
-**So this is the miracle**
-**          G                          E7**
+## I'll touch every star in the sky
+## Am7            Cm6
+## 6    6    7   1’   3’3b’2’
+## So this is the miracle
+## G                          E7
 **3’      5’     3’         5’’  3’  2’**
-**That I've been dreaming of**
-**              Am7**
+## That I've been dreaming of
+## Am7
 **5656  5  6 1 6**
-**Hmm,   hmm**
-**      D7         G**
+## Hmm,   hmm
+## D7         G
 **5     6   3’    1**
-**So this is love**
+## So this is love
 
 _No structured data — see original file_
 
@@ -237,25 +237,25 @@ _No structured data — see original file_
 **Do you wanna build a snowman? **
 **     			  G**
 **  **1         1    5     1    3     2
-**Come on let's go and play **
-**		Am7 		      F**
+## Come on let's go and play
+## Am7 		      F
 1   1  5   1    3      4 3    1        5       4    3      1
-**I never see you any more Come out the door **
-** 			  Gm7   C7**
+## I never see you any more Come out the door
+## Gm7   C7
  1     1     5         1       3    5
 **It's like you've gone away! **
-** 			F	        C**
+## F	        C
 5        5    4   3     4      5    1       1     2       3        1
-**We used to be best buddies And now we're not **
-**            E7                           Am   D7**
+## We used to be best buddies And now we're not
+## E7                           Am   D7
 2  3      2       1        2    3      6
-**I wish you would tell me why **
+## I wish you would tell me why
 
 **                                           Dm**
 1      1       1   5   1      3   2      3
 **Do you wanna build a snowman? **
 **                                           Fm**
 1     1    1      1    5   1  3   2        1
-**It doesn't have to be a snowman**
+## It doesn't have to be a snowman
 
 _No structured data — see original file_

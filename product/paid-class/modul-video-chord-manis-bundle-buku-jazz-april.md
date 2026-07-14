@@ -12,14 +12,14 @@ review_frequency: annually
 > Paid class (bootcamp or other) SOP or product document for Musti Musik.
 
 MODUL VIDEO: BELAJAR BUAT CHORD MANIS
-**MODUL VIDEO: BELAJAR BUAT CHORD MANIS**
+## MODUL VIDEO: BELAJAR BUAT CHORD MANIS
 
 Modul Video ini akan membantu kamu untuk belajar harmoni dasar agar kamu bisa upgrade permainan piano kamu jadi lebih manis!
 
 Total Video = 23 Video
 Total Durasi Video = 2 Jam 44 Menit
 
-**What You’ll Learn**
+## What You’ll Learn
 Basic Harmony
 Pada section ini, kamu akan membangun fondasi teori musik dari nol agar kamu paham mengenai struktur lagu
 Voicing Chord
@@ -27,15 +27,15 @@ Section ini akan mengajarkan teknik penempatan jari untuk hasil suara yang lebih
 Logika Progresi
 Section ini akan membedah cara kerja alur chord yang dinamis dan menyentuh perasaan
 
-**What You Need**
+## What You Need
 Keinginan kuat untuk upgrade permainan piano
 
-**Who Is It For**
+## Who Is It For
 Kamu yang sudah pernah belajar dasar piano dan mau upgrade untuk lebih manis
 Paham chord C dan fingering dasar
 
 Kamu dapat akses seluruh modul videonya melalui link yang tertera di halaman berikutnya ya!
-**BASIC HARMONY**
+## BASIC HARMONY
 
 | Judul | Link |
 | --- | --- |
@@ -47,7 +47,7 @@ Kamu dapat akses seluruh modul videonya melalui link yang tertera di halaman ber
 | PROGRESSION VS VOICING | https://youtu.be/kXRboj6zi-M |
 | FAMILY CHORD | https://youtu.be/bShHIPCw09Y |
 
-**LOGIKA PROGRESI**
+## LOGIKA PROGRESI
 
 | Judul | Link |
 | --- | --- |
@@ -61,7 +61,7 @@ Kamu dapat akses seluruh modul videonya melalui link yang tertera di halaman ber
 | PEDAL TONES | https://youtu.be/MDVlMacdCAc |
 | CARA MENCARI CHORD LAGU | https://youtu.be/DPqdOeW292M |
 
-**VOICING CHORD**
+## VOICING CHORD
 
 | Judul | Link |
 | --- | --- |
@@ -76,6 +76,6 @@ Kamu dapat akses seluruh modul videonya melalui link yang tertera di halaman ber
 
 BONUS BUNDLE
 BONUS UNTUK BUNDLE BUKU JAZZ & MODUL VIDEO CHORD MANIS
-**MODUL VIDEO JAZZ STANDARD**
+## MODUL VIDEO JAZZ STANDARD
 
 Pada modul ini, teman-teman akan belajar mengenai Cara Main Lagu Jazz Standard Untuk Pemula. Teman-teman bisa akses Modul Video Jazz Standard melalui link di bawah ini:
