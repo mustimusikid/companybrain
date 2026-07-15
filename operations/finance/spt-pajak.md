@@ -2,12 +2,17 @@
 title: Spt Pajak
 domain_tag: [operations, finance]
 doc_type: sop
+owner: finance_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Finance SOP or accounting guide for Musti Musik operations.
 
 SPT Orang Pribadi
-**SPT PPH ORANG PRIBADI**
+## SPT PPH ORANG PRIBADI
 
 PENDAHULUAN
 Kenapa harus lapor SPT Tahunan Orang Pribadi?

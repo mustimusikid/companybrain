@@ -1,8 +1,8 @@
 ---
 title: Musti Musik X Magi
-domain_tag: [product, paid_class]
+domain_tag: [product, other_income]
 doc_type: sop
-owner: paid_class_head
+owner: other_income_head
 status: Unknown
 confidentiality: Internal
 source: gdrive

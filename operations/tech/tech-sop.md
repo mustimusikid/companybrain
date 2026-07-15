@@ -2,6 +2,11 @@
 title: Tech Sop
 domain_tag: [operations, tech]
 doc_type: sop
+owner: tech_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Technical documentation or automation workflow for Musti Musik systems.
@@ -12,7 +17,7 @@ PLAYBOOK TECH
 
 SOP TECH
 
-# GENERAL
+## GENERAL
 **Produk ****Musti**** Musik**
 Color Palette
 HEX : #3a2d1b
@@ -22,14 +27,14 @@ HEX : #a66f2e
 HEX : #f0ad4e
 ![image57.png](Tech SOP_images/image57.png)
 
-# LOGIN ADMIN
-**Login cPanel : **
+## LOGIN ADMIN
+### Login cPanel :
 Buka (Cpanel), lalu log in.
 Setelah itu, scroll ke paling bawah dan pilih Wordpress (melalui Softaculous)
 ![image59.png](Tech SOP_images/image59.png)
 Scroll ke bawah dan pilih login as admin di-web yang diinginkan
 ![image72.png](Tech SOP_images/image72.png)
-**Login Wordpress : **
+### Login Wordpress :
 Landing Page :
 Username : mustimusik
 Password : mustimusik123
@@ -37,7 +42,7 @@ Member Area :
 Username : admin
 Password : wGRbH&5iK2
 
-# CARA MENGGUNAKAN ELEMENTOR
+## CARA MENGGUNAKAN ELEMENTOR
 Pilih page yang ingin di-edit
 ![image75.png](Tech SOP_images/image75.png)
 Klik Edit with Elementor
@@ -53,7 +58,7 @@ Klik kiri pada bagian abu-abu untuk menambahkan kolom pada struktur
 Cek responsive pada dimensi berbeda dengan menggunakan Responsive Mode di bagian kiri bawah dan klik Update jika ingin menyimpan dan publish edit pada website
 ![image42.png](Tech SOP_images/image42.png)
 
-# CARA MENAMBAHKAN & MENGHAPUS USER
+## CARA MENAMBAHKAN & MENGHAPUS USER
 Pada dashboard /wp-admin, klik Users dan pilih Add New User untuk menambahkan user secara manual.
 ![image40.png](Tech SOP_images/image40.png)
 Isi kolom-kolom required dan berikan role sesuai kebutuhan.
@@ -66,7 +71,7 @@ Subscriber, Pro: akun member yang sudah daftar & sudah checkout product, serta m
 ![image47.png](Tech SOP_images/image47.png)
 Untuk menghapus akun, pilih All Users pada dashboard dan klik Delete pada akun yang ingin dihapus
 
-**MEMBER AREA: CARA MENAMBAHKAN MODUL (COURSE)**
+### MEMBER AREA: CARA MENAMBAHKAN MODUL (COURSE)
 Membuat Courses menggunakan Tutor LMS Pro
 Melalui dashboard, arahkan kursor ke Tutor LMS Pro, lalu klik “Courses”.
 ![image24.png](Tech SOP_images/image24.png)
@@ -101,7 +106,7 @@ Scroll ke bawah untuk memberikan thumbnail pada course tersebut agar terlihat ba
 Scroll lagi ke atas, hingga kamu menemukan button “Publish” di sebelah kanan. Tekan button “Publish” dan course telah terbuat.
 ![image15.png](Tech SOP_images/image15.png)
 
-# MEMBER AREA: CARA MENGATUR KUPON
+## MEMBER AREA: CARA MENGATUR KUPON
 Pada arahkan ke Marketing > Coupons.
 ![image142.png](Tech SOP_images/image142.png)
 Di pojok kiri atas klik “Add coupon”
@@ -118,7 +123,7 @@ Pada bagian “Usage Restriction”, isikan kolom “Products” dengan produk y
 Pada bagian “Usage Limits” di kolom “Usage limit per coupon” disini kamu bisa mengatur jumlah kupon yang bisa digunakan. Misalkan kamu ingin mengatur agar kupon TESTKUPON30 ini hanya bisa digunakan oleh 100 orang, maka set “100” pada kolom “Usage limit per coupon”. Jika kamu ingin membiarkan kupon ini unlimited/tidak memiliki batasan pemakaian, maka kosongkan kolom tersebut. Jika telah selesai semua, klik button “Publish” di bagian kanan.
 ![image143.png](Tech SOP_images/image143.png)
 
-# MEMBER AREA: CARA VERIFIKASI PEMBAYARAN
+## MEMBER AREA: CARA VERIFIKASI PEMBAYARAN
 Pada dashboard member area, Arahkan kursor ke WooCommerce > Orders.
 ![image146.png](Tech SOP_images/image146.png)
 Cari user yang memiliki status payment “Cancelled” atau “Pending Payment”. Dengan catatan apabila pembayaran terdapat masalah atau kendala lain, sementara uang sudah masuk ke rekening Dave Henokh (konfirmasi dengan tim CS). Lalu klik user tersebut.
@@ -126,13 +131,13 @@ Cari user yang memiliki status payment “Cancelled” atau “Pending Payment�
 Klik pada dropdown “status” dan ubah menjadi “Completed”. Setelah selesai, klik button “Update” di pojok kanan atas.
 ![image148.png](Tech SOP_images/image148.png)
 
-# LANDING PAGE: CARA DUPLICATE PAGE
+## LANDING PAGE: CARA DUPLICATE PAGE
 Masuk ke menu page pada dahsboard landing page,
 ![image75.png](Tech SOP_images/image75.png)
 Pilih page yang ingin diduplikat dan klik EA Duplicator. Maka page tersebut akan terduplikat seperti yang bisa dilihat di bawah menjadi “Landing Page - Copy”. Klik “Landing Page - Copy” tersebut, lalu anda dapat memodifikasi sesuai keinginan anda.
 ![image149.png](Tech SOP_images/image149.png)
 
-# LANDING PAGE: CARA MEMBUAT, MEMASUKKAN, DAN MENGAKSES FORM DI LP
+## LANDING PAGE: CARA MEMBUAT, MEMASUKKAN, DAN MENGAKSES FORM DI LP
 Pada dashboard, pilih Forminator > Dashboard
 ![image139.png](Tech SOP_images/image139.png)
 Klik create untuk membuat form baru atau duplicate dari form yang sudah ada. Buat pertanyaan sesuai kebutuhan
@@ -148,7 +153,7 @@ Paste shortcode dari Forminator dan form siap digunakan
 Data pengisi form dapat diakses melalui dashboard LP > forminator > submissions.
 ![image135.png](Tech SOP_images/image135.png)
 
-# MAILKETING: CARA MENAMBAHKAN EMAIL FORWARDER
+## MAILKETING: CARA MENAMBAHKAN EMAIL FORWARDER
 Mailketing:, Email: davehenokh@gmail.com, Password: @MustiMusik1d
 Masuk ke menu *Setup Domain > Tambah Domain > +Whitelabel Sender* untuk membuat email domain baru
 ![image140.png](Tech SOP_images/image140.png)
@@ -159,9 +164,9 @@ Masuk ke menu *Setup Domain > Email Forwarder > Add Forwarder*
 Masukan email domain yang ingin di-forward dan email tujuan forward.
 ![image112.png](Tech SOP_images/image112.png)
 
-# MAIL: CARA MENAMBAHKAN EMAIL DOMAIN KE GMAIL
+## MAIL: CARA MENAMBAHKAN EMAIL DOMAIN KE GMAIL
 
-# CPANEL: CARA MEMBUAT SUBDOMAIN (SUBDOMAIN.MUSTIMUSIK.ID)
+## CPANEL: CARA MEMBUAT SUBDOMAIN (SUBDOMAIN.MUSTIMUSIK.ID)
 CPanel Musti Musik:
 Username: davehenokh
 Email: davehenokh@gmail.com
@@ -172,7 +177,7 @@ Masuk ke menu Domains > Create A New Domain
 Masukan nama domain yang ingin dibuat dan jangan centang Share Document Root. Klik Submit.
 ![image115.png](Tech SOP_images/image115.png)
 
-# CAREERS: MENAMBAH LOWONGAN PEKERJAAN (MUSTIMUSIK.ID/CAREERS)
+## CAREERS: MENAMBAH LOWONGAN PEKERJAAN (MUSTIMUSIK.ID/CAREERS)
 Jika perlu menambahkan lowongan pekerjaan, maka hal yang harus dilakukan adalah:
 Buat subpage (duplicate aja dari lowongan sebelumnya) dari dengan link sesuai dengan lowongan yang dibutuhkan. Misalnya, jika dibutuhkan web developer, buat subpage. Cara membuat subpage sama seperti page biasa tapi dibagian page attributes masukin parent page-nya. Misalnya subpage careers seperti ini:
 ![image82.png](Tech SOP_images/image82.png)
@@ -180,11 +185,11 @@ Ganti isi dan deskripsinya menggunakan elementor.
 Tambahkan card job openings di dan
 ![image85.png](Tech SOP_images/image85.png)
 
-# CARA MEMBUAT AKUN UNTUK USER & CHECKOUT PAKET
+## CARA MEMBUAT AKUN UNTUK USER & CHECKOUT PAKET
 Video Tutorial Cara Menambahkan User & Checkout Paket
 Berikut merupakan video tutorial mengenai cara menambahkan user & checkout di
 
-# TUTORLMS SETUP
+## TUTORLMS SETUP
 Arahkan kursor ke Tutor LMS Pro > Settings.
 ![image64.png](Tech SOP_images/image64.png)
 Di dalam settings, anda akan melihat beberapa navigation bar yang terdiri dari General, Course, Monetization, dll. Klik pada bagian “Course” (disini kita hanya akan melakukan setup yang penting saja).
@@ -200,7 +205,7 @@ Beralih ke bagian “Authentication” scroll ke bawah hingga kamu menemukan bag
 Pada bagian “Limit Active Login Sessions” set toggle menjadi on.
 Pada bagian “Maximum Active Sessions” set menjadi “2”. Ini berarti bahwa agar user bisa login di 2 device, yaitu Smartphone dan Laptop. Apabila “Limit Active Login Sessions” dan “Maximum Active Sessions” tidak diaktifkan maka user hanya bisa login pada akun mereka di satu device saja.
 
-# CARA MEMBUAT COURSE BUNDLE
+## CARA MEMBUAT COURSE BUNDLE
 Pergi ke halaman , arahkan kursor ke Tutor LMS Pro > Course Bundles.
 ![image20.png](Tech SOP_images/image20.png)
 Pada halaman Course Bundles, di pojok kiri atas klik “+ Add New”.
@@ -212,7 +217,7 @@ Scroll ke bawah, lalu anda akan menemukan dropdown “Select Courses”. Pilihla
 Scroll lagi ke bawah, pada bagian “Bundle Sale Price” set harga untuk course bundle ini dengan harga yang telah ditentukan oleh tim & perusahaan. Sebagai contoh disini saya memberikan harga sebesar “Rp900.000,-”. Setelah selesai, klik button “Publish” yang berada di kanan.
 ![image11.png](Tech SOP_images/image11.png)
 
-# CARA MEMBUAT CUSTOM FUNCTION DI functions.php
+## CARA MEMBUAT CUSTOM FUNCTION DI functions.php
 Arahkan kursor ke Appearance > Theme File Editor.
 ![image10.png](Tech SOP_images/image10.png)
 Setelah masuk ke halaman Theme File Editor, di sebelah kanan terdapat direktori dan silahkan klik pada functions.php
@@ -231,10 +236,10 @@ Pada Halaman “Purchase History” kita tempelkan shortcode tersebut yaitu deng
 Melalui custom function di functions.php, kita bisa mengcustom apapun sesuai kebutuhan kita di masa depan. Anda bisa mengaplikasikan tutorial ini untuk page apapun.
 ![image78.png](Tech SOP_images/image78.png)
 
-# MANUAL ENROLLMENT UNTUK USER YANG TELAH MEMILIKI AKUN, NAMUN BELUM MELAKUKAN CHECKOUT.
+## MANUAL ENROLLMENT UNTUK USER YANG TELAH MEMILIKI AKUN, NAMUN BELUM MELAKUKAN CHECKOUT.
 Silahkan tekan & lihat video tutorial ini, atau langsung kunjungi Google Drive Musti Musik pada folder bernama “Tutorial”.
 
-# CARA BUAT AKUN BARU MEMBER PRO DAN BASIC
+## CARA BUAT AKUN BARU MEMBER PRO DAN BASIC
 
 Siapkan Identitas Member yang akan didaftarkan, minimal ada nama, email, dan nomor HP.
 Buka, Klik Register now, Masukan identitas user yang sudah disiapkan seperti username, email dll, setelah itu klik tombol register
@@ -256,7 +261,7 @@ Coupon Member Basic : VTUXZAVB
 Setelah coupon di masukan dan status order di set complete, klik update untuk memperbarui orderan
 Curse berhasil di enroll, kembali ke dashboard akun yang sudah dibuatkan, lalu refresh browser dan course akan bertambah, setelah itu jangan lupa untuk logout akun agar tidak terkenal limit user logged in.
 
-**Cara Install Tracker Sales Page di Orderonline.id**
+### Cara Install Tracker Sales Page di Orderonline.id
 
 Buka produk yang ingin di tracking landing site nya.
 Tekan tombol “Install tracker” kemudian “Copy tracking code”
@@ -271,7 +276,7 @@ Paste kode HTML yang sudah di copy dari orderonline lalu publish.
 Jumlah views pada landing page akan tercatat secara otomatis di halaman produk Orderonline.id
 ![image39.png](Tech SOP_images/image39.png)
 
-**Cara Deteksi Platform Free Class**
+### Cara Deteksi Platform Free Class
 
 Buat form baru di forminator dengan fields sesuai keperluan.
 Tambahkan field baru dengan tipe “hidden field”
@@ -283,7 +288,7 @@ Saat menyebarkan link page pada berbagai platform, bedakan utm_source dari tiap 
 Value yang dimasukkan pada utm_source di URL link akan otomatis tertangkap oleh forminator saat user mengsubmit form.
 Data yang terkumpul kemudian dapat di export dan diolah dengan excel/sheets.
 
-# MEMBER AREA: CARA MENAMBAHKAN MODUL DI DASHBOARD MEMBER AREA
+## MEMBER AREA: CARA MENAMBAHKAN MODUL DI DASHBOARD MEMBER AREA
 
 ![image126.png](Tech SOP_images/image126.png)
 Ke tab Appearance dan pilih Theme File Editor
@@ -307,7 +312,7 @@ Member basic (*$ordered_courses_basic*)
 Member Jazz Only (*$ordered_courses_jazz*)
 Member Worship Only (*$ordered_courses_worship*)
 
-# MEMBER AREA: CARA MENGAMBIL ID DARI MASING MASING COURSE
+## MEMBER AREA: CARA MENGAMBIL ID DARI MASING MASING COURSE
 ![image129.png](Tech SOP_images/image129.png)
 Ke Tutor LMS Pro Lalu Pilih Course
 
@@ -318,7 +323,7 @@ Bisa dilihat disini yang artinya course belajar baca not balok dari 0 memiliki I
 Setelah itu nanti ID course tersebutlah yang di taro di dashboard.php
 ![image130.png](Tech SOP_images/image130.png)
 
-# MEMBER AREA: CARA MENAMBAHKAN SECTION DI DASHBOARD MEMBER AREA
+## MEMBER AREA: CARA MENAMBAHKAN SECTION DI DASHBOARD MEMBER AREA
 
 Ini adalah Section Member Lifetime musti musik
 ![image127.png](Tech SOP_images/image127.png)
@@ -336,11 +341,11 @@ Setelah itu bisa di copy 1 section untuk menambahkan section baru
 ![image101.png](Tech SOP_images/image101.png)
 Setelah itu ganti nama dan role sesuaikan dengan yang dibutuhkan penjelasan nya sebagai berikut :
 
-**Title = untuk menamakan modul nanti di dashboard member nya **
-**Url = untuk mengarahkan jika section tersebut di klik **
-**Icon = untuk menambahkan icon di halaman dashboard member**
+### Title = untuk menamakan modul nanti di dashboard member nya
+### Url = untuk mengarahkan jika section tersebut di klik
+### Icon = untuk menambahkan icon di halaman dashboard member
 
-# LANDING PAGE AREA: CARA JIKA WEBSITE BERANTAKAN SAAT DI PUBLISH
+## LANDING PAGE AREA: CARA JIKA WEBSITE BERANTAKAN SAAT DI PUBLISH
 
 Pastikan terlebih dahulu, halaman mana yang berantakan, jika hanya 1 halaman saja berarti ada yg salah di halaman tersebut dan jika terjadi di semua halaman yang ada di mustimusik.id maka berikut ini merupakan cara untuk membenarkan nya
 
@@ -355,7 +360,7 @@ Scroll ke bawah dan pilih **Deactive **lalu klik** Apply**
 
 Setelah sudah ulangi hal yang sama namun memilih **Activate **lalu klik **Apply**
 ![image108.png](Tech SOP_images/image108.png)
-# GANTI PASSWORD MEMBER
+## GANTI PASSWORD MEMBER
 
 Login ke
 Klik Member Area → Dashboard
@@ -368,7 +373,7 @@ Pilih set new password, masukkan password yang diinginkan
 Klik use weak password
 Scroll sampai ketemu button Update User, klik Update User
 
-# PERPANJANG MEMBERSHIP
+## PERPANJANG MEMBERSHIP
 Login ke
 Klik Member Area → Dashboard
 Pilih User (All User) search email member tersebut

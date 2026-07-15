@@ -2,6 +2,11 @@
 title: Copy Of Musti Musik Human Resources
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.

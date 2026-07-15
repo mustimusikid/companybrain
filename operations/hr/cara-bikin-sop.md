@@ -2,13 +2,18 @@
 title: Cara Bikin Sop
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 CARA BIKIN SOP
 ![image6.jpg](CARA BIKIN SOP_images/image6.jpg)
-**CARA BIKIN SOP**
+### CARA BIKIN SOP
 
 ***Semua divisi wajib membuat playbook atau SOP dalam mengerjakan tugasnya. ***
 

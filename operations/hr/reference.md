@@ -2,12 +2,17 @@
 title: Reference
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 ![image7.jpg](Reference_images/image7.jpg)
-**REFERENCE**
+### REFERENCE
 
 # Explanation of Method That We Use
 ## PILIHAN METODE MACHINE LEARNING UNTUK DETEKSI/KLASIFIKASI CHORD

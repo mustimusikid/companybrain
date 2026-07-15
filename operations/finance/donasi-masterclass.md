@@ -2,6 +2,11 @@
 title: Donasi Masterclass
 domain_tag: [operations, finance]
 doc_type: sop
+owner: finance_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Finance SOP or accounting guide for Musti Musik operations.
@@ -66,7 +71,7 @@ Dari campaign yang sukses:
 **Observasi penting:
 ** → Yang paling banyak menarik minat: **donasi fixed per tiket** atau **50% donation**.
 
-**PWYW WITH MINIMUM PRICE + Donate 15% of revenue**
+### PWYW WITH MINIMUM PRICE + Donate 15% of revenue
 Why this model works best?
 Protects Revenue
 We set Minimum Price 49,000 or 55,000
@@ -169,7 +174,7 @@ Impact ke bisnis
 # =================================================
 # 🎄 SIMULASI 1 — Minimum Price = 40.000
 ARPU diasumsikan **60.000** (realistik)
-**Total Revenue = 150 × 60,000 = 9,000,000**
+### Total Revenue = 150 × 60,000 = 9,000,000
 | % Donasi | Nominal Donasi | Net Revenue |
 | --- | --- | --- |
 | 15% | 1,350,000 | 7,650,000 |
@@ -188,7 +193,7 @@ Tidak cocok kalau prioritasnya revenue stabil
 # =================================================
 # 🎄 SIMULASI 2 — Minimum Price = 50.000
 ARPU diasumsikan **70.000** (lebih stabil)
-**Total Revenue = 150 × 70,000 = 10,500,000**
+### Total Revenue = 150 × 70,000 = 10,500,000
 | % Donasi | Nominal Donasi | Net Revenue |
 | --- | --- | --- |
 | 15% | 1,575,000 | 8,925,000 |
@@ -297,11 +302,11 @@ Brand value jatuh (“kok kelas bagus tapi bebas 5 ribu?”)
 PWYW tanpa minimum **tidak cocok untuk Musti Musik** — terlalu berisiko secara finansial dan menurunkan value brand.
 
 SASARAN DONASI
-**SASARAN DONASI**
+### SASARAN DONASI
 Yayasan Tri Asih  SLB dan Panti Rawat (donasi bisa berupa tunai maupun barang berupa sembako) Proposal:
 Rachel House  (Rumah Rawat Palliative Care for Children) (donasi berupa uang)
 
-**VIA LEMBAGA PENYALUR**
+### VIA LEMBAGA PENYALUR
 1.  ada spesifik kategori pembangunan rumah ibadah
 2.  ada spesifik kategori pendidikan
 3.  penjemputan donasi barang + penyaluran ke orang yang membutuhkan

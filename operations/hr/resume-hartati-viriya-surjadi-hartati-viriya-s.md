@@ -2,21 +2,26 @@
 title: Resume Hartati Viriya Surjadi Hartati Viriya S
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
-**Hartati Viriya Surjadi**
+## Hartati Viriya Surjadi
 
 Driven final year Informatics student at President University, specializing in Artificial Intelligence. With a strong foundation in AI, and data science, I’m eager to take on impactful internship opportunities where I can turn ideas into real-world solutions. Known for being hands-on, observant, and resourceful, I thrive in fast paced environments and enjoy solving problems that matter. I’ve also worked with frameworks like TensorFlow and PyTorch for machine learning and deep learning projects. In addition to my technical background, I’m fluent in Indonesian, confident in English, and hold certification in Mandarin. I bring a blend of technical skills, multilingual communication, and a passion for learning to every project I join. I’m ready to contribute, grow, and make a difference.
 
 **Skills: **Python| Java| Data Analysis & Reporting (SQL, Looker, Tableau) |Machine Learning and Deep Learning Framework (Ultralytics, Keras, Tensorflow, Transformer, Pytorch, RAG)| Docker| Web & App Development (Flask, Django, Flutter, Firebase, Figma)
 
-**Education**
+## Education
 **PRESIDENT UNIVERSITY** 							                       West Java, Indonesia
 Bachelor Degree, Artificial Intelligence Concentration. GPA  3.87/4.00				           2023 - 2026
 
-**Certification**
+## Certification
                                                                            November 2025 – March 2025
 Graduated with *Excellent *final score (90.4/100)
 Gained hands-on experience in **data preprocessing, EDA, statistical analysis, machine learning** (supervised & unsupervised), and **model deployment.**
@@ -31,8 +36,8 @@ Applied **clean code principles** and **test-driven development (TDD)** for main
 Designed intuitive user interfaces through **wireframing, design thinking, and visual design principles**.
 Deployed applications to **Google Play Store**, ensuring readiness for real-world use.
 
-**Experience**
-**System Developer Intern**
+## Experience
+## System Developer Intern
 **PT Axa Mandiri Financial Service	             						               **Oct 2025 - Present
 Researched, benchmarked, and fine-tuned multiple OCR architectures (CNN-based & Transformer-based models) to optimize Indonesian KTP text extraction accuracy on noisy real-world datasets, improving text recognition robustness for KYC automation.
 Developed and trained machine learning models for KYC processes, including signature verification (Siamese Network) and liveness detection to prevent identity fraud and improve system security.
@@ -41,7 +46,7 @@ Reduced manual KYC validation workload by automating document and identity verif
 Collaborated cross functionally with underwriting and business teams to translate compliance requirements into production-ready AI solutions.
 Contributed to CMS system enhancement using Java Spring MVC (Liferay), optimizing internal content management workflows.
 
-**Data Science Intern – Project-Based Internship**
+## Data Science Intern – Project-Based Internship
 **Deepublish 										           **May 2025 - July 2025
 Project: Marketing Lead Scoring System & CRM Dashboard
 Performed **data preprocessing, feature engineering, and analysis **customer behavior and sales funnel data.
@@ -52,7 +57,7 @@ Enabled the marketing team to monitor conversion likelihood, improve campaign ta
 Collaborated with marketing stakeholders to define lead quality metrics and ensured seamless model deployment into daily operations.
 **			**
 
-**Projects**
+## Projects
 **
 ** *President University x PT Mattel Indonesia 						       March 2025 – May 2025
 *
@@ -67,7 +72,7 @@ Built and trained a custom deep CNN with data augmentation using TensorFlow/Kera
 Optimized model performance with callbacks and validation on 3k+ images.
 Integrated OpenCV for real-time face detection and emotion classification.
 
-**Language Proficiencies**
+## Language Proficiencies
 DET, (Duolingo) Score: 100
 HSK 1, (Hanban Confucius Institute) Score: 189/200
 HSK 3, (Hanban Confucius Institute) Score: 273/300

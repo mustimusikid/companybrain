@@ -42,33 +42,33 @@ Belajar dari semua itu, lalu **bisa menebak kata selanjutnya dalam sebuah kalima
 Jadi saat kamu nanya: *"Gimana cara mulai bisnis F&B?"*, dia bisa jawab karena dia **sudah melihat ribuan pertanyaan serupa** dan tahu pola jawaban terbaik.
 
 ### Bagaimana Cara Kerjanya?
-**Belajar dari Data**
+### Belajar dari Data
 Dia belajar dari teks-teks yang sudah ada (misalnya dari Wikipedia, Reddit, buku, dll)
-**Pahami Pola Bahasa**
+### Pahami Pola Bahasa
 Dia pelajari: “Kalau ada kata X, biasanya diikuti kata Y”
-**Prediksi Kata Selanjutnya**
+### Prediksi Kata Selanjutnya
 Saat kamu mengetik sesuatu, dia **memprediksi token demi token** untuk melanjutkan kalimat kamu sebaik mungkin.
-**KOMPONEN 1: PARAMETERS**
+### KOMPONEN 1: PARAMETERS
 Parameter = aturan-aturan kecil yang dipakai AI untuk belajar sebuah pola baru
 Di LLM, parameter digunakan untuk **menentukan kata apa yang paling cocok muncul setelah kata sebelumnya**, berdasarkan jutaan contoh dari internet, buku, artikel, dan percakapan.
 
-**KOMPONEN 2:  TOKENS**
+### KOMPONEN 2:  TOKENS
 Token = potongan kecil dari teks
 Satu kata bisa jadi 1 token atau 2 token kalau panjang/tidak umum
 LLM dihitung dan dibatasi berdasarkan token
 Kalau kita tulis teks panjang banget, model akan berhenti ketika tokennya penuh
 
-**KOMPONEN 3: TOKENS EMBEDDINGS**
+### KOMPONEN 3: TOKENS EMBEDDINGS
 Token embeddings = cara mengubah tiap token jadi angka2 yang bermakna supaya bisa diproses oleh model
 
-**KOMPONEN 4: CONTEXT WINDOWS**
+### KOMPONEN 4: CONTEXT WINDOWS
 Batas seberapa banyak token yang bisa diingat dan diproses oleh model dalam 1 kali percakapan atau input
 ### Seberapa Besar Context Window?
 Model seperti **GPT-3.5**: ~4.000 token
 **GPT-4**: Bisa sampai 8.000, 32.000, bahkan 128.000 token tergantung versi
 1.000 token ≈ sekitar 750 kata bahasa Indonesia
 Kalau kamu nulis terlalu panjang dan melewati batas token, maka:
-**Teks paling awal akan “tergeser keluar”**
+### Teks paling awal akan “tergeser keluar”
 Model akan mulai lupa bagian awal karena sudah di luar jangkauan window
  → untuk cek seberapa besar context window masing2 model
 
@@ -92,7 +92,7 @@ lalu **berlatih menebak kata selanjutnya**,
 dan **menyimpan pola-pola itu dalam bentuk angka
 **supaya bisa menjawab atau menulis seperti manusia.
 Prompt Engineering
-**STRUKTUR PROMPT YANG BAIK**
+### STRUKTUR PROMPT YANG BAIK
 Role > Context > Action > Output Format > Data
 ## 1. Role – "Lo mau dia jadi siapa?"
 Kamu perlu kasih tahu AI-nya dia berperan sebagai siapa.
@@ -131,26 +131,26 @@ Kalau ada **contoh atau referensi**, kasih ke AI supaya hasilnya lebih akurat.
 📌 Contoh:
 *“Contoh konten AI yang sudah pernah aku buat adalah berikut ini: Ide 1, Ide 2.”*
 
-**TECHNIQUES**
+### TECHNIQUES
 
-**TEKNIK 1: KLARIFIKASI SEBELUM MENJAWAB**
+### TEKNIK 1: KLARIFIKASI SEBELUM MENJAWAB
 Berikan saya beberapa pertanyaan terlebih dahulu sebelum kamu menjawab → powerful to use when you don’t know what kind of context you need to give to them
 
-**TEKNIK 2: CARA JAWAB PERTANYAAN KLARIFIKASI**
+### TEKNIK 2: CARA JAWAB PERTANYAAN KLARIFIKASI
 If u know the answer secara pasti → jawab secara sekaligus
 But if u don’t → jawab satu2
 
-**TEKNIK 3: TEKNIK VERIFIKASI**
+### TEKNIK 3: TEKNIK VERIFIKASI
 Sebelum kamu melanjutkan, tolong jelaskan x kita
 
-**TEKNIK 4: CONTINUE OR REGENERATE**
+### TEKNIK 4: CONTINUE OR REGENERATE
 If AI understands: Oke ini sudah benar lanjutkan ke nomor 2
 If AI don’t understands: Regenerate ulang → klik edit di prompt kita sampe dia ngerti
 
-**TEKNIK 5: REASONING**
+### TEKNIK 5: REASONING
 Kalau kamu udah ngedit promptnya tp masih salah → edit prompt: tolong lakukan secara step by step dan alasan ringkas dari setiap langkahnya
 
-**DELEGATE THE CONVOS TO CHATGPT**
+### DELEGATE THE CONVOS TO CHATGPT
 Edit promptnya: tolong sekaligus pimpin diskusi ini dan berikan pertanyaan dan pernyataan lanjutan setiap jawaban akhir kamu
 GENERATIVE AI
 This is still parts of AI Module, however it is more into Generative AI
@@ -160,7 +160,7 @@ LEVEL 2 AI WORKFLOW
 LEVEL 3 AI AGENT
 LEVEL 4 MULTI AGENT SYSTEM
 
-**GENERATIVE AI**
+### GENERATIVE AI
 Fokus: from input to generate output
 Characteristics:
 Stateless interaction
@@ -241,7 +241,7 @@ Kalau buat ads video bisa pakai VEO
 
 Useful prompts:
 Prompt : Village square scene, a wise middle-aged Lurah (male, in brown batik shirt and black peci) stands before a crowd, his face serious, holding a microphone say : Lurah (urgent): “Benderanya… hilang?!”
-**The prompt:**
+### The prompt:
 A pair of hands enters the scene, reaching for the central figure. They carefully **lift the figurine from its circular base** and **tilt it slightly**, as if to inspect it more closely. Meanwhile, the digital representation of the figure on the computer screen—a gray-scale 3D model—remains perfectly still. The illustration on the packaging box to the right also stays fixed, its outline and colors unchanging. The rest of the background, including the desk, keyboard, and shelves, remains completely still and unaffected by the movement.
 
 IMAGE AND VIDEO CREATION
@@ -279,7 +279,7 @@ Tentukan modelnya
 
 Kalau text ke video jarang yang bagus
 
-**RELIGHT VIDEO**
+### RELIGHT VIDEO
 Pakai reference chaining (reference diupload as prompt)
 Pakai higgsfield image, transform dulu gambarnya (pengen misal pencahayaannya jadi golden hour)
 Penting! Kasih notes IMPORTANT: preserve original face structure, identity, expression, hairstyle and pose exactly, do not modify the face.
@@ -288,12 +288,12 @@ Ke video → edit kling → upload video shornya → masukin elemen imagenya
 Change the lighting of @.video1 to lighting of @.image1 make the face stay consistent like in the @.video1
 Kling 3.0 omni edit
 
-**HIGGSFIELD CINEMA STUDIO**
+### HIGGSFIELD CINEMA STUDIO
 Masuk ke video → cinema studio video → masukin screenshotan gambar → pilih multishot manual
 (intinya generate gambarnya dulu baru bikin videonya, promptnya bisa pake bantuan chatgpt, gambar tuh as a reference starting scenenya, promptnya act as an action prompt)
 Trs ntar tinggal diedit2 aja bagian yg perfect sama yg engga
 
-**MEMBUAT TALKING HEAD MENGGUNAKAN HEYGEN**
+### MEMBUAT TALKING HEAD MENGGUNAKAN HEYGEN
 Cukup masukin script/audio
 Langganan/paid
 Masukin dulu video
@@ -308,7 +308,7 @@ Hapus textnya
 Upload audio yg kita mau
 Klik submit > pilih nama > on atau off watermark > done > download > capcut > tetep editing kek video biasa ujung2nya
 
-**MEMBUAT BABY PODCAST HEYGEN**
+### MEMBUAT BABY PODCAST HEYGEN
 (well, not really important, but perhaps we can use if we want to create podcasts)
 Can’t use chatgpt karena ada violationnya (mem-babykan adult) → bisa pake flora fauna ai, caranya:
 Ganti model jadi flux
@@ -316,7 +316,7 @@ Upload image
 Prompt: a baby in podcast studio (dienhance pake ai buat promptnya)
 Download and masukin ke pictures hygiene, terus masukin scriptnya
 
-**MEMBUAT MUSIC VIDEO VEO3**
+### MEMBUAT MUSIC VIDEO VEO3
 Garis besar + karakter
 Scene a music video an Indonesian beauty woman (seed caracter 457580) floating like astronaut with oversize  silver jacket. The background is space craft with indonesian flag on screen. The lighting is ambience red and blue light soft.
 Singing in rap up beat: “kata2”
@@ -541,12 +541,12 @@ region limit
 fitur beda tiap platform
 
 OPENCLAW
-**OPENCLAW**
+### OPENCLAW
 
 Moltbook → AI sosmed
 Install ke computer, punya full akses kontrol ke komputer kita → but still we need to be careful
 
-**INSTALLATION**
+### INSTALLATION
 
 Bisa install di cloud (ready to use, lebih secure) atau local deployment (full control, data privacy)
 
@@ -577,7 +577,7 @@ Kalo mau ke open AI tinggal klik ke open AI → tp kalo perlu api keys itu hrs b
 Openrouter ai models → free > riverflow, arcee ai: trinity large preview (free) copas
 Api keys > create new secret key > pilih default project > copy > trs ganti > save > deploy
 
-**INTERFACE & FEATURES**
+### INTERFACE & FEATURES
 Kalau ada update → klik update aja
 Health → apakah Ai dan getaway aktif, kalau hijau oke
 Main session → bisa ada session2 lain misal connect ke telegram jadi session baru
@@ -609,7 +609,7 @@ Clawhub → cek apakah skillnya free virus/malware
 Download zip ke skill yg kamu pengen dari clawhub
 Masukin zip ke folder workspace di openclaw di skill
 
-**SKILLS**
+### SKILLS
 Cek di clawhub skillsnya ada apa aja
 Skill banyak yang scam → cek securitynya
 Cara pakai
@@ -617,7 +617,7 @@ Download zip > ke foldernya > copy > ke tempat install clawnya > workspace > pas
 Marketing skills for AI Agents (di github) > install pake npx skills, copy > buka ke terminal > klik spasi buat install semua > pilih install ke open claw > install di project atau global > klik ke symlink
 How to use it > prompt in your claw
 
-**MULTIPLE AGENT OPENCLAW**
+### MULTIPLE AGENT OPENCLAW
 Dashboard > agents > set up orchestrator > bisa set via tutorial multi agent routing di docs.openclaw > copy ke terminal
 Siapin prompt untuk orchestrator dulu
 ![image247.png](PERFORMANCE MARKETING _images/image247.png)
@@ -648,7 +648,7 @@ there are specific tells that give AI content away instantly. the grey washed co
 once you understand what these tells are, you can systematically eliminate them. that's what separates content that gets scrolled past from content that actually converts.
 the tools are getting better every week. the visuals are getting solved. the voice quality is getting solved. but the one thing AI cannot solve for you is having something worth saying. the messaging, the angles, the hooks, the way you frame the problem and position your solution, that's the actual skill.
 let's build it
-**day 1-2: AI images and the JSON method**
+### day 1-2: AI images and the JSON method
 everything starts with generating images. before you even think about video you need to understand how to generate good images because these images become the starting frames for everything else.
 the best tool for this right now is Nano Banana Pro or Nano Banana 2. this can create ultra realistic AI images from a text prompt. when i say realistic i mean images that most people genuinely cannot tell are AI generated.
 but here's what most people miss: Nano Banana normally outputs images with a grey scale color grade which immediately makes them look AI generated. anyone who has seen enough AI images can spot this instantly.
@@ -657,13 +657,13 @@ go to Pinterest and find a reference image that has the exact aesthetic, lightin
 now when you generate your image in Nano Banana, paste that JSON as your base and add your actual prompt on top of it. the JSON handles all the realism and color grading so your images don't come out with that standard grey AI look. your text prompt handles the actual content.
 this combination gives you dramatically better results than just typing a text prompt by itself.
 goal: generate 20+ images using the JSON method until you can consistently produce results that don't look obviously AI
-**day 3: AI voices that sound human**
+### day 3: AI voices that sound human
 the voice is what makes or breaks the realism of any AI video content. you can have perfect visuals but if the voice sounds robotic people scroll past immediately. they don't even consciously register why they scrolled, they just felt something was off.
 the best tool for beginners is ElevenLabs. but do not use the pre-made voices in their library. those voices sound too generic and too polished. everyone using ElevenLabs is using those same voices which means your content ends up sounding like everyone else's content.
 instead use voice design or instant voice clone. with voice design you describe the type of voice you want and include instructions that make it sound like it's in the actual room with natural room tone, not like it was recorded in a perfect studio environment.
 MiniMax is another solid option at $5 per month for 120 minutes. the voices feel like someone talking in a room which is more realistic than overly polished studio audio. when voices are too clean and too polished they stop sounding realistic because real people don't sound like that when they're filming casual content on their phone.
 goal: create 3 custom voices that sound natural and test them with sample scripts
-**day 4-5: AI video generation**
+### day 4-5: AI video generation
 there are many AI video tools on the market and it's hard to know which ones are actually good vs which ones are just hype.
 there are only 3 tools you need to focus on right now:
 Veo 3.1 is the complete package for narrative clips. native audio generation with synchronized sound effects and dialogue, up to 60 seconds through scene extension, 4K output. use it when you need a finished clip that sounds like something actually happened.
@@ -673,7 +673,7 @@ what you need to know before using any of these:
 5-10 seconds is the reliable range. longer generations degrade in quality.
 budget 3-10 attempts per usable clip. same prompt yields wildly different results.
 goal: generate 10+ videos across all three platforms until you understand what each one is best at
-**day 6: scripts and messaging**
+### day 6: scripts and messaging
 this is where most people fail and it's the most important day of the entire roadmap.
 it doesn't matter how good your AI tools are if your messaging is bad. you can have the most realistic visuals, the most natural sounding voice, perfect motion, perfect lighting, and none of it matters if what the person is saying doesn't resonate with whoever is watching.
 for writing scripts use Claude or Kimi K2. these models produce copy that actually sounds like a human wrote it unlike other models that output that flat corporate AI tone everyone recognizes instantly.
@@ -681,7 +681,7 @@ the script should sound like a real person talking, not like an advertisement. r
 when you're writing scripts you need to think about who exactly is watching and what is going through their head right now. not "millennials interested in fitness" but "28 year old women who have tried three different workout programs in the last year, feel overwhelmed by all the conflicting nutrition advice online, and are skeptical of anything that promises fast results because they've been burned before."
 that level of specificity changes everything about how you write.
 goal: write 10 scripts for different products and read each one out loud to check if it sounds natural
-**day 7: the complete production pipeline**
+### day 7: the complete production pipeline
 now you put everything together into a repeatable workflow that you can run over and over again.
 start by writing your script using Claude or Kimi K2. then generate your AI character in the right scene using Nano Banana with the JSON color grading method. make sure the starting image is high quality because every problem in your starting image will carry through to your final video.
 then generate the video clip using Veo, Kling, or Seedance depending on what you need. generate your voiceover separately using ElevenLabs or MiniMax with a custom voice.
@@ -711,16 +711,16 @@ http://
 contentsystem.ai
 
 N8N
-**N8N**
+### N8N
 THE INTROSSSSS
 
-**AUTOMATION**
+### AUTOMATION
 Step By Step yang sudah ditentukan untuk memindahkan dan mengolah data secara otomatis
 
-**EXAMPLE OF AUTOMATION**
+### EXAMPLE OF AUTOMATION
 Chat di DM IG → Kirim LINK yang diminta → there are several conditions then we sent the responses based on the conditions
 
-**AUTOMATION COMPONENTS**
+### AUTOMATION COMPONENTS
 Trigger
 Komponen yang jadi awal ‘mulainya’ suatu Automation
 → Manual
@@ -748,12 +748,12 @@ Respons kita beda based on that indikator
 Actions
 Interaksi dengan aplikasi: mau ngapain di aplikasi apa?
 
-**WORKFLOW AUTOMATION**
+### WORKFLOW AUTOMATION
 Trigger → Sorting, filtering, formatting, transforming, segmenting → Actions
 
 Setiap hari jam 8 pagi → kalo ada org yg dm dengan followers 100km ke kita maka → kita update google sheet dan kirim DM ke org tersebut
 
-**PROCESS MAPPING**
+### PROCESS MAPPING
 Langkah awal dari setiap automation yang bagus
 Makesure you done this sebelum bikin automation:;
 Mengerti apa saja proses yang ingin dibikin otomatis pakai N8N
@@ -771,7 +771,7 @@ Setelah semua reminder dikirim di hari itu, recap dan kirim ke whatsapp grup mus
 Jika ada yang gak bisa les, recap dan kirim ke whatsapp grup music school
 Notes: kalau jadwal berubah, kirim ulang remindernya
 
-**PROCESS MAPPING CASE STUDY: GENERATE CONTENT**
+### PROCESS MAPPING CASE STUDY: GENERATE CONTENT
 Cari Ide Konten
 Trigger: Setiap jam 8 pagi, setiap ada update topik baru di google sheet, setiap ada video youtube dari channel xxxx
 Aksi: hasil akhirnya Ide Konten
@@ -780,19 +780,19 @@ Proses
 Kirim prompt di chatgpt untuk kasih 10 ide konten
 Masukkan 10 ide kontennya ke gsheet
 
-**THE TOOLS**
+### THE TOOLS
 Apa yang kamu butuhin
 GPT
 Gsheet
 
-**CAN DO VS CAN’T DO**
+### CAN DO VS CAN’T DO
 Buka N8N → cari app apa aja yang ada di N8N
 WA can
 Kalo can’t → cek apa app kalian ada API nya
 
-**ESTIMASI WAKTU**
+### ESTIMASI WAKTU
 
-**HUMAN INTOUCH**
+### HUMAN INTOUCH
 Review oleh manusia
 
 KEBUTUHAN
@@ -830,7 +830,7 @@ Wa bisnis bisa, tapi harus setup dari awal, wa bisnis harus dihapus dan diintegr
 Api → di nomor → risiko kebanned → go whatsapp pake akses wa web
 Kalo cepat pake waha, kalo official halo ai
 set up n8n
-**SETUP N8N: CLOUD VS SELF HOSTED**
+### SETUP N8N: CLOUD VS SELF HOSTED
 
 Cloud
 Pakai fitur yang dibawa di N8N no need cari di luar, tinggal daftar aja di N8N
@@ -839,12 +839,12 @@ Narik kode dan fitur N8N hosting di server lain
 Self hosted locals
 In your own laptop, meaning your laptop can’t shutdown
 
-**SETUP N8N CLOUD BASED**
+### SETUP N8N CLOUD BASED
 Buka
 Get started, isi semua datanya
 Ingat2 ur account name
 
-**USER INTERFACE**
+### USER INTERFACE
 Overview -> workflow yg udah dibikin → ada kayak diagram flow
 Ada button activenya
 
@@ -872,15 +872,15 @@ Menghemat waktu (semua kerjaan jalan otomatis).
 Mengurangi kesalahan manusia.
 Bisa digunakan untuk banyak hal: bisnis, konten, customer service, sampai AI.
 
-**TOP BAR OVERVIEW**
+### TOP BAR OVERVIEW
 Nama Workflow (Nama File)
 Tag (menandai masuk kategori apa)
 Save
 
-**NODE**
+### NODE
 1 kotak kecil → mewakili proses/aktivitas jadi otomatis → misal: membuat file di google sheet (pilih node google sheet trs pilih actionnya apa)
 
-**DEEP DIVE ABOUT NODES**
+### DEEP DIVE ABOUT NODES
 Bisa klik tambah di tengah atau di pojok kanan atas
 Kalo yg pojok kanan atas tuh untuk node baru
 Kalo mau ngubungin tinggal klik tambah yg ada di node
@@ -894,7 +894,7 @@ Core → apapun yg ga bisa di node lain hrsnya bisa dilakuin di node (it is more
 Human in the loop → mau di tengah2 proses tuh ada interaksi human → nunggu feedback manusia dll
 Add another trigger → eksekusi workflow lain dari workflow ini (if u have multiple workflows) → bales sesuatu berdasarkan isi chatnya (mengandung kata A)
 
-**ACTIONS IN A NODE**
+### ACTIONS IN A NODE
 Ada 4 tombol
 Tombol eksekusi (mau menjalankan node tsb) → menjalankan chatgpt misalnya → pilih model -> ketik messagenya
 Klik play → buat eksekusi
@@ -905,13 +905,13 @@ Rename
 Bisa copas juga
 Bisa duplicate
 
-**EXPORTING N8N WORKFLOW**
+### EXPORTING N8N WORKFLOW
 Pencet tombol tiga di atas → pilih download → file tersimpan (bentuk filenya json)
 
-**IMPORT N8N WORKFLOW**
+### IMPORT N8N WORKFLOW
 Bikin workflow baru → import work flow → klik from file → pilih .json → pilih open
 
-**CASE STUDY SUPERHERO VIRAL VIDEO RESEARCH AUTOMATION**
+### CASE STUDY SUPERHERO VIRAL VIDEO RESEARCH AUTOMATION
 THE CREATOR SHEET
 Buat 1 sheet 2 kolom: nama & uname creator yg mau kita ambil
 
@@ -1073,11 +1073,11 @@ Resultslimit:
 ![image275.png](PERFORMANCE MARKETING _images/image275.png)
 ![image272.png](PERFORMANCE MARKETING _images/image272.png)
 SHOPEE ADS
-**SHOPEE CPAS**
+### SHOPEE CPAS
 CPAS hanya bisa maksimal jika dasar Shopee Ads sudah kuat
 CPAS = pengembangan Shopee Ads yang diintegrasikan dengan Meta
 
-**FUNDAMENTAL SHOPEE ADS**
+### FUNDAMENTAL SHOPEE ADS
 Ada 4 pilihan utama iklan
 Iklan produk
 GMV Max Auto
@@ -1089,7 +1089,7 @@ Baru mulai dan belum punya banyak data → Auto
 Data udah stabil dan ngerti performa buku → ROAS
 Fokus testing banyak produk baru → Auto
 Fokus optimasi efisiensi dan profit → ROAS
-**THE HACK**
+### THE HACK
 Pakai GMV max auto min 7 - 14 hari
 Kalo udah stabil, pindah ke gmv max roas based on data
 Monitor ROAS, CTR, Conversion
@@ -1102,7 +1102,7 @@ Mau bangun branding toko biar makin dikenal dan awareness tinggi
 Punya banyak SKU
 Mau naikin traffic menjelang promo
 Beberapa produk punya performa sedang, tapi punya potensi besar buat cross sell
-**THE HACK**
+### THE HACK
 Banner menarik
 Nama toko mudah
 Aktifkan voucher ato promo bundle

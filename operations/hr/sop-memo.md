@@ -2,6 +2,11 @@
 title: Sop Memo
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
@@ -22,13 +27,13 @@ Apa dampaknya jika ini tidak beres? (Contoh: Tim burnout, nama baik sekolah turu
 #### II. WHAT (Masalah dari Helikopter View)
 **Tujuan:** Mendefinisikan masalah atau solusi pada level tinggi (strategis).
 **Instruksi:** Hindari menulis daftar tugas teknis di sini. Fokus pada *hasil akhir* yang diinginkan.
-**Checklist:**
+### Checklist:
 Apa target besarnya? (Contoh: "Standardisasi Onboarding Murid" bukan "Bahas cara bikin akun").
 Masalah utama apa yang sedang kita bedah?
 #### III. HOW (Mekanisme & Mitigasi Risiko)
 **Tujuan:** Menjelaskan detail cara kerja dan risiko yang mungkin muncul.
 **Instruksi:** Jabarkan sistemnya, pembagian orangnya, dan tantangan teknisnya (seperti keterbatasan *manpower*).
-**Checklist:**
+### Checklist:
 Bagaimana pembagian tugasnya? (Siapa yang buat SOP, siapa yang eksekusi).
 Apa risikonya? (Contoh: "Jika pakai sistem manual, tim butuh waktu 2 jam tambahan").
 #### IV. NOW (Who - What - When)

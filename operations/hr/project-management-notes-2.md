@@ -1,14 +1,19 @@
 ---
-title: Copy Of Project Management
+title: Copy Of Project Management 1
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 Project Management
 ![image8.jpg](Copy of Project Management_images/image8.jpg)
-**Project Management**
+## Project Management
 
 "The Goal" says that only one part of any process really matters, **the bottleneck**. The bottleneck is whichever part of the process can handle the least amount of material. Nothing else matters, except if it holds up the bottleneck. The logic is fairly easy to see, but the implications are not.
 Suppose you have a process that goes like this: Raw materials are cleaned (10 minutes per 10 units)-> cleaned items are machined (10 minutes per 1 unit)-> machined items are heat treated (10 minutes per 10 units)-> heat treated items are shipped (1 minute per 10 units).

@@ -2,6 +2,11 @@
 title: Contract Design Intern 2 Dua Bulan Musti Musik
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.

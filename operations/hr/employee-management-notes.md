@@ -2,6 +2,11 @@
 title: Copy Of Employee Management
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
@@ -9,8 +14,8 @@ doc_type: sop
 EMPLOYEE MANAGEMENT
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
 ***Guide To***
-**EMPLOYEE MANAGEMENT**
-**Musti Musik**
+### EMPLOYEE MANAGEMENT
+### Musti Musik
 
 # 📣 Color Code Notes :
 ***🔵 Blue : Subject***
@@ -26,14 +31,14 @@ Employee management dalam suatu perusahaan merupakan strategi yang digunakan unt
 
 COMPANY CULTURE
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**COMPANY CULTURE**
+### COMPANY CULTURE
 
 Company culture atau budaya perusahaan menjadi bagian yang sangat penting dalam employee management salah satunya untuk menciptakan kesan pada para employees saat bekerja di perusahaan tersebut atau bagaimana company culture tersebut membantu mempengaruhi seseorang (employees) akan seperti apa nantinya.
 ## TAKEAWAYS
 **Your own perspective of culture is not relevant. **Harus sering interview dengan employee karena masing-masing orang memiliki perspektif yang berbeda, termasuk perspektif mereka dan perspektifmu.
 **You must start from first principles. **Contohnya Intel punya casual dress policy untuk promote meritokrasi, bahwa best ideas should win. Banyak orang adopt itu, tapi ga tau alasan dibaliknya.
 **Jangan copas culture orang. **Contohnya Intel punya culture ga akan cocok di McDonald’s fast food chain. *PICK VIRTUES THAT WILL HELP YOUR COMPANY ACCOMPLISH ITS MISSION.*
-**What you measure is what you value**
+### What you measure is what you value
 **Office culture itu highly infectious**. Contohnya kalau kamu suka ngomong kasar, yang lain bakal ikutan.
 **It’s also critical that leaders emphasize the “why” behind their values every chance they get, because the “why” is what gets remembered**
 **Culture is weird. **Company culture harus terus menerus diperiksa kembali karena setiap hari pasti ada sesuatu yang menyebabkan culture berakhir persis seperti yang Anda inginkan. Dengan demikian harus dilakukan review secara berkala.
@@ -117,7 +122,7 @@ Untuk mengukur performance employees terhadap 9 qualities tersebut dapat dilihat
 
 CORE VALUE KPI
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**CORE VALUE KPI**
+### CORE VALUE KPI
 
 # Vision
 **KPI:** Jumlah inisiatif strategis yang diajukan dan sejalan sama tujuan jangka panjang perusahaan.
@@ -158,7 +163,7 @@ Bisa juga cek apakah mereka proaktif nyaranin kebijakan etika baru, buat cegah m
 
 1ON1 MEETINGS
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**1ON1 MEETINGS**
+### 1ON1 MEETINGS
 
 # THE PERFORMANCE PLANNING MEETINGS
 Untuk membantu employee mempersiapkan meeting ini, kasih dia 3 pertanyaan dulu ini agar nantinya akan dia jawab sebelum meeting dimulai.
@@ -200,7 +205,7 @@ Pertanyaan-pertanyaan tersebut pada meeting rutin sepanjang tahun dapat memancin
 
 MEETINGS
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**MEETINGS**
+### MEETINGS
 
 Meeting menjadi sarana pelaksanaan pekerjaan manajerial yang dilakukan dengan meluangkan waktu untuk melaksanakan meeting tersebut.
 Dua peran manajerial dasar menghasilkan dua jenis meeting, yakni pertama meeting yang berorientasi pada proses (*process-oriented meeting*) dimana pada meeting tersebut akan ada sharing pengetahuan dan informasi. Process-oriented meeting dilaksanakan secara berkala/rutin. Sedangkan meeting kedua adalah meeting yang dilaksanakan untuk menyelesaikan permasalahan (*mission-oriented meeting*). Meeting ini dilakukan secara *ad hoc* atau apabila dibutuhkan (bila ada masalah yang harus diselesaikan).
@@ -305,7 +310,7 @@ Tujuan dari meeting ini antara lain untuk :
 **Focused Discussion**, untuk menangani topik yang mendesak atau penting yang memerlukan perhatian segera
 **Resource Management**, Untuk mengalokasikan sumber daya manajerial serta memastikan penggunaan waktu yang produktif
 Posisi dan definisi :
-**Chairman**
+### Chairman
 Definisi : Orang yang mengorganisir dan memimpin meeting
 Tanggung jawab :
 Menentukan tujuan dan hasil yang diinginkan dari meeting
@@ -315,7 +320,7 @@ Pertahankan disiplin dan kelola waktu secara efektif selama meeting
 Menangani hal-hal logistik, termasuk persiapan ruang rapat dan bahan-bahan yang diperlukan.
 Sebarkan agenda yang jelas yang menguraikan tujuan pertemuan dan peran peserta
 Ringkas hasil rapat dalam notulen, merinci keputusan yang diambil dan tindakan yang harus dilakukan
-**Partisipan : **
+### Partisipan :
 Definisi : Individu yang diundang ke meeting untuk berkontribusi dalam diskusi dan proses pengambilan keputusan
 Responsibilities :
 Persiapkan meeting dengan meninjau agenda dan materi yang relevan
@@ -336,27 +341,27 @@ Dokumentasi
 Setelah rapat, segera distribusikan notulen yang merangkum diskusi, keputusan, dan item tindakan untuk memperkuat akuntabilitas dan kejelasan
 PROJECT MANAGEMENT
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**PROJECT MANAGEMENT**
+### PROJECT MANAGEMENT
 
 # ROUTINE ACTIVITIES
 ## SYNC WITH DAVE
 **Sync meeting** dilakukan oleh **HR dan Department Head** **setiap pagi hari pukul 7:30 - 8:00**. Adapun kegiatan sync rutin ini dibagi sebagai berikut :
 **Before **sync :
-**Capture worklist yang kemarin**
-**Update worklist hari ini, hapus task yang sudah selesai**
+### Capture worklist yang kemarin
+### Update worklist hari ini, hapus task yang sudah selesai
 **During **sync :
-**Take notes on given tasks**
+### Take notes on given tasks
 **After **sync :
-**Put task on worklist**
-**Notify**
+### Put task on worklist
+### Notify
 ## DAILY BRIEF
-**Setiap selasa-jumat jam 13.00**
-**Take notes**
-**Update worklist**
+### Setiap selasa-jumat jam 13.00
+### Take notes
+### Update worklist
 ## NIGHT REPORT
 **Cek every night**** jam 21.00 dan paling lambat 23.59**
-**Cek progress di worklist**
-**Chat personal employee yang tidak mengirim night report**
+### Cek progress di worklist
+### Chat personal employee yang tidak mengirim night report
 # WORKLIST AND NIGHT REPORTS
 
 Pendataan worklist dan night reports dapat diakses melalui
@@ -369,7 +374,7 @@ Pendataan worklist dan night reports dapat diakses melalui
 
 WARNING LETTER
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**WARNING LETTER**
+### WARNING LETTER
 
 # Guna mempertahankan kualitas kinerja employees sebagai bentuk dari employee management, maka perlu diadakan tindakan-tindakan tegas antara lain dengan adanya Warning Letter atau Surat Peringatan yang diberikan oleh pihak perusahaan kepada employees yang bermasalah karena melakukan pelanggaran, seperti berikut :
 # JENIS PELANGGARAN
@@ -401,37 +406,37 @@ Template Surat Peringatan (SP) 1, 2, dan 3 dapat dilihat pada link berikut 👇�
 
 SP 1
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**TEMPLATE **
-**SURAT PERINGATAN KE-1**
+### TEMPLATE
+### SURAT PERINGATAN KE-1
 
-**Musti Musik**
+### Musti Musik
 **Jl Surya Widuri IV, Kedoya Selatan, Kebon Jeruk Jakarta Barat 11520**
 **Tanggal:** [Tanggal Surat]
-**Kepada:**
-**[Nama Employee]**
-**[Divisi]**
+### Kepada:
+### [Nama Employee]
+### [Divisi]
 **Perihal:** Surat Peringatan 1
 Dengan hormat,
 Surat ini merupakan peringatan terkait [jenis pelanggaran] yang dilakukan pada [tanggal kejadian]. Mohon segera memperbaiki kinerja Anda. Jika tidak ada perbaikan dalam [jangka waktu], kami akan mengambil tindakan lebih lanjut.
 Demikian disampaikan, mohon menjadi perhatian.
 
 Hormat kami,
-**Tim HR**
+### Tim HR
 
-**TTD HR 										TTD Employee**
+### TTD HR 										TTD Employee
 
 SP 2
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**TEMPLATE **
-**SURAT PERINGATAN KE-2**
+### TEMPLATE
+### SURAT PERINGATAN KE-2
 
-**Musti Musik**
+### Musti Musik
 **Jl Surya Widuri IV, Kedoya Selatan, Kebon Jeruk Jakarta Barat 11520**
 **Tanggal:** [Tanggal Surat]
-**Kepada Yth.,**
-**[Nama Employee]**
-**[Divisi]**
-**Perihal: Surat Peringatan Kedua dan Pemotongan Gaji**
+### Kepada Yth.,
+### [Nama Employee]
+### [Divisi]
+### Perihal: Surat Peringatan Kedua dan Pemotongan Gaji
 Dengan hormat,
 Sehubungan dengan surat peringatan pertama yang telah diberikan pada [tanggal surat peringatan ke-1], kami menyesalkan bahwa Saudara/i belum menunjukkan perbaikan yang signifikan terkait [jenis pelanggaran atau tindakan tidak disiplin].
 Dengan ini, kami menyampaikan Surat Peringatan Kedua. Sebagai konsekuensi atas pelanggaran ini, perusahaan akan melakukan pemotongan gaji sebesar 50% dari jumlah uang saku yang tertera dalam kontrak yang akan diberlakukan pada periode gaji berikutnya.
@@ -439,22 +444,22 @@ Kami berharap Saudara/i dapat segera memperbaiki kinerja dan tidak mengulangi pe
 Demikian disampaikan untuk menjadi perhatian dan dipatuhi.
 
 Hormat kami,
-**Tim HR**
+### Tim HR
 
-**TTD HR 										TTD Employee**
+### TTD HR 										TTD Employee
 
 SP 3
 ![image8.jpg](Copy of Employee Management_images/image8.jpg)
-**TEMPLATE **
-**SURAT PERINGATAN KE-3**
+### TEMPLATE
+### SURAT PERINGATAN KE-3
 
-**Musti Musik**
+### Musti Musik
 **Jl Surya Widuri IV, Kedoya Selatan, Kebon Jeruk Jakarta Barat 11520**
 **Tanggal:** [Tanggal Surat]
-**Kepada Yth.,**
-**[Nama Employee]**
-**[Divisi]**
-**Perihal: Surat Peringatan Ketiga dan Pemutusan Hubungan Kerja**
+### Kepada Yth.,
+### [Nama Employee]
+### [Divisi]
+### Perihal: Surat Peringatan Ketiga dan Pemutusan Hubungan Kerja
 Dengan hormat,
 Sehubungan dengan surat peringatan pertama yang telah diberikan pada [tanggal surat peringatan pertama] dan surat peringatan kedua yang telah diberikan pada [tanggal surat peringatan kedua], dengan sangat disayangkan kami harus menyampaikan bahwa hingga saat ini, Saudara/i belum menunjukkan perbaikan yang diharapkan terkait [jenis pelanggaran atau tindakan tidak disiplin].
 Berdasarkan evaluasi dan pertimbangan panjang, kami memutuskan untuk memberikan Surat Peringatan Ketiga ini yang juga merupakan pemberitahuan pemutusan hubungan kerja (PHK) efektif per [tanggal PHK]. Keputusan ini diambil sesuai dengan ketentuan dan peraturan perusahaan.
@@ -462,6 +467,6 @@ Saudara/i diwajibkan untuk menyelesaikan seluruh kewajiban dan menyerahkan kemba
 Kami mengucapkan terima kasih atas kontribusi yang telah diberikan selama ini. Kami berharap Saudara/i dapat menerima keputusan ini dengan baik.
 
 Hormat kami,
-**Tim HR**
+### Tim HR
 
-**TTD HR 										TTD Employee**
+### TTD HR 										TTD Employee

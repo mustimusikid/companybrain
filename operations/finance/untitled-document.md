@@ -2,6 +2,11 @@
 title: Untitled Document
 domain_tag: [operations, finance]
 doc_type: sop
+owner: finance_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Finance SOP or accounting guide for Musti Musik operations.

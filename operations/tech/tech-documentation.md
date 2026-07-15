@@ -2,6 +2,11 @@
 title: Tech Documentation
 domain_tag: [operations, tech]
 doc_type: sop
+owner: tech_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Technical documentation or automation workflow for Musti Musik systems.
@@ -25,34 +30,34 @@ Masterclass: Target CPR maksimal Rp 50.000
 Bootcamp: Target CPR maksimal Rp 120.000
 ### 3. Pemberian Nilai (Scoring) per Metrik
 Jika iklan sudah lewat 3 hari, sistem akan memberikan "Nilai Rapor" (skala 0 - 100) untuk 3 metrik utama. Di sinilah toleransi (kasus mepet) mulai bekerja:
-**A. Nilai CPR (Cost Per Result)**
+### A. Nilai CPR (Cost Per Result)
 **Dapat nilai 100:** Jika CPR sesuai target atau lebih murah.
 **Dapat nilai 60 (Mepet):** Jika CPR agak mahal, batas toleransinya maksimal 30% di atas target (Misal: Target Rp 50rb, tapi realisasinya Rp 60rb).
 **Dapat nilai 0:** Jika CPR sangat mahal atau sama sekali belum ada konversi (0 Result).
-**B. Nilai CTR (Click-Through Rate)**
+### B. Nilai CTR (Click-Through Rate)
 **Dapat nilai 100:** Jika CTR $\geq$ 1.0%.
 **Dapat nilai 50 (Mepet):** Jika CTR di antara 0.7% sampai 0.99%.
 **Dapat nilai 0:** Jika CTR di bawah 0.7%.
-**C. Nilai OCLP (Outbound Click Landing Page)**
+### C. Nilai OCLP (Outbound Click Landing Page)
 **Dapat nilai 100:** Jika OCLP $\geq$ 70%.
 **Dapat nilai 50 (Mepet):** Jika OCLP di antara 50% sampai 69%.
 **Dapat nilai 0:** Jika OCLP di bawah 50%.
 ### 4. Perhitungan Bobot (Total Skor Akhir)
 Setelah ketiga nilai rapor di atas didapatkan, sistem akan mengalikannya dengan bobot prioritas. Di dalam kode yang kita buat, prioritasnya disetting seperti ini:
-**CPR adalah Raja (Bobot 50%)**
-**CTR adalah Menteri (Bobot 30%)**
-**OCLP adalah Prajurit (Bobot 20%)**
-**Rumus Skor Akhir:**
+### CPR adalah Raja (Bobot 50%)
+### CTR adalah Menteri (Bobot 30%)
+### OCLP adalah Prajurit (Bobot 20%)
+### Rumus Skor Akhir:
 (Nilai CPR x 0.50) + (Nilai CTR x 0.30) + (Nilai OCLP x 0.20)
 ### 5. Pengambilan Keputusan (Stempel Akhir)
 Skor akhir (maksimal 100) ini yang akan menentukan nasib iklan:
-**🏆 WINNING (Skor 80 - 100):**
+### 🏆 WINNING (Skor 80 - 100):
 Iklan ini performanya sangat bagus secara keseluruhan.
-**👀 MONITORING (Skor 50 - 79):**
+### 👀 MONITORING (Skor 50 - 79):
 Ini adalah area abu-abu. Iklan ini punya "penyelamat". Misalnya, CTR-nya jelek banget (nilai 0), tapi entah kenapa CPR-nya sangat murah (nilai 100). Skor totalnya 50. Karena CPR-nya masuk target, mesin tidak akan membunuh iklannya, tapi menyuruhmu untuk mengawasinya.
-**❌ KILL (Skor 0 - 49):**
+### ❌ KILL (Skor 0 - 49):
 Iklan ini performanya buruk di banyak sisi. Misalnya, CPR mahal (nilai 0) dan CTR jelek (nilai 0). Iklan ini wajib dimatikan karena membakar uang.
-**Logika Khusus untuk "Branding"**
+### Logika Khusus untuk "Branding"
 Kalau nama filenya "Branding", sistem akan membuang logika CPR/OCLP karena objektifnya bukan konversi, melainkan jangkauan.
 Sistem hanya akan menilai **CPM (Bobot 60%)** dan **CTR (Bobot 40%)**. Jika CPM di bawah Rp 1.500 dan CTR di atas 1%, dia langsung jadi WINNING.
 Dengan arsitektur ini, kamu punya ruang untuk mengubah kebijakan sewaktu-waktu. Kalau dirasa aturan sekarang terlalu kejam, kamu tinggal menaikkan angka toleransinya di dalam kode tanpa perlu mengubah sisa strukturnya!

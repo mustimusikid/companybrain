@@ -2,6 +2,11 @@
 title: n8n Setup & Workflow Guide
 domain_tag: [operations, tech]
 doc_type: sop
+owner: tech_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Panduan setup n8n (cloud/self-hosted/Railway), konsep canvas/node/workflow, kredensial Google & OpenAI, HTTP request/API, dan case study automasi riset video viral (Apify + Google Sheets).

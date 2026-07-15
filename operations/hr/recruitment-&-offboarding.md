@@ -2,6 +2,11 @@
 title: Recruitment & Offboarding
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
@@ -9,8 +14,8 @@ doc_type: sop
 RECRUITMENT
 ![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
 ***Guide To***
-**RECRUITMENT AND OFFBOARDING**
-**Musti Musik**
+### RECRUITMENT AND OFFBOARDING
+### Musti Musik
 
 # 📣 Color Code Notes :
 ***🔵 Blue : Subject***
@@ -41,13 +46,13 @@ Saat awal Employee Enrichment, introduce them to the team
 
 TEMPLATE LINKEDIN
 ![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**TEMPLATE LINKEDIN**
+### TEMPLATE LINKEDIN
 
 Role: **[NAMA POSISI]**
 Profile perusahaan:
 Musti Musik adalah edtech startup yang bergerak di bidang edukasi musik. Misi kami adalah untuk memberikan edukasi berkualitas di jazz dan gospel piano.
 Tanggung Jawab:
-**[LIHAT DIBAWAH]**
+### [LIHAT DIBAWAH]
 Persyaratan:
 Saat ini terdaftar sebagai mahasiswa S1 di bidang* ***[LIHAT DIBAWAH]**
 Keinginan yang kuat untuk belajar dan berkembang.
@@ -144,7 +149,7 @@ Persyaratan: S1 di bidang Psikologi, Manajemen Sumber Daya Manusia, Hukum, atau 
 
 INTERVIEW PROCESS
 ![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**INTERVIEW**
+### INTERVIEW
 
 # Tahap Interview
 
@@ -212,20 +217,20 @@ Apa yang akan kamu lakukan jika kamu tahu ada rekan kerja lain yang mendapat pen
 Apabila ada anggota tim yang melanggar peraturan perusahaan, bagaimana cara kamu menangani hal itu?
 # Checklist
 Dalam melakukan proses interview, terdapat poin-poin utama yang akan menjadi penilaian dari jawaban interview tersebut. Apabila jawaban interview berhasil memenuhi poin-poin dibawah, maka itulah talent yang tepat untuk di hire.
-**Ask a few open ended questions and then be quiet:**
+### Ask a few open ended questions and then be quiet:
 The talent interview should mirror verbally what will face him on the job behaviorally. Ask open-ended questions that offer many potential directions and do not telegraph the “right” direction — questions such as “How closely do you think people should be supervised?” or “What do you enjoy most about selling?” remain silent dan kalau mereka tanya klarifikasi, tolak
-**Listen for top-of-mind & specifics: **
+### Listen for top-of-mind & specifics:
 “Tell me about a time when you …” → harus specific, top-of-mind response (kalo ampe ga spesifik dan butuh 2-3 pertanyaan FU buat akhirnya dpt yg spesifik, artinya ga recurring)
-**Clues to talent:**
+### Clues to talent:
 Rapid learning (” Ask the candidate what kinds of roles she has been able to learn quickly. Ask her what activities come easily to her now. She will give you more clues to her talent.”), Satisfactions (” ask him what his greatest personal satisfaction is. Ask him what kinds of situations give him strength. Ask him what he finds fulfilling”
-**Know what to listen for:**
+### Know what to listen for:
 Lu udh harus tau jawaban optimalnya.
-**Is ethics clear? Avoid hires that hint questionable ethics:**
+### Is ethics clear? Avoid hires that hint questionable ethics:
 Bohong, jawab pake chatgpt, dkk LANGSUNG TOLAK
 
 ONBOARDING
 ![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**5 DAY ONBOARDING PROGRAMME FOR NEW HIRES**
+### 5 DAY ONBOARDING PROGRAMME FOR NEW HIRES
 
 Objektif : Employee training to align the company’s vision and culture.
 Bentuk : 3 Days Programme dimana employees merasakan seluruh visi, culture, product, dan ekspektasi mereka di Musti Musik.
@@ -289,7 +294,7 @@ Career progression
 
 STRENGTHS INTERVIEW
 ![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**STRENGTHS INTERVIEW**
+### STRENGTHS INTERVIEW
 
 **Department head** akan menanyakan kepada **new hires** mengenai 10 pertanyaan dibawah ini :
 Hal apa yang paling kamu nikmati dari pekerjaanmu yang sebelumnya?
@@ -314,7 +319,7 @@ Tujuan pertama dari sesi ini diantaranya untuk mengetahui hal-hal dari POV emplo
 
 KONTRAK PERJANJIAN KERJASAMA
 ![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**KONTRAK PERJANJIAN KERJASAMA**
+### KONTRAK PERJANJIAN KERJASAMA
 
 Template kontrak perjanjian kerjasama dapat dilihat pada link berikut : 👇🏻
 
@@ -329,7 +334,7 @@ Paid
 
 OFFBOARDING
 ![image12.jpg](Recruitment & Offboarding_images/image12.jpg)
-**OFFBOARDING**
+### OFFBOARDING
 
 # RESIGN
 ## Resignation Letter (surat pengunduran diri)
@@ -350,7 +355,7 @@ Atau** Cost Cutting** **: **Karena revenue Musti Musik decline significantly jad
 ## Keputusan memecat dibahas dan disetujui oleh Dave, serta employee yang bersangkutan menerima keputusan HR dan Dave
 ## Interview Pemecatan
 **Department head** akan **mengadakan meeting dengan employee yang bersangkutan **
-**Surat Pemecatan**
+### Surat Pemecatan
 **HR **akan memberikan surat pemecatan kepada employee yang bersangkutan,dan harus **ditanda tangani oleh employee** lalu **diberikan kembali ke HR **
 ## Job Handover
 Setelahnya, maka employee wajib menyerahkan tugas dan akses

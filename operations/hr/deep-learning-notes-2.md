@@ -1,14 +1,19 @@
 ---
-title: Copy Of Deep Learning
+title: Copy Of Deep Learning 1
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 Deep Learning
 ![image13.jpg](Copy of Deep Learning_images/image13.jpg)
-**Deep Learning**
+### Deep Learning
 
 # Resource
 
@@ -38,7 +43,7 @@ Unstructured Data adalah data yang **tidak terorganisir** secara rapi dalam form
 **Negatif** atau **Positif**
 **False** atau **True**
 **Tidak** atau **Ya**
-**Contoh Binary Classification**
+### Contoh Binary Classification
 **Deteksi Spam: **Mengklasifikasikan apakah sebuah email adalah spam (1) atau bukan spam (0).
 **Deteksi Penyakit:** Memprediksi apakah seseorang memiliki penyakit (1) atau tidak (0) berdasarkan data medis.
 **Analisis Kredit:** Memprediksi apakah seseorang akan membayar pinjaman (1) atau tidak akan membayar (0) berdasarkan profil keuangan.
@@ -46,21 +51,21 @@ Salah satu metode Binary Classification yang sangat umum digunakan adalah Logist
 **Cost function** dalam logistic regression digunakan untuk mengukur seberapa baik model memprediksi output (kelas 0 atau 1) dibandingkan dengan label sebenarnya. Tujuan utama dari cost function adalah memberikan sebuah nilai yang bisa kita minimalkan untuk membuat model lebih akurat. Dalam logistic regression, model menghasilkan probabilitas bahwa contoh data termasuk dalam kelas 1. Cost function membantu menghitung error berdasarkan seberapa jauh probabilitas prediksi dari nilai sebenarnya (0 atau 1).
 **Gradient Descent** adalah salah satu algoritma optimisasi yang paling umum digunakan dalam machine learning, termasuk dalam logistic regression. Gradient descent digunakan untuk meminimalkan cost function, yaitu fungsi yang mengukur kesalahan model (seperti dalam logistic regression).
 Bayangkan cost function sebagai permukaan atau lembah yang kita ingin turun sampai mencapai titik terendah (minimum). Gradient descent membantu kita menemukan titik terendah ini dengan bergerak sedikit demi sedikit menuju arah di mana cost function paling cepat menurun.
-**Derivatives (Turunan)**
+### Derivatives (Turunan)
 Turunan atau derivatif adalah konsep dalam kalkulus yang digunakan untuk mengukur seberapa cepat sebuah fungsi berubah. Dalam konteks machine learning, turunan memberi tahu kita bagaimana perubahan kecil dalam input (misalnya, bobot 𝑤 w) akan mempengaruhi output (misalnya, cost function 𝐽 ( 𝑤 ) J(w)).
-**Computation Graph (Graf Perhitungan)**
+### Computation Graph (Graf Perhitungan)
 **Computation Graph** adalah **diagram** yang menggambarkan langkah-langkah komputasi yang diperlukan untuk menghitung fungsi yang kompleks. Ini adalah alat visual yang digunakan untuk **melacak bagaimana fungsi dibangun** dari operasi-operasi sederhana, seperti penjumlahan, perkalian, dan aplikasi fungsi non-linear (misalnya, sigmoid atau ReLU).
 Dalam konteks **deep learning**, computation graph sangat berguna untuk **backpropagation**, yaitu algoritma yang digunakan untuk menghitung gradien (turunan) secara efisien melalui jaringan saraf.
-**Vectorization**
+### Vectorization
 Vectorization adalah teknik di mana kita mengonversi perhitungan atau operasi matematika yang biasanya dilakukan dalam **loop** menjadi operasi pada **vektor atau matriks**. Ini adalah salah satu kunci untuk membuat algoritma machine learning dan deep learning berjalan **lebih cepat** dan **lebih efisien**, terutama ketika bekerja dengan data yang besar.
 **for loop vs Vectorization using NumPy library** Baik menggunakan **loop manual** (for loop) atau menggunakan **NumPy**, hasil akhir dari perhitungan akan **sama** dalam hal **nilai numerik**. Ini karena keduanya melakukan operasi matematika yang sama, tetapi perbedaannya terletak pada efisiensi dan kecepatan
 ![image9.png](Copy of Deep Learning_images/image9.png)
 using for loop
 ![image2.png](Copy of Deep Learning_images/image2.png)
 using vectorization with NumPy untuk menghindari penggunaan for loop
-**Broadcasting in Pyhton**
+### Broadcasting in Pyhton
 **Broadcasting** di Python (khususnya dalam **NumPy**) adalah fitur yang sangat berguna yang memungkinkan **operasi aritmatika** dilakukan pada **array dengan ukuran yang berbeda** tanpa perlu menulis kode secara eksplisit untuk menangani perbedaan ukuran tersebut. Broadcasting secara otomatis memperluas dimensi array yang lebih kecil agar sesuai dengan array yang lebih besar sehingga operasi dapat dilakukan dengan **efisien** dan **tanpa error**
-**Aturan pada Broadcasting**
+### Aturan pada Broadcasting
 Untuk memahami **broadcasting**, kita perlu memahami aturan dasarnya, yaitu bagaimana NumPy menangani array dengan ukuran yang berbeda. Ada dua aturan penting dalam broadcasting:
 **Jika dua array memiliki jumlah dimensi yang berbeda**, maka NumPy akan **menambahkan dimensi baru di depan array yang lebih kecil** sampai kedua array memiliki jumlah dimensi yang sama.
 **Jika ukuran array di sepanjang dimensi tertentu berbeda**:
@@ -79,7 +84,7 @@ Dalam contoh di atas:
 **W** adalah bobot yang akan dioptimalkan selama pelatihan.
 **b** adalah bias.
 **Fungsi sigmoid** digunakan untuk menghitung probabilitas.
-**Hidden Layer**
+### Hidden Layer
 **Hidden layer** (lapisan tersembunyi) adalah **lapisan neuron** dalam neural network **tiruan** (**artificial neural network**) yang berada **di antara lapisan input** (input layer) dan **lapisan output** (output layer). Lapisan tersembunyi ini disebut **"tersembunyi"** karena neuron-neuronnya **tidak terlihat langsung** oleh data input maupun oleh output akhir; mereka hanya berfungsi sebagai **intermediate layer** (lapisan perantara) yang mengolah informasi dari input sebelum menghasilkan output.
 Hidden layer berperan penting dalam neural network, terutama dalam **deep learning**, karena mereka memungkinkan model untuk **mempelajari pola non-linear** dan **kompleks** dalam data.
 Contoh pada NumPy:

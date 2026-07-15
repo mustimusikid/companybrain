@@ -2,6 +2,11 @@
 title: Mm Strategy
 domain_tag: [operations, hr]
 doc_type: strategy
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: evergreen
 ---
 
 > General operations or company policy document for Musti Musik.
@@ -1374,9 +1379,9 @@ Viewers : 2K paling besar 91K dengan konten promosi menggunakan video latihan de
 
 Google Business : 118 Reviews - 4.9
  | grade (ABRSM / Rock School):
-•⁠  ⁠basic
-•⁠  ⁠debut 430rb per bulan
-•⁠  grade ⁠1-8 (grade 8: 1.030 per bulan)
+-   ⁠basic
+-   ⁠debut 430rb per bulan
+-   grade ⁠1-8 (grade 8: 1.030 per bulan)
 
 online beda 30 ribu doang lebih murah | ABRSM/Rock School | Online | piano
 cello
@@ -1919,16 +1924,16 @@ Whether or not people are able to fulfill your ask, express your gratitude for t
 | Fred & Eliana | False | Siblings | Jkt | Family/Friends | Top 5 |  | - Help for content
 - Health advice |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Dorothy Ave | False | Music content creator | Kelapa Gading, Jkt | Passion/Interest | Key 50 | - Ajarin chord piano | - Media (followers)
-- Music industry connection | •⁠  ⁠GKY Kelapa gading
-•⁠  ⁠⁠dia punya academy musik buat anak” base di kelapa gading, namanya The Dorothy Ave Academy
-•⁠  ⁠⁠dia juga jualan merch “senandung sayang”
-•⁠  ⁠⁠orang nya suka anak kecil (ngajar jd guru musik di Maestro in Training dan Petite Symphony)
-•⁠  ⁠⁠selain hobi nyanyi dan main musik, dia jg dance ballet
-•⁠  ⁠⁠DIA PERNAH JADI ENSEMBLE DI PRODUKSI SERIAL MUSIKAL SITI NURBAYA (INDONESIA KAYA)😭🤩🔥
-•⁠  ⁠⁠kayak”nya sih suka musikal ya.. coba aja tanya, jd bahan perbincangan gt.. soalnya dr karakter vocalnya kyk org musikal wkwkw trs dia jg byk mutual org musikal indo
-•⁠  ⁠⁠pernah bikin konten sm indra azis
-•⁠  ⁠⁠suka jacob collier
-•⁠  ⁠⁠ada sertifikasi Stanford 6 week online course di Child Development: Behavior and Mental Health | 62 821 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+- Music industry connection | -   ⁠GKY Kelapa gading
+-   ⁠⁠dia punya academy musik buat anak” base di kelapa gading, namanya The Dorothy Ave Academy
+-   ⁠⁠dia juga jualan merch “senandung sayang”
+-   ⁠⁠orang nya suka anak kecil (ngajar jd guru musik di Maestro in Training dan Petite Symphony)
+-   ⁠⁠selain hobi nyanyi dan main musik, dia jg dance ballet
+-   ⁠⁠DIA PERNAH JADI ENSEMBLE DI PRODUKSI SERIAL MUSIKAL SITI NURBAYA (INDONESIA KAYA)😭🤩🔥
+-   ⁠⁠kayak”nya sih suka musikal ya.. coba aja tanya, jd bahan perbincangan gt.. soalnya dr karakter vocalnya kyk org musikal wkwkw trs dia jg byk mutual org musikal indo
+-   ⁠⁠pernah bikin konten sm indra azis
+-   ⁠⁠suka jacob collier
+-   ⁠⁠ada sertifikasi Stanford 6 week online course di Child Development: Behavior and Mental Health | 62 821 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fenny Rustan | False | MM active member | Kebon Jeruk, Jkt | Passion/Interest | Key 50 | - Ga ngerti musik
 - Temen main musik | - Capital
 - Music industry connection |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -1944,14 +1949,14 @@ Whether or not people are able to fulfill your ask, express your gratitude for t
 - Music knowledge |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Fenny Prigandi | False | Worship music manager | Gereja apa gitu | Passion/Interest | Vital 100 |  | - Music industry connection | Manager dari Herry Budiman & Amos |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Gisela Sabrina | False | Music content creator | Jakarta | Passion/Interest | Vital 100 |  | - Music industry connection | "Gisela sabrina:
-•⁠  ⁠umur 23 tahun (kyknya)
-•⁠  ⁠lagi kuliah. anak UI. fiscal administration 
-•⁠  ⁠suka kucing (pny kucing namanya pupu)
-•⁠  ⁠zodiac leo wkwk
-•⁠  ⁠suka rnb
-•⁠  ⁠byk internship di tax
-•⁠  ⁠2021 pernah tergabung dlm GROOFIA Music Community
-•⁠  ⁠viral karena cover lagu “Dia” - Vina Panduwinata" |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+-   ⁠umur 23 tahun (kyknya)
+-   ⁠lagi kuliah. anak UI. fiscal administration 
+-   ⁠suka kucing (pny kucing namanya pupu)
+-   ⁠zodiac leo wkwk
+-   ⁠suka rnb
+-   ⁠byk internship di tax
+-   ⁠2021 pernah tergabung dlm GROOFIA Music Community
+-   ⁠viral karena cover lagu “Dia” - Vina Panduwinata" |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Zabdiel Soriton | False | Music content creator | ? | Passion/Interest | Vital 100 |  | - Music industry connection |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | Jason Mountario | False | Jazz piano mentor | Jakarta | Passion/Interest | Vital 100 |  | - Music industry connection
 - Music knowledge |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
@@ -2229,14 +2234,14 @@ Pernah bikin video edukasi bareng | False |  |  |  |  |  |
 | Fenny Prigandi |  |  |  |  | 62 813-9911-3322 |  |  | Manager dari Herry Budiman & Amos | False |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | False |  |  |  |  |  |
 | Gisela Sabrina |  |  |  |  |  |  |  | Gisela sabrina:
-•⁠  ⁠umur 23 tahun (kyknya)
-•⁠  ⁠lagi kuliah. anak UI. fiscal administration 
-•⁠  ⁠suka kucing (pny kucing namanya pupu)
-•⁠  ⁠zodiac leo wkwk
-•⁠  ⁠suka rnb
-•⁠  ⁠byk internship di tax
-•⁠  ⁠2021 pernah tergabung dlm GROOFIA Music Community
-•⁠  ⁠viral karena cover lagu “Dia” - Vina Panduwinata | False |  |  |  |  |  |
+-   ⁠umur 23 tahun (kyknya)
+-   ⁠lagi kuliah. anak UI. fiscal administration 
+-   ⁠suka kucing (pny kucing namanya pupu)
+-   ⁠zodiac leo wkwk
+-   ⁠suka rnb
+-   ⁠byk internship di tax
+-   ⁠2021 pernah tergabung dlm GROOFIA Music Community
+-   ⁠viral karena cover lagu “Dia” - Vina Panduwinata | False |  |  |  |  |  |
 |  |  |  |  |  |  |  |  | Jazz piano teacher dulu | False |  |  |  |  |  |
 | Gery Abanit |  |  |  |  |  | @gery_abanit |  | - Mulai nyanyi dari kelas 2 SD 
 - Kelahiran tahun 2002
@@ -2245,16 +2250,16 @@ Pernah bikin video edukasi bareng | False |  |  |  |  |  |
 - Ikut The Voice 2018 sendiri-sendiri sama kembarannya, tapi di tengah tengah diarahin buat tampil duo sama kembarannya 
 - Pernah ikut X faxtor 2021  | False |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | False |  |  |  |  |  |
-| Dorothy Ave |  |  |  |  |  |  |  | •⁠  ⁠GKY Kelapa gading
-•⁠  ⁠⁠dia punya academy musik buat anak” base di kelapa gading, namanya The Dorothy Ave Academy
-•⁠  ⁠⁠dia juga jualan merch “senandung sayang”
-•⁠  ⁠⁠orang nya suka anak kecil (ngajar jd guru musik di Maestro in Training dan Petite Symphony)
-•⁠  ⁠⁠selain hobi nyanyi dan main musik, dia jg dance ballet
-•⁠  ⁠⁠DIA PERNAH JADI ENSEMBLE DI PRODUKSI SERIAL MUSIKAL SITI NURBAYA (INDONESIA KAYA)😭🤩🔥
-•⁠  ⁠⁠kayak”nya sih suka musikal ya.. coba aja tanya, jd bahan perbincangan gt.. soalnya dr karakter vocalnya kyk org musikal wkwkw trs dia jg byk mutual org musikal indo
-•⁠  ⁠⁠pernah bikin konten sm indra azis
-•⁠  ⁠⁠suka jacob collier
-•⁠  ⁠⁠ada sertifikasi Stanford 6 week online course di Child Development: Behavior and Mental Health | False |  |  |  |  |  |
+| Dorothy Ave |  |  |  |  |  |  |  | -   ⁠GKY Kelapa gading
+-   ⁠⁠dia punya academy musik buat anak” base di kelapa gading, namanya The Dorothy Ave Academy
+-   ⁠⁠dia juga jualan merch “senandung sayang”
+-   ⁠⁠orang nya suka anak kecil (ngajar jd guru musik di Maestro in Training dan Petite Symphony)
+-   ⁠⁠selain hobi nyanyi dan main musik, dia jg dance ballet
+-   ⁠⁠DIA PERNAH JADI ENSEMBLE DI PRODUKSI SERIAL MUSIKAL SITI NURBAYA (INDONESIA KAYA)😭🤩🔥
+-   ⁠⁠kayak”nya sih suka musikal ya.. coba aja tanya, jd bahan perbincangan gt.. soalnya dr karakter vocalnya kyk org musikal wkwkw trs dia jg byk mutual org musikal indo
+-   ⁠⁠pernah bikin konten sm indra azis
+-   ⁠⁠suka jacob collier
+-   ⁠⁠ada sertifikasi Stanford 6 week online course di Child Development: Behavior and Mental Health | False |  |  |  |  |  |
 | Fildabeat |  |  |  |  |  |  |  | - Punya anjing namanya Boston
 - Tekenal karna biral di tiktok suka main lagu klasik
 - Di lagu debutnya “Mimpi” itu dia ngegabung instrumental klasik sama dangdut (bagus bgt aku udah denger) | False |  |  |  |  |  |

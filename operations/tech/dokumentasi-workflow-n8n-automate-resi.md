@@ -2,11 +2,16 @@
 title: Dokumentasi Workflow N8N Automate Resi
 domain_tag: [operations, tech]
 doc_type: sop
+owner: tech_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Technical documentation or automation workflow for Musti Musik systems.
 
-**DOKUMENTASI WORKFLOW n8n**
+### DOKUMENTASI WORKFLOW n8n
 Automate Resi TikTok Shop
 
 | Nama Workflow | My workflow |
@@ -22,7 +27,7 @@ Automate Resi TikTok Shop
 # 1. Ringkasan Eksekutif
 Workflow ini adalah sistem otomatisasi penuh untuk proses pengiriman pesanan dari TikTok Shop. Workflow mencakup dua alur utama yang berjalan secara terjadwal setiap hari, yaitu pembaruan token OAuth TikTok dan proses cetak serta unggah label resi (shipping label) untuk pesanan yang berstatus AWAITING_SHIPMENT.
 
-**Tujuan utama dari workflow ini adalah:**
+### Tujuan utama dari workflow ini adalah:
 Memastikan access token TikTok Shop selalu valid melalui proses refresh otomatis setiap hari pukul 11.00 WIB.
 Mengambil daftar pesanan yang menunggu pengiriman dari TikTok Shop API setiap hari pukul 12.00 WIB.
 Melakukan konfirmasi pengiriman (ship) untuk setiap paket secara otomatis menggunakan metode DROP_OFF.
@@ -105,7 +110,7 @@ Bagian ini menjelaskan setiap node secara mendalam, termasuk konfigurasi, parame
 | Mode Eksekusi | runOnceForAllItems |
 | Node ID | 5875e418-e2a9-4adc-abb0-0af3b3449807 |
 
-**Logika Kode:**
+### Logika Kode:
 Input  : item.json.app_key, app_secret, refresh_token, id
 Output : { payload: { client_key, client_secret, grant_type, refresh_token }, original_row_id }
 Logika : Map setiap baris tabel menjadi objek payload + simpan original_row_id untuk referensi update.
@@ -152,7 +157,7 @@ Logika : Map setiap baris tabel menjadi objek payload + simpan original_row_id u
 | Zona Waktu | Asia/Jakarta (WIB) |
 | Node ID | af77b81c-1196-47ab-ade1-813591822dd1 |
 
-**Logika Kode:**
+### Logika Kode:
 Input  : Waktu sistem saat ini
 Validasi: if (hour > 12) -> set pickupDate = hari besok
 Output :
@@ -184,7 +189,7 @@ Output :
 | False Branch | Menuju Create Main Folder (buat folder baru) |
 | Node ID | 1df1322e-ade9-498b-bde9-bb65e27e3aa6 |
 
-**Jalur True — Folder Sudah Ada:**
+### Jalur True — Folder Sudah Ada:
 
 ### Search Jazz
 | Nama Node | Search Jazz |
@@ -216,7 +221,7 @@ Output :
 | worship_id | $node['Search Worship'].json.id |
 | Node ID | 27181a12-528b-4777-8f1a-e8e5eec721db |
 
-**Jalur False — Folder Belum Ada (Buat Baru):**
+### Jalur False — Folder Belum Ada (Buat Baru):
 
 ### Create Main Folder
 | Nama Node | Create Main Folder |
@@ -271,7 +276,7 @@ Output :
 | worship_id | $node['Create Folder Worship'].json.id |
 | Node ID | 754d2e7a-895b-4559-8c62-9b5eac98dee7 |
 
-**Lanjutan Alur B — Pengambilan dan Pemrosesan Pesanan:**
+### Lanjutan Alur B — Pengambilan dan Pemrosesan Pesanan:
 
 ### Get row(s)1
 | Nama Node | Get row(s)1 |
@@ -291,7 +296,7 @@ Output :
 | API Endpoint | /order/202309/orders/search |
 | Node ID | db7d8eaa-cede-403f-a54a-a3064726bd6b |
 
-**Logika Kode:**
+### Logika Kode:
 1. Ambil app_key, app_secret, shop_cipher dari Data Table
 2. Set apiPath = '/order/202309/orders/search'
 3. Buat timestamp (Unix epoch, detik)
@@ -347,7 +352,7 @@ Output: { api_path, query_params (dengan sign), body }
 | Mode | runOnceForAllItems |
 | Node ID | db02f4c8-96af-4828-b88f-72bb593338e4 |
 
-**Logika Kode:**
+### Logika Kode:
 1. Format create_time (Unix timestamp) -> 'YYYY-MM-DD HH:MM:SS'
 2. Kategorisasi buku berdasarkan nama produk (product_name, uppercase):
    - Mengandung 'JAZZ' dan 'WORSHIP' -> kategori = 'Jazz+Worship'
@@ -370,7 +375,7 @@ Output: data yang sudah diperkaya (formatted_date, custom_category, qty, cetak_d
 | Kredensial | Google Sheets OAuth2 API |
 | Node ID | 1af6805e-da56-4e19-a239-43b1f9d57a16 |
 
-**Lanjutan — Loop Per Pesanan:**
+### Lanjutan — Loop Per Pesanan:
 
 ### Loop Over Items
 | Nama Node | Loop Over Items |
@@ -390,7 +395,7 @@ Output: data yang sudah diperkaya (formatted_date, custom_category, qty, cetak_d
 | Mode | runOnceForEachItem |
 | Node ID | 4af2af68-29c0-48aa-9423-5f04d5d236c0 |
 
-**Logika Kode:**
+### Logika Kode:
 1. Ambil packageId = $json['Package ID']
 2. Ambil app_key, app_secret, shop_cipher dari Get row(s)1
 3. apiPath = '/fulfillment/202309/packages/{packageId}/ship'
@@ -426,7 +431,7 @@ Output: { package_id, api_path, query_params (dengan sign), body }
 | Mode | runOnceForEachItem |
 | Node ID | 2c1f2e7d-9c67-45b5-9965-6a4a4ee18d50 |
 
-**Logika Kode:**
+### Logika Kode:
 1. Ambil packageId dari $node['Loop Over Items'].json['Package ID']
 2. Ambil app_key, app_secret, shop_cipher dari Get row(s)1
 3. apiPath = '/fulfillment/202309/packages/{packageId}/shipping_documents'
@@ -522,7 +527,7 @@ Semua label resi PDF disimpan dalam struktur folder yang terorganisir berdasarka
 | [Root] / Pickup DD MMM YYYY / Worship / | Label resi PDF untuk buku Worship saja |
 | [Root] / Pickup DD MMM YYYY / (root folder) | PDF untuk Bundle (Jazz+Worship) atau Lainnya |
 
-**Format Nama File PDF:**
+### Format Nama File PDF:
 {KATEGORI}_JNT_{NAMA_PEMBELI}.pdf
 Contoh untuk Jazz: JAZZ_JNT_BUDI SANTOSO.pdf
 Contoh untuk Worship: WORSHIP_JNT_SITI RAHAYU.pdf
@@ -532,7 +537,7 @@ Karakter non-alphanumeric pada nama pembeli akan dihapus otomatis
 # 7. Mekanisme Signing TikTok API (HMAC-SHA256)
 Seluruh request ke TikTok Open API menggunakan mekanisme signing HMAC-SHA256. Algoritma ini diterapkan secara konsisten di tiga node kode (Code2, Code4, Code5).
 
-**Langkah-langkah Pembuatan Signature:**
+### Langkah-langkah Pembuatan Signature:
 Kumpulkan semua query parameter kecuali 'access_token' dan 'sign'.
 Urutkan key parameter secara alfabetis (A-Z).
 Buat string: apiPath + concat(key+value) untuk setiap parameter yang sudah diurutkan.
@@ -541,7 +546,7 @@ Bungkus dengan app_secret: appSecret + signString + appSecret.
 Hitung HMAC-SHA256 dari string final menggunakan app_secret sebagai kunci.
 Tambahkan nilai hex signature sebagai parameter 'sign' pada query.
 
-**Contoh Pseudocode:**
+### Contoh Pseudocode:
 sortedKeys = sort(Object.keys(params).filter(k => k != 'sign' && k != 'access_token'))
 signString = apiPath + sortedKeys.map(k => k+params[k]).join('') + JSON.stringify(body)
 wrapped   = appSecret + signString + appSecret

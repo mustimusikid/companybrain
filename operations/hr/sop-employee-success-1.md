@@ -2,6 +2,11 @@
 title: Sop Employee Success 1
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
@@ -9,8 +14,8 @@ doc_type: sop
 EMPLOYEE SUCCESS
 ![image14.jpg](SOP Employee Success_images/image14.jpg)
 ***Guide To***
-**EMPLOYEE SUCCESS**
-**Musti Musik**
+### EMPLOYEE SUCCESS
+### Musti Musik
 
 Employee success merupakan serangkaian kegiatan yang diterapkan pada perusahaan guna memastikan kualitas employees agar semakin baik. Terdapat beberapa hal yang akan dibahas dalam SOP Employee Success, yaitu :
 ⚙️HIGH OUTPUT MANAGEMENT
@@ -67,7 +72,7 @@ Memantau hasil delegasi mirip dengan pemantauan yang digunakan dalam jaminan kua
 Misalnya, tinjau draf kasar laporan yang telah Anda delegasikan; jangan tunggu sampai bawahan Anda menghabiskan waktu untuk menyempurnakannya menjadi bentuk akhir sebelum Anda menemukan bahwa Anda memiliki masalah dasar dengan isinya. Prinsip kedua berlaku pada frekuensi di mana Anda memeriksa pekerjaan bawahan Anda. Pendekatan yang bervariasi harus diterapkan, menggunakan skema pengambilan sampel yang berbeda dengan berbagai bawahan; Anda harus meningkatkan atau mengurangi frekuensi Anda tergantung pada apakah bawahan Anda sedang melakukan tugas yang baru didelegasikan atau tugas yang sudah dia miliki pengalaman dalam menanganinya. Seberapa sering Anda melakukan pemantauan tidak boleh didasarkan pada apa yang Anda percayai dapat dilakukan bawahan Anda secara umum, tetapi pada pengalamannya dengan tugas tertentu dan kinerjanya sebelumnya yang relevan dengan tugas. Seiring dengan peningkatan pekerjaan bawahan seiring waktu, Anda harus merespons dengan pengurangan intensitas pemantauan yang sesuai.
 Untuk menggunakan prinsip jaminan kualitas secara efektif, manajer sebaiknya cukup untuk mencoba memastikan bahwa bawahan bergerak maju dengan memuaskan. Memeriksa semua detail dari tugas yang didelegasikan akan seperti pengujian jaminan kualitas 100 persen dari apa yang dihasilkan oleh manufaktur.
 Membuat keputusan tertentu adalah sesuatu yang sering didelegasikan oleh manajer kepada bawahan. *Bagaimana cara terbaik untuk melakukannya? Dengan memantau proses pengambilan keputusan mereka. Bagaimana Anda melakukannya? Mari kita periksa apa yang dilalui Intel untuk menyetujui pembelian peralatan modal. Kami meminta bawahan untuk memikirkan seluruh masalah dengan hati-hati sebelum mengajukan permohonan persetujuan.Dan untuk memantau seberapa baik pemikirannya, kami menanyakan pertanyaan-pertanyaan yang cukup spesifik tentang permintaannya selama review meeting. Jika dia menjawabnya dengan meyakinkan, kami akan menyetujui apa yang dia inginkan. Teknik ini memungkinkan kita untuk mengetahui seberapa baik pemikirannya.*
-**Fokus kepada aktivitas yang lebih berpengaruh tinggi**
+### Fokus kepada aktivitas yang lebih berpengaruh tinggi
 Seorang manajer yang pekerjaannya sebagian besar bersifat pengawasan harus memiliki enam hingga delapan bawahan seorang manajer yang pekerjaannya sebagian besar bersifat pengawasan harus memiliki enam hingga delapan bawahan Rentang ini berasal dari pedoman bahwa seorang manajer harus mengalokasikan sekitar setengah hari per minggu untuk setiap bawahannya.
 jika seorang manajer adalah baik sebagai pengawas hierarkis maupun penyedia pengetahuan, dia harus mencoba memiliki total enam hingga delapan bawahan atau yang setara.
 ![image15.png](SOP Employee Success_images/image15.png)
@@ -265,7 +270,7 @@ Ulang salah satu ulasan ini seperti seharusnya.
 
 MANAGING PEOPLE
 ![image14.jpg](SOP Employee Success_images/image14.jpg)
-**MANAGING PEOPLE**
+### MANAGING PEOPLE
 
 # Good Place To Work
 Pada sesi ini, sebarkan pertanyaan-pertanyaan berikut kepada para employee agar mereka dapat memberikan penilaian dari skor 1-5 dengan penilaian semakin atas semakin penting (1 sangat baik, 5 sangat buruk).
@@ -392,7 +397,7 @@ Maskapai penerbangan lupa bahwa pelanggan biasanya tidak memilih satu maskapai p
 Pastikan bahwa hasil yang Anda tetapkan untuk tim Anda sejalan dengan strategi perusahaan Anda saat ini.
 Sering kali ini bisa sesederhana memberi tahu tenaga penjual Anda bahwa dengan strategi perusahaan baru yang berfokus pada pertumbuhan pangsa pasar daripada keuntungan, setiap tenaga penjual sekarang akan didorong untuk fokus pada hasil "volume penjualan," daripada hasil "margin keuntungan per penjualan."
 Namun, terkadang perubahan strategi lebih radikal dan tekanan pada manajer untuk mengarahkan kembali karyawan pada hasil yang berbeda lebih tajam. Misalnya, strategi yang paling efektif untuk banyak perusahaan teknologi tinggi dulunya adalah inovasi. Oleh karena itu, anggaran R&D yang besar, kerumunan desainer perangkat lunak yang acak-acakan tetapi kreatif, dan lingkungan kerja yang tidak terduga serta sedikit tidak fokus. Namun, baru-baru ini, strategi perusahaan-perusahaan teknologi tinggi ini telah bergeser fokus. Bagi para pemain utama yang mendominasi pasar, massa kritis — membuat produk Anda diterima sebagai standar — sekarang lebih penting daripada inovasi. Inovasi dapat dibeli dari rumah-rumah butik kecil. Dengan demikian, perusahaan-perusahaan besar ini perlu mengubah cara mereka beroperasi untuk memastikan bahwa hampir semua upaya difokuskan pada penyebaran bahasa/platform/produk baru ke pasar. Ini berarti bahwa para manajer di perusahaan-perusahaan ini harus bekerja keras untuk mendefinisikan ulang hasil yang diinginkan dan menemukan definisi baru tentang kesuksesan. Jumlah pengguna, misalnya, mungkin sekarang lebih penting daripada pendapatan per pengguna.
-**3: WHAT IS RIGHT FOR THE INDIVIDUAL**
+### 3: WHAT IS RIGHT FOR THE INDIVIDUAL
 Jika tim Anda kecil dan memiliki berbagai bakat, maka Anda harus mempertimbangkan bakat unik setiap orang saat menentukan hasil yang tepat
 # 3rd Key: Strengths
 Salah satu tanda manajer yang hebat adalah kemampuan untuk menggambarkan, secara rinci, bakat unik dari masing-masing orangnya — apa yang mendorong masing-masing, bagaimana cara berpikir masing-masing, bagaimana masing-masing membangun hubungan.
@@ -402,7 +407,7 @@ Manajer perlu memilih bakat. Mereka memisahkan tim menjadi mereka yang harus tet
 Perlakukan orang sebagaimana mestinya.
 Tanyakan kepada karyawan Anda tentang tujuannya: Apa yang Anda harapkan dalam peran Anda saat ini? Ke mana Anda melihat arah karier Anda? Tujuan pribadi apa yang ingin Anda bagikan dengan saya? Seberapa sering kamu ingin bertemu untuk membicarakan kemajuanmu?
 Tanya dia tentang seleranya dalam pujian: apakah dia lebih suka pengakuan publik atau pribadi? Tertulis atau lisan? Siapa audiens terbaiknya? Sangat efektif untuk memintanya menceritakan tentang pengakuan paling berarti yang pernah dia terima. Cari tahu apa yang membuatnya begitu berkesan. Juga tanyakan padanya tentang hubungannya denganmu. Bisakah dia memberitahumu bagaimana dia belajar? Anda mungkin ingin menanyakan apakah dia pernah memiliki mentor atau mitra yang membantunya. Bagaimana mereka membantu?
-**Spend the most time with your best people :**
+### Spend the most time with your best people :
 Bagi manajer hebat, inti dari peran mereka adalah peran sebagai katalis: mengubah bakat menjadi kinerja. Jadi ketika mereka menghabiskan waktu dengan seorang karyawan, mereka tidak sedang memperbaiki, mengoreksi, atau memberi instruksi. Sebaliknya, mereka berpikir keras, mencoba mencari cara yang lebih baik dan lebih baik untuk melepaskan bakat-bakat khas karyawan tersebut :
 Mereka berusaha untuk menciptakan seperangkat ekspektasi unik yang akan memperluas dan memfokuskan setiap individu tertentu; ingat kembali detail dan keunikan kontrak Rodman, dan ingatlah bahwa setiap pemain Bulls lainnya akan menuntut seperangkat ekspektasi yang serupa detail dan serupa unik.
 Mereka mencoba untuk menyoroti dan menyempurnakan gaya unik setiap orang. Mereka menarik perhatiannya ke hal itu. Mereka membantunya memahami mengapa itu berhasil untuknya dan bagaimana menyempurnakannya. Itulah yang dilakukan Mandy dengan John; itulah yang harus dia lakukan untuk semua bawahan langsungnya.
@@ -411,7 +416,7 @@ Dan mereka merencanakan bagaimana mereka, sebagai manajer, dapat menghalangi set
 manajer hebat berinvestasi pada yang terbaik mereka karena hal itu sangat produktif untuk dilakukan dan secara aktif merusak jika dilakukan sebaliknya
 
 Jika Anda menghabiskan sebagian besar waktu Anda dengan karyawan yang berkinerja terburuk, maka pesan yang Anda sampaikan kepada karyawan Anda adalah bahwa "semakin baik kinerja Anda, semakin sedikit waktu dan perhatian yang akan Anda terima dari saya, manajer Anda." Dari sudut mana pun, ini adalah pesan yang aneh.
-**Manage around weakness :**
+### Manage around weakness :
 Bagi manajer hebat, inti dari peran mereka adalah peran sebagai katalis: mengubah bakat menjadi kinerja. Jadi ketika mereka menghabiskan waktu dengan seorang karyawan, mereka tidak sedang memperbaiki, mengoreksi, atau memberi instruksi. Sebaliknya, mereka berpikir keras, mencoba mencari cara yang lebih baik dan lebih baik untuk melepaskan bakat-bakat khas karyawan tersebut:
 Mereka berusaha untuk menciptakan seperangkat ekspektasi unik yang akan menguji dan memfokuskan setiap individu; ingat kembali detail dan keunikan kontrak Rodman, dan ingatlah bahwa setiap pemain Bulls lainnya akan menuntut seperangkat ekspektasi yang serupa detail dan serupa unik.
 Mereka mencoba untuk menonjolkan dan menyempurnakan gaya unik setiap orang. Mereka menarik perhatiannya ke hal itu. Mereka membantunya memahami mengapa itu berhasil untuknya dan bagaimana menyempurnakannya. Itulah yang dilakukan Mandy dengan John; itulah yang harus dia lakukan untuk semua anak buahnya.
@@ -439,27 +444,27 @@ Find complementary partner: kek timothy dan AVS. You succeed by finding ways to 
 Casting error:
 Anda harus mengelola kelemahan setiap karyawan. Tetapi jika, dengan seorang karyawan tertentu, Anda mendapati diri Anda menghabiskan sebagian besar waktu Anda untuk mengelola kelemahan, maka ketahuilah bahwa Anda telah melakukan kesalahan dalam penempatan.
 # 4th Key: Fit
-**Create heroes in every role**
+### Create heroes in every role
 1 level of achievement
 Jika sebuah perusahaan ingin beberapa karyawan di setiap peran mendekati kinerja kelas dunia, perusahaan tersebut harus menemukan cara untuk mendorong mereka tetap fokus pada pengembangan keahlian mereka. Mendefinisikan tingkat pencapaian yang terukur, untuk setiap peran, adalah cara yang sangat efektif untuk melakukan hal itu.
 Dalam penjualan, tingkat awal mungkin adalah Million Dollar Roundtable, langkah pertama yang penting bagi tenaga penjual pemula, tetapi puncaknya adalah Presidents Club, di mana kriteria keanggotaan adalah sepuluh juta dolar dalam penjualan dan skor layanan klien yang sempurna. Dan dalam musik, Anda melacak kemajuan Anda bukan dengan apakah Anda dipromosikan dari pemain biola ke konduktor, tetapi lebih pada perjalanan Anda dari pemain biola kursi ketiga yang paling junior ke concertmaster atau asisten kursi pertama.
-**Broadbanding**
+### Broadbanding
 Untuk setiap peran, Anda mendefinisikan gaji dalam rentang yang luas, dengan batas atas dari peran tingkat bawah tumpang tindih dengan batas bawah dari peran di atasnya.
 Misalnya, di Merrill Lynch, batas atas rentang gaji untuk konsultan keuangan adalah lebih dari $500.000 per tahun. Sebaliknya, batas bawah dari rentang gaji manajer cabang adalah $150.000 per tahun. Ini berarti bahwa jika Anda adalah seorang konsultan keuangan yang sukses dan ingin beralih ke peran manajer, Anda mungkin harus menanggung pemotongan gaji sebesar 70 persen. Keuntungannya bagi manajer pemula adalah bahwa ujung atas rentang gaji manajer mencapai jutaan.
 Pertama, dengan rentang gaji yang luas, ini menyediakan cara untuk menilai world-class performance dalam peran tertentu dengan sangat berbeda dari kinerja rata-rata dalam peran tersebut.
 Kedua, dengan gaji yang tumpang tindih, broadbanding memaksa karyawan untuk membuka matanya dan bertanya, "Mengapa saya mengincar promosi berikutnya ini?”
-**Great managers hold up the mirror**
+### Great managers hold up the mirror
 umpan baliknya konstan
 setiap sesi dimulai dengan tinjauan singkat tentang kinerja masa lalu. Tujuan dari ini bukan untuk mengevaluasi, "Kamu harus melakukan itu lebih sedikit." Anda harus memperbaiki ini." Sebaliknya, tujuannya adalah untuk membantu karyawan berpikir secara rinci tentang gayanya dan memicu percakapan tentang bakat dan ketidakbakat yang menciptakan gaya ini. Setelah tinjauan ini, fokus selalu beralih ke masa depan dan bagaimana karyawan tersebut dapat menggunakan gayanya untuk menjadi produktif.
 umpan baliknya 1-on-1
-**Trial period**
+### Trial period
 Masa percobaan itu rumit. Anda tidak boleh menggunakannya sebagai pengganti seleksi. Seperti Ellen, Anda seharusnya hanya menggunakannya dengan orang-orang yang telah menunjukkan beberapa bakat dan minat yang tulus terhadap peran tersebut. Bagaimanapun, fokus utama Anda sebagai manajer bukanlah untuk membantu setiap karyawan bermain-main di dalam perusahaan dengan harapan menemukan sesuatu yang mereka suka lakukan. Fokus utama Anda adalah mendorong kinerja dengan mencocokkan bakat dengan peran. Bahkan jika seorang karyawan memohon dan merayu untuk mendapatkan kesempatan menemukan bakat baru, jika Anda tahu dia tidak memilikinya, jangan tawarkan periode percobaan kepadanya.
 Selain itu, jika Anda menggunakan periode percobaan, maka, seperti Ellen, Anda harus sangat jelas tentang detailnya. Berapa lama itu akan berlangsung? Kriteria apa yang akan Anda gunakan untuk menilai kesesuaian? Seberapa sering, jika ada, Anda akan bertemu selama periode percobaan untuk membahas kinerja? Ke mana karyawan tersebut akan pergi jika dia tidak tetap di peran baru? Anda harus menjawab semua pertanyaan ini secara eksplisit jika masa percobaan ini ingin berhasil.
 Akhirnya, dan yang paling penting, Anda harus menjelaskan dengan jelas bahwa karyawan tersebut akan dipindahkan kembali ke perannya yang sebelumnya jika Anda atau dia tidak puas dengan kesesuaian tersebut. Ini akan menghindari kesalahpahaman yang tidak diinginkan. Masa percobaan ini bukan hanya untuk keuntungannya; ini juga untuk keuntunganmu. Jika, setelah masa percobaan berakhir, dia menyukai perannya tetapi Anda merasa ada ketidakcocokan, penilaian Anda yang menang. Dia mungkin tidak senang dengan ini, tetapi setidaknya dia tidak akan merasa terjebak.
-**Tough love**
+### Tough love
 Percaya bahwa, jauh di lubuk hatinya, karyawan dengan performance yang buruk tahu bahwa dia sedang berjuang sebelum kamu menyadarinya. Mungkin dia tidak bisa menemukan kata-kata, atau mungkin harga dirinya tidak membiarkannya mengatakannya, tetapi dia tahu. Pada suatu tingkat, dia menginginkan bantuanmu. Dan jadi, secara bawah sadar, dia menempatkan dirinya dalam situasi di mana kelemahannya terekspos. Dia menantangmu, mendorongmu untuk memecatnya. Saya menyebut ini bunuh diri karier yang dibantu oleh manajer. Jika Anda curiga bahwa ini sedang terjadi, hal terbaik yang bisa Anda lakukan adalah membantunya keluar dari penderitaannya.
 # PRACTICAL STEPS
-**Art of intervewining for talent**
+### Art of intervewining for talent
 Talent interview berdiri sendiri
 Ajukan beberapa pertanyaan terbuka dan kemudian diamlah: wawancara bakat harus mencerminkan secara verbal apa yang akan dihadapinya dalam pekerjaan secara perilaku. Ajukan pertanyaan terbuka yang menawarkan banyak arah potensial dan tidak menunjukkan arah "benar" — pertanyaan seperti "Seberapa dekat menurut Anda orang harus diawasi?" atau "Apa yang paling Anda nikmati tentang menjual?" tetap diam dan kalau mereka minta klarifikasi, tolak
 Dengarkan untuk detail:  "Ceritakan tentang suatu saat ketika Anda …" → harus spesifik, respons langsung (kalo ampe ga spesifik dan butuh 2-3 pertanyaan FU buat akhirnya dpt yg spesifik, artinya ga recurring)
@@ -467,10 +472,10 @@ Petunjuk untuk bakat: Pembelajaran cepat ("Tanyakan kepada kandidat jenis peran 
 Know what to listen for: Lu udh harus tau jawaban optimalnya.
 Bagaimana Anda dapat mengembangkan kombinasi pertanyaan/mendengarkan ini? Pertama, Anda bisa mencoba sebuah pertanyaan pada beberapa karyawan terbaik Anda dan beberapa dari "yang lain" dan kemudian lihat apakah yang terbaik menjawab dengan cara yang berbeda, secara konsisten. Jika mereka melakukannya, kombinasi pertanyaan/mendengarkan adalah kombinasi yang baik. Jika tidak, seperti halnya dengan perawat dan pertanyaan "keraguan", maka pertanyaan tersebut mungkin tidak layak untuk diajukan.
 Kedua, Anda dapat menanyakan pertanyaan yang sama kepada semua pelamar baru. Catat apa yang mereka katakan dan simpan catatannya. Setelah mereka dipekerjakan, periksa kembali untuk melihat apakah orang-orang yang kemudian berkinerja baik menjawab pertanyaan Anda dengan cara yang konsisten.
-**Performance management**
+### Performance management
 Sementara sepuluh menit pertama pertemuan dapat digunakan untuk tinjauan, sisa waktu didedikasikan untuk pekerjaan kreatif yang sebenarnya: "Apa yang ingin Anda capai dalam beberapa bulan ke depan?" Alat ukur apa yang akan kita gunakan? Apa rute paling efisienmu menuju tujuan-tujuan tersebut? Bagaimana saya bisa membantu? Dalam pandangan mereka, jenis percakapan seperti ini lebih energik, lebih produktif, dan lebih memuaskan.
 Terakhir, rutinitas meminta karyawan untuk mencatat kinerja dan pembelajaran mereka sendiri.  Mereka ingin dia mencatat tujuannya, keberhasilannya, dan penemuannya. Catatan ini tidak dirancang untuk dievaluasi atau dikritik oleh manajernya. Sebaliknya, tujuannya adalah untuk membantu setiap karyawan mengambil tanggung jawab atas kinerjanya.
-**The basic routine**
+### The basic routine
 The Strengths Interview
 Performance Planning Meeting
 Career Discovery Meeting
@@ -498,7 +503,7 @@ Mulailah rutinitas "performance management" para manajer hebat.
 
 HOW TO BE GOOD HR
 ![image14.jpg](SOP Employee Success_images/image14.jpg)
-**HOW TO BE GOOD HR**
+### HOW TO BE GOOD HR
 
 Sebuah organisasi sumber daya manusia berkualitas tinggi tidak dapat menjadikan Anda perusahaan yang dikelola dengan baik dan memiliki budaya yang hebat, tetapi dapat memberi tahu Anda ketika Anda dan manajer Anda tidak menyelesaikan pekerjaan dengan baik
 # THE EMPLOYEE LIFE CYCLE
@@ -549,7 +554,7 @@ Apakah perusahaan Anda harus menjadikan Wakil Presiden sebagai gelar tertinggi a
 Andreessen berpendapat bahwa orang meminta banyak hal dari sebuah perusahaan: gaji, bonus, opsi saham, rentang kendali, dan gelar. Dari semua itu, gelar adalah yang paling murah, jadi masuk akal untuk memberikan gelar tertinggi yang mungkin. Hierarki harus memiliki Presiden, Kepala, dan Wakil Presiden Eksekutif Senior. Jika itu membuat orang merasa lebih baik, biarkan mereka merasa lebih baik. Jabatan tidak ada harganya. Lebih baik lagi, ketika bersaing untuk mendapatkan karyawan baru dengan perusahaan lain, menggunakan metode Andreessen Anda selalu dapat mengalahkan kompetisi dalam setidaknya satu dimensi.
 CAREER DEVELOPMENT
 ![image14.jpg](SOP Employee Success_images/image14.jpg)
-**CAREER DEVELOPMENT**
+### CAREER DEVELOPMENT
 
 Karir pada umumnya adalah pekerjaan/posisi/jabatan yang diemban seseorang. In fact, karir itu sebenarnya adalah **suatu rangkaian pengalaman dan aktivitas yang dijalanin sama seseorang, yang membentuk sikap dan perilaku orang tersebut.**
 Gimana caranya kita make sure karir itu bisa membangun seseorang? **Caranya adalah dengan make sure jalur developmentnya bener**
@@ -559,7 +564,7 @@ Career Development sendiri dibagi jadi 2, yaitu :
 Organizational Career Plan (mikirin tentang perencanaan karir yang mengedepankan kepentingan perusahaan/organisasi)
 Personal Career Plan (hanya mikirin perencanaan karir cukup pada kepentingan diri individu itu sendiri)
 **Career Planning** yang baik adalah dimana kita sebagai manager/pemimpin perusahaan itu bisa membuat every individuals didalam company kita itu think bahwa mereka harus ngeplan untuk tujuan perusahaan dahulu, baru personal.
-**CARANYA : **
+### CARANYA :
 **Kasih mindset bahwa what u give is what u get** (kalau kamu ngelakuin sesuatu yang membangun perusahaan, perusahaan akan menghargai lu baik dari segi pemberian benefit ataupun recognition)
 **Kasih tau ke mereka bahwa sesuatu yang baik yang lu lakuin untuk perusahaan, secara tidak langsung pasti membawa dampak baik buat personal planning lu kedepannya** (contoh: u bantu perusahaan hemat duit 2juta perbulan dengan lu pangkas expense yang ga masuk akal, otomatis lu sendiri dalam kehidupan pribadi lu akan menjadi lebih dipercaya dalam mengatur budget plan lu karena lu udah berhasil sebelumnya)
 **Career Management :** proses di mana organisasi memilih, menilai, menugaskan, dan mengembangkan karyawannya untuk memenuhi kebutuhan di masa depan

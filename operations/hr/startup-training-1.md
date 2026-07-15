@@ -2,15 +2,20 @@
 title: Startup Training 1
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 D1
 ![image25.jpg](STARTUP TRAINING_images/image25.jpg)
-**STARTUP TRAINING**
+### STARTUP TRAINING
 
-**D1 MARKET VALIDATION**
+### D1 MARKET VALIDATION
 Market Validation biasanya dimulai dari customer interview (validate the problem, solution, pain points)
 —> ngebantu product development
 (jangan interview 1 or 2 person)
@@ -39,7 +44,7 @@ Jangan ganggu ketika mereka sedang menjelaskan, meskipun g nyambung → menjelas
 
 D2
 ![image25.jpg](STARTUP TRAINING_images/image25.jpg)
-**D2. BREAKEVEN POINT N BUSINESS INNOVATION AND PIVOTING**
+### D2. BREAKEVEN POINT N BUSINESS INNOVATION AND PIVOTING
 
 # BEP Modul 1
 BEP bisa bantu making decision
@@ -52,7 +57,7 @@ Memahami BEP =
 memahami resiko (menghindari kerugian)
 tahu apakah bakal untung/not
 ngukur profitable perusahaan kita (bisa scaleable or not)
-**3 BEP Component**
+### 3 BEP Component
 Revenue —> Harga satuan x Jumlah penjualan
 Fixed Cost —> Biaya yang ga terpengaruh banyak penjualan (contoh: Biaya karyawan, WEB, ad s)
 Variable Cost —> biaya yang dibutuhkan untuk produk yang dijua, meningkat seiring produksi (misal, sales commisson, kalau fnb : bahan makanan) emg aga susah definenya
@@ -137,7 +142,7 @@ Situasi
 Beli 3rd parti software = $100/unit
 develop sofware inhouse = $100.000 upfront
 Solusi???
-**BEP**
+### BEP
 inhouse development cost / unit cost
 
  = $100.000/$100
@@ -272,7 +277,7 @@ recap I
 
 D3
 ![image25.jpg](STARTUP TRAINING_images/image25.jpg)
-**D3 Managerial Issues & Administration**
+### D3 Managerial Issues & Administration
 
 Membantu start-up membangun tim yang efektif dan menghindari masalah diskriminasi.
 # MANAGERIAL ISSUES
@@ -342,7 +347,7 @@ Penunjukan auditor [menjaga catatan akuntansi yang memadai] temukan auditor yang
 ### Advice on Corporate Structure & Share Allocation
 
  Corporate Structure
-**Limited Company (by Shares and by Guarantee)**
+### Limited Company (by Shares and by Guarantee)
 By Shares: A company where the capital is divided into shares owned by shareholders. Shareholders' liability is limited to the amount unpaid on their shares.
 By Guarantee: A company where members guarantee a fixed amount to be paid if the company winds up. Often used for non-profits.
 **Sole Proprietorship (1 individual)**: A business owned and operated by one person. The owner has full control and unlimited liability for the business's debts.
@@ -385,24 +390,24 @@ By Guarantee: A company where members guarantee a fixed amount to be paid if the
 Approximately 18 Months After the Date of Incorporation
 Required to Submit Within 3 Months from the Issued Date:
 ### Potential shareholder conflict
-**Decision making**
+### Decision making
 Bussiness decision
 Company direction
-**Remuneration and benefit**
+### Remuneration and benefit
 Paymemnt of dividend is usually approved by members
 Payment of salaries and bonuses is approved by directores alone
 When some directions are also members, there is imbalance of power
-**Using shareholder to avoicd conflict**
+### Using shareholder to avoicd conflict
 Shareholder rights (voting, dividend) Transfer of existing shares and exit options
 Dispute resolution: provide exit startegis where one or more shareholders can be forced to buy out others
 
 D4
 ![image25.jpg](STARTUP TRAINING_images/image25.jpg)
-**D4 Introduction of 4 Innovation Types**
+### D4 Introduction of 4 Innovation Types
 
 **Definition of Innovation :** Innovation is all about identifying pain point, target market and creating value. **Definition of Value :** value is determinate by the perception of the market in the other word, value is when the target market recognize the benefit or advantage over by a product service or solution.
 **4 Type of Innovation** Four type of innovation in science Park and the entire ecosystem
-**Notes**
+### Notes
 The horizontal axis representing market demand or market pain points, on the right side we have unknown market needs, so what we have here is serve needs and unserve needs.
 The vertical axis with present that technological dimensions existing technology below and new emerging technology above
 ![image38.png](STARTUP TRAINING_images/image38.png)
@@ -429,12 +434,12 @@ D5
 
 # Pitch Deck Design
 ## Struktur:
-**Intro:**
+### Intro:
 Sampul: Slide pembuka, yang menampilkan nama dan logo perusahaan.
 Masalah: Mengidentifikasi masalah atau kendala yang ingin diatasi perusahaan.
 Solusi: Menjelaskan bagaimana produk atau layanan perusahaan mengatasi masalah.
 Demo: Menampilkan demonstrasi singkat atau contoh produk yang sedang digunakan.
-**Elaborasi:**
+### Elaborasi:
 Ukuran Pasar: Mengukur peluang pasar potensial untuk produk atau layanan.
 Model Bisnis: Menguraikan bagaimana perusahaan berencana untuk menghasilkan pendapatan.
 Persaingan: Menganalisis pesaing dan bagaimana perusahaan membedakan dirinya.
@@ -452,7 +457,7 @@ Rencana Pasar: Jelaskan bagaimana Anda akan menjalankan strategi untuk merebut p
 Tonggak: Uraikan pencapaian utama dan tujuan masa depan.
 Penggalangan Dana: Tentukan jumlah dana yang dibutuhkan dan bagaimana dana tersebut akan digunakan.
 ## Dasar-dasar Desain: Elemen dan teori dasar dalam desain
-**Elemen:**
+### Elemen:
 Titik: Unit terkecil dalam desain, digunakan untuk membuat pola dan daya tarik visual.
 Garis: Buat batas dan dapat memandu mata pemirsa. - Bentuk: Area yang ditentukan dalam desain yang dapat berupa geometris atau organik.
 Bentuk: Bentuk tiga dimensi yang menambah kedalaman pada desain.
@@ -460,7 +465,7 @@ Tekstur: Kualitas atau nuansa permukaan, yang dapat berupa visual atau taktil.
 Warna: Elemen penting untuk menyampaikan suasana hati dan menciptakan hierarki visual.
 Nilai: Terang atau gelapnya warna, digunakan untuk kontras dan penekanan.
 Ruang: Area di sekitar dan di antara elemen, penting untuk kejelasan dan komposisi.
-**Prinsip:**
+### Prinsip:
 Kontras: Perbedaan warna, ukuran, dan bentuk yang membuat elemen menonjol.
 Kedekatan: Penempatan elemen yang berdekatan untuk menunjukkan hubungan.
 Penjajaran : Memastikan elemen diposisikan dengan cara yang menciptakan keteraturan dan harmoni.
@@ -470,7 +475,7 @@ Kesamaan: Item yang tampak serupa dianggap sebagai bagian dari suatu kelompok.
 Kontinuitas: Elemen yang tersusun dalam garis atau kurva dianggap terhubung. - Penutup: Pikiran mengisi celah untuk menciptakan bentuk yang lengkap.
 Area: Area yang lebih besar dianggap lebih signifikan.
 Simetri: Elemen yang seimbang dan bercermin dianggap harmonis.
-**Alat:**
+### Alat:
 Kisi: Kerangka garis horizontal dan vertikal untuk penyelarasan dan konsistensi.
 Kisi Modular: Jenis kisi yang menggunakan modul atau blok untuk desain yang lebih fleksibel.
 Rasio Emas: Rasio matematika (1:1.618) yang digunakan untuk proporsi yang estetis.
@@ -479,7 +484,7 @@ Hierarki Berat dan Skala: Penggunaan ukuran dan berat untuk menunjukkan pentingn
 Hierarki Kontras Warna: Menggunakan perbedaan warna untuk menekankan informasi utama.
 Hierarki Kontras Bentuk: Bentuk yang berbeda untuk menunjukkan berbagai tingkat kepentingan.
 ## Dasar-dasar Desain: Elemen dan teori dasar dalam desain
-**Elemen:**
+### Elemen:
 Titik: Unit terkecil dalam desain, digunakan untuk membuat pola dan daya tarik visual.
 Garis: Buat batas dan dapat memandu mata pemirsa. - Bentuk: Area yang ditentukan dalam desain yang dapat berupa geometris atau organik.
 Bentuk: Bentuk tiga dimensi yang menambah kedalaman pada desain.
@@ -491,7 +496,7 @@ Ruang: Area di sekitar dan di antara elemen, penting untuk kejelasan dan komposi
 Kontras: Perbedaan warna, ukuran, dan bentuk yang membuat elemen menonjol.
 Kedekatan: Penempatan elemen yang berdekatan untuk menunjukkan hubungan.
 Penjajaran : Memastikan elemen diposisikan dengan cara yang menciptakan keteraturan dan harmoni.
-**Prinsip Pengelompokan:**
+### Prinsip Pengelompokan:
 Kedekatan: Item yang berdekatan dianggap terkait.
 Kesamaan: Item yang tampak serupa dianggap sebagai bagian dari suatu kelompok.
 Kontinuitas: Elemen yang tersusun dalam garis atau kurva dianggap terhubung. - Penutup: Pikiran mengisi celah untuk menciptakan bentuk yang lengkap.

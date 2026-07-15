@@ -2,6 +2,11 @@
 title: Web Development
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
@@ -15,7 +20,7 @@ Musti Musik adalah start-up edutech edukasi piano jazz dan worship dengan 300+ p
 Role:** Web Development Intern**
 Location: Remote
 
-**Key Responsibilities:**
+## Key Responsibilities:
 1. Website Landing Page Musti Musik (Wordpress)
 - Mengelola tampilan landing page
 - Mengatur page webinar

@@ -2,13 +2,18 @@
 title: Design
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 DESIGN
 ![image17.jpg](Design_images/image17.jpg)
-**DESIGN**
+### DESIGN
 
 # Design Details
 Elemen foto:
@@ -155,14 +160,14 @@ Tekan tombol share di kanan atas (biru)
 Ubah pengaturan: Anyone with the link can EDIT dan serahkan ke Tech & Web agar tim tech dapat copy paste elemen design dengan cepat
 🔒 **Mandatory Element** Berisi Element - element yang wajib ada disetiap design
 
-**Schedule **
+### Schedule
 -Carousel 2x Seminggu(Selasa & Sabtu) kategori: Tips Piano & News.w
-**All Details**
+### All Details
 - Output file carousel berbentuk .ZIP yang berisi .JPG yang sesuai dengan urutan post. Sehingga dapat memudahkan proses Pre-post Content. -Export File dengan Scale x2 dan resolusi 100%. *(Canva)
 
 BASIC PRINCIPLE DESIGN
 ![image17.jpg](Design_images/image17.jpg)
-**BASIC PRINCIPLE DESIGN**
+### BASIC PRINCIPLE DESIGN
 
 ![image2.png](Design_images/image2.png)
 ​

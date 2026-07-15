@@ -1,8 +1,8 @@
 ---
 title: Carousel Mm X Aditi
-domain_tag: [product, paid_class]
+domain_tag: [product, other_income]
 doc_type: reference
-owner: paid_class_head
+owner: other_income_head
 status: Unknown
 confidentiality: Internal
 source: gdrive

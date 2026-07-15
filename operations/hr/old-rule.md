@@ -2,12 +2,17 @@
 title: Old Rule
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 ![image8.jpg](OLD RULE_images/image8.jpg)
-**REPORT DATA LEADS**
+## REPORT DATA LEADS
 
 **HR **memiliki kewajiban untuk **mendata shift Customer Service** dengan menuliskan pukul berapa Customer Service On sesuai laporan yang diberikan staff Customer Service di group WA CS.
 ***GSheets Report Data Leads dapat diakses pada ******.***

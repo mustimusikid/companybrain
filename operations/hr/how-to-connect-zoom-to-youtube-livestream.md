@@ -2,16 +2,21 @@
 title: How To Connect Zoom To Youtube Livestream
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > General operations or company policy document for Musti Musik.
 
-**HOW TO CONNECT ZOOM TO YOUTUBE LIVESTREAM**
+### HOW TO CONNECT ZOOM TO YOUTUBE LIVESTREAM
 
 ## 1️⃣ Cek dulu: akun Zoom kamu support nggak?
 Livestream ke YouTube **tidak bisa di akun Zoom Basic (gratis)**.
 Minimal:
-**Zoom Pro**
+### Zoom Pro
 atau akun Education / Business / Enterprise
 Kalau kamu masih Basic → fitur ini **nggak akan muncul**.
 

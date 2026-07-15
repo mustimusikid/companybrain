@@ -2,17 +2,22 @@
 title: Video Editor
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 Role: **Video Editor**
 
-**Job description**
+## Job description
 Musti Musik adalah edtech startup yang bergerak di bidang edukasi musik. Misi kami adalah untuk memberikan edukasi berkualitas di jazz dan gospel piano.
 Sebagai Video Editor di Musti Musik, Anda akan berperan penting dalam menciptakan konten visual yang menarik, konsisten, dan sesuai dengan identitas brand. Kesuksesan dalam posisi ini diukur dari kemampuan menghasilkan video yang mampu menyampaikan pesan kreatif secara efektif, meningkatkan keterlibatan audiens, serta mendukung strategi pemasaran dan branding perusahaan.
 
-**Tanggung jawab**
+## Tanggung jawab
 Mengedit dan menyusun materi video (musik, event, promosi, testimoni, dan konten edukasi) agar sesuai dengan standar kualitas Musti Musik.
 Mengembangkan konsep visual dan storytelling yang kreatif bersama tim konten dan marketing.
 Memastikan konsistensi identitas visual, termasuk penggunaan warna, font, dan tone brand dalam setiap video.
@@ -21,7 +26,7 @@ Mengelola arsip file video secara terstruktur untuk memudahkan akses dan penggun
 Bekerja sama dengan tim kreatif, musisi, dan fotografer dalam proses produksi konten.
 Mengikuti tren industri video editing dan media sosial untuk menghasilkan karya yang relevan dan inovatif.
 
-**Kualifikasi**
+## Kualifikasi
 Pengalaman minimal 1 tahun sebagai Video Editor (fresh graduate dengan portofolio kreatif dipersilakan melamar).
 Menguasai software editing video seperti Adobe Premiere Pro, CapCut, atau DaVinci Resolve.
 Memiliki keterampilan dasar dalam desain grafis dan motion graphics (After Effects lebih disukai).

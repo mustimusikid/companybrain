@@ -2,13 +2,18 @@
 title: Networking
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 JUSWANTORI
 ![image9.jpg](NETWORKING_images/image9.jpg)
-**JUSWANTORI**
+### JUSWANTORI
 
 # Pelayanan itu ada 3 komponen:
 Khusus: ga semua orang bisa krn butuh keahlian
@@ -33,7 +38,7 @@ Aksen/gaya apa
 
 THOMAS KRISTO
 ![image9.jpg](NETWORKING_images/image9.jpg)
-**THOMAS KRISTO**
+### THOMAS KRISTO
 
 ![image11.png](NETWORKING_images/image11.png)
 
@@ -62,14 +67,14 @@ Buat slogan yg catchy buat visi/misi/profile kita. Gw udh kepikiran T = trust (b
 
 STEPHANIE CHRISTIANTO
 ![image9.jpg](NETWORKING_images/image9.jpg)
-**STEPHANIE CHRISTIANTO**
+### STEPHANIE CHRISTIANTO
 
 ![image7.png](NETWORKING_images/image7.png)
 ![image6.png](NETWORKING_images/image6.png)
 
 GISELA SABRINA
 ![image9.jpg](NETWORKING_images/image9.jpg)
-**GISELA SABRINA**
+### GISELA SABRINA
 
 ![image5.png](NETWORKING_images/image5.png)
 # Dunia perartisan:

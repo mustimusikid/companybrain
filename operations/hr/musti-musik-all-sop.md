@@ -2,26 +2,31 @@
 title: Musti Musik All Sop
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 MUSTI MUSIK ALL SOP LINKS
-**MUSTI MUSIK ALL SOP LINKS**
+## MUSTI MUSIK ALL SOP LINKS
 
-**General Things**
+## General Things
 
-**Crossed Functional **
+## Crossed Functional
 ** **
 
-**Academy**
+## Academy
 
-**Sales & Marketing**
+## Sales & Marketing
 
-**Knowledge**
+## Knowledge
 
-**Operations**
+## Operations
 
 **HR**
 
-**College**
+## College

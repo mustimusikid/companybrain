@@ -2,6 +2,11 @@
 title: Surat Pemecatan Mustimusik
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: quarterly
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
@@ -10,7 +15,7 @@ doc_type: sop
 
 **Musti**** ****Musik**
 **Jl**** Surya ****Widuri**** IV, ****Kedoya**** Selatan, ****Kebon**** ****Jeruk**
-**Jakarta Barat 11520**
+## Jakarta Barat 11520
 
 Kepada Yth,
 [Nama Employee]

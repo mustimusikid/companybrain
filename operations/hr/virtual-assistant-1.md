@@ -2,12 +2,17 @@
 title: Virtual Assistant 1
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 ![image15.jpg](Virtual Assistant_images/image15.jpg)
-**VIRTUAL ASSISTANT**
+### VIRTUAL ASSISTANT
 
 Virtual Assistant adalah orang yang bertanggung jawab untuk membantu mengatur tugas dan jadwal Dave yang biasanya bersifat administratif.
 # Scope of Work Virtual Assistant
@@ -65,7 +70,7 @@ Via chat (kirim di grup C-Level)
 Report
 Brief Format
 Morning/Night brief berisi: hari dan tanggal, reminder task, question, and report task
-**Contoh Morning & Night Brief**
+### Contoh Morning & Night Brief
 ![image17.png](Virtual Assistant_images/image17.png)
 ![image9.png](Virtual Assistant_images/image9.png)
 ![image2.png](Virtual Assistant_images/image2.png)
@@ -86,9 +91,9 @@ Setiap Weekly Meeting, VA wajib membuat MoM dengan format Nama Departemen, tangg
 ** MoM yang dibuat di masukan dalam Page MoM di Notion Playbook sesuai dengan folder tiap departemen. Nantinya sebelum weekly meeting berlangsung, VA mengecek ulang task mana yang belum ke achive sebagai evaluasi. **Harus sekaligus bekerjasama dengan HR untuk sinkronisasi worklist**
 # Link Portal
 **WORKLIST**:
-**Notion Playbook:**
-**Networking Sheet:**
-**Notion Playbook**
+### Notion Playbook:
+### Networking Sheet:
+### Notion Playbook
 **Bagian “MOM - Personal” berisi banyak G-Docs task VA** (semua task dari dave bisa dibuat dalam gdocs dan masukan dalam Notion bagian “MOM-Personal”)
 # Habits
 Music time (sebelum jam 12.30 WIB)
@@ -105,7 +110,7 @@ Family call di akhir hari (30 menit)
 Personal Investment sebelum tidur (1 jam)
 Tidur (idealnya 7-8 jam): 11.30 pm - 07.30 am WIB
 # Sync Meeting
-**every morning : 7.30 WIB**
+### every morning : 7.30 WIB
 Off-load: Before the sync meeting, maintain your own separate list of to-dos, action items, and follow-ups. Update this list regularly. At the beginning of the meeting, off-load all the items from your list to your administrative assistant.
 My Action Items: Discuss the items you need to complete. If there are supporting documents, emails, and messages related to these items, your administrative assistant should provide all that information in a live document with appropriate links.
 Calendar Review: Review your calendar during the sync meeting. Consider what needs to be added or removed, and discuss where you need more or less time for tasks.

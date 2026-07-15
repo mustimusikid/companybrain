@@ -2,17 +2,22 @@
 title: Videographer
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 Role: **Videographer**
 
-**Tentang Musti Musik**
+## Tentang Musti Musik
 Musti Musik adalah edtech startup yang bergerak di bidang edukasi musik. Misi kami adalah memberikan edukasi berkualitas di jazz dan gospel piano.
 Sebagai Videographer di Musti Musik, Anda akan berperan penting dalam proses produksi visual, mulai dari perencanaan hingga eksekusi pengambilan gambar. Kesuksesan dalam posisi ini diukur dari kemampuan menghasilkan footage yang estetik, kreatif, serta sesuai dengan kebutuhan konten edukasi, promosi, maupun branding perusahaan.
 
-**Tanggung Jawab**
+## Tanggung Jawab
 Merencanakan dan melakukan pengambilan gambar untuk kebutuhan konten edukasi musik, promosi, event, maupun testimoni.
 Mengoperasikan kamera, lighting, dan audio recording sesuai standar kualitas Musti Musik.
 Bekerja sama dengan tim konten, musisi, dan marketing dalam menyusun konsep visual.
@@ -21,7 +26,7 @@ Mengelola peralatan videografi, termasuk perawatan dan penataan agar siap diguna
 Memberikan masukan kreatif terkait framing, angle, pencahayaan, dan gaya visual.
 Mengikuti tren videografi dan media sosial untuk menghasilkan karya yang relevan dan inovatif.
 
-**Kualifikasi**
+## Kualifikasi
 Pengalaman minimal 1 tahun sebagai Videographer (fresh graduate dengan portofolio kreatif dipersilakan melamar).
 Menguasai teknik dasar videografi, pencahayaan, dan pengambilan audio.
 Memiliki pengetahuan dasar tentang storytelling visual.

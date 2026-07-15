@@ -2,13 +2,18 @@
 title: Sabrina Andria Fatiha Contract Musti Musik
 domain_tag: [operations, hr]
 doc_type: sop
+owner: hr_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Human resources document for Musti Musik covering employment, contracts, or performance.
 
 ![image13.png](Sabrina Andria Fatiha | Contract - Musti Musik_images/image13.png)
-**PERJANJIAN KERJA MAGANG**
-**MM/INTERN/2024/02/001**
+## PERJANJIAN KERJA MAGANG
+## MM/INTERN/2024/02/001
 
 Perjanjian Kerja Magang (“**Perjanjian**”) ini ditandatangani pada tanggal **15 Juli 2024 **(“**Tanggal Efektif**”) oleh dan antara:
 **MUSTI MUSIK **sebuah entitas yang didirikan di Jl Surya Widuri IV, Kedoya Selatan, Kebon Jeruk, Jakarta Barat 11520. Dalam hal ini diwakili oleh **Dave Henokh Liong** dengan jabatan **Direktur Utama** dan oleh karenanya sah bertindak untuk dan atas nama Musti Musik yang untuk selanjutnya disebut sebagai (“**Pihak Pertama**”); dan
@@ -21,17 +26,17 @@ Pihak Kedua ingin meningkatkan pengetahuan, keterampilan, perilaku dan sikap ker
 Dengan demikian Pihak Pertama dan Pihak Kedua telah saling setuju untuk membuat dan menandatangani Perjanjian Kerja Magang dengan ketentuan-ketentuan sebagai berikut.
 
 ![image14.png](Sabrina Andria Fatiha | Contract - Musti Musik_images/image14.png)
-**PASAL 1**
-**LOKASI KERJA**
+## PASAL 1
+## LOKASI KERJA
 Pihak Kedua bersedia untuk mengikuti Program Kerja Magang yang diselenggarakan oleh Pihak Pertama yang akan dilaksanakan secara **Remote**.
-**PASAL 2**
-**JANGKA WAKTU KERJA MAGANG**
+## PASAL 2
+## JANGKA WAKTU KERJA MAGANG
 Pihak Pertama bersedia menerima Pihak Kedua dalam Program Kerja Magang untuk jangka waktu **4 (Empat) bulan Kalender** terhitung sejak “**Tanggal Efektif**”.
-**PASAL 3**
-**JENIS PEKERJAAN**
+## PASAL 3
+## JENIS PEKERJAAN
 Pihak Kedua menyetujui bahwa dirinya bersedia melakukan Program Kerja Magang yang ditetapkan oleh Pihak Pertama yaitu sebagai ***Virtual Assistant.***
-**PASAL 4**
-**HAK DAN KEWAJIBAN KEDUA BELAH PIHAK**
+## PASAL 4
+## HAK DAN KEWAJIBAN KEDUA BELAH PIHAK
 Pihak Pertama mempunyai hak-hak sebagai berikut :
 Menegur, menindak, dan memberhentikan Pihak Kedua jika melakukan pelanggaran sesuai dengan ketentuan yang tercantum didalam Tata Tertib Kerja.
 Memiliki hasil kerja Pihak Kedua selama pelaksanaan kerja magang di perusahaan.
@@ -50,15 +55,15 @@ Mengikuti program kerja magang hingga selesai.
 Mematuhi seluruh ketentuan yang diatur dalam Tata Tertib Kerja.
 Menaati segala instruksi dari Pimpinan dan/atau atasan terkait.
 
-**PASAL 5**
-**PELANGGARAN DAN SANKSI**
+## PASAL 5
+## PELANGGARAN DAN SANKSI
 
 Apabila Pihak Kedua tanpa alasan yang sah tidak masuk kerja selama lebih dari 5 (lima) hari berturut-turut maka dianggap mengundurkan diri dari Program Kerja Magang, dan Pihak Pertama berhak melakukan Pemutusan Hubungan Kerja Magang terhadap Pihak Kedua.
 Dalam hal Pihak Kedua mengundurkan diri dan/atau menyelesaikan Program Kerja Magang sebelum berakhirnya perjanjian kerja ini, maka Pihak Kedua tidak diwajibkan membayar ganti rugi kepada Pihak Pertama.
 Dalam hal Pihak Pertama melakukan penyelesaian Program Kerja Magang, maka Pihak Pertama tidak wajib memberikan kompensasi apapun.
 
-**PASAL 6**
-**KETENTUAN LAN**
+## PASAL 6
+## KETENTUAN LAN
 
 Hal-hal yang tidak atau belum diatur dalam Perjanjian ini akan diatur lebih lanjut dengan keputusan Pihak Pertama sesuai dengan ketentuan yang berlaku pada Pihak Pertama dan ketentuan perundang-undangan yang berlaku.
 Demikianlah Perjanjian ini dibuat dalam rangkap satu, yang isi dan bunyinya sama, dan masing-masing ditandatangani oleh Para Pihak secara digital.

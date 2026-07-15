@@ -2,6 +2,11 @@
 title: Tech Tugas
 domain_tag: [operations, tech]
 doc_type: sop
+owner: tech_head
+status: Unknown
+confidentiality: Internal
+source: gdrive
+review_frequency: annually
 ---
 
 > Technical documentation or automation workflow for Musti Musik systems.
