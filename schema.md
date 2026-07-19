@@ -141,8 +141,11 @@ Skill-candidate documents follow a different granularity principle than the File
 - **Optional/blank** for evergreen process SOPs where "effective since" doesn't carry real meaning.
 
 ## Confidentiality
-- `Internal` — default; not for external eyes
 - `External` — safe to share outside the company (recruiting material, public-facing "about us" content, etc.)
+- `Internal` — default; visible to all staff, not for external eyes
+- `Restricted` — Head/Leadership only (compensation, strategy, sensitive financial detail)
+
+Decided 2026-07-19 (was a 2-tier Internal/External split until then). Note: an existing production RBAC system already runs the actual employee dashboard/database at `dashboard.mustimusik.id` (per-table access control in `mm-dashboard/src/lib/auth.ts` + `db-tables.ts` — real accounts, real `hr_*`/`finance_*`/`marketing_*` table groups, not a placeholder). When gBrain's Access layer (see Owner vs Access above) gets built, it should extend/reuse that existing system rather than design RBAC from scratch — this `confidentiality` tier is a lightweight complement for vault documents specifically, not a replacement for the real per-table permission system that already exists.
 
 ## Source (closed enum — don't use free text)
 - `gdrive` — migrated from the original Google Drive during the June 12 bulk import
@@ -193,7 +196,7 @@ Three tiers, not two — most fields aren't "type it from scratch" for a human, 
 - `owner` — suggested from domain_tag → role table lookup
 - `effective_date` — extracted from the text when a date is explicitly mentioned
 - `superseded_by` — suggested via similarity search against existing docs
-- `confidentiality` — suggested from content patterns, but `External` specifically always needs an explicit human confirm given the leak risk
+- `confidentiality` — suggested from content patterns, but `External` and `Restricted` specifically always need an explicit human confirm given the leak/access risk
 - `review_frequency` — suggested from the doc_type defaults above
 
 **Fully automated, no review needed:**

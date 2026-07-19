@@ -2,6 +2,10 @@
 
 Append-only. Never rewrite existing entries.
 
+## 2026-07-19 (PII contract removal + 3-tier confidentiality)
+- **Deleted 55 signed employee/intern contract files** from `operations/hr/` (`kontrak-*.md`, `contract-*.md`) — confirmed with Dave these contain real PII (KTP, bank account, birthdate) that should never have been embeddable vault content. A production `hr_contracts` table already exists in the separate MMDB system (`dashboard.mustimusik.id`), which is the correct home for this data going forward. Recoverable via git history if needed.
+- **`confidentiality` expanded from 2 to 3 tiers**: `External` / `Internal` / `Restricted` (Head/Leadership only — compensation, strategy, sensitive financial detail). Decided with Dave after discovering a real production RBAC system already exists (`mm-dashboard/src/lib/auth.ts` + `db-tables.ts`) mapping real accounts to per-table access (hr_*, finance_*, marketing_*, etc.) — the vault's confidentiality tiers are a lightweight complement to that system, not a replacement. gBrain's future Access layer should extend the existing RBAC rather than build one from scratch.
+
 ## 2026-07-19 (repo-wide sync + cleanup: RESOLVER, other-income, operations/, strategy/)
 - Local repo folder had moved to `/Users/davehenokh/Documents/AI/MMBrain/SOP` (same git remote); pulled team's recent work: `docs/sop-organic-ads-cleanup` PR merged, worklist SOP added, several product/academy files deleted/archived/split by the team, new `product/other-income/` and top-level `strategy/` folders introduced.
 - **RESOLVER.md updated:** added rule 8a for `product/other-income/` (B2B revenue-line deals distinct from partnership process) and rewrote rule 17 to reflect `strategy/` as a dedicated top-level folder (team's own convention, documented via `strategy/README.md`), not nested under operations/ as originally specified.
