@@ -2,6 +2,10 @@
 
 Append-only. Never rewrite existing entries.
 
+## 2026-07-22 (audit: backfilling undocumented deletion + domain_tag fix)
+- **Retroactively logging commit `cd3541b`** ("refactor: remove outdated partnership documentation and agreements from the operations/partnership directory", authored 2026-07-13 18:54, never recorded in this log). Deleted 6 files, removing three folders entirely: `operations/partnership/` (`README.md`, `perjanjian-kerjasama.md`, `perjanjian-kerjasama-aditi-musti-musik.md`), `operations/agency/` (`README.md`, `potential-agency.md`), and `inbox/` (`README.md`). **Not resolved by this entry** — RESOLVER.md rules 8a/15/16/19 still reference all three folders as active filing targets; someone needs to decide whether to restore them or strike the rules.
+- **Fixed 1 file's `domain_tag` drift**: `product/music-school/flow-customer-success-sekolah-musti-musik.md` had `[product, music-school]` (hyphen) — the only file out of 59 in `product/music-school/` using hyphen instead of underscore. Corrected to `[product, music_school]` to match the other 58.
+
 ## 2026-07-19 (index.md regenerated, status-aware retrieval guidance)
 - **Reconciled the file-count discrepancy Faris flagged** (analysis based on a stale export/snapshot, not live git state): authoritative current count via `git ls-files` is **258 embeddable files + 57 in archive/ = 315 total tracked .md files**. Removed 1 untracked local-only junk file (`Design_images/image12.png.md`, 0 bytes, gitignored, never in git history — not a repo problem).
 - **`index.md` fully regenerated** (previous version was from the June 12 initial import, never updated since — badly stale after all the purges/renames/reorganization this month). New version pulls live from `git ls-files`, includes a Summary section up top: status breakdown (Approve 20 / Draft 12 / Unknown 219 / Archive 7 — ~85% still Unknown, confirming Faris's estimate), doc_type breakdown (sop 143 / reference 73 / strategy 16 / transcript 13 / rundown 13), and confidentiality breakdown. Per-folder tables now show doc_type/status/confidentiality columns, not just filename+summary.

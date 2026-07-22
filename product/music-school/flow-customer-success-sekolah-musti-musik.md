@@ -1,6 +1,6 @@
 ---
 title: Flow Customer Success Sekolah Musti Musik
-domain_tag: [product, music-school]
+domain_tag: [product, music_school]
 doc_type: sop
 owner: music_school_head
 status: Unknown
