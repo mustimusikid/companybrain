@@ -10,18 +10,18 @@ Walk this decision tree before filing any document. Read this file first.
 6. Is it about the physical music school? (teachers, students, schedules, TnC, teacher contracts, school SOPs) → **product/music-school/**
 7. Is it reference material from "Build A Music School" external course? → **product/music-school/archive/**. ETL does NOT embed archive/ — human reference only.
 8. Is it about books (buku jazz/worship) — production, launch, SOP? → **product/books/**
-8a. Is it a B2B collaboration/bundling deal that's its own revenue line, not a reseller/partnership process? (e.g. co-branded product deals, rate cards for a specific partner) → **product/other-income/**. domain_tag: `[product, other_income]`. If it's about the reseller/partnership *process* itself rather than one specific deal, that's still operations/partnership/ (rule 15).
+8a. Is it a B2B collaboration/bundling deal that's its own revenue line, not a reseller/partnership process? (e.g. co-branded product deals, rate cards for a specific partner) → **product/other-income/**. domain_tag: `[product, other_income]`. If it's about the reseller/partnership *process* itself rather than one specific deal — note the partnership process is discontinued (see rule 15) and currently has no active filing target; flag to Dave.
 9. Is it an ads strategy, script TEMPLATE, or performance marketing SOP? → **marketing/ads/**. Individual winning scripts as data → DB marketing_ad_scripts table.
 10. Is it about organic content creation, video editing, or scripting? → **marketing/organic/**
 11. Is it a sales playbook, outreach script, CS flow, or lead handling guide? → **marketing/sales/**
 12. Is it about employee contracts, handbook, job description TEMPLATES, company regulations, org chart, or hiring PROCESS? → **operations/hr/**. ⚠ Per-person PDR files → DB hr_performance_reviews, NOT the repo.
 13. Is it a financial SOP, COA guide, or cost allocation process? → **operations/finance/**
 14. Is it about tech systems, n8n workflows, or automation SOPs? → **operations/tech/**
-15. Is it about B2B partnerships or reseller process? → **operations/partnership/**
-16. Is it about external agency vendors or quotation process templates? → **operations/agency/**. Individual meeting notes → DB agency_meeting_minutes.
+15. *(Retired 2026-07-22 — process discontinued, see log.md)* Was: B2B partnerships / reseller process → operations/partnership/. That folder was deleted 2026-07-13 (commit `cd3541b`); no longer an active filing target. New partnership-related content → flag to Dave for manual triage.
+16. *(Retired 2026-07-22 — process discontinued, see log.md)* Was: external agency vendors / quotation process templates → operations/agency/. Same deletion, same status — discontinued, no longer an active filing target. New agency-related content → flag to Dave for manual triage.
 17. Is it a company-wide monthly/quarterly strategy doc (Kenyataan Saat Ini → Target → Background → Action Plan format)? → **strategy/**, doc_type: strategy, domain_tag: `[strategy, monthly]` or `[strategy, quarterly]`. Filename: `YYYY-MM.md` or `YYYY-qN.md`. See `strategy/README.md` for the format. (Other one-off strategy/direction docs not following this monthly cadence still go under the domain they concern, doc_type: strategy — e.g. a one-time pricing strategy doc stays in operations/finance/.)
 18. Is it a WhatsApp listener capture (a fact/decision/number pulled from a team chat message)? → **DB `captured_notes`**, classified by domain via this tree. Never the repo. Reaches a document only via human-gated promotion.
-19. Nothing fits? → **inbox/**. Flag for re-filing.
+19. *(inbox/ folder deleted 2026-07-13, commit `cd3541b` — no longer exists)* Nothing fits? → flag directly to Dave for manual triage. There is currently no catch-all filing folder; if this comes up often, consider recreating inbox/ instead of ad-hoc flagging.
 
 ## Disambiguation
 - Sales script + product-specific → marketing/sales/ (sales is primary)
