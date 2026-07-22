@@ -1,0 +1,42 @@
+name: Regenerate index.md
+
+# Runs on every push to main, EXCEPT pushes that only touched index.md
+# itself (that would create an infinite loop: bot commits -> triggers
+# workflow -> bot commits again...). paths-ignore below is the main
+# safeguard; the [skip ci] tag in the bot's own commit message is a
+# second layer of protection.
+on:
+  push:
+    branches: [main]
+    paths-ignore:
+      - 'index.md'
+
+permissions:
+  contents: write
+
+jobs:
+  regenerate-index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Regenerate index.md
+        run: python3 scripts/generate_index.py
+
+      - name: Commit and push if index.md changed
+        run: |
+          git config user.name "index-bot"
+          git config user.email "index-bot@users.noreply.github.com"
+          git add index.md
+          if git diff --staged --quiet; then
+            echo "index.md unchanged, nothing to commit"
+          else
+            git commit -m "chore: auto-regenerate index.md [skip ci]"
+            git push
+          fi

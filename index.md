@@ -1,12 +1,12 @@
 # Musti Musik Brain — Index
 
-_Regenerated 2026-07-19 from `git ls-files` (actual tracked repo state, not a filesystem scan or export snapshot). Re-run whenever the repo changes significantly — this file is a point-in-time catalog, not auto-synced._
+_Auto-regenerated 2026-07-22 by `.github/workflows/regenerate-index.yml` from `git ls-files` (live tracked repo state) on every push to `main`. Never edit this file by hand — it will be overwritten on the next push. To regenerate manually: `python3 scripts/generate_index.py`._
 
 ## Summary
 
 - **Total embeddable files:** 258 (excludes `archive/` subfolders — 57 files there, human-reference only, never embedded per RESOLVER ETL Skip Rules)
 
-**By status** (how much content is human-verified vs not — this is the honest current state, most of the repo has never been individually reviewed since the June 12 bulk import):
+**By status** (how much content is human-verified vs not):
 
 | Status | Count | % |
 | --- | --- | --- |
