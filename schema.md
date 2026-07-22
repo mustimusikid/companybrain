@@ -136,6 +136,9 @@ Skill-candidate documents follow a different granularity principle than the File
 - `Archive` — superseded/no longer valid (see `superseded_by` below); has the same ETL effect as physically living in an `archive/` folder — skipped from embedding
 - `Unknown` — default for legacy bulk-imported docs that haven't been individually reviewed yet (this is the honest default for most of the June 12 migration — don't guess a status, label it `Unknown`)
 
+### Status-aware retrieval (do not treat all statuses as equally trustworthy)
+As of 2026-07-19, ~85% of the repo (219 of 258 embeddable files — see `index.md` for the current live breakdown) is still `Unknown`. RAG retrieval works fine mechanically at this ratio, but an agent citing an `Unknown` doc with the same confidence as an `Approve` doc is a real accuracy risk — the content hasn't been human-verified yet. Cheapest mitigation until a more thorough confidence-weighting scheme exists: when an agent's answer draws on a source with `status: Unknown` or `Draft`, the response should say so (e.g. "berdasarkan dokumen yang belum diverifikasi manusia"). This is a system-prompt-level rule, not a retrieval-filter rule — don't hide Unknown content, just don't present it with false confidence.
+
 ## Effective Date
 - **Required** when the document covers pricing, HR policy, or a dated campaign — content that can go stale in a way that actively misleads (e.g. an agent quoting an old price).
 - **Optional/blank** for evergreen process SOPs where "effective since" doesn't carry real meaning.
